@@ -18,7 +18,7 @@
 | 2.02 | Strings, Integers, & Floats | Discuss different data representations in python | Type, String, Floating Point, Casting, Concatenation | -Temperature Conversion | 
 | 2.03 | Booleans, Evaluation and Composition | Understand how to use booleans, and compose expresions | boolean, ==, <, >, True, False, and, or, not, expression | Who am I 
 | 2.04 | Conditionals | Order of execuation for if/elif/else statements | expression, conditionals, if, else, elif | Calculator | 
-| 2.05 | Project | Choose Your Own Adventure | 
+| 2.05 | Project | Restaurant Tip & Bill Split | 
 
 ### Unit 3: Loops
 | LP | Title        |    Objectives |    Key Terms | In class/Labs |
@@ -33,7 +33,7 @@
 | LP | Title        |    Objectives |    Key Terms | In class/Labs |
 |--- | ------------ | ------------- | ------------ | ----------|
 | 4.01 | Built in/Imported Functions| Practice using functions and calling functions with arguments | arguments, import, function| 8 ball 
-| 4.02 | User Defined Functions | Students practice creating their own functions | parameters, def, user-defined function | -yahtzee dice roll 
+| 4.02 | User Defined Functions | Students practice creating their own functions | parameters, def, user-defined function | -choose your own adventure
 | 4.03 | Return Values | Differences between print and return, saving return of a function into a variable | void, return, None | -Tip Calculator Program
 | 4.04 | EarSketch: Intro | Learn about EarSketch, DAWs and the sound tab | DAW | -Set up basic envirnoment for EarSketch <br> -demo 
 | 4.05 | EarSketch: Music | Learn a bit about music composition | beats, tempo, mesasure, rythym, meter | -finish set up change tempo, identify beats and tempo of various songs
