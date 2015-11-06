@@ -34,7 +34,7 @@
 |--- | ------------ | ------------- | ------------ | ----------|
 | 4.01 | Built in/Imported Functions| Practice using functions and calling functions with arguments | arguments, import, function| 8 ball 
 | 4.02 | User Defined Functions | Students practice creating their own functions | parameters, def, user-defined function | -choose your own adventure
-| 4.03 | Return Values | Differences between print and return, saving return of a function into a variable | void, return, None | -Tip Calculator Program
+| 4.03 | Return Values | Differences between print and return, saving return of a function into a variable | void, return, None | -Game of Telephone(in class) <br> -weekday calculator
 | 4.04 | EarSketch: Intro | Learn about EarSketch, DAWs and the sound tab | DAW | -Set up basic envirnoment for EarSketch <br> -demo 
 | 4.05 | EarSketch: Music | Learn a bit about music composition | beats, tempo, mesasure, rythym, meter | -finish set up change tempo, identify beats and tempo of various songs
 | 4.06 | EarSketch: Functions | Learn about fitMedia, setEffect, makeBeat | fitMedia, setEffect, makeBeat | -make a basic beat
