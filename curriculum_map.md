@@ -38,7 +38,7 @@
 | 4.04 | EarSketch: Intro | Learn about EarSketch, DAWs and the sound tab | DAW | -Set up basic envirnoment for EarSketch <br> -demo 
 | 4.05 | EarSketch: Music | Learn a bit about music composition | beats, tempo, mesasure, rythym, meter | -finish set up change tempo, identify beats and tempo of various songs
 | 4.06 | EarSketch: Functions | Learn about fitMedia, setEffect, makeBeat | fitMedia, setEffect, makeBeat | -make a basic beat
-| 4.07 | EarSketch: User Defined | Discuss chorus, and repeating sections of songs| -listen for choruses in songs <br> -create a song in a round
+| 4.07 | EarSketch: User Defined | Discuss chorus, and repeating sections of songs|| -listen for choruses in songs <br> -create a song in a round
 | 4.08 | Project | Make a complex song 
 
 ### Unit 5: Lists/Dictionaries
@@ -49,7 +49,7 @@
 | 5.03 | Looping through lists | Discuss there are two ways of looping through a list show both and go over pro's and cons | -Go Fish (Final Spec)
 | 5.04 | List Aliasing | Talk about lists on a bit of a deep dive level, looking at copying them and where they exist on the stack | Aliasing, reference|
 | 5.05 | Lists of Lists | Show how list elements can be lists themselves | | -Tic-tac-toe 2 player game board | 
-| 5.06 | Looping through lists of Lists| Show how to loop through lists of lists, keeping track of two items | | Tic-Tac-Toe check if one game
+| 5.06 | Looping through lists of Lists| Show how to loop through lists of lists, keeping track of two items | | Tic-Tac-Toe check if won game
 | 5.07| Creating Dictionaries | Fun examples of dictionaries, showing how to create them and how to print | dictionary, key-value pair | -Internet Speak Definitions
 | 5.08| Adding, Removing, Getting | Getting Items from dictionary, changing values, removing from dectionary | Inserting, Keys, Values | Word Frequncy
 | 5.09 | Project | Guess Who 
