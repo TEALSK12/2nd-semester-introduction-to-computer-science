@@ -7,7 +7,7 @@ Students will be able to...
 * Convert from one data type to another datatype
 
 ##Materials/Preperation
-* Do-Now handout 
+* Do-Now Handout[do now]
 * Read through the handout and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -22,5 +22,4 @@ Students will be able to...
 
 
 
-
-
+[do now]: 
