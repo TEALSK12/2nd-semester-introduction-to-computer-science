@@ -8,6 +8,6 @@
        * [Lab 2.02](lab_202.md)
    * [Lesson 2.03: Lists](lesson203_lists_md.md)
        * [Do Now 2.03](do_now_203.md)
-   * Lesson 2.03: Booleans & Expressions
+   * [Lesson 2.03: Booleans & Expressions](lesson_203_booleans_&_expressions.md)
        * [Do Now 2.03](do_now_203_booleans.md)
 
