@@ -20,7 +20,7 @@ Students will be able to...
 
 ## Instructor's Note
 1. Lesson
-  * Ask students 
-
+  1. Ask students to define types? 
+    1. What
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_202.html
