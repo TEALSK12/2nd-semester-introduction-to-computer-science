@@ -7,7 +7,7 @@ Students will be able to...
 * Convert from one data type to another datatype
 
 ##Materials/Preperation
-* Do-Now Handout[do now]
+* [Do Now Handout]
 * Read through the handout and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -22,4 +22,4 @@ Students will be able to...
 
 
 
-[do now]: 
+[do now]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_202.html
