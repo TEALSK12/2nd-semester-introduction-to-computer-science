@@ -2,11 +2,11 @@
 
 Open up the terminal. Type the following code. 
 ```
- x_stage1 = '123'
- y_stage1 = '123'
+ x_stage1 = 123
+ y_stage1 = 456
  
- x_stage2 = int(x_stage1)
- y_stage2 = int(y_stage1)
+ x_stage2 = str(x_stage1)
+ y_stage2 = str(y_stage1)
  
  print(x_stage2 + y_stage2)
  
@@ -22,6 +22,6 @@ What type are the variables `x_stage2` and `y_stage2`?
 <br>
 <br>
 
-Try to figure out how to convert an integer, `100` to a string? 
+Try to figure out how to convert a string, `'100'` to an integer? 
 
 
