@@ -32,7 +32,10 @@ Students will be able to...
     ```
   5. Have students write their answers on the board. Discuss what would happen if you put in 1.5 instead of 4? If input is a float, can cast with float(num)
 2. Lab
-    1. 
+    1. Practice predicting what casting will do to inputs. 
+    2. Create a halving program as well as program that halves to whole numbers. 
+3. Opportunities for more
+    1. If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0s and 1s). In practice these translate to True and False. Convert numbers to boolean, and booleans to number. 
   
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_202.html
