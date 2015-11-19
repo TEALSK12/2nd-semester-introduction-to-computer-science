@@ -8,7 +8,6 @@ Students will be able to...
 
 ##Materials/Preperation
 * [Do Now Handout]
-* [Lab Handout]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -36,8 +35,7 @@ Students will be able to...
     1. Practice predicting what casting will do to inputs. 
     2. Create a halving program as well as program that halves to whole numbers. 
 3. Opportunities for more
-    1. If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0s and 1s). In practice these translate to True and False. Convert numbers to boolean, and booleans to number. 
+    1. If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0s and 1s). In practice these translate to True and False. Convert numbers to boolean, and booleans to number.
   
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_202.html
-[Lab Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lab_202.html
