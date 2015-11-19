@@ -23,7 +23,7 @@ Students will be able to...
   1. Ask students to define 'type'? Talk about types in the context as a way to represent data.(give example of string, int, float) 
   2. Ask students what they thought having str('12') did? Define this as casting. 
   3. Ask students what they did to cast an integer into a string? Define the int function if the students were unable to guess it from the lab.
-  4. Break for a few minutes to have students write down how they would produce the following program:
+  4. Break for a few minutes to have students write down how they would produce the following program using the input function:
     ```
     > 
     Give me a number you want to multiply by 2: 4
