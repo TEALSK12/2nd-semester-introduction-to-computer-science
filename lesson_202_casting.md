@@ -19,7 +19,8 @@ Students will be able to...
 | 10 Minutes | Discussion  |
 
 ## Instructor's Note
-
+1. Lesson
+  * Ask students 
 
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_202.html
