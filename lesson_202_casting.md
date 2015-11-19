@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preperation
 * [Do Now Handout]
-* Read through the handout and lab so that you are familiar with the requirements and can assist students
+* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 | Duration   | Description |
