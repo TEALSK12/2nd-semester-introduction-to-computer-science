@@ -13,9 +13,15 @@ Open up the terminal. Type the following code.
 ```
 
 What type are the variables `x_stage1` and `x_stage2`? 
-
+<br>
+<br>
+<br>
 
 What type are the variables `x_stage2` and `y_stage2`? 
+<br>
+<br>
+<br>
 
+Try to figure out how to convert an integer, `100` to a string? 
 
 
