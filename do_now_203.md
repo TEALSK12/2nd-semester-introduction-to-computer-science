@@ -6,6 +6,10 @@ Open up the terminal. Type the following code.
  print(len(a_list))
  
 ```
+What type do you think a_list is? (Hint: look at the name of the variable)
+<br>
+<br>
+<br>
 
 What does `len` do? 
 <br>
