@@ -40,7 +40,7 @@ Students will be able to...
     2. Given written out rules, and turn them into Booleans
     3. Create a large expression using variables that describes you. 
 4. Opportunities for more
-    1. If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0s and 1s). In practice these translate to True and False. Convert numbers to boolean, and booleans to number.
+    1. If students are moving quickly, opportunity to go over truth tables (or ask them to think about De Morgan's Law) 
   
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_203.html
