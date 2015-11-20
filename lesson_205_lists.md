@@ -33,12 +33,12 @@ Students will be able to...
     3. out-of-bounds: what happened when you tried to index into a list that was too long?
   2. Break for students to practice creating lists. Ask them how they would get the last item in a list. (Hint use the length function!) 
   3. Ask students to write on the board how they got the last element of a list. Ask another student to write how they would get the second to last element of the list and so on. 
-  4. 
+  4. After accessing this element you can change it. Practice this in class. 
 2. Lab
     1. Practice predicting what casting will do to inputs. 
     2. Create a halving program as well as program that halves to whole numbers. 
 3. Opportunities for more
-    1. If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0s and 1s). In practice these translate to True and False. Convert numbers to boolean, and booleans to number.
+    1. If students are moving quickly, start topic of nested lists. 
   
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_205.html
