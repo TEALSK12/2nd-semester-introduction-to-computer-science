@@ -22,7 +22,10 @@ Students will be able to...
 
 ## Instructor's Note
 1. Lesson
-  1. Ask students to define 'type'? Talk about types in the context as a way to represent data.(give example of string, int, float) 
+  1. Ask students what a list is? 
+    1. a list is a sequence of values. In a list, they can be any type. The values in a list are called elements or sometimes items.
+  2. Ask students what len does? 
+  3. Ask students how they tried to print the first item from a list? Was this what they were expecting? 
   2. Ask students what they thought having str('12') did? Define this as casting. 
   3. Ask students what they did to cast an integer into a string? Define the int function if the students were unable to guess it from the lab.
   4. Break for a few minutes to have students write down how they would produce the following program using the input function:
