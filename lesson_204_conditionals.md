@@ -29,23 +29,13 @@ Students will be able to...
     if x > 0: 
         print("x is positive")
     ```
-  2. Write out the syntax of the if statement on the board point out the boolean expression called the condition, the colon, and the tabbing. 
-  3. Ask students if the recall what else went along with the if statement.(else) 
+  2. Write out the syntax of if statement on the board. Point out: the Boolean expression(condition), the colon, and the tabbing. 
+  3. Ask students if they recall what else went along with the if statement.(else) 
     1. else is used when there are two possibilities and the condition determines which one gets executed
-    2. describe the syntax of the else
+    2. show the syntax of the else
   4. Describe the elif statment
     1. Sometimes there are more than two possibilities and we need more than two branches. One way to express a computation like that is a chained conditional:
-1. Ask Students about the difference between `=` and `==`. 
-    1. = is a setter for variables 
-    2. == builds a boolean expression
-  2. Show Students boolean expressons in SNAP. 
-    ![Snap boolean Expressions](snap_boolean_expressions.png)
-    Ask the students to recall what and, or and not did.
-  3. Give a little bit of time for the students to do finish complementing part 2 of the assignment 
-  4. Have a student write up the expression they used to update the `can_get_license` code.
-    1.Poll students- how many boolean expressions are used? Answers here can vary but ~7 (age >= 16, age <18, driving_with_permit >=6, and expression, age > 18, or expression, whole expression) 
-    2. Define composition: Using an expression as part of a larger expression, or a statement as part of a larger statement. You can use parenthesis to compose expressions as well
-  5. Parenthesis: In SNAP! to compose many expressions they were nested together. In snap you can just put them one after another. However if you want certain things to evaluated together use parenthesis
+    2. Show the syntax of elif
 3. Lab
     2. Evaluate expressions with `and`, `or`, and `not`
     2. Given written out rules, and turn them into Boolean Expressions
