@@ -11,6 +11,7 @@
        * [Lab 2.03](lab_203.md)
    * [Lesson 2.04: Conditionals](lesson_204_conditionals.md)
        * Do Now 2.04
+       * Lab 2.04
    * [Lesson 2.05: Lists](lesson_205_lists.md)
        * [Do Now 2.05](donow_205.md)
 
