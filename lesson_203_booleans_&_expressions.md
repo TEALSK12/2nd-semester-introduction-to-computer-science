@@ -29,14 +29,8 @@ Students will be able to...
     2. == builds a boolean expression
   2. Show Students boolean expressons in SNAP. 
     ![Snap boolean Expressions](snap_boolean_expressions.png)
-  3. Ask students what they did to cast an integer into a string? Define the int function if the students were unable to guess it from the lab.
-  4. Break for a few minutes to have students write down how they would produce the following program using the input function:
-    ```
-    > 
-    Give me a number you want to multiply by 2: 4
-    8
-    => None
-    ```
+  3. Give a little bit of time for the students to do finish complementing part 2 of the assignment 
+  4. Have a student write up the expression they used update the `can_get_license` function. 
   5. Have students write their answers on the board. Discuss what would happen if you put in 1.5 instead of 4? If input is a float, can cast with float(num)
 3. Lab
     1. Practice predicting what casting will do to inputs. 
