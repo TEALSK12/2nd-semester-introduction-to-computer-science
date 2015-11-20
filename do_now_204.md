@@ -1,48 +1,19 @@
 # Do Now 2.04
 
 ##Part 1
-Open up the terminal. Type the following code into the interactive editor. 
+Create a schedule program. Given the hour of the day print out where you should be. 
 ```
- >>> 5 < 3
- >>> 5 > 3
- >>> type(5 < 3)
- >>> type(5 > 3) 
- >>> my_favorite_animal = "cats"
- >>> user_favorite_animal = input("What is your favorite animal? ") 
- >>> my_favorite_animal == user_favorite_animal
+ >>> What hour? 12pm
+ >>> You should be at lunch!
  ```
- What does `5 < 3` evaluate to? What do you think a boolean is? 
+How did you accomplish this? Did you feel like something was missing in your program? 
 <br>
 <br>
 <br>
 
-What is the difference between `==` and `=` ?
+What if you wanted to add in a weekly functionality. For instance maybe on Tuesday at 4pm you are at soccer practice, but on Thursday at 4pm you are at math club! How would you implement this in your program? 
 <br>
 <br>
 <br>
 
-What data type do you think `my_favorite_animal == user_favorite_animal` is? 
-<br>
-<br>
-<br>
-
-## Part 2
-Open up the terminal. Type the following code into the interactive editor. 
- ```
- >>> months_with_driving_permit = 6
- >>> age = 16
- >>> can_get_license = months_with_driving_permit >= 6 and age >= 16
- >>> print(can_get_license) 
- 
-```
-
-What does `and` do here? What type do you think `can_get_license` is? 
-<br>
-<br>
-<br>
-
-Update the code to fit the new driving law: If you are over the age of 18 you don't need to have a permit. The other law still applies for people ages 16-18. 
-<br>
-<br>
-<br>
 
