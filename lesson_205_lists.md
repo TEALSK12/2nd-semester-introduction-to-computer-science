@@ -35,8 +35,9 @@ Students will be able to...
   3. Ask students to write on the board how they got the last element of a list. Ask another student to write how they would get the second to last element of the list and so on. 
   4. After accessing this element you can change it. Practice this in class. 
 2. Lab
-    1. Practice predicting what casting will do to inputs. 
-    2. Create a halving program as well as program that halves to whole numbers. 
+    1. Practice accessing and updating items in a list
+    2. Implement program from last lab using lists
+    3. Create a quiz program
 3. Opportunities for more
     1. If students are moving quickly, start topic of nested lists. Start of with a simple nested list like `['a', 'b', 'c', [1, 2, 3]]`. Ask the students to guess the length. Ask the students to guess how they would access the item '1' from that list! 
   
