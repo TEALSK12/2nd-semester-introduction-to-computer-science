@@ -22,18 +22,19 @@ Students will be able to...
 1. Have students work on the Do Now part 1
 2. Lesson
   1. Ask students what they thought a Boolean was? 
-    1. If students are struggling. Ask them what values they saw? (answer should be True or False) 
+    1. If students are struggling. Ask them what values they saw? (answer should be `True` or `False`) 
     2. Boolean expression: is an expression that evaluates to either true or false.
   1. Ask Students about the difference between `=` and `==`. 
     1. = is a setter for variables 
     2. == builds a boolean expression
   2. Show Students boolean expressons in SNAP. 
     ![Snap boolean Expressions](snap_boolean_expressions.png)
+    Ask the students to recall what and, or and not did.
   3. Give a little bit of time for the students to do finish complementing part 2 of the assignment 
   4. Have a student write up the expression they used to update the `can_get_license` code.
     1.Poll students- how many boolean expressions are used? Answers here can vary but ~7 (age >= 16, age <18, driving_with_permit >=6, and expression, age > 18, or expression, whole expression) 
     2. Define composition: Using an expression as part of a larger expression, or a statement as part of a larger statement. You can use parenthesis to compose expressions as well
-  5. Besides `and`, there is `or` and `not` as well as `!=` which means does not equal. 
+  5. Parenthesis: In SNAP! to compose many expressions they were nested together. In snap you can just put them one after another. However if you want certain things to evaluated together use parenthesis
 3. Lab
     2. Evaluate expressions with `and`, `or`, and `not`
     2. Given written out rules, and turn them into Booleans
