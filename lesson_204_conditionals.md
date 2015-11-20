@@ -44,5 +44,5 @@ Students will be able to...
     1. If students are moving quickly, opportunity to go over truth tables (or ask them to think about De Morgan's Law) 
   
 
-[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_203.html
+[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_204.html
 [Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lab_203.html
