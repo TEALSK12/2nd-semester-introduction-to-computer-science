@@ -35,8 +35,10 @@ Students will be able to...
     2. Define composition: Using an expression as part of a larger expression, or a statement as part of a larger statement.
   5. Besides `and`, there is `or` and `not` as well as `!=` which means does not equal. 
 3. Lab
-    1. Practice predicting what casting will do to inputs. 
-    2. Create a halving program as well as program that halves to whole numbers. 
+    1. Convert old snap code into Python code
+    2. Evaluate expressions with `and`, `or`, and `not`
+    2. Given written out rules, and turn them into Booleans
+    3. Create a large expression using variables that describes you. 
 4. Opportunities for more
     1. If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0s and 1s). In practice these translate to True and False. Convert numbers to boolean, and booleans to number.
   
