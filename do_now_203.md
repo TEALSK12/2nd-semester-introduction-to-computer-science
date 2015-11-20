@@ -13,6 +13,11 @@ Open up the terminal. Type the following code into the interactive editor.
  >>> print(can_get_license) 
  
 ```
+What does `5 < 3` evaluate to? Try using `type` to figure on `5<3`? What do you think a boolean is? 
+<br>
+<br>
+<br>
+
 What is the difference between `==` and `=` ?
 <br>
 <br>
