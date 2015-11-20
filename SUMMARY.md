@@ -14,5 +14,5 @@
        * [Lab 2.04](lab_204.md)
    * [Lesson 2.05: Lists](lesson_205_lists.md)
        * [Do Now 2.05](donow_205.md)
-       * Lab 2.05
+       * [Lab 2.05](lab_205.md)
 
