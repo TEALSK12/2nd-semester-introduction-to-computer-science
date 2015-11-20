@@ -5,6 +5,7 @@ Students will be able to...
 * Define and identify: list, item, index, integer
 * Be able to access items from a list using index
 * Create lists of different types
+* Use the length function
 
 ##Materials/Preperation
 * [Do Now Handout]
