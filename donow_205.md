@@ -36,5 +36,5 @@ Type the following into the terminal. What happens?
 
 What type do you think the following is? 
 ```
-unknown = 
+unknown = ['a', 'b', 11, ['look', 'wow', 'cool']]
 ```
