@@ -2,10 +2,9 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: if, else, elif, flow of control 
+* Define and identify: if, else, elif, conditionals, flow of control 
 * Create chaining if statements
 * Understand how conditional statements alter flow of control of the program
-* 
 
 ##Materials/Preperation
 * [Do Now Handout]
