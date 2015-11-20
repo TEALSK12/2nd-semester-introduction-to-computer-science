@@ -41,4 +41,8 @@ What does `and` do here? What type do you think `can_get_license` is?
 <br>
 <br>
 
+Update the code to fit the new driving law: If you are over the age of 18 you don't need to have a permit. The other law still applies for people ages 16-18. 
+<br>
+<br>
+<br>
 
