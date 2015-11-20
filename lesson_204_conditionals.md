@@ -24,14 +24,18 @@ Students will be able to...
 2. Lesson
   1. Ask students if they had trouble on the do now? 
     1. What did they feel like the needed? 
-    2. If, elif, else statments. if <boolean expression> colon
-        1. In order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly. Conditional statements give us this ability. The simplest form is the if statement:
-        ```
-        if x > 0: 
-            print("x is positive") 
-        ```
-        The boolean expression after `if` is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.
-  1. Ask Students about the difference between `=` and `==`. 
+    2. In order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly. Conditional statements give us this ability. The simplest form is the if statement. The boolean expression after `if` is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.
+    ```
+    if x > 0: 
+        print("x is positive")
+    ```
+  2. Write out the syntax of the if statement on the board point out the boolean expression called the condition, the colon, and the tabbing. 
+  3. Ask students if the recall what else went along with the if statement.(else) 
+    1. else is used when there are two possibilities and the condition determines which one gets executed
+    2. describe the syntax of the else
+  4. Describe the elif statment
+    1. Sometimes there are more than two possibilities and we need more than two branches. One way to express a computation like that is a chained conditional:
+1. Ask Students about the difference between `=` and `==`. 
     1. = is a setter for variables 
     2. == builds a boolean expression
   2. Show Students boolean expressons in SNAP. 
