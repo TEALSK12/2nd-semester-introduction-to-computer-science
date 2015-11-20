@@ -28,7 +28,7 @@ Students will be able to...
     1. = is a setter for variables 
     2. == builds a boolean expression
   2. Show Students boolean expressons in SNAP. 
-    
+    ![Snap boolean Expressions](snap_boolean_expressions.png)
   3. Ask students what they did to cast an integer into a string? Define the int function if the students were unable to guess it from the lab.
   4. Break for a few minutes to have students write down how they would produce the following program using the input function:
     ```
