@@ -31,6 +31,7 @@ Students will be able to...
     => None
     ```
   5. Have students write their answers on the board. Discuss what would happen if you put in 1.5 instead of 4? If input is a float, can cast with float(num)
+  6. `type`: ask students what they think `type('a')` would return.  Why might you want to use `type`?
 2. Lab
     1. Practice predicting what casting will do to inputs. 
     2. Create a halving program as well as program that halves to whole numbers. 
