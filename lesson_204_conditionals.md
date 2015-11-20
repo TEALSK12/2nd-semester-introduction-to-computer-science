@@ -37,12 +37,10 @@ Students will be able to...
     1. Sometimes there are more than two possibilities and we need more than two branches. One way to express a computation like that is a chained conditional:
     2. Show the syntax of elif
 3. Lab
-    2. Evaluate expressions with `and`, `or`, and `not`
-    2. Given written out rules, and turn them into Boolean Expressions
-    3. Create a large expression using variables that describes you. 
+    1. Convert a program written in snap into python 
+    2. Write a program that simulates a list index using if statements. 
 4. Opportunities for more
-    1. If students are moving quickly, opportunity to go over truth tables (or ask them to think about De Morgan's Law) 
-  
+    1. If students are moving quickly, this lesson can move onto lists. 
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_204.html
 [Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lab_204.html
