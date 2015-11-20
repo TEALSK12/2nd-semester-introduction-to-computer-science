@@ -8,6 +8,7 @@ Students will be able to...
 
 ##Materials/Preperation
 * [Do Now Handout]
+* [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -44,3 +45,4 @@ Students will be able to...
   
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_203.html
+[Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lab_203.html
