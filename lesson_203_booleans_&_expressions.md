@@ -35,7 +35,6 @@ Students will be able to...
     2. Define composition: Using an expression as part of a larger expression, or a statement as part of a larger statement.
   5. Besides `and`, there is `or` and `not` as well as `!=` which means does not equal. 
 3. Lab
-    1. Convert old snap code into Python code
     2. Evaluate expressions with `and`, `or`, and `not`
     2. Given written out rules, and turn them into Booleans
     3. Create a large expression using variables that describes you. 
