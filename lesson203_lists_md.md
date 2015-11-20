@@ -1,4 +1,4 @@
-# Lesson 2.03: Lists
+# Lesson 2.05: Lists
 
 ##Learning Objectives
 Students will be able to... 
