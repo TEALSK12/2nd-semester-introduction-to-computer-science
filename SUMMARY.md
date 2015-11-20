@@ -9,7 +9,7 @@
    * [Lesson 2.03: Booleans & Expressions](lesson_203_booleans_&_expressions.md)
        * [Do Now 2.03](do_now_203.md)
        * [Lab 2.03](lab_203.md)
+   * Lesson 2.04: Conditionals
    * [Lesson 2.05: Lists](lesson_205_lists.md)
        * [Do Now 2.05](donow_205.md)
-   * Lesson 2.04: Conditionals
 
