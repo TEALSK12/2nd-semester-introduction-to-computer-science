@@ -28,17 +28,12 @@ Students will be able to...
     3. Ask students what values items in a list can be? Answer any type! You can even have lists within lists (more on that later...)
   2. Ask students what len does? 
   3. Ask students how they tried to print the first item from a list? Was this what they were expecting? 
-    1. 
-  2. Ask students what they thought having str('12') did? Define this as casting. 
-  3. Ask students what they did to cast an integer into a string? Define the int function if the students were unable to guess it from the lab.
-  4. Break for a few minutes to have students write down how they would produce the following program using the input function:
-    ```
-    > 
-    Give me a number you want to multiply by 2: 4
-    8
-    => None
-    ```
-  5. Have students write their answers on the board. Discuss what would happen if you put in 1.5 instead of 4? If input is a float, can cast with float(num)
+    1. index: a map from the position in the list to the element stored there. 
+    2. 0-index: lists are 0 indexed. So the first element in the list is at the 0-index
+    3. out-of-bounds: what happened when you tried to index into a list that was too long?
+  2. Break for students to practice creating lists. Ask them how they would get the last item in a list. (Hint use the length function!) 
+  3. Ask students to write on the board how they got the last element of a list. Ask another student to write how they would get the second to last element of the list and so on. 
+  4. 
 2. Lab
     1. Practice predicting what casting will do to inputs. 
     2. Create a halving program as well as program that halves to whole numbers. 
