@@ -2,9 +2,10 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: evaluating, expressions, True, False
-* Evaluate a boolean expression
-* Compose boolean expressions using and, or, not, <, >, == 
+* Define and identify: if, else, elif, flow of control 
+* Create chaining if statements
+* Understand how conditional statements alter flow of control of the program
+* 
 
 ##Materials/Preperation
 * [Do Now Handout]
