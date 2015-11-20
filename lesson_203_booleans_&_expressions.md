@@ -32,7 +32,7 @@ Students will be able to...
   3. Give a little bit of time for the students to do finish complementing part 2 of the assignment 
   4. Have a student write up the expression they used to update the `can_get_license` code.
     1.Poll students- how many boolean expressions are used? Answers here can vary but ~7 (age >= 16, age <18, driving_with_permit >=6, and expression, age > 18, or expression, whole expression) 
-    2. Define composition: Using an expression as part of a larger expression, or a statement as part of a larger statement.
+    2. Define composition: Using an expression as part of a larger expression, or a statement as part of a larger statement. You can use parenthesis to compose expressions as well
   5. Besides `and`, there is `or` and `not` as well as `!=` which means does not equal. 
 3. Lab
     2. Evaluate expressions with `and`, `or`, and `not`
