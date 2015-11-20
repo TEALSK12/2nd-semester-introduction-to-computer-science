@@ -22,9 +22,15 @@ Students will be able to...
 ## Instructor's Note
 1. Have students work on the Do Now
 2. Lesson
-  1. Ask students what they thought a Boolean was? 
-    1. If students are struggling. Ask them what values they saw? (answer should be `True` or `False`) 
-    2. Boolean expression: is an expression that evaluates to either true or false.
+  1. Ask students if they had trouble on the do now? 
+    1. What did they feel like the needed? 
+    2. If, elif, else statments. if <boolean expression> colon
+        1. In order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly. Conditional statements give us this ability. The simplest form is the if statement:
+        ```
+        if x > 0: 
+            print("x is positive") 
+        ```
+        The boolean expression after `if` is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.
   1. Ask Students about the difference between `=` and `==`. 
     1. = is a setter for variables 
     2. == builds a boolean expression
