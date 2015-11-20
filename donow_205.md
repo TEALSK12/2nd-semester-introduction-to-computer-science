@@ -33,3 +33,8 @@ Type the following into the terminal. What happens?
  print(a_list[5])
  print(a_list[6])
 ```
+
+What type do you think the following is? 
+```
+unknown = 
+```
