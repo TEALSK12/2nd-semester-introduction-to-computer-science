@@ -33,8 +33,7 @@ Students will be able to...
   4. Have a student write up the expression they used to update the `can_get_license` code.
     1.Poll students- how many boolean expressions are used? Answers here can vary but ~7 (age >= 16, age <18, driving_with_permit >=6, and expression, age > 18, or expression, whole expression) 
     2. Define composition: Using an expression as part of a larger expression, or a statement as part of a larger statement.
-  5. Define exp
-  5. Have students write their answers on the board. Discuss what would happen if you put in 1.5 instead of 4? If input is a float, can cast with float(num)
+  5. Besides `and`, there is `or` and `not` as well as `!=` which means does not equal. 
 3. Lab
     1. Practice predicting what casting will do to inputs. 
     2. Create a halving program as well as program that halves to whole numbers. 
