@@ -20,7 +20,7 @@ Students will be able to...
 | 10 Minutes | Discussion  |
 
 ## Instructor's Note
-1. Have students work on the Do Now part 1
+1. Have students work on the Do Now
 2. Lesson
   1. Ask students what they thought a Boolean was? 
     1. If students are struggling. Ask them what values they saw? (answer should be `True` or `False`) 
