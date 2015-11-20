@@ -38,7 +38,7 @@ Students will be able to...
   5. Parenthesis: In SNAP! to compose many expressions they were nested together. In snap you can just put them one after another. However if you want certain things to evaluated together use parenthesis
 3. Lab
     2. Evaluate expressions with `and`, `or`, and `not`
-    2. Given written out rules, and turn them into Booleans
+    2. Given written out rules, and turn them into Boolean Expressions
     3. Create a large expression using variables that describes you. 
 4. Opportunities for more
     1. If students are moving quickly, opportunity to go over truth tables (or ask them to think about De Morgan's Law) 
