@@ -19,21 +19,11 @@ What does append do? What would the length be after append?
 <br>
 
 
-Brainstorm how you would print the first element from `a_list`?
-<br>
-<br>
-<br>
-
 Type the following into the terminal. What happens? 
 ```
- a_list = ['a', 'b', 'c', 'd', 'e']
- print(a_list[0])
- print(a_list[1])
- print(a_list[2])
- print(a_list[3])
- print(a_list[4])
- print(a_list[5])
- print(a_list[6])
+ a = [123, 'First Item', 456]
+ a.remove('First Item')
+ print(a) 
 ```
 
 What type do you think the following is? 
