@@ -2,8 +2,9 @@
 
 Open up the terminal. Type the following code. 
 ```
- a_list = ['a', 'b', 'c', 'd', 'e']
- print(len(a_list))
+ a = []
+ print(len(a))
+ 
  
 ```
 What type do you think a_list is? (Hint: look at the name of the variable)
