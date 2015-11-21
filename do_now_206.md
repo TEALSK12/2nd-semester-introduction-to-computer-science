@@ -1,5 +1,6 @@
 # Do Now 2.06
 
+## Part 1
 Open up the terminal. Type the following code. 
 ```
  a = [123, 'First Item', 456, 'Second Item']
@@ -14,6 +15,7 @@ What happens to a? What is b? What type is b?
 <br>
 <br>
 
+## Part 2 
 ```
  a = []
  print(len(a))
