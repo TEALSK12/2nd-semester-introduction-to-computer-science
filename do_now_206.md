@@ -26,7 +26,7 @@ Type the following into the terminal. What happens?
  print(a) 
 ```
 
-What type do you think the following is? 
-```
-unknown = ['a', 'b', 11, ['look', 'wow', 'cool']]
-```
+What does `remove` do? What would the length be after `remove`? 
+<br>
+<br>
+<br>
