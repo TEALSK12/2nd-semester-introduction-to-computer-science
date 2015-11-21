@@ -1,6 +1,5 @@
 # Do Now 2.06
 
-
 Open up the terminal. Type the following code. 
 ```
  a_list = ['a', 'b', 'c', 'd', 'e']
