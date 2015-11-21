@@ -13,7 +13,7 @@ What was the length of `[]`?
 <br>
 <br>
 
-What does append do? What would the length be after append? 
+What does `append` do? What would the length be after `append`? 
 <br>
 <br>
 <br>
