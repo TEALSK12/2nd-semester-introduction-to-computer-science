@@ -15,6 +15,18 @@ What happens to a? What is b? What type is b?
 <br>
 <br>
 
+```
+ a = [123, 'First Item', 456, 'Second Item']
+ b = a + ['Third Item']
+ print(a)
+ print(b)
+ 
+```
+
+What happens to a? What is b? What type is b? 
+<br>
+<br>
+<br>
 ## Part 2 
 ```
  a = []
