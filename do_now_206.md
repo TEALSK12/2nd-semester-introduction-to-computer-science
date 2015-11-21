@@ -4,15 +4,16 @@ Open up the terminal. Type the following code.
 ```
  a = []
  print(len(a))
- 
+ a.append('First Item')
+ print(a)
  
 ```
-What type do you think a_list is? (Hint: look at the name of the variable)
+What was the length of `[]`?
 <br>
 <br>
 <br>
 
-What does `len` do? 
+What does append do? What would the length be after append? 
 <br>
 <br>
 <br>
