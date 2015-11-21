@@ -27,6 +27,7 @@ What happens to a? What is b? What type is b?
 <br>
 <br>
 <br>
+
 ## Part 2 
 ```
  a = []
