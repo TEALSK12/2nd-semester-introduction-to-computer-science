@@ -16,5 +16,5 @@
        * [Do Now 2.05](donow_205.md)
        * [Lab 2.05](lab_205.md)
    * [Lesson 2.06: Lists 2](lesson_206_lists_2.md)
-       * Do Now 2.06
+       * [Do Now 2.06](do_now_206.md)
 
