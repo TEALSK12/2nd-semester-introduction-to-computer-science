@@ -2,6 +2,19 @@
 
 Open up the terminal. Type the following code. 
 ```
+ a = [123, 'First Item', 456, 'Second Item']
+ b = a[0:2]
+ print(a)
+ print(b)
+ 
+```
+
+What happens to a? What is b? What type is b? 
+<br>
+<br>
+<br>
+
+```
  a = []
  print(len(a))
  a.append('First Item')
@@ -23,18 +36,6 @@ Type the following into the terminal. What happens?
 ```
  a = [123, 'First Item', 456]
  a.remove('First Item')
- print(a) 
-```
-
-What does `remove` do? What would the length be after `remove`? 
-<br>
-<br>
-<br>
-
-Type the following into the terminal. What happens? 
-```
- a = [123, 'First Item', 456, 'Second Item']
- b = a[0:2]
  print(a) 
 ```
 
