@@ -2,10 +2,10 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: slice, item, index, integer
-* Be able to access items from a list using index
-* Create lists of different types
-* Use the length function
+* Define and identify: slice, append, remove, nested list
+* Slice a list
+* Add and remove elements from a list
+* Access items from a nested list
 
 ##Materials/Preperation
 * [Do Now Handout]
