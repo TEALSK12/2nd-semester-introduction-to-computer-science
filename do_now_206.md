@@ -30,3 +30,15 @@ What does `remove` do? What would the length be after `remove`?
 <br>
 <br>
 <br>
+
+Type the following into the terminal. What happens? 
+```
+ a = [123, 'First Item', 456, 'Second Item']
+ b = a[0:2]
+ print(a) 
+```
+
+What does `remove` do? What would the length be after `remove`? 
+<br>
+<br>
+<br>
