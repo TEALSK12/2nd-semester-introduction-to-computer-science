@@ -22,10 +22,9 @@ Students will be able to...
 
 ## Instructor's Note
 1. Lesson
-  1. Ask students what a list is? 
-    1. a list is a sequence of values. In a list, they can be any type. The values in a list are called elements or sometimes items.
-    2. to create a list enclose items in square brackets
-    3. Ask students what values items in a list can be? Answer any type! You can even have lists within lists (more on that later...)
+  1. Ask students what doing `a[0:2]` did? 
+    1. slicing: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
+    2. Ask what the list would return if you did `a[1:2]`? 
   2. Ask students what len does? 
   3. Ask students how they tried to print the first item from a list? Was this what they were expecting? 
     1. index: a map from the position in the list to the element stored there. 
