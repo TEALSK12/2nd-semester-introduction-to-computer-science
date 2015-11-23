@@ -20,9 +20,7 @@ Students will be able to...
 
 ## Instructor's Note
 1. Lesson
-  1. Ask students what doing `a[0:2]` did? 
-    1. slicing: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
-    2. Ask what the list would return if you did `a[1:2]`?
+  1. Ask students what the do while loop did return if you did `a[1:2]`?
     3. What does `remove` do? What does `pop` do? What were the differences. 
     4. Ask students what the plus sign does? What does append do? What would happen if you did `append([1, 2, 3])`?
     5. Nested List: a list that is contained within another list. Only counts as 1 element
