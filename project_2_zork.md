@@ -35,7 +35,7 @@ This game will take place in a three story dungeon. The user will have to traver
 | Prize is blocked by boss monster                                | 5   |
 | **Sub total**                                                   | 50  |
 | **Technical Correctness   **                                    |     |
-| Correctly use nested lists                                      | cats|
+| Correctly use nested lists                                      | 15  |
 | Correctly appends items to list of users pocket                 | cats|
 | Correctly uses if statements to check items in a users pockets  | 1:2 |
 | Correctly using `or` statements and `and` statements            | 1:2 |
