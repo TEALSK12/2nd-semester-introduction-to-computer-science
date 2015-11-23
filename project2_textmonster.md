@@ -40,7 +40,8 @@ if user_input == "down":
     if current_room != "stairs down": 
         print("Can't go downstairs, there are no stairs")
 ```
-####
+#### `has_won` Variable
+It is common to have a variable signifying that the user has won or lost the game. When the user has 
 
 ## Grading 
 ### Scheme/Rubric
