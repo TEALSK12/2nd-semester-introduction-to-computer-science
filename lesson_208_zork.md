@@ -13,7 +13,7 @@ Students will be able to...
 | Duration   | Description |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
-| 10 Minutes | Lesson      |
+| 10 Minutes | Project/Demo|
 | 30 Minutes | Lab         |
 | 10 Minutes | Discussion  |
 #### Day 2 -7 
