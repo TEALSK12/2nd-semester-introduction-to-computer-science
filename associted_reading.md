@@ -28,7 +28,8 @@ What about values like '17' and '3.2'? They look like numbers, but they are in q
 ```
 They’re strings.
 When you type a large integer, you might be tempted to use commas between groups of three digits, as in 1,000,000. This is not a legal integer in Python, but it is legal:
-
+```
 >>> 1,000,000
 (1, 0, 0)
-Well, that’s not what we expected at all! Python interprets 1,000,000 as a comma-separated sequence of integers. This is the first example we have seen of a semantic error: the code runs without producing an error message, but it doesn’t do the “right” thing.
+```
+Well, that’s not what we expected at all! Python interprets 1,000,000 as a comma-separated sequence of integers. This is an example we have seen of a semantic error: the code runs without producing an error message, but it doesn’t do the “right” thing.
