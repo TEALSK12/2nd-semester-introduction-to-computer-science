@@ -6,7 +6,6 @@ Students will be able to...
 
 ##Materials/Preperation
 * [Project]
-* Remove code hints in project, if you think that the students don't need them
 * Read through the handout,and project so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -29,7 +28,8 @@ Students will be able to...
 1. Project Overview and Demo 
   1. Present the project. 
   2. Show a demo of the project
-  3. Draw out a game board using nested lists. Have students call out moves and practice going through a game
+  3. Go over design considerations: 
+    1.Draw out a game board using nested lists. Have students call out moves and practice going through a game
 2. Design
     1. Have students stay at their desks and write down what lists they'll need. Break up into parts: parsing user input, keeping track of players position, returning what is at players position 
 3. Review
