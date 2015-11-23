@@ -32,7 +32,7 @@ user_room = 0
 user_floor = 0 
 ``` 
 This would put the user at the position of the first room of the first floor
-#### User Input
+#### Validating User Input
 You will need to check the input of the user to make sure they requested a valid move: 
 ```
 if user_input == "down":
@@ -40,6 +40,7 @@ if user_input == "down":
     if current_room != "stairs down": 
         print("Can't go downstairs, there are no stairs")
 ```
+####
 
 ## Grading 
 ### Scheme/Rubric
