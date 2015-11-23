@@ -39,7 +39,7 @@ This game will take place in a three story dungeon. The user will have to traver
 | Correctly appends items to list of users pocket                 | 15  |
 | Correctly uses if statements to check items in a users pockets  | 15  |
 | Correctly using `or` statements and `and` statements            | 15  |
-| **Sub total**                                                   | 1:2|
+| **Sub total**                                                   | 60  |
 | **Total**                                                       | 1:2|
 
 
