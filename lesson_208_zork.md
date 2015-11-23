@@ -16,7 +16,7 @@ Students will be able to...
 | 10 Minutes | Project/Demo|
 | 30 Minutes | Design      |
 | 10 Minutes | Discussion  |
-#### Day 2 -7 
+#### Day 2 - 9 
 | Duration   | Description |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
@@ -30,7 +30,7 @@ Students will be able to...
   2. Show a demo of the project
   3. Draw out a game board using nested lists. Have students call out moves and practice going through a game
 2. Design
-    1. Have students stay at their desks and write down what lists they'll need. Break up into two parts.
+    1. Have students stay at their desks and write down what lists they'll need. Break up into parts: moving player through game, keeping track of players position, 
 3. Opportunities for more
     1. If there is a lot of extra time start reviewing concepts and going over any issues. 
     2. If there is more time have students start reading through the project specs. 
