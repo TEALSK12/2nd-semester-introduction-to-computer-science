@@ -25,8 +25,9 @@ Students will be able to...
 2. Review
     1. Review the topics students are confused about
     2. Have students practice using lists and Boolean expressions 
-3. Opportunities for more
-    1. 
+3. Opporutnities for me: 
+    1. This lesson may not be necessary, but the subject might need more time. 
+    2. Quiz
   
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_206.html
