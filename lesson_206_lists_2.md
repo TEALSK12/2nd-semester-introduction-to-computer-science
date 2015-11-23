@@ -27,8 +27,12 @@ Students will be able to...
     2. Ask what the list would return if you did `a[1:2]`?
     3. What does `remove` do? What does `pop` do? What were the differences. 
     4. Ask students what the plus sign does? What does append do? What would happen if you did `append([1, 2, 3])`?
+    5. Nested List: a list that is contained within another list. Only counts as 1 element
+        1. Ask Students the length of this nested list? 
+        2. Ask students how would we get the length of the inner list
+    6. Asks students to write down how they would represent a tic-tac-toe board using lists. Create a tic-tac-toe board. 
 2. Lab
-    1. Practice accessing and updating items in a list
+    1. Have students practice slicing, adding, removing elements from the tic-tac-toe board
     2. Implement program from last lab using lists
     3. Create a quiz program
 3. Opportunities for more
