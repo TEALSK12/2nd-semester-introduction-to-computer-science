@@ -31,8 +31,7 @@ Students will be able to...
   3. Draw out a game board using nested lists. Have students call out moves and practice going through a game
 2. Design
     1. Have students stay at their desks and write down what lists they'll need. Break up into parts: parsing user input, keeping track of players position, returning what is at players position 
-3. Opportunities for more
-    1. If there is a lot of extra time start reviewing concepts and going over any issues. 
-    2. If there is more time have students start reading through the project specs. 
+3. Review
+    1. During discussion at end of class figure out where students are. During the review the next morning cover these topics 
   
 [Project]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/project2_textmonster.html
