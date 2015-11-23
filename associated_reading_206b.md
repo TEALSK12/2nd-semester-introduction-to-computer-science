@@ -1,6 +1,6 @@
 # Associated Reading 2.06b
 
-The in operator also works on lists.
+The in operator  works on lists.
 ```
 >>> cheeses = ['Cheddar', 'Edam', 'Gouda']
 >>> 'Edam' in cheeses
