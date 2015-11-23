@@ -9,4 +9,5 @@ x
 x + 17
 ```
 A statement is a unit of code that the Python interpreter can execute. We have seen two kinds of statement: print and assignment.
+
 Technically an expression is also a statement, but it is probably simpler to think of them as different things. The important difference is that an expression has a value; a statement does not.
