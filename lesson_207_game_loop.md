@@ -25,10 +25,9 @@ Students will be able to...
     2. Ask students how you would write this using user input? 
     3. What if you wanted the loop to stop when the user inputted "quit". Ask the students to think and then have a few come up to the board to write out how. 
 2. Lab
-    1. Tic-tac-toe many moves from before
+    1. Tic-tac-toe with many movies 
 3. Opportunities for more
-    1. If students are moving quickly, start topic of while loop as the game loop 
-    2. Keeping score for game 
+    1. Students can review concepts and prep for the project
   
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_207.html
