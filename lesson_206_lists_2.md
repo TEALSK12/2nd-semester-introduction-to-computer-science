@@ -33,7 +33,7 @@ Students will be able to...
     6. Asks students to write down how they would represent a tic-tac-toe board using lists. Create a tic-tac-toe board with students in class. 
 2. Lab
     1. Have students practice slicing, adding, removing elements from some given lists. 
-    2. Tic-Tac-toe 9 moves 
+    2. Tic-Tac-toe single move
 3. Opportunities for more
     1. If students are moving quickly, start topic of while loop as the game loop 
     2. Keeping score for game
