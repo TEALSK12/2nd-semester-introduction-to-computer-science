@@ -33,13 +33,13 @@ This game will take place in a three story dungeon. The user will have to traver
 | Sword can only be used once                                     |     | 
 | Boss monster needs sword and magic stones to be defeated        | 1:2 |
 | Prize is blocked by boss monster                                | 1:2 |
-| **Sub total**                                                       | 1:2|
+| **Sub total**                                                   | 1:2|
 | **Technical Correctness   **                                    | |
 | Correctly use nested lists                                      | cats|
 | Correctly appends items to list of users pocket                 | cats|
 | Correctly uses if statements to check items in a users pockets  | 1:2 |
 | Correctly using `or` statements and `and` statements            | 1:2 |
-| **Sub total**                                                       | 1:2|
+| **Sub total**                                                   | 1:2|
 | **Total**                                                       | 1:2|
 
 
