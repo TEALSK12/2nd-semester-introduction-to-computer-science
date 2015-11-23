@@ -20,6 +20,7 @@
    * [Lesson 2.05: Lists](lesson_205_lists.md)
        * [Do Now 2.05](donow_205.md)
        * [Lab 2.05](lab_205.md)
+       * Associated Reding 2.05
    * [Lesson 2.06: Lists 2](lesson_206_lists_2.md)
        * [Do Now 2.06](do_now_206.md)
        * [Lab 2.06](lab_206.md)
