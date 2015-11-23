@@ -29,7 +29,7 @@ This game will take place in a three story dungeon. The user will have to traver
 | `Grab` adds an item to the users pocket                         | 1:2 |
 | `Help` lists all possible commands                              | 1:2 |
 | Monsters either disappear if user has a sword or defeat the user|    |
-| Sword can only be used once they are used                       |     | 
+| Sword can only be used once                                     |     | 
 | Boss monster needs sword and magic stones                       | 1:2 |
 | Prize is blocked by boss monster                                | 1:2 |
 | Total                                                           | 1:2|
