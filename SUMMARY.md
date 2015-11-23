@@ -5,7 +5,7 @@
 * [Unit 2](unit2_md.md)
    * [Lesson 2.01: Binary Day](lesson_201_binary_day.md)
        * [Do Now 2.01](do_now_201.md)
-   * [Lesson 2.02: Casting](lesson_202_casting.md)
+   * [Lesson 2.02: Data Types & Casting](lesson_202_casting.md)
        * [Do Now 2.02](do_now_202.md)
        * [Lab 2.02](lab_202.md)
        * [Associted Reading](associted_reading.md)
