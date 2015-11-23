@@ -28,4 +28,12 @@ This game will take place in a three story dungeon. The user will have to traver
 | User can only move up or down at an appropriate staircase       | 1:2 |
 | Grab adds an item to the users pocket                           | 1:2 |
 | Monsters either disappear if user has a sword or defeat the user|    |
-| Sword can only be used once                                 |     | 
+| Sword can only be used once they are used                       |     | 
+| Boss monster needs sword and magic stones                       | 1:2 |
+| Prize is blocked by boss monster                                | 1:2 |
+| Total | 1:2|
+
+
+| Technical Correctness                                          | 1:2 |
+| _______________________________________________________________| ____|
+| Csts| cats|
