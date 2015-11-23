@@ -25,7 +25,7 @@ Students will be able to...
 | 10 Minutes | Discussion  |
 
 ## Instructor's Note
-1. Do Now is Students reading through project specs
+1. Do Now is Students reading through project specs or writing down what they plan to accomplish that day in class
 2. Project Overview and Demo 
   1. Present the project. 
   2. Show a demo of the project
