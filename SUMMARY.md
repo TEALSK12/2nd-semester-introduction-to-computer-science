@@ -19,7 +19,7 @@
        * [Do Now 2.06](do_now_206.md)
        * [Lab 2.06](lab_206.md)
    * [Lesson 2.06b: Lists Recap](lesson_206b_lists_recap.md)
-       * Do Now 2.06b
+       * [Do Now 2.06b](do_now_206b.md)
    * [Lesson 2.07: Game Loop](lesson_207_game_loop.md)
        * [Do Now 2.07](do_now_207.md)
        * [Lab 2.07](lab_207.md)
