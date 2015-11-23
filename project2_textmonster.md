@@ -34,7 +34,8 @@ user_floor = 0
 This would put the user at the position of the first room of the first floor
 #### Previous Position
 It will also be helpful to keep track of the user's previous position. At the beginning of the game it's okay to set this to start position. 
-
+#### Bounds Checking
+Bounds checking makes sure that the user doesn't go out 
 
 ## Grading 
 ### Scheme/Rubric
