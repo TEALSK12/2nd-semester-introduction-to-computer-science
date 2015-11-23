@@ -1,4 +1,4 @@
-# Lesson 2.07: Project 2
+# Lesson 2.08: Project 2
 
 ##Learning Objectives
 Students will be able to... 
