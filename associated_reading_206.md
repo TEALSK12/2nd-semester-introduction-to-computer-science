@@ -20,8 +20,8 @@ Similarly, the * operator repeats a list a given number of times:
 The first example repeats [0] four times. The second example repeats the list [1, 2, 3] three times.
 10.5  List slices
 
-The slice operator also works on lists:
-
+The slice operator works on lists:
+```
 >>> t = ['a', 'b', 'c', 'd', 'e', 'f']
 >>> t[1:3]
 ['b', 'c']
@@ -29,6 +29,7 @@ The slice operator also works on lists:
 ['a', 'b', 'c', 'd']
 >>> t[3:]
 ['d', 'e', 'f']
+```
 If you omit the first index, the slice starts at the beginning. If you omit the second, the slice goes to the end. So if you omit both, the slice is a copy of the whole list.
 >>> t[:]
 ['a', 'b', 'c', 'd', 'e', 'f']
