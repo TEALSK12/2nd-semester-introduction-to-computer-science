@@ -12,6 +12,7 @@
    * [Lesson 2.03: Booleans & Expressions](lesson_203_booleans_&_expressions.md)
        * [Do Now 2.03](do_now_203.md)
        * [Lab 2.03](lab_203.md)
+       * Associated Reading 2.03
    * [Lesson 2.04: Conditionals](lesson_204_conditionals.md)
        * [Do Now 2.04](do_now_204.md)
        * [Lab 2.04](lab_204.md)
