@@ -69,19 +69,9 @@ b
 pop modifies the list and returns the element that was removed. If you don’t provide an index, it deletes and returns the last element.
 
 If you know the element you want to remove you can use remove:
+```
 >>> t = ['a', 'b', 'c']
 >>> t.remove('b')
 >>> print t
 ['a', 'c']
-The return value from remove is None.
-To remove more than one element, you can use del with a slice index:
-
->>> t = ['a', 'b', 'c', 'd', 'e', 'f']
->>> del t[1:5]
->>> print t
-['a', 'f']
-As usual, the slice selects all the elements up to, but not including, the second index.
-Exercise 4  
-Write a function called middle that takes a list and returns a new list that contains all but the first and last elements. So middle([1,2,3,4]) should return [2,3].
-Exercise 5  
-Write a function called chop that takes a list, modifies it by removing the first and last elements, and returns None.
+```
