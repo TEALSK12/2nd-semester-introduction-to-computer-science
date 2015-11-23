@@ -27,7 +27,7 @@ Students will be able to...
     2. Have students practice using lists and Boolean expressions 
 3. Opportunities for me: 
     1. This lesson may not be necessary, but the subject might need more time. 
-    2. Quiz
+    2. Quiz: there could also be a quiz after game loop or during the zork lesson
   
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_206.html
