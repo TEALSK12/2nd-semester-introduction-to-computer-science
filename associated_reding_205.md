@@ -29,9 +29,11 @@ As you might expect, you can assign list values to variables:
 # Lists are mutable
 
 The syntax for accessing the elements of a list is the same as for accessing the characters of a string—the bracket operator. The expression inside the brackets specifies the index. Remember that the indices start at 0:
-
+```
 >>> print cheeses[0]
 Cheddar
+```
+
 Unlike strings, lists are mutable. When the bracket operator appears on the left side of an assignment, it identifies the element of the list that will be assigned.
 >>> numbers = [17, 123]
 >>> numbers[1] = 5
