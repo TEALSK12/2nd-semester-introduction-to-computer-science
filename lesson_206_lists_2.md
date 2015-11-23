@@ -25,9 +25,8 @@ Students will be able to...
   1. Ask students what doing `a[0:2]` did? 
     1. slicing: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
     2. Ask what the list would return if you did `a[1:2]`? 
-  2. Ask students what the plus sign does? What does append do? 
-  2. Break for students to practice creating lists. Ask them how they would get the last item in a list. (Hint use the length function!) 
-  3. Ask students to write on the board how they got the last element of a list. Ask another student to write how they would get the second to last element of the list and so on. 
+  2. Ask students what the plus sign does? What does append do? What would happen if you did `append([1, 2, 3])`?
+  3. What does `remove` do? What does `pop` do? 
   4. After accessing this element you can change it. Practice this in class. 
 2. Lab
     1. Practice accessing and updating items in a list
