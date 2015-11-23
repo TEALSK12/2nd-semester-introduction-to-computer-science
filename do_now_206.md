@@ -28,7 +28,6 @@ What happens to a? What is b? What type is b?
 <br>
 <br>
 
-## Part 2 
 ```
  a = []
  print(len(a))
