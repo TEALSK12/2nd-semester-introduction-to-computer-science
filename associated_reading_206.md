@@ -57,20 +57,17 @@ Python provides methods that operate on lists. For example, append adds a new el
 # Deleting elements
 
 There are several ways to delete elements from a list. If you know the index of the element you want, you can use pop:
-
+```
 >>> t = ['a', 'b', 'c']
 >>> x = t.pop(1)
 >>> print t
 ['a', 'c']
 >>> print x
 b
-pop modifies the list and returns the element that was removed. If you don’t provide an index, it deletes and returns the last element.
-If you don’t need the removed value, you can use the del operator:
+```
 
->>> t = ['a', 'b', 'c']
->>> del t[1]
->>> print t
-['a', 'c']
+pop modifies the list and returns the element that was removed. If you don’t provide an index, it deletes and returns the last element.
+
 If you know the element you want to remove (but not the index), you can use remove:
 >>> t = ['a', 'b', 'c']
 >>> t.remove('b')
