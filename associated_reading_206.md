@@ -47,11 +47,12 @@ A slice operator on the left side of an assignment can update multiple elements:
 # List methods
 
 Python provides methods that operate on lists. For example, append adds a new element to the end of a list:
-
+```
 >>> t = ['a', 'b', 'c']
 >>> t.append('d')
 >>> print t
 ['a', 'b', 'c', 'd']
+```
 extend takes a list as an argument and appends all of the elements:
 >>> t1 = ['a', 'b', 'c']
 >>> t2 = ['d', 'e']
