@@ -30,9 +30,9 @@ Students will be able to...
     5. Nested List: a list that is contained within another list. Only counts as 1 element
         1. Ask Students the length of this nested list? 
         2. Ask students how would we get the length of the inner list
-    6. Asks students to write down how they would represent a tic-tac-toe board using lists. Create a tic-tac-toe board. 
+    6. Asks students to write down how they would represent a tic-tac-toe board using lists. Create a tic-tac-toe board with students in class. 
 2. Lab
-    1. Have students practice slicing, adding, removing elements from the tic-tac-toe board
+    1. Have students practice slicing, adding, removing elements from some given lists. 
     2. Implement program from last lab using lists
     3. Create a quiz program
 3. Opportunities for more
