@@ -37,5 +37,5 @@ This game will take place in a three story dungeon. The user will have to traver
 | **Technical Correctness   **                                    | |
 | Correctly use nested lists                                      | cats|
 | Correctly appends items to list of users pocket                 | cats|
-| Correctly uses if statements to check the items in a users pocket                    | 1:2 |
+| Correctly uses if statements to check items in a users pockets  | 1:2 |
 
