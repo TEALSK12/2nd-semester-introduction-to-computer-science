@@ -48,6 +48,7 @@ You can think of a list as a relationship between indices and elements. This rel
 Figure 10.1: State diagram.
 
 Lists are represented by boxes with the word “list” outside and the elements of the list inside. cheeses refers to a list with three elements indexed 0, 1 and 2. numbers contains two elements; the diagram shows that the value of the second element has been reassigned from 123 to 5. empty refers to a list with no elements.
+
 List indices work the same way as string indices:
 
 Any integer expression can be used as an index.
