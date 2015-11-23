@@ -6,6 +6,7 @@ Students will be able to...
 
 ##Materials/Preperation
 * [Project]
+* [Code]
 * Read through the handout,and project so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
