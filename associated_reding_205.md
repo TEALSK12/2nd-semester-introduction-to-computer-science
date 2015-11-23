@@ -35,6 +35,7 @@ Cheddar
 ```
 
 Unlike strings, lists are mutable. When the bracket operator appears on the left side of an assignment, it identifies the element of the list that will be assigned.
+```
 >>> numbers = [17, 123]
 >>> numbers[1] = 5
 >>> print numbers
