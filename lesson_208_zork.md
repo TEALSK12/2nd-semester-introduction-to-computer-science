@@ -21,7 +21,7 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Review      |
-| 30 Minutes | Lab         |
+| 30 Minutes | Project Work|
 | 10 Minutes | Discussion  |
 
 ## Instructor's Note
