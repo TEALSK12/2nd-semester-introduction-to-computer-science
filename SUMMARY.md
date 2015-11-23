@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Curriculum Map](curriculum_map.md)
 * [Unit 2](unit2_md.md)
+   * Lesson 2.01: Binary Day
    * [Lesson 2.02: Casting](lesson_202_casting.md)
        * [Do Now 2.02](do_now_202.md)
        * [Lab 2.02](lab_202.md)
@@ -26,5 +27,4 @@
    * [Project 2: Text Monster](project2_textmonster.md)
    * [Lesson 2.08: Text Game](lesson208_textgame.md)
        * [zork.y](zorky.md)
-   * Lesson 2.01: Binary Day
 
