@@ -14,7 +14,7 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
+| 30 Minutes | Discover    |
 | 10 Minutes | Discussion  |
 
 ## Instructor's Note
@@ -23,17 +23,9 @@ Students will be able to...
   2. Ask students how they counted to 1023? 
     1. Assign each finger to be a number place? [worksheet](https://www.mathsisfun.com/numbers/binary-count-fingers.html)
     2. If this is confusing can try the index card binary. 
-  2. Ask students what they thought having str('12') did? Define this as casting. 
-  3. Ask students what they did to cast an integer into a string? Define the int function if the students were unable to guess it from the lab.
-  4. Break for a few minutes to have students write down how they would produce the following program using the input function:
-    ```
-    > 
-    Give me a number you want to multiply by 2: 4
-    8
-    => None
-    ```
-  5. Have students write their answers on the board. Discuss what would happen if you put in 1.5 instead of 4? If input is a float, can cast with float(num)
-  6. `type`: ask students what they think `type('a')` would return.  Why might you want to use `type`?
+  2. Discuss how everything the computer reads gets turned into binary in the end. 
+    1. How could letters be turned into binary? How can letters be turned into numbers? a = 1, b = 2, c = 3. 
+  4. More fun binary ideas? 
 2. Lab
     1. Practice predicting what casting will do to inputs. 
     2. Create a halving program as well as program that halves to whole numbers. 
