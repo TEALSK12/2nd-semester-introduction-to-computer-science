@@ -72,5 +72,7 @@ if 0 < x:
         print 'x is a positive single-digit number.'
 ```
 The print statement is executed only if we make it past both conditionals, so we can get the same effect with the and operator:
+
+```
 if 0 < x and x < 10:
     print 'x is a positive single-digit number.'
