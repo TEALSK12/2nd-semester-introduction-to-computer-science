@@ -33,7 +33,7 @@ This game will take place in a three story dungeon. The user will have to traver
 | Sword can only be used once                                     | 6   | 
 | Boss monster needs sword and magic stones to be defeated        | 5   |
 | Prize is blocked by boss monster                                | 5   |
-| **Sub total**                                                   | 1:2|
+| **Sub total**                                                   | 50  |
 | **Technical Correctness   **                                    | |
 | Correctly use nested lists                                      | cats|
 | Correctly appends items to list of users pocket                 | cats|
