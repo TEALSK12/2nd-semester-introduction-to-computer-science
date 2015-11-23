@@ -15,17 +15,16 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
+| 30 Minutes | Review      |
 | 10 Minutes | Discussion  |
 
 ## Instructor's Note
 1. Lesson
   1. Go over list `is in` conditionals. Ask what the return value is (Boolean expression)
-    1. Have students practice using this in a if statement (during this time look at the topics they are having problems with and cover them again)
-    2. 
-2. Lab
-    1. Have students practice slicing, adding, removing elements from some given lists. 
-    2. Tic-Tac-toe single move
+    1. Have students practice using the `is in` in an if statement. During this time look at the topics they are having problems
+  2. Review the topics students were confused about
+2. Review
+    1. Have students practice using lists and boolean expressions 
 3. Opportunities for more
     1. If students are moving quickly, start topic of while loop as the game loop 
     2. Keeping score for game
