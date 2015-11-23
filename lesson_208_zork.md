@@ -30,7 +30,7 @@ Students will be able to...
   2. Show a demo of the project
   3. Draw out a game board using nested lists. Have students call out moves and practice going through a game
 2. Design
-    1. Work sheet for 
+    1. Have students stay at their desks and write down what lists they'll need. Break up into two parts.
 3. Opportunities for more
     1. If there is a lot of extra time start reviewing concepts and going over any issues. 
     2. If there is more time have students start reading through the project specs. 
