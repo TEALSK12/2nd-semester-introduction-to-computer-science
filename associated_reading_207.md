@@ -36,6 +36,3 @@ Each time through the loop, the program outputs the value of n and then checks w
 Since n sometimes increases and sometimes decreases, there is no obvious proof that n will ever reach 1, or that the program terminates. For some particular values of n, we can prove termination. For example, if the starting value is a power of two, then the value of n will be even each time through the loop until it reaches 1. The previous example ends with such a sequence, starting with 16.
 
 The hard question is whether we can prove that this program terminates for all positive values of n. So far, no one has been able to prove it or disprove it! (See http://en.wikipedia.org/wiki/Collatz_conjecture.)
-
-Exercise 1  
-Rewrite the function print_n from Section 5.8 using iteration instead of recursion.
