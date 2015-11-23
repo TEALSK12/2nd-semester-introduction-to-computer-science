@@ -20,7 +20,9 @@ Students will be able to...
 
 ## Instructor's Note
 1. Lesson
-  1. 
+  1. Go over list `is in` conditionals. Ask what the return value is (Boolean expression)
+    1. Have students practice using this in a if statement (during this time look at the topics they are having problems with and cover them again)
+    2. 
 2. Lab
     1. Have students practice slicing, adding, removing elements from some given lists. 
     2. Tic-Tac-toe single move
