@@ -27,7 +27,7 @@ Students will be able to...
 2. Lab
     1. Tic-tac-toe with many movies 
 3. Opportunities for more
-    1. If there is a lot of extra time start reviewing 
+    1. If there is a lot of extra time start reviewing concepts and going over any issues. 
     2. If there is more time have students start reading through the project specs. 
   
 
