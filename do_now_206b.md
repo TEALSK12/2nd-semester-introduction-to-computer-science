@@ -31,9 +31,9 @@ Open up the terminal. How would you check if an item was in a three element list
 
 What if the list was much longer? Try typing in the following code: 
 ```
- a = [123, 'First Item', 456]
- a.pop()
- print(a) 
+ a = ['cats', 'dogs', 'pigs']
+ print('dogs' in a)
+ print('cows' in a)
 ```
 <br>
 <br>
