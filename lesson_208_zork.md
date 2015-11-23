@@ -14,7 +14,7 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Project/Demo|
-| 30 Minutes | Project     |
+| 30 Minutes | Design      |
 | 10 Minutes | Discussion  |
 #### Day 2 -7 
 | Duration   | Description |
@@ -26,7 +26,8 @@ Students will be able to...
 
 ## Instructor's Note
 1. Project Overview and Demo 
-  1. Present the project, 
+  1. Present the project. 
+  2. Draw out a game board
   2. Show a demo of the project
 2. Lab
     1. Tic-tac-toe with many movies 
