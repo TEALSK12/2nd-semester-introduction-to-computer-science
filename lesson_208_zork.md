@@ -6,7 +6,8 @@ Students will be able to...
 
 ##Materials/Preperation
 * [Project]
-* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
+* Remove code hints in project, if you think that the students don't need them
+* Read through the handout,and project so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 ##### Day 1
