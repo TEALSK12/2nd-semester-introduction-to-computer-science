@@ -1,7 +1,7 @@
 # Do Now 2.06
 
 ## Part 1
-Open up the terminal. Type the following code. 
+Open up the terminal. Type the following code using interactive mode
 ```
  a = [123, 'First Item', 456, 'Second Item']
  b = a[0:2]
@@ -45,8 +45,6 @@ What does `append` do? What would the length be after `append`?
 <br>
 <br>
 
-
-Type the following into the terminal. What happens? 
 ```
  a = [123, 'First Item', 456]
  a.remove('First Item')
@@ -54,6 +52,17 @@ Type the following into the terminal. What happens?
 ```
 
 What does `remove` do? What would the length be after `remove`? 
+<br>
+<br>
+<br>
+
+```
+ a = [123, 'First Item', 456]
+ a.pop()
+ print(a) 
+```
+
+What does `pop` do? What is the difference between `remove` and `pop`? 
 <br>
 <br>
 <br>
