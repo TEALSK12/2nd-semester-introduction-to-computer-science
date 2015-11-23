@@ -32,10 +32,14 @@ user_room = 0
 user_floor = 0 
 ``` 
 This would put the user at the position of the first room of the first floor
-#### Previous Position
-It will also be helpful to keep track of the user's previous position. At the beginning of the game it's okay to set this to start position. 
-#### Bounds Checking
-Bounds checking makes sure that the user doesn't go out 
+#### User Input
+You will need to check the input of the user to make sure they requested a valid move: 
+```
+if user_input == "down":
+    current_room = maze[user_floor][user_room]
+    if current_room != "stairs down": 
+        print("Can't go downstairs, there are no stairs")
+```
 
 ## Grading 
 ### Scheme/Rubric
