@@ -49,10 +49,11 @@ elif choice == 'c':
     draw_c()
 ```
 Each condition is checked in order. If the first is false, the next is checked, and so on. If one of them is true, the corresponding branch executes, and the statement ends. Even if more than one condition is true, only the first true branch executes.
+
 #Nested conditionals
 
 One conditional can also be nested within another. We could have written the trichotomy example like this:
-
+```
 if x == y:
     print 'x and y are equal'
 else:
@@ -60,6 +61,7 @@ else:
         print 'x is less than y'
     else:
         print 'x is greater than y'
+```
 The outer conditional contains two branches. The first branch contains a simple statement. The second branch contains another if statement, which has two branches of its own. Those two branches are both simple statements, although they could have been conditional statements as well.
 Although the indentation of the statements makes the structure apparent, nested conditionals become difficult to read very quickly. In general, it is a good idea to avoid them when you can.
 
