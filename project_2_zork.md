@@ -27,6 +27,7 @@ This game will take place in a three story dungeon. The user will have to traver
 | User can move `left` or `right`, but not beyond the rooms       | 1:2 |
 | User can only move `up` or `down` at an appropriate staircase   | 1:2 |
 | `Grab` adds an item to the users pocket                         | 1:2 |
+|  User pocket can only hold 3 items                              | 1:2 |
 | `Help` lists all possible commands                              | 1:2 |
 | Monsters either disappear if user has a sword or defeat the user|    |
 | Sword can only be used once                                     |     | 
@@ -36,3 +37,5 @@ This game will take place in a three story dungeon. The user will have to traver
 | **Technical Correctness   **                                    | |
 | Correctly use nested lists                                      | cats|
 | Correctly appends items to list of users pocket                 | cats|
+| Correctly uses if statements to check the items in a users pocket                    | 1:2 |
+
