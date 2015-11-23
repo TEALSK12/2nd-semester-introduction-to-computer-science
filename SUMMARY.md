@@ -24,7 +24,7 @@
    * [Lesson 2.06: Lists 2](lesson_206_lists_2.md)
        * [Do Now 2.06](do_now_206.md)
        * [Lab 2.06](lab_206.md)
-       * Associated Reading 2.06
+       * [Associated Reading 2.06](associated_reading_206.md)
    * [Lesson 2.06b: Lists Recap](lesson_206b_lists_recap.md)
        * [Do Now 2.06b](do_now_206b.md)
        * [Associated Reading 2.06b](associated_reading_206b.md)
