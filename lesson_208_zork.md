@@ -14,7 +14,7 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Project/Demo|
-| 30 Minutes | Lab         |
+| 30 Minutes | Project     |
 | 10 Minutes | Discussion  |
 #### Day 2 -7 
 | Duration   | Description |
