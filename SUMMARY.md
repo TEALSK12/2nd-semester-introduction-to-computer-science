@@ -36,4 +36,5 @@
        * [Project 2: Text Monster](project2_textmonster.md)
        * [zork.y](zorky.md)
 * [Unit 3](unit_3.md)
+   * Lesson 3.01: Built In Functions
 
