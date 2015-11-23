@@ -26,4 +26,5 @@
    * [Project 2: Text Monster](project2_textmonster.md)
    * [Lesson 2.08: Text Game](lesson208_textgame.md)
        * [zork.y](zorky.md)
+   * Lesson 2.01: Binary Day
 
