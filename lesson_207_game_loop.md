@@ -20,7 +20,7 @@ Students will be able to...
 
 ## Instructor's Note
 1. Lesson
-  1. Ask students what the do while loop did return if you did `a[1:2]`?
+  1. Ask students what the while loop did?
     3. What does `remove` do? What does `pop` do? What were the differences. 
     4. Ask students what the plus sign does? What does append do? What would happen if you did `append([1, 2, 3])`?
     5. Nested List: a list that is contained within another list. Only counts as 1 element
