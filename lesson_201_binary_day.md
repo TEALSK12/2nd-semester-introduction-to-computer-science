@@ -19,7 +19,10 @@ Students will be able to...
 
 ## Instructor's Note
 1. Lesson
-  1. Ask students to define 'type'? Talk about types in the context as a way to represent data.(give example of string, int, float) 
+  1. Ask students how they counted to 10
+  2. Ask students how they counted to 1023? 
+    1. Assign each finger to be a number place? [worksheet](https://www.mathsisfun.com/numbers/binary-count-fingers.html)
+    2. If this is confusing can try the index card binary. 
   2. Ask students what they thought having str('12') did? Define this as casting. 
   3. Ask students what they did to cast an integer into a string? Define the int function if the students were unable to guess it from the lab.
   4. Break for a few minutes to have students write down how they would produce the following program using the input function:
