@@ -36,6 +36,7 @@ Students will be able to...
     2. Tic-Tac-toe 9 moves 
 3. Opportunities for more
     1. If students are moving quickly, start topic of while loop as the game loop 
+    2. Keeping score for game 
   
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_206.html
