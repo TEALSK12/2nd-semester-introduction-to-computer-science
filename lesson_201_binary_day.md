@@ -15,7 +15,7 @@ Students will be able to...
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
 | 30 Minutes | Discover    |
-| 10 Minutes | Discussion  |
+| 10 Minutes | Demo        |
 
 ## Instructor's Note
 1. Lesson
