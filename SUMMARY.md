@@ -32,7 +32,7 @@
        * [Do Now 2.07](do_now_207.md)
        * [Lab 2.07](lab_207.md)
        * [Associated Reading 2.07](associated_reading_207.md)
+   * [Project 2: Text Monster](project2_textmonster.md)
    * [Lesson 2.08: Text Game](lesson208_textgame.md)
        * [zork.y](zorky.md)
-   * [Project 2: Text Monster](project2_textmonster.md)
 
