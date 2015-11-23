@@ -4,7 +4,7 @@
 Students will be able to... 
 * Define and identify: string, casting, floating point, integer
 * Describe different representations of data in python 
-* Convert from one data type to another datatype
+* Convert from one data type to another data type
 
 ##Materials/Preperation
 * [Do Now Handout]
