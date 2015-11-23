@@ -37,12 +37,14 @@ If you omit the first index, the slice starts at the beginning. If you omit the 
 ```
 Since lists are mutable, it is often useful to make a copy before performing operations that fold, spindle or mutilate lists.
 A slice operator on the left side of an assignment can update multiple elements:
-
+```
 >>> t = ['a', 'b', 'c', 'd', 'e', 'f']
 >>> t[1:3] = ['x', 'y']
 >>> print t
 ['a', 'x', 'y', 'd', 'e', 'f']
-10.6  List methods
+```
+
+# List methods
 
 Python provides methods that operate on lists. For example, append adds a new element to the end of a list:
 
