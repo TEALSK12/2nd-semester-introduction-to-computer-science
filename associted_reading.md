@@ -1,8 +1,8 @@
 ## Associted Reading
 
-#Chapter 2  Variables, expressions and statements
+#Variables, expressions and statements
 
-##2.1  Values and types
+##2Values and types
 
 A value is one of the basic things a program works with, like a letter or a number. The values we have seen so far are `1`, `2`, and `'Hello, World!'`.
 
