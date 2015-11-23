@@ -40,6 +40,8 @@ Unlike strings, lists are mutable. When the bracket operator appears on the left
 >>> numbers[1] = 5
 >>> print numbers
 [17, 5]
+```
+
 The one-eth element of numbers, which used to be 123, is now 5.
 You can think of a list as a relationship between indices and elements. This relationship is called a mapping; each index “maps to” one of the elements. Figure 10.1 shows the state diagram for cheeses, numbers and empty:
 
