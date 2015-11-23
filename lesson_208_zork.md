@@ -27,10 +27,10 @@ Students will be able to...
 ## Instructor's Note
 1. Project Overview and Demo 
   1. Present the project. 
-  2. Draw out a game board
   2. Show a demo of the project
-2. Lab
-    1. Tic-tac-toe with many movies 
+  3. Draw out a game board using nested lists. Have students call out moves and practice going through a game
+2. Design
+    1. Work sheet for 
 3. Opportunities for more
     1. If there is a lot of extra time start reviewing concepts and going over any issues. 
     2. If there is more time have students start reading through the project specs. 
