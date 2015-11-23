@@ -25,8 +25,7 @@ Students will be able to...
     2. Ask students how you would write this using user input? 
     3. What if you wanted the loop to stop when the user inputted "quit". Ask the students to think and then have a few come up to the board to write out how. 
 2. Lab
-    1. Have students practice slicing, adding, removing elements from some given lists. 
-    2. Tic-Tac-toe 9 moves 
+    1. Tic-tac-toe many moves from before
 3. Opportunities for more
     1. If students are moving quickly, start topic of while loop as the game loop 
     2. Keeping score for game 
