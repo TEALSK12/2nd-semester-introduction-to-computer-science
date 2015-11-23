@@ -1,77 +1,40 @@
 # Do Now 2.06b
 
 Rank the topics you find the most confusing? 
+
 1. Length of Lists
+
 2. Appending elements from a list
+
 3. Indexing Into Lists
+
 4. Popping elements off a list
+
 5. Slicing Lists
+
 6. Adding elements to a list
+
 7. Creating Lists
+
 8. Removing Elements from a list
 
 
 
-Open up the terminal. Type the following code using interactive mode
+Open up the terminal. How would you check if an item was in a three element list? 
 ```
- a = [123, 'First Item', 456, 'Second Item']
- b = a[0:2]
- print(a)
- print(b)
+ a = ['cats', 'dogs', 'pigs']
  
 ```
-
-What happens to a? What is b? What type is b? 
-<br>
-<br>
-<br>
-```
- a = [123, 'First Item', 456]
- a.remove('First Item')
- print(a) 
-```
-
-What does `remove` do? What would the length be after `remove`? 
 <br>
 <br>
 <br>
 
+What if the list was much longer? Try typing in the following code: 
 ```
  a = [123, 'First Item', 456]
  a.pop()
  print(a) 
 ```
-
-What does `pop` do? What is the difference between `remove` and `pop`? 
-<br>
-<br>
-<br>
-```
- a = [123, 'First Item', 456, 'Second Item']
- b = a + ['Third Item']
- print(a)
- print(b)
- 
-```
-
-What happens to a? What is b? What type is b? 
-<br>
-<br>
-<br>
-
-```
- a = []
- print(len(a))
- a.append('First Item')
- print(a)
- 
-```
-What was the length of `[]`?
-<br>
-<br>
-<br>
-
-What does `append` do? What would the length be after `append`? 
 <br>
 <br>
 <br>
