@@ -24,8 +24,8 @@ This game will take place in a three story dungeon. The user will have to traver
 | Functional Correctness(Behavior)                                |     |
 | --------------------------------------------------------------- |-----|
 | Game has three floors                                           | 5   |
-| User can move `left` or `right`, but not beyond the rooms       | 1:2 |
-| User can only move `up` or `down` at an appropriate staircase   | 1:2 |
+| User can move `left` or `right`, but not beyond the rooms       | 10  |
+| User can only move `up` or `down` at an appropriate staircase   | 5   |
 | `Grab` adds an item to the users pocket                         | 1:2 |
 |  User pocket can only hold 3 items                              | 1:2 |
 | `Help` lists all possible commands                              | 1:2 |
