@@ -1,4 +1,4 @@
-#Lesson 2.02: Casting
+#Lesson 2.02: Data Typyes & Casting
 
 ##Learning Objectives
 Students will be able to... 
