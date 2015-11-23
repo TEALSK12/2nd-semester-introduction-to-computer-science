@@ -1,5 +1,6 @@
 # Associated Reading 2.06
 
+List operations
 The + operator concatenates lists:
 
 >>> a = [1, 2, 3]
