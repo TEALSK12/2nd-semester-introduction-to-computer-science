@@ -18,8 +18,6 @@ Rank the topics you find the most confusing?
 
 8. Removing Elements from a list
 
-
-
 Open up the terminal. How would you check if an item was in a three element list? 
 ```
  a = ['cats', 'dogs', 'pigs']
