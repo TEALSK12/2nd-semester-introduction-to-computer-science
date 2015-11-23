@@ -8,9 +8,9 @@ This game will take place in a three story dungeon. The user will have to traver
 ## Details 
 ### Behavior 
 * the game has three floors, each floor is made up of 5 rooms. A room can have: a sword, a monster, magic stones, up-stairs, down-stairs or nothing
-* on each move a user can move to the left room or right room. The user can also move upstairs or downstairs if the room contains an up-staircase or a down-staircase. 
-* users can pick up swords or magic stones if they walk into a room with them. The sword or stones are no longer in the room once grabbed
-* monsters can be defeated if the user has a sword, both the monster and the sword are removed from the room. otherwise the monster defeats the user and the game ends. 
+* on their move a user can try to move to the left room or right room. If there is no room the game should handle this. The user can also move upstairs or downstairs if the room contains an up-staircase or a down-staircase. 
+* on their move a user can pick up swords or magic stones if they walk into a room with them. The sword or stones are no longer in the room once grabbed
+* monsters: guard rooms. Users use a sword to defeat the monster. if they have no sword the game is over. Sword disappears after fighting 
 * boss monster requires a sword and a magic stone to defeat it
 ### Implementation details 
 * there should be a representation of the game using nested lists
