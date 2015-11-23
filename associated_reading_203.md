@@ -47,7 +47,8 @@ n*2 == 4 or n * 10 == 100 is true if either of the conditions is true, that is, 
 Finally, the not operator negates a boolean expression, so `not (x > y)` is true if `x > y` is false, that is, if `x` is less than or equal to `y`.
 
 Strictly speaking, the operands of the logical operators should be boolean expressions, but Python is not very strict. Any nonzero number is interpreted as “true.”
-
+```
 >>> 17 and True
 True
+```
 This flexibility can be useful, but there are some subtleties to it that might be confusing. You might want to avoid it (unless you know what you are doing).
