@@ -6,15 +6,17 @@ In order to write useful programs, we almost always need the ability to check co
 ```
 if x > 0:
     print 'x is positive'
-    ```
+```
+
 The boolean expression after if is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.
 if statements have the same structure as function definitions: a header followed by an indented body. Statements like this are called compound statements.
 
 There is no limit on the number of statements that can appear in the body, but there has to be at least one. Occasionally, it is useful to have a body with no statements (usually as a place keeper for code you haven’t written yet). In that case, you can use the pass statement, which does nothing.
-
+```
 if x < 0:
     pass          # need to handle negative values!
 #Alternative execution
+```
 
 A second form of the if statement is alternative execution, in which there are two possibilities and the condition determines which one gets executed. The syntax looks like this:
 
