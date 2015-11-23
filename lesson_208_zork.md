@@ -29,7 +29,7 @@ Students will be able to...
   1. Present the project. 
   2. Show a demo of the project
   3. Go over design considerations from project spec: 
-    1.Draw out a game board using nested lists. Have students call out moves and practice going through a game
+    1. Draw out a game board using nested lists. Have students call out moves and practice going through a game
 2. Design
     1. Have students stay at their desks and write down what lists they'll need. Break up into parts: parsing user input, keeping track of players position, returning what is at players position 
 3. Review
