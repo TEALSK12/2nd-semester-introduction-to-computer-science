@@ -53,22 +53,8 @@ Python provides methods that operate on lists. For example, append adds a new el
 >>> print t
 ['a', 'b', 'c', 'd']
 ```
-extend takes a list as an argument and appends all of the elements:
->>> t1 = ['a', 'b', 'c']
->>> t2 = ['d', 'e']
->>> t1.extend(t2)
->>> print t1
-['a', 'b', 'c', 'd', 'e']
-This example leaves t2 unmodified.
-sort arranges the elements of the list from low to high:
 
->>> t = ['d', 'c', 'e', 'b', 'a']
->>> t.sort()
->>> print t
-['a', 'b', 'c', 'd', 'e']
-List methods are all void; they modify the list and return None. If you accidentally write t = t.sort(), you will be disappointed with the result.
-
-10.8  Deleting elements
+# Deleting elements
 
 There are several ways to delete elements from a list. If you know the index of the element you want, you can use pop:
 
