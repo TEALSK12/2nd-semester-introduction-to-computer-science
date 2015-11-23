@@ -64,4 +64,5 @@ if user_input == "down":
 | **Sub total**                                                   | 60  |
 | **Total**                                                       | 110 |
 
-
+##Extra Credit
+For extra credit research the random library, and implement a part of the code that allows the user to run away from a fight. 
