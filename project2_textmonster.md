@@ -20,6 +20,22 @@ This game will take place in a three story dungeon. The user will have to traver
 * can only go up if there is an up-staircase, and only go down if there is down-staircase
 * your program should not allow a player to run past the monster, go up or down or past bounds of the game. 
 
+### Design Considerations
+#### Game Board
+The game board is the basis of the game. It will be helpful to design a nested list to represent the terrain. 
+``` maze = [['nothing', 'nothing', 'stairs up'], ['nothing', 'nothing', 'stairs up'], ['prize', 'nothing', 'nothing']]```
+The above code makes a basic 3x3 game board. In this scenario the user can never get back to the bottom floor because there are only stairs up.
+#### User Position
+It will be useful to keep track of the user's position through a variable. 
+``` 
+user_room = 0
+user_floor = 0 
+``` 
+This would put the user at the position of the first room of the first floor
+#### Previous Position
+It will also be helpful to keep track of the user's previous position. At the beginning of the game it's okay to set this to start position. 
+
+
 ## Grading 
 ### Scheme/Rubric
 | Functional Correctness(Behavior)                                |     |
