@@ -28,7 +28,7 @@ This game will take place in a three story dungeon. The user will have to traver
 | User can move `left` or `right`, but not beyond the rooms       | 10  |
 | User can only move `up` or `down` at an appropriate staircase   | 5   |
 | `Grab` adds an item to the users pocket                         | 5   |
-|  User pocket can hold 3 items                              | 2   |
+|  User pocket can hold 3 items                                   | 2   |
 | `Help` lists all possible commands                              | 2   |
 | Monsters either disappear if user has a sword or defeat the user| 5   |
 | Sword can only be used once                                     | 6   | 
