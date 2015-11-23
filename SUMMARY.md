@@ -16,7 +16,7 @@
    * [Lesson 2.04: Conditionals](lesson_204_conditionals.md)
        * [Do Now 2.04](do_now_204.md)
        * [Lab 2.04](lab_204.md)
-       * Associated Reading 2.04
+       * [Associated Reading 2.04](associated_reading_204.md)
    * [Lesson 2.05: Lists](lesson_205_lists.md)
        * [Do Now 2.05](donow_205.md)
        * [Lab 2.05](lab_205.md)
