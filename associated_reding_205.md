@@ -18,13 +18,15 @@ A list within another list is nested.
 A list that contains no elements is called an empty list; you can create one with empty brackets, [].
 
 As you might expect, you can assign list values to variables:
-
+```
 >>> cheeses = ['Cheddar', 'Edam', 'Gouda']
 >>> numbers = [17, 123]
 >>> empty = []
 >>> print cheeses, numbers, empty
 ['Cheddar', 'Edam', 'Gouda'] [17, 123] []
-10.2  Lists are mutable
+```
+
+# Lists are mutable
 
 The syntax for accessing the elements of a list is the same as for accessing the characters of a string—the bracket operator. The expression inside the brackets specifies the index. Remember that the indices start at 0:
 
