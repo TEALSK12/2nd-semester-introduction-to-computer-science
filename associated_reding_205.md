@@ -54,11 +54,3 @@ List indices work the same way as string indices:
 Any integer expression can be used as an index.
 If you try to read or write an element that does not exist, you get an IndexError.
 If an index has a negative value, it counts backward from the end of the list.
-
-The in operator also works on lists.
-
->>> cheeses = ['Cheddar', 'Edam', 'Gouda']
->>> 'Edam' in cheeses
-True
->>> 'Brie' in cheeses
-False
