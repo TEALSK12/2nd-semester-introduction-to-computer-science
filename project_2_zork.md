@@ -34,7 +34,7 @@ This game will take place in a three story dungeon. The user will have to traver
 | Boss monster needs sword and magic stones to be defeated        | 5   |
 | Prize is blocked by boss monster                                | 5   |
 | **Sub total**                                                   | 50  |
-| **Technical Correctness   **                                    | |
+| **Technical Correctness   **                                    |     |
 | Correctly use nested lists                                      | cats|
 | Correctly appends items to list of users pocket                 | cats|
 | Correctly uses if statements to check items in a users pockets  | 1:2 |
