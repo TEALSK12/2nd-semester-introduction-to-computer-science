@@ -1,7 +1,5 @@
 # Do Now 2.07
 
-## Part 1
-
 How would you print out something 10 times? What about 100? What about 1,000? Can you remember something from SNAP! that might allow that? 
 <br>
 <br>
