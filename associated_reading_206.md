@@ -68,7 +68,7 @@ b
 
 pop modifies the list and returns the element that was removed. If you don’t provide an index, it deletes and returns the last element.
 
-If you know the element you want to remove (but not the index), you can use remove:
+If you know the element you want to remove you can use remove:
 >>> t = ['a', 'b', 'c']
 >>> t.remove('b')
 >>> print t
