@@ -14,5 +14,7 @@ This game will take place in a three story dungeon. The user will have to traver
 * boss monster requires a sword and a magic stone to defeat it
 ### Implementation details 
 * there should be a representation of the game using nested lists
-* a list to keep track of 
-input left, right to explore across a floor. If you come across a stairs you can go up or down. If you come across an item you can pick it up. If you come across a monster you can either fight or run back. To win a battle with a monster you must 
+* a list to keep track of the user's items, at the beggining of the game it's empty 
+* 3 different monsters placed throughout the game which require a sword to win
+* a boss monster which requires magic stones and a sword to defeat
+* can only go up if there is an up-staircase, and only go down if there is down-staircase
