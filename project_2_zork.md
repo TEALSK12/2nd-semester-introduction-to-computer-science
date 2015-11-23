@@ -33,4 +33,4 @@ This game will take place in a three story dungeon. The user will have to traver
 | Prize is blocked by boss monster                                | 1:2 |
 | Total | 1:2|
 | **Technical Correctness   **                                   | |
-| Csts| cats|
+| Correctly use nested lists                                    | cats|
