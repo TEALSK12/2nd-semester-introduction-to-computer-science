@@ -32,8 +32,5 @@ This game will take place in a three story dungeon. The user will have to traver
 | Boss monster needs sword and magic stones                       | 1:2 |
 | Prize is blocked by boss monster                                | 1:2 |
 | Total | 1:2|
-
-
-| Technical Correctness                                          | 1:2 |
-| _______________________________________________________________| ____|
+| **Technical Correctness   **                                   | |
 | Csts| cats|
