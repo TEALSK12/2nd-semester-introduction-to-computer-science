@@ -8,7 +8,7 @@ This game will take place in a three story dungeon. The user will have to traver
 ## Details 
 ### Behavior 
 * the game has three floors, each floor is made up of 5 rooms. A room can have: a sword, a monster, magic stones, up-stairs, down-stairs or nothing
-* left, right move the user to the left or to the right room, an up-stairs can move the user to the next level up, a downstairs can move the user down a level. 
+* left and right move the user to the left room or to the right room.  An upstairs can move the user to the next level up, a downstairs can move the user down a level. 
 * users can pick up swords or magic stones if they walk across them. They are no longer in the room once grabbed
 * monsters can be defeated if the user has a sword, both the moster and the sword are removed from the 
 * boss monster requires a sword and a magic stone to defeat it
