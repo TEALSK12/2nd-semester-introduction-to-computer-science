@@ -39,5 +39,5 @@ Students will be able to...
     2. Keeping score for game 
   
 
-[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_206.html
-[Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lab_206.html
+[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_207.html
+[Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lab_207.html
