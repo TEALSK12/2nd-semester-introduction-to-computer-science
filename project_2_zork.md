@@ -21,3 +21,6 @@ This game will take place in a three story dungeon. The user will have to traver
 
 ## Grading 
 ### Scheme/Rubric
+| Functional Correctness(Behavior) | |
+| -------------------------------- |-|
+|  | 1:2 |
