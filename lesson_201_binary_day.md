@@ -15,7 +15,7 @@ Students will be able to...
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
 | 30 Minutes | Discover    |
-| 10 Minutes | Demo        |
+| 10 Minutes | Discuss     |
 
 ## Instructor's Note
 1. Lesson
@@ -26,6 +26,8 @@ Students will be able to...
   3. More binary practicing
   4. Discuss how everything the computer reads gets turned into binary in the end. 
     1. How could letters be turned into binary? How can letters be turned into numbers? a = 1, b = 2, c = 3. 
+2. Demo
+    1. After the 
 
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_201.html
