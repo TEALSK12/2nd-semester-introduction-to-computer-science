@@ -2,10 +2,8 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: slice, append, remove, nested list
-* Slice a list
-* Add and remove elements from a list
-* Access items from a nested list
+* Define and identify: while
+* Use a while list to simulate game play
 
 ##Materials/Preperation
 * [Do Now Handout]
