@@ -23,9 +23,7 @@ Students will be able to...
   1. Ask students what the while loop did?
     1. Go over the syntax. 
     2. Ask students how you would write this using user input? 
-    3. What if you wanted the loop to stop when the user inputted "quit". Ask the students to think and then have one come up to the board to write out how. 
-    5. 
-    6. Asks students to write down how they would represent a tic-tac-toe board using lists. Create a tic-tac-toe board with students in class. 
+    3. What if you wanted the loop to stop when the user inputted "quit". Ask the students to think and then have a few come up to the board to write out how. 
 2. Lab
     1. Have students practice slicing, adding, removing elements from some given lists. 
     2. Tic-Tac-toe 9 moves 
