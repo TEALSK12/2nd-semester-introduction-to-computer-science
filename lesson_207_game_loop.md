@@ -21,11 +21,10 @@ Students will be able to...
 ## Instructor's Note
 1. Lesson
   1. Ask students what the while loop did?
-    3. Go over the syntax. Ask students how you write it
-    4. Ask students what the plus sign does? What does append do? What would happen if you did `append([1, 2, 3])`?
-    5. Nested List: a list that is contained within another list. Only counts as 1 element
-        1. Ask Students the length of this nested list? 
-        2. Ask students how would we get the length of the inner list
+    1. Go over the syntax. 
+    2. Ask students how you would write this using user input? 
+    3. What if you wanted the loop to stop when the user inputted "quit". Ask the students to think and then have one come up to the board to write out how. 
+    5. 
     6. Asks students to write down how they would represent a tic-tac-toe board using lists. Create a tic-tac-toe board with students in class. 
 2. Lab
     1. Have students practice slicing, adding, removing elements from some given lists. 
