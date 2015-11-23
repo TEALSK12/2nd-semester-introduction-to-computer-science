@@ -2,12 +2,11 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: while
-* Use a while list to simulate game play
+* use knowledge of lists, booleans, conditionals, and while loops 
 
 ##Materials/Preperation
 * [Do Now Handout]
-* [Lab]
+* [Project]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
