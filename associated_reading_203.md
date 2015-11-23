@@ -44,7 +44,7 @@ There are three logical operators: `and`, `or`, and `not`. The semantics (meanin
 
 n*2 == 4 or n * 10 == 100 is true if either of the conditions is true, that is, if the number is 2 or 10.
 
-Finally, the not operator negates a boolean expression, so not (x > y) is true if x > y is false, that is, if x is less than or equal to y.
+Finally, the not operator negates a boolean expression, so `not (x > y)` is true if `x > y` is false, that is, if `x` is less than or equal to `y`.
 
 Strictly speaking, the operands of the logical operators should be boolean expressions, but Python is not very strict. Any nonzero number is interpreted as “true.”
 
