@@ -5,7 +5,6 @@ Students will be able to...
 * use knowledge of lists, booleans, conditionals, and while loops 
 
 ##Materials/Preperation
-* [Do Now Handout]
 * [Project]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
