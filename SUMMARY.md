@@ -21,5 +21,5 @@
    * [Lesson 2.07: Game Loop](lesson_207_game_loop.md)
        * [Do Now 2.07](do_now_207.md)
        * [Lab 2.07](lab_207.md)
-   * Project 2: Zork 
+   * [Project 2: Zork](project_2_zork.md)
 
