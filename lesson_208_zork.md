@@ -25,11 +25,9 @@ Students will be able to...
 | 10 Minutes | Discussion  |
 
 ## Instructor's Note
-1. Lesson
-  1. Ask students what the while loop did?
-    1. Go over the syntax. 
-    2. Ask students how you would write this using user input? 
-    3. What if you wanted the loop to stop when the user inputted "quit". Ask the students to think and then have a few come up to the board to write out how. 
+1. Project Overview and Demo 
+  1. Present the project, 
+  2. Show a demo of the project
 2. Lab
     1. Tic-tac-toe with many movies 
 3. Opportunities for more
