@@ -27,7 +27,8 @@ Students will be able to...
 2. Lab
     1. Tic-tac-toe with many movies 
 3. Opportunities for more
-    1. If there is more time have students start reading through 
+    1. If there is a lot of extra time start reviewing 
+    2. If there is more time have students start reading through the project specs. 
   
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_207.html
