@@ -18,3 +18,6 @@ This game will take place in a three story dungeon. The user will have to traver
 * 3 different monsters placed throughout the game which require a sword to win
 * a boss monster which requires magic stones and a sword to defeat
 * can only go up if there is an up-staircase, and only go down if there is down-staircase
+
+## Grading 
+### Scheme/Rubric
