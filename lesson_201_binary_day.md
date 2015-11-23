@@ -23,9 +23,9 @@ Students will be able to...
   2. Ask students how they counted to 1023? 
     1. Assign each finger to be a number place? [worksheet](https://www.mathsisfun.com/numbers/binary-count-fingers.html)
     2. If this is confusing can try the index card binary. 
-  2. Discuss how everything the computer reads gets turned into binary in the end. 
+  3. More binary practicing
+  4. Discuss how everything the computer reads gets turned into binary in the end. 
     1. How could letters be turned into binary? How can letters be turned into numbers? a = 1, b = 2, c = 3. 
-  4. More fun binary ideas? 
 2. Lab
     1. Practice predicting what casting will do to inputs. 
     2. Create a halving program as well as program that halves to whole numbers. 
