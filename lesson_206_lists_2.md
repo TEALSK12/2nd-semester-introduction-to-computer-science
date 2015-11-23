@@ -33,9 +33,9 @@ Students will be able to...
     6. Asks students to write down how they would represent a tic-tac-toe board using lists. Create a tic-tac-toe board with students in class. 
 2. Lab
     1. Have students practice slicing, adding, removing elements from some given lists. 
-    2. Tic-Tac-toe
+    2. Tic-Tac-toe 9 moves 
 3. Opportunities for more
-    1. If students are moving quickly, start topic of nested lists. Start of with a simple nested list like `['a', 'b', 'c', [1, 2, 3]]`. Ask the students to guess the length. Ask the students to guess how they would access the item '1' from that list! 
+    1. If students are moving quickly, start topic of while loop as the game loop 
   
 
 [Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_206.html
