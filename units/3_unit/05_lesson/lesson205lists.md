@@ -1,10 +1,10 @@
-# Lesson 3.01: Built In Functions
+# Lesson 2.05: Lists
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: function, type, floating point, integer
+* Define and identify: list, item, index, integer
 * Describe different representations of data in python 
-* Convert from one data type to another data type
+* Convert from one data type to another datatype
 
 ##Materials/Preperation
 * [Do Now Handout]
@@ -31,7 +31,6 @@ Students will be able to...
     => None
     ```
   5. Have students write their answers on the board. Discuss what would happen if you put in 1.5 instead of 4? If input is a float, can cast with float(num)
-  6. `type`: ask students what they think `type('a')` would return.  Why might you want to use `type`?
 2. Lab
     1. Practice predicting what casting will do to inputs. 
     2. Create a halving program as well as program that halves to whole numbers. 

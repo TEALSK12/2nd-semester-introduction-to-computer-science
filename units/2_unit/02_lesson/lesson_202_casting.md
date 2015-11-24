@@ -1,8 +1,8 @@
-# Lesson 3.01: Built In Functions
+#Lesson 2.02: Data Types & Casting
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: function, type, floating point, integer
+* Define and identify: string, casting, floating point, integer
 * Describe different representations of data in python 
 * Convert from one data type to another data type
 
