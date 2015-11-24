@@ -6,7 +6,7 @@ def print_twice():
     print("two times")
     print("two times")
  ```
-How did you accomplish this? Did you feel like something was missing in your program? 
+? 
 <br>
 <br>
 <br>
