@@ -9,7 +9,7 @@
    * [Lesson 2.02: Data Types & Casting](units/2_unit/02_lesson/lesson_202_casting.md)
        * [Do Now 2.02](units/2_unit/02_lesson/do_now_202.md)
        * [Lab 2.02](units/2_unit/02_lesson/lab_202.md)
-       * [Associted Reading](units/2_unit/01_lesson/associted_reading.md)
+       * [Associted Reading](units/2_unit/02_lesson/associted_reading.md)
    * [Lesson 2.03: Booleans & Expressions](lesson_203_booleans_&_expressions.md)
        * [Do Now 2.03](do_now_203.md)
        * [Lab 2.03](lab_203.md)
