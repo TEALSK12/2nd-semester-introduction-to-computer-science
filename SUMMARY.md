@@ -30,7 +30,7 @@
        * [Do Now 2.06b](units/2_unit/06_lesson/do_now_206b.md)
        * [Associated Reading 2.06b](units/2_unit/06_lesson/associated_reading_206b.md)
    * [Lesson 2.07: Game Loop](units/2_unit/07_lesson/lesson_207_game_loop.md)
-       * [Do Now 2.07](do_now_207.md)
+       * [Do Now 2.07](units/2_unit/07_lesson/do_now_207.md)
        * [Lab 2.07](lab_207.md)
        * [Associated Reading 2.07](associated_reading_207.md)
    * [Lesson 2.08: Text Game](lesson208_textgame.md)
