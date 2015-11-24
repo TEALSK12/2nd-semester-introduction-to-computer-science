@@ -1,54 +1,56 @@
 # Associated Reading 3.03
 
-#Expressions and statements
+#Return values
 
-An expression is a combination of values, variables, and operators. A value all by itself is considered an expression, and so is a variable, so the following are all legal expressions (assuming that the variable x has been assigned a value):
+Some of the built-in functions we have used, such as the math functions, produce results. Calling the function generates a value, which we usually assign to a variable or use as part of an expression.
+
 ```
-17
-x
-x + 17
+e = math.exp(1.0)
+height = radius * math.sin(radians)
 ```
-A statement is a unit of code that the Python interpreter can execute. We have seen two kinds of statement: print and assignment.
+All of the functions we have written so far are void; they print something or move turtles around, but their return value is None.
+In this chapter, we are (finally) going to write fruitful functions. The first example is area, which returns the area of a circle with the given radius:
 
-Technically an expression is also a statement, but it is probably simpler to think of them as different things. The important difference is that an expression has a value; a statement does not.
-
-#Boolean expressions
-
-A boolean expression is an expression that is either true or false. The following examples use the operator `==`, which compares two operands and produces True if they are equal and False otherwise:
 ```
->>> 5 == 5
-True
->>> 5 == 6
-False
-````
-True and False are special values that belong to the type bool; they are not strings:
+def area(radius):
+    temp = math.pi * radius**2
+    return temp
+ ```
+This statement means: “Return immediately from this function and use the following expression as a return value.” The expression can be arbitrarily complicated, so we could have written this function more concisely:
+
 ```
->>> type(True)
-<type 'bool'>
->>> type(False)
-<type 'bool'>
+def area(radius):
+    return math.pi * radius**2
 ```
-The `==` operator is one of the relational operators; the others are:
+On the other hand, temporary variables like temp often make debugging easier.
+Sometimes it is useful to have multiple return statements, one in each branch of a conditional:
 
-      x != y               # x is not equal to y
-      x > y                # x is greater than y
-      x < y                # x is less than y
-      x >= y               # x is greater than or equal to y
-      x <= y               # x is less than or equal to y
-      
-Although these operations are probably familiar to you, the Python symbols are different from the mathematical symbols. A common error is to use a single equal sign (`=`) instead of a double equal sign (`==`). Remember that `=` is an assignment operator and `==` is a relational operator. There is no such thing as `=<` or `=>`.
-
-# Logical operators
-
-There are three logical operators: `and`, `or`, and `not`. The semantics (meaning) of these operators is similar to their meaning in English. For example, `x > 0` and `x < 10` is true only if x is greater than 0 and less than 10.
-
-n*2 == 4 or n * 10 == 100 is true if either of the conditions is true, that is, if the number is 2 or 10.
-
-Finally, the not operator negates a boolean expression, so `not (x > y)` is true if `x > y` is false, that is, if `x` is less than or equal to `y`.
-
-Strictly speaking, the operands of the logical operators should be boolean expressions, but Python is not very strict. Any nonzero number is interpreted as “true.”
 ```
->>> 17 and True
-True
+def absolute_value(x):
+    if x < 0:
+        return -x
+    else:
+        return x
+ ```
+Since these return statements are in an alternative conditional, only one will be executed.
+As soon as a return statement executes, the function terminates without executing any subsequent statements. Code that appears after a return statement, or any other place the flow of execution can never reach, is called dead code.
+
+It is a good idea to ensure that every possible path through the program hits a return statement. For example:
+
 ```
-This flexibility can be useful, but there are some subtleties to it that might be confusing. You might want to avoid it (unless you know what you are doing).
+def absolute_value(x):
+    if x < 0:
+        return -x
+    if x > 0:
+        return x
+```
+This function is incorrect because if x happens to be 0, neither condition is true, and the function ends without hitting a return statement. If the flow of execution gets to the end of a function, the return value is None, which is not the absolute value of 0.
+
+```
+>>> print absolute_value(0)
+None
+```
+By the way, Python provides a built-in function called abs that computes absolute values.
+
+###Exercise 1  
+Write a compare function that returns 1 if x > y, 0 if x == y, and -1 if x < y.

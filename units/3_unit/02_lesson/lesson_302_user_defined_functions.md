@@ -1,4 +1,4 @@
-#Lesson 3.02: User Defined Types
+#Lesson 3.02: User Defined Functions
 
 ##Learning Objectives
 Students will be able to... 
@@ -28,9 +28,11 @@ Students will be able to...
   	2. arguments
   3. Ask students how they would call the function, what about a function that takes in arguments
   4. Have students practice making a function that takes arguments and sum them. Saving both the variables as the sum in the function. 
+  5. Introduce concept of a function contract. Using `#` which adds a comment (non executed line to code)
+  	1. explain what the function will do, arguemtns it takes in (and their types)
 2. Lab
     1. Practice making a function that will take in a name, and sing 'happy birthday' to that name. 
-    2. Convert a snap program into python
+    2. Create a function that randomly selects 5 cards from a deck of cards (repeating allowed)
 3. Opportunities for more
     1. If students are moving quickly, they could go back and use functions in an old project
   

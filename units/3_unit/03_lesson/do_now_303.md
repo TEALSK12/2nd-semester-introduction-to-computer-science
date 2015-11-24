@@ -4,8 +4,9 @@ Open up the terminal. Type the following code into the editor.
 
 ```
 import random
-# inputs => x: int, y: int
-# outputs => int 
+# inputs:  x, int
+           y, int
+# outputs: int 
 # 50% returns sum of x and y, 50% returns product of x and y
 def mystery_functions(x, y):
 	random_number = random.randint(0,2)
