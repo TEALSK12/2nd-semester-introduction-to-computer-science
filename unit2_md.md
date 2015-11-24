@@ -8,6 +8,6 @@
 | Conditionals             |  |
 | Lists                    |  |
 | Lists(2)                 |  |
-| Lists Recap |  |
-| Game Loop |  |
-| Text Game |  |
+| Lists Recap              |  |
+| Game Loop                |  |
+| Project                  |  |
