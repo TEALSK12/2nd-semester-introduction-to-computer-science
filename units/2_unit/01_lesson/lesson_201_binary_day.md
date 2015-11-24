@@ -23,8 +23,7 @@ Students will be able to...
   2. Ask students how they counted to 1023? 
   3. Explain Binary: different base of counting. on the board right out lines with 1 2 4 8 underneath. Explain 10 is 2 in binary because there is a 1 in the twos spot and nothing in the 1s spot. Do a few more examples. Once students are understanding do one of the following activities:
     1. Have students write 1 2 4 8 16 32 ... on the bottom of a note card spaced out about half an inch a part. Cut out so that the letters are each on a flap. Call off n and have students fold up the note card sections to make that number 
-    2. Have students n students walk up to the front of the classroom. Have them hold the place they represent. 
-    2. If this is confusing can try the index card binary. 
+    2. Have students n students walk up to the front of the classroom. Have them hold the place they represent and have a 2^n written on a sheet of paper (so student's have 0 or 2 or 4 or ... written on their paper). Call out numbers and the students have to decide if their number should be up or not. 
   3. What else can be represented by binary? Answer (ANYTHING)
     1. Picture example: 
         1. Show kids this photo : ![Stary Night](starynight.png), say these get put into 0/1 
