@@ -11,7 +11,7 @@
        * [Lab 2.02](units/2_unit/02_lesson/lab_202.md)
        * [Associted Reading](units/2_unit/02_lesson/associted_reading.md)
    * [Lesson 2.03: Booleans & Expressions](units/2_unit/03_lesson/lesson_203_booleans_&_expressions.md)
-       * [Do Now 2.03](do_now_203.md)
+       * [Do Now 2.03](units/2_unit/03_lesson/do_now_203.md)
        * [Lab 2.03](lab_203.md)
        * [Associated Reading 2.03](associated_reading_203.md)
    * [Lesson 2.04: Conditionals](lesson_204_conditionals.md)
