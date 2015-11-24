@@ -35,5 +35,4 @@
    * [Lesson 2.08: Text Game](lesson208_textgame.md)
        * [Project 2: Text Monster](project2_textmonster.md)
        * [zork.y](zorky.md)
-* Unit 3
 
