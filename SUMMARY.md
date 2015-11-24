@@ -36,7 +36,7 @@
    * [Lesson 2.08: Text Game](units/2_unit/08_lesson/lesson208_textgame.md)
        * [Project 2: Text Monster](units/2_unit/08_lesson/project2_textmonster.md)
        * [zork.y](units/2_unit/08_lesson/zorky.md)
-* [Unit 2](unit2_md.md)
+* [Unit 3](units/3_unitunit3_md.md)
    * [Lesson 2.01: Binary Day](units/2_unit/01_lesson/lesson_201_binary_day.md)
        * [Do Now 2.01](units/2_unit/01_lesson/do_now_201.md)
    * [Lesson 2.02: Data Types & Casting](units/2_unit/02_lesson/lesson_202_casting.md)
