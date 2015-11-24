@@ -47,3 +47,7 @@
        * [Do Now 3.03](units/3_unit/03_lesson/do_now_303.md)
        * [Lab 3.03](units/3_unit/03_lesson/lab_303.md)
        * [Associated Reading 3.03](units/3_unit/03_lesson/associated_reading_303.md)
+   * [Lesson 3.04: Debugging and Scope](units/3_unit/04_lesson/lesson_304_return_vs_print.md)
+       * [Do Now 3.03](units/3_unit/04_lesson/do_now_304.md)
+       * [Lab 3.03](units/3_unit/04_lesson/lab_304.md)
+       * [Associated Reading 3.03](units/3_unit/04_lesson/associated_reading_304.md)
