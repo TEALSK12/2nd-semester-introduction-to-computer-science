@@ -21,7 +21,9 @@ Students will be able to...
 1. Lesson
   1. Ask students how they counted to 10
   2. Ask students how they counted to 1023? 
-    1. Assign each finger to be a number place? [worksheet](https://www.mathsisfun.com/numbers/binary-count-fingers.html)
+  3. Explain Binary: different base of counting. on the board right out lines with 1 2 4 8 underneath. Explain 10 is 2 in binary because there is a 1 in the twos spot and nothing in the 1s spot. Do a few more examples. Once students are understanding do one of the following activities:
+    1. Have students write 1 2 4 8 16 32 ... on the bottom of a note card spaced out about half an inch a part. Cut out so that the letters are each on a flap. Call off n and have students fold up the note card sections to make that number 
+    2. Have students n students walk up to the front of the classroom. Have them hold the place they represent. 
     2. If this is confusing can try the index card binary. 
   3. More binary practicing
   4. Discuss how everything the computer reads gets turned into binary in the end. 
