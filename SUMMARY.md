@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Curriculum Map](curriculum_map.md)
 * [SUMMARY.md](SUMMARY.md)
-* [Unit 2](unit2_md.md)
+* [Unit 2](units/2_unit/unit2_md.md)
    * [Lesson 2.01: Binary Day](units/2_unit/01_lesson/lesson_201_binary_day.md)
        * [Do Now 2.01](units/2_unit/01_lesson/do_now_201.md)
    * [Lesson 2.02: Data Types & Casting](units/2_unit/02_lesson/lesson_202_casting.md)
