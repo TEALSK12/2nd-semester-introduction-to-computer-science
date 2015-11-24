@@ -14,7 +14,7 @@
        * [Do Now 2.03](units/2_unit/03_lesson/do_now_203.md)
        * [Lab 2.03](units/2_unit/03_lesson/lab_203.md)
        * [Associated Reading 2.03](units/2_unit/03_lesson/associated_reading_203.md)
-   * [Lesson 2.04: Conditionals](lesson_204_conditionals.md)
+   * [Lesson 2.04: Conditionals](units/2_unit/04_lesson/lesson_204_conditionals.md)
        * [Do Now 2.04](do_now_204.md)
        * [Lab 2.04](lab_204.md)
        * [Associated Reading 2.04](associated_reading_204.md)
