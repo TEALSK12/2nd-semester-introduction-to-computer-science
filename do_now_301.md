@@ -1,9 +1,10 @@
 # Do Now 3.01
 
-Create a schedule program. Given the hour of the day print out where you should be. If you're not doing anything else you should be "sleeping"
+Type the following code into the editor. How do you make the program actually print? 
 ```
- >>> What hour? 12pm
- >>> You should be at lunch!
+def print_twice(): 
+    print("two times")
+    print("two times")
  ```
 How did you accomplish this? Did you feel like something was missing in your program? 
 <br>
