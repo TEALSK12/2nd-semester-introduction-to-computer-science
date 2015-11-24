@@ -20,4 +20,4 @@
 [Lists(2)]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_206_lists_2.html                 
 [Lists Recap]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_206b_lists_recap.html
 [Game Loop]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_207_game_loop.html
-[Project]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson208_textgame.html              
+[Project]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson208_textgame.html
