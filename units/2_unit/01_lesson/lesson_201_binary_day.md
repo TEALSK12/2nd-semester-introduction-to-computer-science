@@ -25,7 +25,8 @@ Students will be able to...
     1. Have students write 1 2 4 8 16 32 ... on the bottom of a note card spaced out about half an inch a part. Cut out so that the letters are each on a flap. Call off n and have students fold up the note card sections to make that number 
     2. Have students n students walk up to the front of the classroom. Have them hold the place they represent. 
     2. If this is confusing can try the index card binary. 
-  3. More binary practicing
+  3. What else can be represented by binary? Answer (ANYTHING)
+    1. Picture example: Show kids this photo : 
   4. Discuss how everything the computer reads gets turned into binary in the end. 
     1. How could letters be turned into binary? How can letters be turned into numbers? a = 1, b = 2, c = 3. 
 
