@@ -65,4 +65,4 @@ if user_input == "down":
 | **Total**                                                       | 110 |
 
 ##Extra Credit
-For extra credit research the random library, and implement a part of the code that allows the user to run away from a fight. 
+Add the command `run`, which allows a player to run away from a fight with a monster. This should work 40% of the time. (Hint: Research the random library)
