@@ -35,5 +35,5 @@
        * [Associated Reading 2.07](units/2_unit/07_lesson/associated_reading_207.md)
    * [Lesson 2.08: Text Game](units/2_unit/08_lesson/lesson208_textgame.md)
        * [Project 2: Text Monster](units/2_unit/08_lesson/project2_textmonster.md)
-       * [zork.y](zorky.md)
+       * [zork.y](units/2_unit/08_lesson/zorky.md)
 
