@@ -12,7 +12,7 @@
 | [Game Loop]                |  
 | [Project]                  | 
 
-[Binary Day]:                
+[Binary Day]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_201_binary_day.html             
 [Data Types and Casting]     
 [Booleans and Expressions]   
 [Conditionals]               
