@@ -37,4 +37,5 @@
        * [zork.y](zorky.md)
 * [Unit 3](unit_3.md)
    * [Lesson 3.01: Built In Functions](lesson_301_built_in_functions.md)
+       * Do Now 3.01
 
