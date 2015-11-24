@@ -36,7 +36,7 @@
    * [Lesson 2.08: Text Game](units/2_unit/08_lesson/lesson208_textgame.md)
        * [Project 2: Text Monster](units/2_unit/08_lesson/project2_textmonster.md)
        * [zork.y](units/2_unit/08_lesson/zorky.md)
-* [Unit 3](units/3_unitunit3_md.md)
+* [Unit 3](units/3_unit/unit3_md.md)
    * [Lesson 3.01: Built In Functions](units/3_unit/01_lesson/lesson_301_built_in_functions.md)
        * [Do Now 3.01](units/3_unit/01_lesson/do_now_301.md)
    * [Lesson 3.02: User Defined Types](units/3_unit/02_lesson/lesson_302_user_defined_functions.md)
