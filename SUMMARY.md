@@ -52,6 +52,6 @@
        * [Lab 3.03](units/3_unit/04_lesson/lab_304.md)
        * [Associated Reading 3.03](units/3_unit/04_lesson/associated_reading_304.md)
    * [Lesson 3.05: Oregon Trail](units/3_unit/03_lesson/lesson_305_project.md)
-       * [Do Now 3.03](units/3_unit/03_lesson/do_now_303.md)
+       * [File](units/3_unit/03_lesson/oregon_trail.py)
        * [Lab 3.03](units/3_unit/03_lesson/lab_303.md)
        * [Associated Reading 3.03](units/3_unit/03_lesson/associated_reading_303.md)
