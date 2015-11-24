@@ -22,7 +22,7 @@
        * [Do Now 2.05](units/2_unit/05_lesson/donow_205.md)
        * [Lab 2.05](units/2_unit/05_lesson/lab_205.md)
        * [Associated Reding 2.05](units/2_unit/05_lesson/associated_reding_205.md)
-   * [Lesson 2.06: Lists 2](lesson_206_lists_2.md)
+   * [Lesson 2.06: Lists 2](units/2_unit/05_lesson/lesson_206_lists_2.md)
        * [Do Now 2.06](do_now_206.md)
        * [Lab 2.06](lab_206.md)
        * [Associated Reading 2.06](associated_reading_206.md)
