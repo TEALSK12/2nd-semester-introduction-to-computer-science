@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-   * SUMMARY.md
 * [Curriculum Map](curriculum_map.md)
+* SUMMARY.md
 * [Unit 2](unit2_md.md)
    * [Lesson 2.01: Binary Day](unit2/lesson_201_binary_day.md)
        * [Do Now 2.01](do_now_201.md)
