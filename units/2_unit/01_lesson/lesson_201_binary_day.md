@@ -26,7 +26,9 @@ Students will be able to...
     2. Have students n students walk up to the front of the classroom. Have them hold the place they represent. 
     2. If this is confusing can try the index card binary. 
   3. What else can be represented by binary? Answer (ANYTHING)
-    1. Picture example: Show kids this photo : 
+    1. Picture example: 
+        1. Show kids this photo : ![Stary Night](starynight.png), say these get put into 0/1 
+        2. Hmm well that's a bit complicated, let's start with: ![city scape](basic_city.png)
   4. Discuss how everything the computer reads gets turned into binary in the end. 
     1. How could letters be turned into binary? How can letters be turned into numbers? a = 1, b = 2, c = 3. 
 
