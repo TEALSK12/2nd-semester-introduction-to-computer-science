@@ -30,6 +30,7 @@ Students will be able to...
         1. Show kids this photo : ![Stary Night](starynight.png), say these get put into 0/1 
         2. Hmm well that's a bit complicated, let's start with: ![city scape](basic_city.png)
         3. Let's zoom in to pizel level: ![Pixel Level](Screen Shot 2015-11-24 at 12.19.32 PM.png)
+        4. We can imagine saying 1 is black and 0 is white. 
   4. Discuss how everything the computer reads gets turned into binary in the end. 
     1. How could letters be turned into binary? How can letters be turned into numbers? a = 1, b = 2, c = 3. 
 
