@@ -17,7 +17,7 @@
 [Booleans and Expressions]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_203_booleans_&_expressions.html 
 [Conditionals]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_204_conditionals.html
 [Lists]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_205_lists.html                   
-[Lists(2)]                   
+[Lists(2)]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_206_lists_2.html                 
 [Lists Recap]                
 [Game Loop]                
 [Project]                  
