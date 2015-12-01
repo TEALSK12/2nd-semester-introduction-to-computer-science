@@ -21,7 +21,7 @@ We will be using an online IDE [cloud9](https://c9.io) to write python code this
 11. Enter your teachers' name or email in the "Invite People", this shares your workspace with your teachers and allows them to add comments. 
 ![Cloud9 Share options photo]()
 
-## Creating a new file
+## Creating a New File
 1. Click the plus button to create a new file 
 ![Creating a new file photo]()
 2. Use control-s to save the file. Enter the filename, (following your classes conventions) and press the save button
