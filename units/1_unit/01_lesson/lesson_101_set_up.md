@@ -37,13 +37,10 @@ Students will be able to...
 	2. IDE
 		1. interactive development environment
 		2. For Python, cannot use a drag and drop blocks. Needs to be typed. Can write Python in many different ways (even a plain text document), 
-		3. Show online IDE and where different parts are. Run demo python code from before
-4. Have kids create accounts and set up IDE
+		3. Show online IDE and where different parts are. Run demo python code from before4. Have kids create accounts and set up IDE
 	1. Worksheet explaining the IDE step by step
 	2. Have students save their username and password on the paper and/or take a photo on their phones so they don’t forget
-	3. Have student save and submit a basic file via IDE
-
- 
+	3. Have student save and submit a basic file via IDE 
   
 
 [Python Code]:

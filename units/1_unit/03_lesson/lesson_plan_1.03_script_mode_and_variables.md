@@ -24,17 +24,17 @@ Students will be able to...
 
 ## Instructor's Note
 1. Do Now (Attached to worksheet)
-2. Printing Discussion 	a.	File is the center section of the screen. Sometimes this is called a script.
-		1. How do you save/run a file? Ask students what happened when they ran the file from the do now.		2. Need to use `print` statement. Prints whatever is in between the parenthesis to the console		3. When text appears on console it’s called output 		4.	What happened when you used multi-lines?			a. Talk to students about how to read a program. 	b.	display `Print(“hello world”)` on board. Ask what will hapen when run? Ask students how they would print the following:
+2. Printing Discussion 	1.	File is the center section of the screen. Sometimes this is called a script.
+		1. How do you save/run a file? Ask students what happened when they ran the file from the do now.		2. Need to use `print` statement. Prints whatever is in between the parenthesis to the console		3. When text appears on console it’s called output 		4.	What happened when you used multi-lines?			1. Talk to students about how to read a program. 	2.	display `Print(“hello world”)` on board. Ask what will hapen when run? Ask students how they would print the following:
 	```
 Hello World
 Hello World
 Hello World
 Hello World
 Hello World	```
-	c. Have students work on printing practice3. Variables
-	a. variable: a name that refers to a value
-	b. an assignment statement creates new variables and gives them values: 
+	3. Have students work on printing practice3. Variables
+	1. variable: a name that refers to a value
+	2. an assignment statement creates new variables and gives them values: 
 	
 	```
 	>>> message = 'And now for something completely different'
@@ -43,12 +43,12 @@ Hello World	```
 	```
 		1. ask the students what they think the assignment operator is. What are the variables, what are the values? 
 2. Lab
-    a. Ask students to predict outputs of interpretter 
-    b. Ask students about data types: integer, floats, integer
-    c. Make sure students do the first part at their desk before going to the computer 
+    1. Ask students to predict outputs of interpretter 
+    2. Ask students about data types: integer, floats, integer
+    3. Make sure students do the first part at their desk before going to the computer 
 3. Debrief
-	a. Discuss any surprising results. 
-	b. Discuss why it might be helpful to have an interactive console? How is it different than snap? 
+	1. Discuss any surprising results. 
+	2. Discuss why it might be helpful to have an interactive console? How is it different than snap? 
 4. Opportunities for more
     1. If students are moving quickly, have students practice higher order-of-opeartions problems. Or practice having them save variables. Ask students to come up with a way to print two lines with only one print statement. Allow for students to google the `\n` character. 
   
