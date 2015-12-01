@@ -1,6 +1,9 @@
 # Python Online Editor Sign Up
-We will be using an online IDE [cloud9](https://c9.io) to write python code this semester.  Below are instructions to sign up, name a file, create a new file, and turn in a file. Refer back to this sheet if you are having difficulties. ## Sign Up Instructions
-1. Go to [https://c9.io/web/sign-up/free](https://c9.io/web/sign-up/free)
+We will be using an online IDE [cloud9](https://c9.io) to write python code this semester.  Below are instructions to sign up, name a file, create a new file, and turn in a file. Refer back to this sheet if you are having difficulties. 
+
+## Sign Up Instructions
+
+1. Go to [https://c9.io/web/sign-up/free](https://c9.io/web/sign-up/free)
 2. Create account
 ![Initial Sign Up Photo]()
 3. Verify your email address
@@ -28,11 +31,11 @@ We will be using an online IDE [cloud9](https://c9.io) to write python code this
 * editor
 * bash/terminal
 * file tree
-rest is okay to ignore for now
+* rest is okay to ignore for now
 
 ## Running Python 
 1. In the bottom half of the screen there should be a tab called "bash"
-	a. If there is not a tab called "bash", click the plus button and choose "new terminal"
+	1. If there is not a tab called "bash", click the plus button and choose "new terminal"
 	![New terminal photo]()
 Should look like this
 ![Terminal open]()
