@@ -5,7 +5,7 @@
 * [Unit 1](units/1_unit/unit1.md)
   * [Lesson 1.01: Set Up](units/1_unit/01_lesson/lesson.md)
     * [IDE Sign Up](units/1_unit/01_lesson/python_online_editor_sign_up.md)
-    * [IDE Sign Up: Teacher's Version](units/1_unit/01_lesson/python_online_editor_sign_up.md)
+    * [IDE Sign Up: Teacher's Version](units/1_unit/01_lesson/python_online_editor_sign_up_teachers.md)
   * [Lesson 1.02: Interactive Mode](units/1_unit/02_lesson/lesson.md) 
     * [Lab](units/1_unit/02_lesson/lab.md)
     * [Associated Reading](units/1_unit/02_lesson/associated_reading.md)
