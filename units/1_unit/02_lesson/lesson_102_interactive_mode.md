@@ -25,7 +25,8 @@ Students will be able to...
 
 ## Instructor's Note
 1. Do Now
-	1. Ask students to label the parts of the IDE and log into their account
+	1. Display photo of the IDE and asks students to label the IDE
+	2. After labeling the IDE have students make sure they can log into their IDE account
 2. Lesson 
 	1. Say the part on bottom half of the screen is called a console:
 		1. Define: Console is a place where you can interact with a program. Sometimes called a shell or a terminal
@@ -63,8 +64,8 @@ Students will be able to...
 		4. Order of Operations is the same
 	2. Discuss why it might be helpful to have an interactive console? How is it different than snap? 
 6. Opportunities for more
-    1. If students are moving quickly, have students practice higher order-of-opeartions problems. Or practice having them save variables. 
+    1. If students are moving quickly, have students practice higher order-of-operations problems. Or practice having them save variables. 
   
 
-[Worksheet]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_202.html
-[Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/python_online_editor_sign_up_teachers.html
+
+[Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/02_lesson/lab_102.html
