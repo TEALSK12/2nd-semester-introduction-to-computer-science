@@ -56,7 +56,7 @@
    * [Lesson 3.02: User Defined Types](units/3_unit/02_lesson/lesson_302_user_defined_functions.md)
        * [Do Now 3.02](units/3_unit/02_lesson/do_now_302.md)
        * [Lab 3.02](units/3_unit/02_lesson/lab_302.md)
-       * [Associated Reading](units/3_unit/02_lesson/associted_reading_302.md)
+       * [Associated Reading](units/3_unit/02_lesson/associated_reading_302.md)
    * [Lesson 3.03: Return vs Print](units/3_unit/03_lesson/lesson_303_return_vs_print.md)
        * [Do Now 3.03](units/3_unit/03_lesson/do_now_303.md)
        * [Lab 3.03](units/3_unit/03_lesson/lab_303.md)
