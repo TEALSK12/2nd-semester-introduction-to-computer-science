@@ -7,7 +7,7 @@ Students will be able to...
 * Create lists of different types
 * Use the length function
 
-##Materials/Preperation
+##Materials/Preparation
 * [Do Now Handout]
 * [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students

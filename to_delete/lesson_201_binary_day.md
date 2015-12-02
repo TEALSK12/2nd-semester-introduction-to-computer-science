@@ -5,7 +5,7 @@ Students will be able to...
 * Define and identify: binary 
 * Describe different representations of data
 
-##Materials/Preperation
+##Materials/Preparation
 * [Do Now Handout]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 

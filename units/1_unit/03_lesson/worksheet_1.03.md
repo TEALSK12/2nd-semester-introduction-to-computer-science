@@ -8,11 +8,12 @@ Practice typing and running things in the file part of the screen. Write down wh
 <br>
 <br>
 
-Run a program by using `python3 filename.py`, where `filename.py` is tha name of your file
+Run a program by using `Python3 filename.py`, where `filename.py` is tha name of your file
 
 ## Printing Practice 
 
 Practice typing out some statements:
+| Expression | Expected Output | Output
 1.	print(“1”)
 2.	print(1)
 3.	print(1 + 2)
@@ -34,16 +35,17 @@ Practice typing out the following?
     print(animal + " are really cool.")
     ```
 
-    What happens? How would you make the program print out "cats are really cool" instead. 
-    <br>
-    <br>
-    <br>
+What happens? How would you make the program print out "cats are really cool" instead. 
+<br>
+<br>
+<br>
+
 2.  
 ```
 print(dogs + " are cool.")
 ```
 What happens? Why does this happen?
 
-3. Rewrite the following SNAP! program in python: 
+3. Rewrite the following SNAP! program in Python: 
 !(sna_blocks_variables)[]
 

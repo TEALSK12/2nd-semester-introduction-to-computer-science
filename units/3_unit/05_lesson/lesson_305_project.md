@@ -5,7 +5,7 @@ Students will be able to...
 * Use project planning skills to complete a larger project
 * Create functions to organize a project
 
-##Materials/Preperation
+##Materials/Preparation
 * [Project]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 

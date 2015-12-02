@@ -3,13 +3,13 @@
 ##Learning Objectives
 Students will be able to... 
 * Define and identify: interpreter, prompt, string, integer, value, errors, console
-* Use the python interpreter to do simple math
+* Use the Python interpreter to do simple math
 * Given a value, be able to distinguish between number and string 
 
 ## Deliverables
 * written worksheet with predictions and results
 
-##Materials/Preperation
+##Materials/Preparation
 * [Lab]
 * Ensure all students are able to log into the system
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -30,8 +30,8 @@ Students will be able to...
 2. Lesson 
 	1. Say the part on bottom half of the screen is called a console:
 		1. Define: Console is a place where you can interact with a program. Sometimes called a shell or a terminal
-		2. Define: Interpreter runs python code
-	2. To run python interpreter type `python3` into the terminal. 
+		2. Define: Interpreter runs Python code
+	2. To run Python interpreter type `Python3` into the terminal. 
 		1. Make sure all the students are able to do this and then give out worksheet
 3. Lab part 1 
 	1. Go over lab part 1, before assigning lab part 2. 

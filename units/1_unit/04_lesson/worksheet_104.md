@@ -8,20 +8,24 @@ a = input(“What is your name? ”)
 print(“Hello there, ” + a)
 ```
 
-What do you expect the result to be? What is the result? What does the ‘#’ do? What does input do?
+Write down the answers to the following questions. 
+1. What do you expect the result to be?
 <br>
+2. What is the result?
 <br>
+3. What does the ‘#’ do? 
 <br>
+4. What does input do?
 
 ## Snap to Python
-Convert the following to python code.
+Convert the following to Python code.
 ![Snap Input]()
 <br>
 <br>
 <br>
 
 ## Swapping
-Type in the following code: 
+Copy the following code into your editor. 
 
 ```
 a = “this sentence should go second”
@@ -35,7 +39,7 @@ print(a)
 print(b)
 ```
 
-What is the result? 
+Run the program, what is the result? 
 
 
-Add code in between the “your code starts here” and the “your code ends here” lines try to make the result be in the correct order. Don’t just retype the sentences. 
+Write code to swap the values of variables `a` and `b`.

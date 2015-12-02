@@ -86,7 +86,7 @@ True
 
 The state diagram looks like: 
 
-![State Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython016.png)
+![State Diagram](http://www.greenteapress.com/thinkPython/html/thinkPython016.png)
 
 The association of a variable with an object is called a reference. In this example, there are two references to the same object.
 An object with more than one reference has more than one name, so we say that the object is aliased.
@@ -116,7 +116,7 @@ Here’s how it is used:
 ```
 The parameter t and the variable letters are aliases for the same object. The stack diagram looks like the following: 
 
-![Stack Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython017.png)
+![Stack Diagram](http://www.greenteapress.com/thinkPython/html/thinkPython017.png)
 
 Since the list is shared by two frames, I drew it between them.
 It is important to distinguish between operations that modify lists and operations that create new lists. For example, the append method modifies a list, but the + operator creates a new list:

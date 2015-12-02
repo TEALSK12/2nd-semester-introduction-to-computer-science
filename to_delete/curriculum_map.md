@@ -4,7 +4,7 @@
 | LP | Title        |    Objectives |    Key Terms | In class/Labs |
 |--- | ------------ | ------------- | ------------ | ----------|
 | 1.01 | Initial Setup  | High Level goals of course, start sign up for ide | IDE, PYTHON | |
-| 1.02 | Python Setup & Interpreter  | Discuss Interpreter, Terminal, How to run programs in python | Interpreter, Syntax, Complie, Run, Prompt, Script Mode, Interactive Mode, Terminal| -Practice running code in interprater mode vs script mode|
+| 1.02 | Python Setup & Interpreter  | Discuss Interpreter, Terminal, How to run programs in Python | Interpreter, Syntax, Complie, Run, Prompt, Script Mode, Interactive Mode, Terminal| -Practice running code in interprater mode vs script mode|
 | 1.03 | Output| Practice outputting using print| print, output | -Printing Multiple Statements <br>-Hello World Program|
 | 1.04 | Variables |Storing a value to a variable, changing variable values| Variable, value, mutable | -Storing values in variables and printing | 
 | 1.05 | User Input | Using input, storing input as variable | input | -personalized greeting | 
@@ -15,7 +15,7 @@
 | LP | Title        |    Objectives |    Key Terms | In class/Labs |
 |--- | ------------ | ------------- | ------------ | ----------|
 | 2.01 | Binary	| Why do we need data and file types | binary| |
-| 2.02 | Strings, Integers, & Floats | Discuss different data representations in python | Type, String, Floating Point, Casting, Concatenation | -Temperature Conversion | 
+| 2.02 | Strings, Integers, & Floats | Discuss different data representations in Python | Type, String, Floating Point, Casting, Concatenation | -Temperature Conversion | 
 | 2.03 | Booleans, Evaluation and Composition | Understand how to use booleans, and compose expresions | boolean, ==, <, >, True, False, and, or, not, expression | Who am I 
 | 2.04 | Conditionals | Order of execuation for if/elif/else statements | expression, conditionals, if, else, elif | Calculator | 
 | 2.05 | Project | Restaurant Tip & Bill Split | 

@@ -6,7 +6,7 @@ Students will be able to...
 * Difference between printing and returning
 * What a none and void means 
 
-##Materials/Preperation
+##Materials/Preparation
 * [Do Now Handout]
 * [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students

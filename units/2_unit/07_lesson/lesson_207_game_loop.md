@@ -5,7 +5,7 @@ Students will be able to...
 * Define and identify: while
 * Use a while list to simulate game play
 
-##Materials/Preperation
+##Materials/Preparation
 * [Do Now Handout]
 * [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students

@@ -7,7 +7,7 @@ Students will be able to...
 * Add and remove elements from a list
 * Access items from a nested list
 
-##Materials/Preperation
+##Materials/Preparation
 * [Do Now Handout]
 * [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students

@@ -7,7 +7,7 @@ Students will be able to...
 * Utilize code other people have written
 * Understand printing vs returning
 
-##Materials/Preperation
+##Materials/Preparation
 * [Do Now Handout]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 

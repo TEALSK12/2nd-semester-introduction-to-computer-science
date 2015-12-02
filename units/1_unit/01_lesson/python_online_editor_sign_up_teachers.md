@@ -1,5 +1,5 @@
 # Python Online Editor Sign Up
-We will be using an online IDE [cloud9](https://c9.io) to write python code this semester.  Below are instructions to sign up, name a file, create a new file, and turn in a file. Refer back to this sheet if you are having difficulties. 
+We will be using an online IDE [cloud9](https://c9.io) to write Python code this semester.  Below are instructions to sign up, name a file, create a new file, and turn in a file. Refer back to this sheet if you are having difficulties. 
 
 ## Sign Up Instructions
 1. Go to [https://c9.io/web/sign-up/free](https://c9.io/web/sign-up/free)

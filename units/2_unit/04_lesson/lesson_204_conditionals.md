@@ -6,7 +6,7 @@ Students will be able to...
 * Create chaining if statements
 * Understand how conditional statements alter flow of control of the program
 
-##Materials/Preperation
+##Materials/Preparation
 * [Do Now Handout]
 * [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -37,7 +37,7 @@ Students will be able to...
     1. Sometimes there are more than two possibilities and we need more than two branches. One way to express a computation like that is a chained conditional:
     2. Show the syntax of elif
 3. Lab
-    1. Convert the triangle program written in snap into python 
+    1. Convert the triangle program written in snap into Python 
     2. Write a program that simulates a list index using if statements. 
 4. Opportunities for more
     1. If students are moving quickly, this lesson can move onto lists. 

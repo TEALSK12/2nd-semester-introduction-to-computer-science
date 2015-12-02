@@ -3,10 +3,10 @@
 ##Learning Objectives
 Students will be able to... 
 * Define and identify: function, type, floating point, integer
-* Describe different representations of data in python 
+* Describe different representations of data in Python 
 * Convert from one data type to another data type
 
-##Materials/Preperation
+##Materials/Preparation
 * [Do Now Handout]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 

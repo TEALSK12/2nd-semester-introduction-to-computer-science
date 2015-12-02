@@ -6,7 +6,7 @@ Students will be able to...
 * Set and swap variables
 * Store user input into a variable
 
-##Materials/Preperation
+##Materials/Preparation
 * [Worksheet]
 * Read through the handout and lesson so that you are familiar with the requirements and can assist students
 
@@ -21,18 +21,19 @@ Students will be able to...
 | 10 Minutes | Discussion         |
 
 ## Instructor's Note
-1. Pass out the worksheet. Have students work on the Do Now, make sure that students are working as soon as the get to class. 
-2. Worksheet Review/Lesson
+1. Display the Do Now. Make sure that students are working as soon as they get to class. 
+2. Review the Do Now and Activity
 	1. Input Discussions
 		1.	Discuss what the ‘#’ did? 
 		2.	Explain that they are called comments and not executed by the interpreter
-		3.	What did `input` do? What did the string between the parenthesis do? What would changing it do? (it changes the prompt given to the user) 
+		3.	Discussion Questions: What did `input` do? What did the string between the parenthesis do? What would changing it do? (it changes the prompt given to the user) 
 			1. Input: user data given to the app. 
-			2. in python `input` lets a program take input from the terminal and use it in the code. Recall using input from snap
+			2. In Python `input` lets a program take input from the terminal and use it in the code. Recall using input from snap
 			3. On board display ![Snap Input]()
-				1. Ask students to take 3 minutes to convert this to python
-				2. Have students write answer on the board
-				3. Practice changing the argument to input function in class. (ex. How would you have the computer ask what month the students were born in)
+				1. Ask students what things from Python they will need to create this program. 
+				2. Ask students to take 3 minutes to convert this to Python
+				3. Have students write answer on the board
+				4. Practice changing the argument to input function in class. (ex. How would you have the computer ask what month the students were born in)
 	2.	Swapping Variables Discussion
 		1.	If students were not able to complete this section during the Do Now have them work on it for 5 minutes. 
 		2.	Ask how the students tried to get it to print in the correct order?
@@ -41,7 +42,7 @@ Students will be able to...
 			1.	What happens if you set variable c to a. print(c), print(a) 
 			2.	What would happen if you don’t store a into c in this program? 
 			3.	mutability: you can change an existing value
-3.Lab
+3.  Lab
 	1.	Make sure students feel comfortable saving things as variables and can print multiple things. 
 3.	Discussion + Quiz Prep
 	1.	Discuss any issues that came up in magic genie
