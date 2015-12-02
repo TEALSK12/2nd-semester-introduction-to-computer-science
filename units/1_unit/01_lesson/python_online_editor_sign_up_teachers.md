@@ -4,7 +4,7 @@ We will be using an online IDE [cloud9](https://c9.io) to write Python code this
 ## Sign Up Instructions
 1. Go to [https://c9.io/web/sign-up/free](https://c9.io/web/sign-up/free)
 2. Create account
-![Initial Sign Up Photo](sign_up_screen_photo.png)
+![Initial Sign Up Photo](sign_up_screen_phto.png)
 3. Verify your email address
 4. Click the link to go to your dashboard. 
 
