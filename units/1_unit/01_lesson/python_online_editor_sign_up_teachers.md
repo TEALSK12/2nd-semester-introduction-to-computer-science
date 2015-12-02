@@ -14,7 +14,7 @@ There are two different ways to turn in:
     ## Sharing Workspace
     Once students have shared their workspaces, their work can be found in the "Shared With Me" section
     ![Share With Me Photo]()
-2. Have students download their file and upload it to the school's file system (or however students normally hand in electronic files at the particular school)
+2. Have students download their file and upload it to the school's Learning Management System (or however students normally hand in electronic files at the particular school)
 
 ## Revision History
 If you are nervous students are working on assignments outside of allocated time this shows revision history on a file. [https://docs.c9.io/docs/file-revision-history](https://docs.c9.io/docs/file-revision-history)
