@@ -17,7 +17,7 @@ Students will be able to...
 * Read through the handout and lesson so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
-| Duration   |     Description    |
+| **Duration**   |     **Description**    |
 | ---------- | ------------------ |
 | 5 Minutes  | Do Now             |
 | 10 Minutes | Printing Lesson    |
