@@ -35,21 +35,21 @@ Students will be able to...
 		1. Make sure all the students are able to do this and then give out worksheet
 3. Lab part 1 
 	1. Go over lab part 1, before assigning lab part 2. 
-	2. What did you notice about part 1? 
+	2. What did you notice about section 1? 
 		1.	What does the // do. How is that different from %
 		2.	What’s the difference between 3.0 and 3?
 		3.	Floats: a data type, number with a decimal point
 		4.  Integers: a data type, number without a decimal point
-	3.	What did you notice about part 2?
+	3.	What did you notice about section 2?
 		1.	What happened when you typed in a?
 		2.	What do you think that error message mean? 
 		3.	String: a data type, characters surrounded in single or double quotes.
-	4.	What did you notice about part 3?
+	4.	What did you notice about section 3?
 		1.	What was the difference between the two inputs?
 		2.	Strings can be combined using plus sign
 		3.	What do you think the error message means?		
 		4.  Can’t combine different types
-	5.	What did you notice about part 4?
+	5.	What did you notice about section 4?
 		1.	What error did you get? What do you think that means 
 		2.  What happens when you multiply strings?
 4. Lab part 2
