@@ -5,39 +5,40 @@ Students will be able to...
 
 * Define and identify: **IDE**, **Python**
 * Identify the key concepts that will be covered in the course
-* Set up and log into an account for online IDE
-* Save and turn in a file via the IDE
+* Set up and log into an account for the course's online IDE, Cloud9
+* Save and turn in a file via the Cloud9 IDE
 
 ##Materials/Preparation
 * Update the collaboration policy, IDE information, grading percentages, and general syllabus based on your preferences and school's requirements
-* Create an account on Cloud9 and update the [student sign-up guide]( with your username
-* Update the worksheet with file naming and turn in conventions
-* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
+* Create an account on Cloud9 and update the student Sign Up Guide with your username
+* Update the student Sign Up Guide with file naming and turn-in conventions for your course
 * [Sign Up Guide]: the IDE guide for students
 * [Sign Up Guide Teachers]: the IDE guide for teachers
-* [Python Code]: code to display and have students hand in
+* [Python Code]: code to display and have students submit online
 
 ## Pacing Guide
-| Duration   | Description |
+| **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
-| 20 Minutes | Syllabus/Demo    |
+| 20 Minutes | Syllabus    |
 | 10 Minutes | IDE/Python Intro |
 | 20 Minutes | Sign Up for Website and log out / log in |
 
 ## Instructor's Note
 
-1. Hand out syllabus and IDE Signup sheet
+1. Do Now
+    * Hand out syllabus for students to begin reading
 2. Syllabus
-	1. Make sure to note the major goals for the course: create a functioning Python program, learn basic data types, learn to use a text-based language
-	2. Present Demo or show program written in Python
-3. IDE/Python intro
-	1. Python
-		1. Python: a programming language, written, uses tabbing to control execution
-		2. Show Python code [Python Code], ask the students to write down at least 3 things they noticed about it. Discuss what the students noticed point out written language, indentation, 
-	2. IDE
-		1. interactive development environment
-		2. For Python, cannot use a drag and drop blocks. Needs to be typed. Can write Python in many different ways (even a plain text document),
+	* Make sure to note the major goals for the course: create a functioning Python program, learn basic data types, learn to use a text-based language
+	* Present demo of a program written in Python to hook students and to give them an idea of what 
+3. IDE/Python Intro
+	* Python
+		* Python is a text-based programming language, it uses tabbing/indentation to control execution, and is known for its readability 
+		* Show [Python Code], ask the students to write down at least 3 things they noticed about it. Discuss what the students noticed point out written language, indentation, 
+	* IDE
+		* **I**nteractive **D**evelopment **E**nvironment
+		2. 
+		3. With Python, we can't use a drag and drop blocks anymore - it is a language that must be typed. We can write Python in many different ways (even in a plain text document)
 		3. Show online IDE and where different parts are. Run demo Python code from before
 4. Have kids create accounts and set up IDE
 	1. Hand out the IDE Guide. This explains signing up for the IDE step by step. Make sure to update this with your account information so that the students share the account with the correct names. 
