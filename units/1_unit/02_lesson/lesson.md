@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: interpreter, prompt, string, integer, value, errors, console
+* Define and identify: **interpreter, prompt, string, integer, value, errors, console**
 * Use the Python interpreter to do simple math
 * Given a value, be able to distinguish between number and string 
 
@@ -10,9 +10,9 @@ Students will be able to...
 * Lab worksheet with predictions and results
 
 ##Materials/Preparation
-* [Lab]
+* [Lab] worksheet
 * Ensure all students are able to log into the system
-* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
+* Go through the lab so that you are familiar with the requirements/results and can assist students
 
 ## Pacing Guide
 | Duration   | Description    |
@@ -25,14 +25,14 @@ Students will be able to...
 
 ## Instructor's Note
 1. Do Now
-	1. Display photo of the IDE and asks students to label the IDE
-	2. After labeling the IDE have students make sure they can log into their IDE account
+	* Display photo of the IDE and asks students to label the IDE
+	* After labeling the IDE have students make sure they can log into their IDE account
 2. Lesson 
-	1. The part on bottom half of the screen is called a console:
-		1. Define: Console is a place where you can interact with a program. Sometimes called a shell or a terminal
-		2. Define: Interpreter runs Python code
-	2. To run Python interpreter type `python3` into the terminal. 
-		1. Make sure all the students are able to do this and then give out worksheet
+	* The part on bottom half of the screen is called a *console*:
+		* Define: The *console* is a place where you can interact with a program. It can also be called a shell or a terminal.
+		* Define: The *interpreter* runs Python code
+	* To run Python interpreter type `python3` into the terminal. 
+		* Make sure all the students are able to do this and then give out worksheet
 3. Lab part 1 
 	1. Go over lab part 1, before assigning lab part 2. 
 	2. What did you notice about section 1? 
