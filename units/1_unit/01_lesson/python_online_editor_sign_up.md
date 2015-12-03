@@ -10,7 +10,7 @@ We will be using an online IDE [cloud9](https://c9.io) to write python code this
 4. Click the link to go to your dashboard. 
 5. Click the plus sign to Create a new workspace. 
 ![New Workspace Photo](create_workspace_photo.png)
-6. name your workspace and give workspace a description
+6. Name your workspace and give workspace a description
 7. Make your workspace private
 8. Click Create workspace 
 ![Filled in workspace photo](create_new_workspace_photo.png)
