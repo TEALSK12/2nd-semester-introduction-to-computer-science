@@ -5,7 +5,7 @@ Goals: Use Python to interact with variables and user input.
 
 Create a genie program. Save the file as magic_genie.py. 
 
-1. have the program introduce itself. Then have the program ask for three separate wishes. Finally print all the wishes together. ![magic_genie_output]()
+1. have the program introduce itself. Then have the program ask for three separate wishes. Finally print all the wishes together. ![magic_genie_output](magic_genie_output.png)
 
 2.  There are some repeated strings in genie program. Move those into variables.   
 
