@@ -3,8 +3,8 @@
 ##Learning Objectives
 Students will be able to... 
 * Define and identify: **interpreter, prompt, string, integer, value, errors, console**
-* Use the Python interpreter to do simple math
-* Given a value, be able to distinguish between number and string 
+* Use the Python interpreter to evaluate simple math expressions
+* Given a value, distinguish between a number and string 
 
 ##Assessment
 * Lab worksheet with predictions and results
