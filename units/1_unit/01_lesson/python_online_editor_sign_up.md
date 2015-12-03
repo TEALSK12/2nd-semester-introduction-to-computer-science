@@ -38,6 +38,6 @@ You can ignore the other parts for now!
 1. In the bottom half of the screen there should be a tab called "bash"
 	1. If there is not a tab called "bash", click the plus button and choose "new terminal"
 	![New terminal photo](new_terminal_photo.png)
-2. To run interactive shell: type `python3` into the prompt
+2. To run the interactive shell: type `python3` into the prompt
 ![Interactive shell](running_python3_photo.png) 
 3. To run a file: type `python3 [filename]`, but instead of `[filename]` use the name of the file you are trying to run
