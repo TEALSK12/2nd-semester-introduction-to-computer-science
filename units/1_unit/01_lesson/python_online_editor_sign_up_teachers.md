@@ -13,8 +13,6 @@ There are two different ways for students to submit their work:
 1. Have students share their workspace with teachers/TAs. This only needs to happen once, and it then gives teachers read/write access to the students' files moving forward.
     
     * Once students have shared their workspaces with you, their work can be found in the "Shared With Me" section
-    
-    ![Share With Me Photo]()
 
 2. Have students download their file and upload it to the school's Learning Management System (or however students normally hand in electronic files at the particular school)
 
