@@ -27,18 +27,18 @@ Students will be able to...
 ## Instructor's Note
 
 1. Do Now
-    1. Hand out syllabus for students to begin reading
+    * Hand out syllabus for students to begin reading
 2. Syllabus
-	1. Make sure to note the major goals for the course: create a functioning Python program, learn basic data types, learn to use a text-based language
-	2. Present demo of a program written in Python to hook students and to give them an idea of what 
+	* Make sure to note the major goals for the course: create a functioning Python program, learn basic data types, learn to use a text-based language
+	* Present demo of a program written in Python to hook students and to give them an idea of what 
 3. IDE/Python Intro
-	1. Python
-		1. Python is a text-based programming language, it uses tabbing/indentation to control execution, and is known for its readability 
-		2. Show [Python Code], ask the students to write down at least 3 things they noticed about it. Discuss what the students noticed point out written language, indentation, 
-	2. IDE
-		1. **I**nteractive **D**evelopment **E**nvironment
+	* Python
+		* Python is a text-based programming language, it uses tabbing/indentation to control execution, and is known for its readability 
+		* Show [Python Code], ask the students to write down at least 3 things they noticed about it. Discuss what the students noticed point out written language, indentation, 
+	* IDE
+		* **I**nteractive **D**evelopment **E**nvironment
 		3. With Python, we can't use a drag and drop blocks anymore - it is a language that must be typed. We can write Python in many different ways (even in a plain text document)
-		4. Show online IDE and where different parts are. Run demo Python code from before
+		3. Show online IDE and where different parts are. Run demo Python code from before
 4. Have kids create accounts and set up IDE
 	1. Hand out the IDE Guide. This explains signing up for the IDE step by step. Make sure to update this with your account information so that the students share the account with the correct names. 
 	2. Have students save their username and password on the paper and/or take a photo on their phones so they don’t forget
