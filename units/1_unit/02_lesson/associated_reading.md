@@ -1,5 +1,5 @@
 # Associated Reading
-##Values and types
+##Values and Types
 
 A value is one of the basic things a program works with, like a letter or a number. The values we have seen so far are 1, 2, and 'Hello, World!'.
 
@@ -10,6 +10,7 @@ If you are not sure what type a value has, the interpreter can tell you.
 ```
 >>> type('Hello, World!')
 <type 'str'>
+
 >>> type(17)
 <type 'int'>
 ```
@@ -40,7 +41,7 @@ When you type a large integer, you might be tempted to use commas between groups
 
 Well, that’s not what we expected at all! Python interprets 1,000,000 as a comma-separated sequence of integers. This is the first example we have seen of a semantic error: the code runs without producing an error message, but it doesn’t do the “right” thing.
 
-## Operators and operands
+## Operators and Operands
 
 Operators are special symbols that represent computations like addition and multiplication. The values the operator is applied to are called operands.
 
@@ -65,7 +66,7 @@ If either of the operands is a floating-point number, Python performs floating-p
 0.98333333333333328
 ```
 
-##Expressions and statements
+##Expressions and Statements
 
 An expression is a combination of values, variables, and operators. A value all by itself is considered an expression, and so is a variable, so the following are all legal expressions (assuming that the variable x has been assigned a value):
 
