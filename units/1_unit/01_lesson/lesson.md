@@ -8,6 +8,9 @@ Students will be able to...
 * Set up and log into an account for the course's online IDE, Cloud9
 * Save and turn in a file via the Cloud9 IDE
 
+##Assessment
+* Submit a completed `helloworld.py` file to all teachers/TAs
+
 ##Materials/Preparation
 * Update the collaboration policy, IDE information, grading percentages, and general syllabus based on your preferences and your school's requirements
 * Create an account on Cloud9 and update the student Sign Up Guide with your username
