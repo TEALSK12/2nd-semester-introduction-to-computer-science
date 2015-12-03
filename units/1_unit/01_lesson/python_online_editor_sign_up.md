@@ -38,7 +38,7 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 	1. If there is not a tab called "bash", click the plus button and choose "new terminal"
 	![New terminal photo](new_terminal_photo.png)
 Should look like this
-![Terminal open]()
+![Terminal open](running_python3_photo.png)
 2. To run interactive shell: type `python3` into the prompt
 ![Interactive shell]() 
 3. To run a file: type `python3 [filename]`, but instead of `[filename]` use the name of the file you are trying to run
