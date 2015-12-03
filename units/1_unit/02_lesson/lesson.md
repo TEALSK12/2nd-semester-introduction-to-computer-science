@@ -15,7 +15,7 @@ Students will be able to...
 * Go through the lab so that you are familiar with the requirements/results and can assist students
 
 ## Pacing Guide
-| Duration   | Description    |
+| **Duration**   | **Description**    |
 | ---------- | -------------- |
 | 5 Minutes  | Do Now         |
 | 10 Minutes | Lesson         |
