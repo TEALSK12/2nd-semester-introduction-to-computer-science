@@ -11,7 +11,7 @@ Students will be able to...
 * Read through the quiz and make sure you have covered all topics
 
 ## Pacing Guide
-| Duration   |     Description    |
+| **Duration**   |     **Description**    |
 | ---------- | ------------------ |
 | 5 Minutes  | Pass out Quiz      |
 | 20 Minutes | Quiz               |
