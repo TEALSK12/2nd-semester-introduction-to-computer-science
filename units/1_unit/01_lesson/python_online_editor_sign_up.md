@@ -28,10 +28,11 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 
 ## Parts of the IDE
 ![Parts of the IDE](ide_label.png)
-* editor
-* bash/terminal
-* file tree
-* rest is okay to ignore for now
+1. file tree
+2. bash/terminal
+3. editor
+
+You can ignore the other parts for now!
 
 ## Running Python 
 1. In the bottom half of the screen there should be a tab called "bash"
