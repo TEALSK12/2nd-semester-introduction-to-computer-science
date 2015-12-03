@@ -7,8 +7,8 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 2. Create account
 ![Initial Sign Up Photo](sign_up_screen_phto.png)
 3. Verify your email address
-4. Click the link to go to your dashboard. 
-5. Click the plus sign to Create a new workspace. 
+4. Click the link to go to your dashboard
+5. Click the plus sign to Create a new workspace
 ![New Workspace Photo](create_workspace_photo.png)
 6. Name your workspace according to your teacher's instructions and give your workspace a description
 7. Make your workspace private
@@ -18,13 +18,13 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 ![Cloud9 empty workspace photo](new_workspace_photo.png)
 10. From the top panel select window, pick share (third choice from the top)
 ![Cloud9 window to share](window_to_share_photo.png)
-11. Enter your teachers' name or email in the "Invite People", this shares your workspace with your teachers and allows them to add comments. 
+11. Enter your teachers' username or email in the "Invite People" section - this shares your workspace with your teachers and allows them to add comments. 
 ![Cloud9 Share options photo](share_workspace.png)
 
 ## Creating a New File
 1. Click the plus button to create a new file 
 ![Creating a new file photo](new_file_photo.png)
-2. Use control-s to save the file. Enter the filename, (following your classes conventions) and press the save button
+2. Press Ctrl-s to save the file. Enter the filename(following your classes conventions) and press the save button
 
 ## Parts of the IDE
 ![Parts of the IDE](ide_label.png)
