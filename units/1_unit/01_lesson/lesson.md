@@ -10,7 +10,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * Update the collaboration policy, IDE information, grading percentages, and general syllabus based on your preferences and school's requirements
-* Create an account on Cloud9 and update the worksheet with your username
+* Create an account on Cloud9 and update the [student sign-up guide]( with your username
 * Update the worksheet with file naming and turn in conventions
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 * [Sign Up Guide]: the IDE guide for students
@@ -29,7 +29,7 @@ Students will be able to...
 
 1. Hand out syllabus and IDE Signup sheet
 2. Syllabus
-	1. Make sure to note the goals for the course: create a functioning Python program, learn basic data types, use a typed language
+	1. Make sure to note the major goals for the course: create a functioning Python program, learn basic data types, learn to use a text-based language
 	2. Present Demo or show program written in Python
 3. IDE/Python intro
 	1. Python
