@@ -6,8 +6,8 @@ Students will be able to...
 * Use the Python interpreter to do simple math
 * Given a value, be able to distinguish between number and string 
 
-## Deliverables
-* written worksheet with predictions and results
+##Assessment
+* Written lab worksheet with predictions and results
 
 ##Materials/Preparation
 * [Lab]
