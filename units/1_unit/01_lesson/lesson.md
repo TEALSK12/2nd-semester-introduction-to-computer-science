@@ -40,7 +40,7 @@ Students will be able to...
 	        * Discuss student observations
 	* IDE
 		* **I**ntegrated **D**evelopment **E**nvironment 
-		* An IDE is application that allows you to create, edit, save, and run programs
+		* An IDE is an application that allows you to create, edit, save, and run programs
 		    * Point out that for this course we will be using an online IDE called Cloud9 
 		* Note that with Python, we can't use drag and drop blocks anymore - it is a language that must be typed into an IDE 
 		* Talk to students about the different areas and parts of the IDE, use the [Python Code] to demo once more how it looks/works
