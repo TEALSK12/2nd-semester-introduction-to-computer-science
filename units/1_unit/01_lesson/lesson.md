@@ -39,7 +39,7 @@ Students will be able to...
 	        * Possible responses might include: indentation, different colors of text, using "print" instead of "say" (Snap)
 	        * Discuss student observations
 	* IDE
-		* **I**nteractive **D**evelopment **E**nvironment 
+		* **I**ntegrated **D**evelopment **E**nvironment 
 		* An IDE is application that allows you to create, edit, save, and run programs
 		    * Point out that for this course we will be using an online IDE called Cloud9 
 		* Note that with Python, we can't use drag and drop blocks anymore - it is a language that must be typed into an IDE 
