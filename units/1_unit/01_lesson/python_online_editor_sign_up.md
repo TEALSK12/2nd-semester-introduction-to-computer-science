@@ -1,5 +1,5 @@
 # Python Online Editor Sign Up
-We will be using an online IDE [cloud9](https://c9.io) to write python code this semester.  Below are instructions to sign up, name a file, create a new file, and turn in a file. Refer back to this sheet if you are having difficulties. 
+We will be using the online IDE [cloud9](https://c9.io) to write python code this semester.  Below are instructions for how to sign up, name a file, create a new file, and turn in a file. Refer back to this sheet if you are having difficulties. 
 
 ## Sign Up Instructions
 
@@ -10,11 +10,11 @@ We will be using an online IDE [cloud9](https://c9.io) to write python code this
 4. Click the link to go to your dashboard. 
 5. Click the plus sign to Create a new workspace. 
 ![New Workspace Photo](create_workspace_photo.png)
-6. Name your workspace and give workspace a description
+6. Name your workspace according to your teacher's instructions and give your workspace a description
 7. Make your workspace private
-8. Click Create workspace 
+8. Click "Create workspace" at the bottom of the page
 ![Filled in workspace photo](create_new_workspace_photo.png)
-9. This will take a few seconds to set you up, but will look like this: 
+9. This will take a few seconds to set you up, but it will look like this: 
 ![Cloud9 empty workspace photo](new_workspace_photo.png)
 10. From the top panel select window, pick share (third choice from the top)
 ![Cloud9 window to share](window_to_share_photo.png)
