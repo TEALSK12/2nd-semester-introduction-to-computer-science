@@ -3,13 +3,13 @@
 ##Learning Objectives
 Students will be able to...
 
-* Define and identify: IDE, Python
-* Identify key concepts of the course
-* Log into their account for on-line IDE
-* Save and turn in file via IDE
+* Define and identify: **IDE**, **Python**
+* Identify the key concepts that will be covered in the course
+* Set up and log into an account for online IDE
+* Save and turn in a file via the IDE
 
 ##Materials/Preparation
-* Update the collaboration policy, IDE information, grading percentages, and general syllabus for your preferences in the course.
+* Update the collaboration policy, IDE information, grading percentages, and general syllabus based on your preferences and school's requirements
 * Create an account on Cloud9 and update the worksheet with your username
 * Update the worksheet with file naming and turn in conventions
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
