@@ -10,7 +10,7 @@
 * List of nouns/adjectives/adverbs/names for inputs if students are struggling
 
 ## Pacing Guide
-| Duration   |     Description    |
+| **Duration**   |     **Description**    |
 | ---------- | ------------------ |
 | 5 Minutes  | Quiz Review        |
 | 10 Minutes | Project Overview   |
