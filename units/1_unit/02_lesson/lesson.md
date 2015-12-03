@@ -23,7 +23,7 @@ Students will be able to...
 | 15 Minutes | Lab            |
 | 10 Minutes | Discussion     |
 
-## Instructor's Note
+## Instructor's Notes
 1. Do Now
 	* Display photo of the IDE and asks students to label the IDE
 	* After labeling the IDE have students make sure they can log into their IDE account
