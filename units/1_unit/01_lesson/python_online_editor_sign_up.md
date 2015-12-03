@@ -27,7 +27,7 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 2. Use control-s to save the file. Enter the filename, (following your classes conventions) and press the save button
 
 ## Parts of the IDE
-![Parts of the IDE]()
+![Parts of the IDE](ide_label.png)
 * editor
 * bash/terminal
 * file tree
@@ -37,8 +37,6 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 1. In the bottom half of the screen there should be a tab called "bash"
 	1. If there is not a tab called "bash", click the plus button and choose "new terminal"
 	![New terminal photo](new_terminal_photo.png)
-Should look like this
-![Terminal open](running_python3_photo.png)
 2. To run interactive shell: type `python3` into the prompt
-![Interactive shell]() 
+![Interactive shell](running_python3_photo.png) 
 3. To run a file: type `python3 [filename]`, but instead of `[filename]` use the name of the file you are trying to run
