@@ -28,10 +28,10 @@ Students will be able to...
 	1. Display photo of the IDE and asks students to label the IDE
 	2. After labeling the IDE have students make sure they can log into their IDE account
 2. Lesson 
-	1. Say the part on bottom half of the screen is called a console:
+	1. The part on bottom half of the screen is called a console:
 		1. Define: Console is a place where you can interact with a program. Sometimes called a shell or a terminal
 		2. Define: Interpreter runs Python code
-	2. To run Python interpreter type `Python3` into the terminal. 
+	2. To run Python interpreter type `python3` into the terminal. 
 		1. Make sure all the students are able to do this and then give out worksheet
 3. Lab part 1 
 	1. Go over lab part 1, before assigning lab part 2. 
