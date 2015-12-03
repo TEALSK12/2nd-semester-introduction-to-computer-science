@@ -30,7 +30,7 @@ Students will be able to...
     * Hand out syllabus for students to begin reading
 2. **Syllabus**
 	* Guide students through the syllabus, pausing for questions as needed
-    * Make sure to note the overarching goals for the course: create functioning Python programs, learn basic data types, and learn to use a text-based language
+    * Make sure to note the overarching goals for the course: create functioning Python programs, learn to use basic data types, and learn to use a text-based language
 	* Present demo of a program written in Python to hook students and to give them an idea of what they will be working with
 3. **Python/IDE Intro**
 	* Python
