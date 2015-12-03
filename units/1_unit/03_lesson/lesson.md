@@ -8,7 +8,7 @@ Students will be able to...
 * Compare script mode vs interactive mode
 * Know how to store a value into a variable
 
-## Deliverables
+## Assessment
 * written worksheet with predictions and results
 
 ##Materials/Preparation
