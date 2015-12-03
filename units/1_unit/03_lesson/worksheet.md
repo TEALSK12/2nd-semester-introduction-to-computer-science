@@ -19,22 +19,24 @@ This is on a new line!
 ```
 
 ## Variables Practice
-Practice typing out the following? 
-1. 
-    ```
-    animal = "dogs"
-    print(animal + " are really cool.")
-    ```
 
+1. Type and run the following code. 
+```
+animal = "dogs"
+print(animal + " are really cool.")
+```
 What happens? How would you make the program print out "cats are really cool" instead. 
-
-
-2.  
+<br>
+<br>
+<br>
+2. Type and run the following code. 
 ```
 print(dogs + " are cool.")
 ```
 What happens? Why does this happen?
-
+<br>
+<br>
+<br>
 3. Rewrite the following SNAP! program in Python: 
 ![snap_blocks_variables](snap_blocks_variables.png)
 
