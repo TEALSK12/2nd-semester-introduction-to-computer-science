@@ -7,7 +7,7 @@ Students will be able to...
 * Given a value, be able to distinguish between number and string 
 
 ##Assessment
-* Written lab worksheet with predictions and results
+* Lab worksheet with predictions and results
 
 ##Materials/Preparation
 * [Lab]
