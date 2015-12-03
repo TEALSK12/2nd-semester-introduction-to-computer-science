@@ -25,14 +25,14 @@ Students will be able to...
 
 ## Instructor's Notes
 1. Do Now
-	* Display photo of the IDE and asks students to label the IDE
-	* After labeling the IDE have students make sure they can log into their IDE account
+	* Display a photo of the Cloud9 IDE and asks students to identify the three key parts (file tree, terminal, editor) of the IDE.
+	* After going over the three parts of the IDE have students check that they can still log into their IDE account.
 2. Lesson 
 	* The part on bottom half of the screen is called a *console*:
 		* Define: The *console* is a place where you can interact with a program. It can also be called a shell or a terminal.
-		* Define: The *interpreter* runs Python code
+		* Define: The *interpreter* runs Python code.
 	* To run Python interpreter type `python3` into the terminal. 
-		* Make sure all the students are able to do this and then give out worksheet
+		* Make sure all the students are able to do this and then give out the lab worksheet.
 3. Lab part 1 
 	1. Go over lab part 1, before assigning lab part 2. 
 	2. What did you notice about section 1? 
