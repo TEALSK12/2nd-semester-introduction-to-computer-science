@@ -13,7 +13,7 @@ Students will be able to...
 * Note this may take two days.
 
 ## Pacing Guide
-| Duration   | Description |
+| **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
