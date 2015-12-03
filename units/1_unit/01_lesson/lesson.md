@@ -47,7 +47,7 @@ Students will be able to...
 4. **Students Create Accounts & Submit Work**
 	* Hand out the IDE [Sign Up Guide]. This explains to students how to sign up for the IDE, step-by-step. Make sure to update this with your account information so that the students share their accounts/work with the correct names
 	* Have students write their username and password on the paper and/or take a photo on their phones so that they remember for future classes
-	* Display [Python Code] and have students copy the file into a `hello_word.py` file and 'turn in' by submitting to you online. If you would like to have a class-wide convention for file name saving make sure to update it in [Python Code]. 
+	* Display [Python Code] and have students copy the file into a `hello_world.py` file and 'turn in' by submitting to you online. If you would like to have a class-wide convention for file name saving make sure to update it in the [Sign Up Guide]. 
 
 
 
