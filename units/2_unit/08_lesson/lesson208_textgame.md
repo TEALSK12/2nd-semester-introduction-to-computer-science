@@ -11,14 +11,14 @@ Students will be able to...
 
 ## Pacing Guide
 ##### Day 1
-| Duration   | Description |
+| **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Project/Demo|
 | 30 Minutes | Design      |
 | 10 Minutes | Discussion  |
 #### Day 2 - 9 
-| Duration   | Description |
+| **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Review      |
