@@ -22,15 +22,15 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 ![Cloud9 Share options photo](share_workspace.png)
 
 ## Creating a New File
-1. Click the plus button to create a new file 
+1. Click the plus button near the top of the page to create a new file 
 ![Creating a new file photo](new_file_photo.png)
 2. Press Ctrl-s to save the file. Enter the filename(following your classes conventions) and press the save button
 
 ## Parts of the IDE
 ![Parts of the IDE](ide_label.png)
-1. File tree
-2. Bash/terminal
-3. Editor
+1. *File tree*
+2. *Bash/terminal*
+3. *Editor*
 
 You can ignore the other parts for now!
 
