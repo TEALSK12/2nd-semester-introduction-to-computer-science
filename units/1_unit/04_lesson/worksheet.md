@@ -19,7 +19,7 @@ Write down the answers to the following questions.
 
 ## Snap to Python
 Convert the following to Python code.
-![Snap Input]()
+![Snap Input](snap_input.png)
 <br>
 <br>
 <br>
