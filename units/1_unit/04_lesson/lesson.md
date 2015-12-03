@@ -29,7 +29,7 @@ Students will be able to...
 		3.	Discussion Questions: What did `input` do? What did the string between the parenthesis do? What would changing it do? (it changes the prompt given to the user) 
 			1. Input: user data given to the app. 
 			2. In Python `input` lets a program take input from the terminal and use it in the code. Recall using input from snap
-			3. On board display ![Snap Input]()
+			3. On board display ![Snap Input](snap_input.png)
 				1. Ask students what things from Python they will need to create this program. 
 				2. Ask students to take 3 minutes to convert this to Python
 				3. Have students write answer on the board
@@ -39,7 +39,7 @@ Students will be able to...
 		2.	Ask how the students tried to get it to print in the correct order?
 			1.	Have students write answers on the board. If no one volunteers. Ask for line by line and you draw on board or type out. 
 		3.	Discuss the idea of setting variables to be other values. 
-			1.	What happens if you set variable c to a. print(c), print(a) 
+			1.	What happens if you set variable `c` to `a`. `print(c)`, `print(a)` 
 			2.	What would happen if you don’t store a into c in this program? 
 			3.	mutability: you can change an existing value
 3.  Lab
