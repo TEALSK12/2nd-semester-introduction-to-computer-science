@@ -28,9 +28,9 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 
 ## Parts of the IDE
 ![Parts of the IDE](ide_label.png)
-1. file tree
-2. bash/terminal
-3. editor
+1. File tree
+2. Bash/terminal
+3. Editor
 
 You can ignore the other parts for now!
 
