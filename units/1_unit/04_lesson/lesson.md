@@ -49,12 +49,12 @@ Students will be able to...
 	*	Make sure students feel comfortable saving things as variables and can print multiple things.
 	*	Troubleshoot with students and try to recognize early which students are struggling.
 4.	**Debrief**
-	1.	Discuss any issues that came up in magic genie
-		1.	Any error messages? 
-	2.	Anyone use more than one variable? 
-		1.	How was the making the genie confused. Did everyone get it organized? 
-	3.	Review concepts so far: variables, interpreter, terminal, string, integer, run, output, swapping
+	*	Discuss any issues that came up in the magic genie program.
+		*	Any error messages? 
+	    *	Did anyone use more than one variable? 
+		*	How was the making the genie confused. Did everyone get it organized? 
+	    *	Review concepts so far: **variables, interpreter, terminal, string, integer, run, output, swapping**
 
   
-[Do Now]:
+[Do Now]:units/1_unit/04_lesson/worksheet.md
 [Worksheet]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/03_lesson/lab_103.html
