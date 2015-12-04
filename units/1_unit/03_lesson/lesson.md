@@ -9,12 +9,12 @@ Students will be able to...
 * Know how to store a value into a variable
 
 ## Assessment
-* written worksheet with predictions and results
+* Worksheet with predictions and results
 
 ##Materials/Preparation
 * [Do Now] - Project on screen
 * [Worksheet]
-* Read through the  and lesson so that you are familiar with the requirements and can assist students
+* Read through the Do Now, Worksheet, and lesson so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 | **Duration**   |     **Description**    |
@@ -27,7 +27,7 @@ Students will be able to...
 | 10 Minutes | Discussion         |
 
 ## Instructor's Note
-1. Display the Do Now on the board, make sure that students are working 
+1. Display the Do Now on the board, check that students are working. 
 2. Printing Worksheet Review 
 	1.	File is the center section of the screen. Sometimes this is called a script.
 		1. How do you save/run a file? Ask students what happened when they ran the file from the do now.
