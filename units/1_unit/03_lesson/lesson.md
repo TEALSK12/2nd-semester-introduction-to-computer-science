@@ -9,7 +9,7 @@ Students will be able to...
 * Know how to store a value into a variable
 
 ## Assessment
-* Worksheet with predictions and results
+* [Worksheet] with predictions, results, and completed programs
 
 ##Materials/Preparation
 * [Do Now] - Project on screen
@@ -44,9 +44,9 @@ Hello World
 Hello World
 	```
 	3. Have students work on printing practice on the worksheet
-3. Variables
-	1. variable: a name that refers to a value
-	2. an assignment statement creates new variables and gives them values: 
+3. **Variables Lesson/Worksheet Part 2**
+	1. *Variable*: a name that refers to a value
+	2. An assignment statement creates new variables and gives them values: 
 	
 	```python
 	>>> message = 'And now for something completely different'
