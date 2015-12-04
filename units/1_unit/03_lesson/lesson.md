@@ -2,9 +2,9 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: Script, print, run, output, variable
-* Write a simple script and run it in IDE
-* Print values out to the console (composed values and from variables) 
+* Define and identify: **script**, **print**, **run**, **output**, **variable**
+* Write a simple script and run it in the IDE
+* Print values out to the console (both composed values and from variables) 
 * Compare script mode vs interactive mode
 * Know how to store a value into a variable
 
