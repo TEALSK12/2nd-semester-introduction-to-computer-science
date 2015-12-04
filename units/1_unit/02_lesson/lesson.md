@@ -2,9 +2,9 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **interpreter, prompt, string, integer, value, errors, console**
+* Define and identify: **interpreter, prompt, string, integer, float, value, errors, console**
 * Use the Python interpreter to evaluate simple math expressions
-* Distinguish between a number and string
+* Distinguish between an integer, float, and string
 
 ##Assessment
 * Lab worksheet with predictions and results
