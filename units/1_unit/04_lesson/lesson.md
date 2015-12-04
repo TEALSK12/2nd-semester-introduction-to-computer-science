@@ -32,7 +32,7 @@ Students will be able to...
 		    *	What would changing that string do? (it changes the prompt given to the user) 
 		* Define *input*: user data given to the app. 
 		* Explain that in Python `input` lets a program take input from the terminal and use it in the code. Recall using input from snap.
-		* On board display ![Snap Input](snap_input.png)
+		* Display on the screen: ![Snap Input](snap_input.png)
 			* Ask students what things from Python they will need to create this program. 
 			* Ask students to take 3 minutes to convert this to Python.
 			* Call some students up to write their answers on the board.
