@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **interpreter, prompt, string, integer, float, value, errors, console**
+* Define and identify: **interpreter, prompt, string, integer, float, value, errors, console, expression**
 * Use the Python interpreter to evaluate simple math expressions
 * Distinguish between an integer, float, and string
 
@@ -19,9 +19,9 @@ Students will be able to...
 | ---------- | -------------- |
 | 5 Minutes  | Do Now         |
 | 10 Minutes | Lesson         |
-| 15 Minutes | Lab/Discussion |
-| 15 Minutes | Lab            |
-| 10 Minutes | Discussion     |
+| 15 Minutes | Lab Part 1/Discussion |
+| 20 Minutes | Lab Part 2/Discussion          |
+| 5 Minutes | Debrief     |
 
 ## Instructor's Notes
 1. **Do Now**
@@ -33,7 +33,7 @@ Students will be able to...
 		* The *interpreter* runs Python code.
 	* To run the Python interpreter, type `python3` into the terminal. 
 		* Make sure all the students are able to do this and then give out the lab worksheet.
-3. **Lab part 1** 
+3. **Lab Part 1** 
 	* Give students time to work on section 1, then pause to ask questions. 	
 	    *	What does the // do? How is that different from %?
 		*	What’s the difference between 3.0 and 3?
@@ -42,8 +42,8 @@ Students will be able to...
 	3.	Pause to ask questions about section 2.
 		*	What happened when you typed in a?
 		*	What do you think that error message mean? 
-		*	String: a data type, characters surrounded in single or double quotes.
-	4.	Pause to ask qeustions about section 3.
+		*	*String*: a data type, characters surrounded in single or double quotes.
+	4.	Pause to ask questions about section 3.
 		*	What was the difference between the two inputs?
 		*	Strings can be combined using plus sign.
 		*	What do you think the error message means?		
@@ -51,19 +51,20 @@ Students will be able to...
 	5.	Pause to ask questions about section 4.
 		*	What error did you get? What do you think that means?
 		*  What happens when you multiply strings?
-4. **Lab part 2**
-    1. Define Expressions: a combination of values and operators [and variables]
-    2. Ask students to give an example of expressions 
-    3. Make sure students do the first part at their desk before going to the computer 
+4. **Lab Part 2**
+    * Define *expression*: a combination of values and operators (and variables)
+        * Ask students to give an example of an expression 
+    * Make sure students write down their predictions before going to the interpreter/IDE to check the actual output.
 5. **Debrief**
-	1. Discuss any surprising results. 
-		1. Adding strings together using plus. 
-		2. Single vs double quotes
-		3. Multiplying strings
-		4. Order of Operations is the same
-	2. Discuss why it might be helpful to have an interactive console? How is it different than snap? 
-6. Opportunities for more
-    1. If students are moving quickly, have students practice higher order-of-operations problems. Or practice having them save variables. 
+	* Discuss any surprising/unexpected results. 
+		* Remind students of adding strings together using `+`. 
+		* Talk about how single and double quotes are interchangeable
+		* Multiplying strings
+		* Order of Operations is the same as what students have learned in math class.
+	2. Discuss why it might be helpful to have an interactive console. How is it different than snap? 
+
+###Extension Activity
+If students are moving quickly, have students practice higher order-of-operations problems. You can also have them practice saving variables. 
   
 
 
