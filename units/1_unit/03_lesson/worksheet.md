@@ -26,7 +26,7 @@ This is on a new line!
 animal = "dogs"
 print(animal + " are really cool.")
 ```
-What happens? How would you make the program print out "cats are really cool" instead. 
+What happens? How would you make the program print out "cats are really cool" instead? 
 <br>
 <br>
 <br>
@@ -34,7 +34,7 @@ What happens? How would you make the program print out "cats are really cool" in
 ```python
 print(dogs + " are cool.")
 ```
-What happens? Why does this happen?
+What output does this produce? Why does this happen?
 <br>
 <br>
 <br>
