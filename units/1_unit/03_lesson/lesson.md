@@ -31,10 +31,8 @@ Students will be able to...
 	*	Explain that the file is the center section of the screen. Sometimes this is called a *script*.
 		* Ask: how do you save/run a file? What happened when you ran the file from the do now?
 		* Explain the purpose of the `print` statement, which will print whatever is in between the parentheses to the console.
-			* Explain to students that this is called *output*
-		* When text appears on console its called output 
-		* What happened when you used multi-lines?
-			* Talk to students about how to read a program. 
+			* Explain to students that this what appears on the console is called *output*
+		* Talk to students about reading a program and the order in which the computer executes statements. 
 	* Ask students how they would print the following:
 	```
 Hello World
