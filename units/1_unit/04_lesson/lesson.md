@@ -17,7 +17,7 @@ Students will be able to...
 | 5 Minutes  | Do Now             |
 | 25 Minutes  | Continue Do Now & Discussion |
 | 20 Minutes | Magic Genie Lab|
-| 5 Minutes | Discussion         |
+| 5 Minutes | Debrief         |
 
 ## Instructor's Note
 1. **Do Now**
@@ -45,10 +45,10 @@ Students will be able to...
 			*	What happens if you set variable `c` to `a`. `print(c)`, `print(a)` 
 			*	What would happen if you don’t store a into c in this program? 
 			*	*Mutability*: you can change an existing value
-3.  Lab
+3.  **Magic Genie Lab**
 	*	Make sure students feel comfortable saving things as variables and can print multiple things.
-	*	Troubleshoot with students and try to recognize which students are struggling early.
-3.	Discussion + Quiz Prep
+	*	Troubleshoot with students and try to recognize early which students are struggling.
+4.	**Debrief**
 	1.	Discuss any issues that came up in magic genie
 		1.	Any error messages? 
 	2.	Anyone use more than one variable? 
