@@ -29,7 +29,7 @@ Students will be able to...
     * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 2. **Printing Lesson/Worksheet Part 1**
 	*	Explain that the file is the center section of the screen. Sometimes this is called a *script*.
-		* Reminder question: how do you save/run a file? What happened when you ran the file from the do now?
+		* Reminder questions: how do you save/run a file? What happened when you ran the file from the do now?
 		* Explain the purpose of the `print` statement, which will print whatever is in between the parentheses to the console.
 			* Explain to students that this what appears on the console is called *output*
 		* Talk to students about reading a program and the order in which the computer executes statements. 
@@ -41,23 +41,26 @@ Hello World
 Hello World
 Hello World
 	```
-	3. Have students work on printing practice on the worksheet
+	* Have students work on Part 1 of the worksheet
 3. **Variables Lesson/Worksheet Part 2**
-	1. *Variable*: a name that refers to a value
-	2. An assignment statement creates new variables and gives them values: 
+	* *Variable*: a name that refers to a value
+	* An assignment statement creates new variables and gives them values: 
 	
 	```python
 	>>> message = 'And now for something completely different'
 	>>> n = 17
 	>>> pi = 3.1415926535897932
 	```
-		1. Ask the students what they think the assignment operator is. What are the variables, what are the values? 
-		2. Assignments work from right to left, so the item on the right is assigned to the item on the left. 
-3. Debrief
-	1. Talk about the difference between interactive and script mode. Why might you want to use the interpreted mode (can be faster to debug a single line and make sure it works)
-	2. Talk about differences between SNAP! and Python for declaring variables.
-4. Opportunities for more
-    1. If students are moving quickly, have students practice higher order-of-operations problems. Ask students to come up with a way to print two lines with only one print statement. Allow for students to Google the `\n` character. 
+		* Ask the students what they think the assignment operator is. 
+		* Using the example above, ask which are the variables, and which are the values. 
+		* Tell students how assignments work from right to left, so the item on the right is assigned to the item on the left. 
+4. **Discussion**
+	* Talk about the difference between interactive and script mode. Why might you want to use the interpreted mode (can be faster to debug a single line and make sure it works)
+	* Talk about differences between SNAP! and Python for declaring variables.
+
+###Accommodation/Differentiation
+
+    * If students are moving quickly, have students practice higher order-of-operations problems. Ask students to come up with a way to print two lines with only one print statement. Allow for students to Google the `\n` character. 
   
 
 [Worksheet]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/03_lesson/lab_103.html
