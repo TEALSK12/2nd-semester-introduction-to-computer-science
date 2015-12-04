@@ -7,7 +7,7 @@ Students will be able to...
 * Store user input into a variable
 
 ##Materials/Preparation
-* [Do Now]
+* Do Now
 * [Worksheet]
 * Read through the Do Now, Worksheet, and lesson so that you are familiar with the requirements and can assist students
 
@@ -56,5 +56,4 @@ Students will be able to...
 	    *	Review concepts so far: **variables, interpreter, terminal, string, integer, run, output, swapping**
 
   
-[Do Now]:units/1_unit/04_lesson/worksheet.md
 [Worksheet]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/03_lesson/lab_103.html
