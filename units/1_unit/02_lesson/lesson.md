@@ -45,7 +45,7 @@ Students will be able to...
 		*	*String*: a data type, characters surrounded in single or double quotes.
 	4.	Pause to ask questions about section 3.
 		*	What was the difference between the two inputs?
-		*	Strings can be combined using plus sign.
+		*	Strings can be combined using `+`.
 		*	What do you think the error message means?		
 	    	*   You can’t combine different types!
 	5.	Pause to ask questions about section 4.
