@@ -1,7 +1,7 @@
 # Lab 1.02
 
 ## Part 1
-Using the interpreter practice typing the expressions below. Copy the output into the output file. If the result is unexpected, note that in the thrid column.
+Using the interpreter, practice typing the expressions below. Copy the output into the output column. If the result is unexpected, note that in the third column.
 
 **Section 1**
 
