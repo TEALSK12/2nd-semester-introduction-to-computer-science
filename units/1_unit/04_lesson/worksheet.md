@@ -1,7 +1,7 @@
 ## Do Now
 Type in the following code: 
 
-```
+```python
 a = input(“What is your name? ”)
 # a = “cats and dogs”
 # meow
@@ -27,7 +27,7 @@ Convert the following to Python code.
 ## Swapping
 Copy the following code into your editor. 
 
-```
+```python
 a = “this sentence should go second”
 b = “this sentence should go first.”  
 c = a 
