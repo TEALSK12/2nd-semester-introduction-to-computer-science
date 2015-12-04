@@ -50,7 +50,7 @@ Hello World
 	1. variable: a name that refers to a value
 	2. an assignment statement creates new variables and gives them values: 
 	
-	```
+	```python
 	>>> message = 'And now for something completely different'
 	>>> n = 17
 	>>> pi = 3.1415926535897932
