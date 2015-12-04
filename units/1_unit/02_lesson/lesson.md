@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **interpreter, prompt, string, integer, float, value, errors, console, expression**
+* Define and identify: **interpreter, string, integer, float, value, errors, console, expression**
 * Use the Python interpreter to evaluate simple math expressions
 * Distinguish between an integer, float, and string
 
