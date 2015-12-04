@@ -23,7 +23,7 @@ Students will be able to...
 1. **Do Now**
     * Make sure that students are working as soon as they get to class. 
 2. **Do Now Work & Discussion**
-	* Input Discussions
+	* Input Discussion
 		*	Discuss answers to the questions written in the Do Now. 
 		*	Explain that *comments* are not executed by the interpreter
 		*	Discussion Questions: 
@@ -37,14 +37,14 @@ Students will be able to...
 			* Ask students to take 3 minutes to convert this to Python.
 			* Call some students up to write their answers on the board.
 			* Practice changing the argument to input function in class. (ex. How would you have the computer ask what month the students were born in?)
-	2.	Swapping Variables Discussion
-		1.	If students were not able to complete this section during the Do Now have them work on it for 5 minutes. 
-		2.	Ask how the students tried to get it to print in the correct order?
-			1.	Have students write answers on the board. If no one volunteers. Ask for line by line and you draw on board or type out. 
-		3.	Discuss the idea of setting variables to be other values. 
-			1.	What happens if you set variable `c` to `a`. `print(c)`, `print(a)` 
-			2.	What would happen if you don’t store a into c in this program? 
-			3.	*Mutability*: you can change an existing value
+	*	Swapping Variables Discussion
+		*	Provide students with additional time to work on this portion of the Do Now worksheet. 
+		*	Ask how the students tried to get it to print in the correct order.
+			*	Have students write answers on the board, or call on students to give you answers line by line and you write the code on board or type out. 
+		*	Discuss the idea of setting variables to be other values. 
+			*	What happens if you set variable `c` to `a`. `print(c)`, `print(a)` 
+			*	What would happen if you don’t store a into c in this program? 
+			*	*Mutability*: you can change an existing value
 3.  Lab
 	*	Make sure students feel comfortable saving things as variables and can print multiple things.
 	*	Troubleshoot with students and try to recognize which students are struggling early.
