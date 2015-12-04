@@ -27,9 +27,10 @@ Students will be able to...
 | 10 Minutes | Discussion         |
 
 ## Instructor's Note
-1. Display the Do Now on the board, check that students are working. 
+1. **Do Now**
+    * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 2. Printing Worksheet Review 
-	1.	File is the center section of the screen. Sometimes this is called a script.
+	*	File is the center section of the screen. Sometimes this is called a script.
 		1. How do you save/run a file? Ask students what happened when they ran the file from the do now.
 		2. Need to use `print` statement. Prints whatever is in between the parenthesis to the console
 			1. This is called output
