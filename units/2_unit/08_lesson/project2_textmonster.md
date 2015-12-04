@@ -34,14 +34,14 @@ The above code has each floor being it's own lists. Feel free to use a different
 It will be useful to keep track of the user's position through a variable. 
 ``` 
 user_room = 0
-user_floor = 0 
+user_floor = floor_1 
 ``` 
 This would put the user at the position of the first room of the first floor
 #### Validating User Input
 You will need to check the input of the user to make sure they requested a valid move: 
 ```
 if user_input == "down":
-    current_room = maze[user_floor][user_room]
+    current_room = user_floor[user_room]
     if current_room != "stairs down": 
         print("Can't go downstairs, there are no stairs")
 ```
