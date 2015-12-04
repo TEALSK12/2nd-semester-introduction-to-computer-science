@@ -30,7 +30,7 @@ Students will be able to...
 		    *	What did `input` do? 
 		    *	What did the string between the parentheses do? 
 		    *	What would changing that string do? (it changes the prompt given to the user) 
-		* Define *Input*: user data given to the app. 
+		* Define *input*: user data given to the app. 
 		* Explain that in Python `input` lets a program take input from the terminal and use it in the code. Recall using input from snap.
 		* On board display ![Snap Input](snap_input.png)
 			* Ask students what things from Python they will need to create this program. 
