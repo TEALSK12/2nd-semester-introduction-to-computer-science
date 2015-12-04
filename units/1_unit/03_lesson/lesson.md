@@ -22,7 +22,7 @@ Students will be able to...
 | 5 Minutes  | Do Now             |
 | 20 Minutes | Printing Lesson/Worksheet Part 1   |
 | 20 Minutes | Variables Lesson/Worksheet Part 2   |
-| 10 Minutes | Discussion         |
+| 10 Minutes | Debrief         |
 
 ## Instructor's Note
 1. **Do Now**
@@ -54,7 +54,7 @@ Hello World
 		* Ask the students what they think the assignment operator is. 
 		* Using the example above, ask which are the variables, and which are the values. 
 		* Tell students how assignments work from right to left, so the item on the right is assigned to the item on the left. 
-4. **Discussion**
+4. **Debrief**
 	* Talk about the difference between interactive and script mode. Discuss why you might want to use the interpreted mode: sometimes it can be faster to debug a single line and make sure it works!
 	* Talk about differences between SNAP! and Python for declaring variables.
 
