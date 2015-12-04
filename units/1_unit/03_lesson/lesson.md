@@ -29,13 +29,13 @@ Students will be able to...
     * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 2. **Printing Lesson/Worksheet Part 1**
 	*	File is the center section of the screen. Sometimes this is called a script.
-		1. How do you save/run a file? Ask students what happened when they ran the file from the do now.
-		2. Need to use `print` statement. Prints whatever is in between the parenthesis to the console
-			1. This is called output
-		3. When text appears on console its called output 
-		4. What happened when you used multi-lines?
-			1. Talk to students about how to read a program. 
-	2. Ask students how they would print the following:
+		* How do you save/run a file? Ask students what happened when they ran the file from the do now.
+		* Need to use `print` statement. This prints whatever is in between the parenthesis to the console
+			* This is called output
+		* When text appears on console its called output 
+		* What happened when you used multi-lines?
+			* Talk to students about how to read a program. 
+	* Ask students how they would print the following:
 	```
 Hello World
 Hello World
@@ -53,8 +53,8 @@ Hello World
 	>>> n = 17
 	>>> pi = 3.1415926535897932
 	```
-		1. ask the students what they think the assignment operator is. What are the variables, what are the values? 
-		2. assignments work from right to left. so item on the right is assigned to item on the left. 
+		1. Ask the students what they think the assignment operator is. What are the variables, what are the values? 
+		2. Assignments work from right to left, so the item on the right is assigned to the item on the left. 
 3. Debrief
 	1. Talk about the difference between interactive and script mode. Why might you want to use the interpreted mode (can be faster to debug a single line and make sure it works)
 	2. Talk about differences between SNAP! and Python for declaring variables.
