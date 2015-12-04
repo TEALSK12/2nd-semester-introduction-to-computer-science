@@ -23,8 +23,13 @@ This game will take place in a three story dungeon. The user will have to traver
 ### Design Considerations
 #### Game Board
 The game board is the basis of the game. It will be helpful to design a nested list to represent the terrain. 
-``` maze = [['nothing', 'nothing', 'stairs up'], ['nothing', 'nothing', 'stairs up'], ['prize', 'nothing', 'nothing']]```
-The above code makes a basic 3x3 game board. In this scenario the user can never get back to the bottom floor because there are only stairs up.
+``` 
+floor_1 = ['nothing', 'nothing', 'stairs up']
+floor_2 = ['nothing', 'nothing', 'stairs up']
+floor_3 = ['prize', 'nothing', 'nothing']
+```
+The above code has each floor being it's own lists. Feel free to use a different implementation, but this should work for our purposes. 
+
 #### User Position
 It will be useful to keep track of the user's position through a variable. 
 ``` 
