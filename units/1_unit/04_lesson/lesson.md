@@ -39,10 +39,9 @@ Students will be able to...
 			* Practice changing the argument to input function in class. (ex. How would you have the computer ask what month the students were born in?)
 	*	Swapping Variables Discussion
 		*	Provide students with additional time to work on this portion of the Do Now worksheet. 
-		*	Ask how the students tried to get it to print in the correct order.
+		*	Discuss student results.
 			*	Have students write answers on the board, or call on students to give you answers line by line and you write the code on board or type out. 
 		*	Discuss the idea of setting variables to be other values. 
-			*	What happens if you set variable `c` to `a`. `print(c)`, `print(a)` 
 			*	What would happen if you don’t store a into c in this program? 
 			*	*Mutability*: you can change an existing value
 3.  **Magic Genie Lab**
@@ -50,10 +49,9 @@ Students will be able to...
 	*	Troubleshoot with students and try to recognize early which students are struggling.
 4.	**Debrief**
 	*	Discuss any issues that came up in the magic genie program.
-		*	Any error messages? 
+		*	Were there any error messages? What do they mean?
 	    *	Did anyone use more than one variable? 
-		*	How was the making the genie confused. Did everyone get it organized? 
-	    *	Review concepts so far: **variables, interpreter, terminal, string, integer, run, output, swapping**
+		*	Review concepts so far: **variables, interpreter, terminal, string, integer, run, output, swapping**
 
   
 [Worksheet]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/03_lesson/lab_103.html
