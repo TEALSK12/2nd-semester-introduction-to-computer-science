@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Worksheet]
-* Read through the handout and lesson so that you are familiar with the requirements and can assist students
+* Read through the Do Now, Worksheet, and lesson so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 | **Duration**   |     **Description**    |
@@ -21,7 +21,8 @@ Students will be able to...
 | 10 Minutes | Discussion         |
 
 ## Instructor's Note
-1. Display the Do Now. Make sure that students are working as soon as they get to class. 
+1. **Do Now**
+    * Make sure that students are working as soon as they get to class. 
 2. Review the Do Now and Activity
 	1. Input Discussions
 		1.	Discuss what the ‘#’ did? 
