@@ -20,16 +20,14 @@ Students will be able to...
 | **Duration**   |     **Description**    |
 | ---------- | ------------------ |
 | 5 Minutes  | Do Now             |
-| 10 Minutes | Printing Lesson    |
-| 10 Minutes | Printing Worksheet |
-| 10 Minutes | Variables Lesson   |
-| 10 Minutes | Variables Worksheet|
+| 20 Minutes | Printing Lesson/Worksheet Part 1   |
+| 20 Minutes | Variables Lesson/Worksheet Part 2   |
 | 10 Minutes | Discussion         |
 
 ## Instructor's Note
 1. **Do Now**
     * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
-2. Printing Worksheet Review 
+2. **Printing Lesson/Worksheet Part 1**
 	*	File is the center section of the screen. Sometimes this is called a script.
 		1. How do you save/run a file? Ask students what happened when they ran the file from the do now.
 		2. Need to use `print` statement. Prints whatever is in between the parenthesis to the console
