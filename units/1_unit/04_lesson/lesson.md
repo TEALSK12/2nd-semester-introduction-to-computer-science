@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **storing**, **mutable and variable assignment**,** input**
+* Define and identify: **comments**, **storing**, **mutable and variable assignment**,** input**
 * Assign and swap variables
 * Store user input into a variable
 
@@ -15,26 +15,28 @@ Students will be able to...
 | **Duration**   |     **Description**    |
 | ---------- | ------------------ |
 | 10 Minutes  | Do Now             |
-| 5 Minutes  | Swapping Worksheet |
-| 10 Minutes | Swapping Worksheet Review   |
-| 10 Minutes | Variables Worksheet|
-| 10 Minutes | Discussion         |
+| 25 Minutes  | Continue Do Now & Discussion |
+| 15 Minutes | Magic Genie Lab|
+| 5 Minutes | Discussion         |
 
 ## Instructor's Note
 1. **Do Now**
     * Make sure that students are working as soon as they get to class. 
-2. Review the Do Now and Activity
-	1. Input Discussions
-		1.	Discuss what the ‘#’ did? 
-		2.	Explain that they are called comments and not executed by the interpreter
-		3.	Discussion Questions: What did `input` do? What did the string between the parenthesis do? What would changing it do? (it changes the prompt given to the user) 
-			1. Input: user data given to the app. 
-			2. In Python `input` lets a program take input from the terminal and use it in the code. Recall using input from snap
-			3. On board display ![Snap Input](snap_input.png)
-				1. Ask students what things from Python they will need to create this program. 
-				2. Ask students to take 3 minutes to convert this to Python
-				3. Have students write answer on the board
-				4. Practice changing the argument to input function in class. (ex. How would you have the computer ask what month the students were born in)
+2. **Do Now Work & Discussion**
+	* Input Discussions
+		*	Discuss answers to the questions written in the Do Now. 
+		*	Explain that *comments* are not executed by the interpreter
+		*	Discussion Questions: 
+		    *	What did `input` do? 
+		    *	What did the string between the parentheses do? 
+		    *	What would changing that string do? (it changes the prompt given to the user) 
+		* Define *Input*: user data given to the app. 
+		* Explain that in Python `input` lets a program take input from the terminal and use it in the code. Recall using input from snap.
+		* On board display ![Snap Input](snap_input.png)
+			* Ask students what things from Python they will need to create this program. 
+			* Ask students to take 3 minutes to convert this to Python.
+			* Call some students up to write their answers on the board.
+			* Practice changing the argument to input function in class. (ex. How would you have the computer ask what month the students were born in?)
 	2.	Swapping Variables Discussion
 		1.	If students were not able to complete this section during the Do Now have them work on it for 5 minutes. 
 		2.	Ask how the students tried to get it to print in the correct order?
