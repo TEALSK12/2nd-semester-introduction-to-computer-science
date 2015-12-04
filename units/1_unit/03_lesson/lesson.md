@@ -30,7 +30,7 @@ Students will be able to...
 2. **Printing Lesson/Worksheet Part 1**
 	*	Explain that the file is the center section of the screen. Sometimes this is called a *script*.
 		* Ask: how do you save/run a file? What happened when you ran the file from the do now?
-		* Need to use `print` statement. This prints whatever is in between the parentheses to the console.
+		* Explain the purpose of the `print` statement, which will print whatever is in between the parentheses to the console.
 			* Explain to students that this is called *output*
 		* When text appears on console its called output 
 		* What happened when you used multi-lines?
