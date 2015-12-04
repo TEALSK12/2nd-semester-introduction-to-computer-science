@@ -43,8 +43,8 @@ Using the interpreter, type in the expressions below. Copy and paste the output 
 ## Part 2
 **Before going to the IDE: **
 
-1. Predict the data type of the result and enter into the table
-2. Predict the result value and enter into the table
+1. For each item, predict the data type of the result and enter into the "String/Integer/Float" column.
+2. Next, predict the value of the result for each item and enter into it into the "Prediction of Result" column.
 
 |     **Expression**     | **String/Integer/Float**| **Prediction of Result** | **Interpreter Result**| 
 | :------------------: | :-----------------------: | :--------------------: | :-----------------:|
