@@ -3,7 +3,8 @@
 ## Part 1
 Using the interpreter, type in the expressions below. Copy the output into the output column. If the result is unexpected, note that in the third column.
 
-**Section 1**
+
+###Section 1
 
 | |**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**|
 |-| ----| ------- | ----------- |
@@ -15,21 +16,24 @@ Using the interpreter, type in the expressions below. Copy the output into the o
 |f| `5.0 % 2` |<br><br><br><br>| | |
     
 
-**Section 2 **
+###Section 2
 
 ||**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**|
 |-| ----| ------- | ----------- |
 |a| `a` |<br><br><br><br>| | 
 |b|`'a'`|<br><br><br><br>| | |
 
-**Section 3**
+###Section 3
 
 ||**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**| 
 |-| ----| ------- | ----------- |
 |a| `'a + b'`|<br><br><br><br>| | 
 |b| `'a' + 'b'`|<br><br><br><br>|| | 
 
-**Section 4 **
+
+###Section 4
+
+
 
 ||**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**| 
 |-| ----| ------- | ----------- |
