@@ -1,5 +1,5 @@
 ## Do Now
-Type in the following code: 
+Type in and run the following code: 
 
 ```python
 a = input(“What is your name? ”)
@@ -10,15 +10,15 @@ print(“Hello there, ” + a)
 
 Write down the answers to the following questions. 
 1. What do you expect the result to be?
-<br>
+<br><br>
 2. What is the result?
-<br>
+<br><br>
 3. What does the ‘#’ do? 
-<br>
+<br><br>
 4. What does input do?
-
+<br><br>
 ## Snap to Python
-Convert the following to Python code.
+Convert the following to Python code:
 ![Snap Input](snap_input.png)
 <br>
 <br>
@@ -39,7 +39,7 @@ print(a)
 print(b)
 ```
 
-Run the program, what is the result? 
-
+Run the program, what is the output? 
+<br><br>
 
 Write code to swap the values of variables `a` and `b`.
