@@ -11,13 +11,6 @@ Practice typing out some statements in the editor part of the IDE, then hit "Run
 |`print(“1” + “2”)`|           |        |
 |`print(“this” + “ “ + “is” + “ “ + “a” + “ “ + “sentence” + “.”)`|              |   |        |
 
-##Bonus!
-Print the output below, but only using **one** print statement. Feel free to use online resources.
-```
-Wow!
-This is on a new line! 
-
-```
 
 ## Part 2 - Variables Practice
 
@@ -41,3 +34,10 @@ What output does this produce? Why does this happen?
 3. Rewrite the following SNAP! program in Python: 
 ![snap_blocks_variables](snap_blocks_variables.png)
 
+##Bonus!
+Print the output below, but only using **one** print statement. Feel free to use online resources.
+```
+Wow!
+This is on a new line! 
+
+```
