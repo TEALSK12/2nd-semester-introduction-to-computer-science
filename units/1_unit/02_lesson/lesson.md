@@ -4,7 +4,7 @@
 Students will be able to... 
 * Define and identify: **interpreter, prompt, string, integer, value, errors, console**
 * Use the Python interpreter to evaluate simple math expressions
-* Given a value, distinguish between a number and string 
+* Distinguish between a number and string
 
 ##Assessment
 * Lab worksheet with predictions and results
