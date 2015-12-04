@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **comments**, **storing**, **mutable and variable assignment**,** input**
+* Define and identify: **comments**, **storing**, **mutable**, **variable assignment**,** input**
 * Assign and swap variables
 * Store user input into a variable
 
