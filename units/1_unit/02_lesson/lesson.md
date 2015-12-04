@@ -64,7 +64,7 @@ Students will be able to...
 	2. Discuss why it might be helpful to have an interactive console. How is it different than snap? 
 
 ###Extension Activity
-If students are moving quickly, have students practice higher order-of-operations problems. You can also have them practice saving variables. 
+If students are moving quickly, have students practice higher order-of-operations problems. You can also have them practice assigning values to variables. 
   
 
 
