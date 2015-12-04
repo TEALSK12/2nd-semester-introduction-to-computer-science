@@ -9,13 +9,13 @@ print(“Hello there, ” + a)
 ```
 
 Write down the answers to the following questions. 
-1. What do you expect the result to be?
+1. What do you expect the output to be?
 <br><br>
-2. What is the result?
+2. What is the actual output?
 <br><br>
-3. What does the ‘#’ do? 
+3. What does the `#` do? 
 <br><br>
-4. What does input do?
+4. What does `input` do?
 <br><br>
 ## Snap to Python
 Convert the following to Python code:
