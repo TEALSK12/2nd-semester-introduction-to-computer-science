@@ -5,33 +5,33 @@ Using the interpreter, type in the expressions below. Copy the output into the o
 
 **Section 1**
 
-| |Input | &nbsp; &nbsp; Output &nbsp; &nbsp;|Did it do something unexpected?|
+| |**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**|
 |-| ----| ------- | ----------- |
 |a| `5 + 2 * 2` |<br><br><br><br>| | 
 |b| `2/3 `|<br><br><br><br>| | 
 |c| `2.0 * 1.5`|<br><br><br><br>| | 
-|d| `(2 +3)* 10`|<br><br><br><br>| | 
-|e| `5.0//2` |<br><br><br><br>| | 
+|d| `(2 + 3) * 10`|<br><br><br><br>| | 
+|e| `5.0 // 2` |<br><br><br><br>| | 
 |f| `5.0 % 2` |<br><br><br><br>| | |
     
 
 **Section 2 **
 
-||Input | &nbsp; &nbsp; Output &nbsp; &nbsp;|Did it do something unexpected?|
+||**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**|
 |-| ----| ------- | ----------- |
 |a| `a` |<br><br><br><br>| | 
 |b|`'a'`|<br><br><br><br>| | |
 
 **Section 3**
 
-||Input | &nbsp; &nbsp; Output &nbsp; &nbsp;|Did it do something unexpected?| 
+||**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**| 
 |-| ----| ------- | ----------- |
 |a| `'a + b'`|<br><br><br><br>| | 
 |b| `'a' + 'b'`|<br><br><br><br>|| | 
 
 **Section 4 **
 
-||Input | &nbsp; &nbsp; Output &nbsp; &nbsp;|Did it do something unexpected?| 
+||**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**| 
 |-| ----| ------- | ----------- |
 |a| `'a' * 'b'` |<br><br><br><br>| | 
 |b| `'a' * 2` |<br><br><br><br>| | |
@@ -42,15 +42,15 @@ Using the interpreter, type in the expressions below. Copy the output into the o
 1. Predict the data type of the result and enter into the table
 2. Predict the result value and enter into the table
 
-|     Expression     | String/Integer/Float| Prediction of Result | Interpreter Result| 
+|     **Expression**     | **String/Integer/Float**| **Prediction of Result** | **Interpreter Result**| 
 | :------------------: | :-----------------------: | :--------------------: | :-----------------:|
-|`10 * 2`            |   integer                |    20               |         ?         | 
+|`10 * 2`            |   integer                |    20               |         20         | 
 | `.5 * 2`           |                         |                      |                   | 
 | `10/2`             |                         |                      |                   | 
 | `10%2`            |                         |                      |                   | 
 | `2 ** 3`           |                         |                      |                   | 
 | `(2+5)*3`          |                         |                      |                   | 
-| `2+ 5 * 3`         |                         |                      |                   | 
+| `2 + 5 * 3`         |                         |                      |                   | 
 | `'ab' + '12' + '3'`|                         |                      |                   | 
 | `x`                |                         |                      |                   | 
 | `"ab" + "cd"`      |                         |                      |                   | 
