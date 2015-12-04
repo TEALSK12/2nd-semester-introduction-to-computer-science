@@ -13,8 +13,7 @@ Students will be able to...
 ## Pacing Guide
 | **Duration**   |     **Description**    |
 | ---------- | ------------------ |
-| 5 Minutes  | Do Now             |
-| 10 Minutes | Input Worksheet Review|
+| 10 Minutes  | Do Now             |
 | 5 Minutes  | Swapping Worksheet |
 | 10 Minutes | Swapping Worksheet Review   |
 | 10 Minutes | Variables Worksheet|
