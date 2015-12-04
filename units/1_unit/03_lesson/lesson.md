@@ -12,9 +12,9 @@ Students will be able to...
 * written worksheet with predictions and results
 
 ##Materials/Preparation
+* [Do Now] - Project on screen
 * [Worksheet]
-* [Do Now]
-* Read through the handout and lesson so that you are familiar with the requirements and can assist students
+* Read through the  and lesson so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 | **Duration**   |     **Description**    |
