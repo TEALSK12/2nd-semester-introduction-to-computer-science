@@ -1,9 +1,9 @@
-# Lesson Plan 1.04: Variables 2 and User Input
+# Lesson Plan 1.04: Variables and User Input
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: storing, mutable and variable assignment, input
-* Set and swap variables
+* Define and identify: **storing**, **mutable and variable assignment**,** input**
+* Assign and swap variables
 * Store user input into a variable
 
 ##Materials/Preparation
