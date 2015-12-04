@@ -29,7 +29,7 @@ Students will be able to...
     * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 2. **Printing Lesson/Worksheet Part 1**
 	*	Explain that the file is the center section of the screen. Sometimes this is called a *script*.
-		* How do you save/run a file? Ask students what happened when they ran the file from the do now.
+		* Ask: how do you save/run a file? What happened when you ran the file from the do now?
 		* Need to use `print` statement. This prints whatever is in between the parentheses to the console.
 			* Explain to students that this is called *output*
 		* When text appears on console its called output 
