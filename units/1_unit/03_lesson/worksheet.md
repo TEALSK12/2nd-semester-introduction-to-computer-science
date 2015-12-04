@@ -35,7 +35,7 @@ What output does this produce? Why does this happen?
 ![snap_blocks_variables](snap_blocks_variables.png)
 
 ##Bonus!
-Print the output below, but only using **one** print statement. Feel free to use online resources.
+Print the output below, but only using **one** line of code. Feel free to use online resources.
 ```
 Wow!
 This is on a new line! 
