@@ -55,12 +55,12 @@ Hello World
 		* Using the example above, ask which are the variables, and which are the values. 
 		* Tell students how assignments work from right to left, so the item on the right is assigned to the item on the left. 
 4. **Discussion**
-	* Talk about the difference between interactive and script mode. Why might you want to use the interpreted mode (can be faster to debug a single line and make sure it works)
+	* Talk about the difference between interactive and script mode. Discuss why you might want to use the interpreted mode: sometimes it can be faster to debug a single line and make sure it works!
 	* Talk about differences between SNAP! and Python for declaring variables.
 
 ###Accommodation/Differentiation
+If students are moving quickly, have students practice higher order-of-operations problems. Ask students to come up with a way to print two lines with only one print statement. Allow for students to Google the `\n` character. 
 
-* If students are moving quickly, have students practice higher order-of-operations problems. Ask students to come up with a way to print two lines with only one print statement. Allow for students to Google the `\n` character. 
   
 
 [Worksheet]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/03_lesson/lab_103.html
