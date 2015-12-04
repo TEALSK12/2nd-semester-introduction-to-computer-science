@@ -60,7 +60,7 @@ Hello World
 
 ###Accommodation/Differentiation
 
-    * If students are moving quickly, have students practice higher order-of-operations problems. Ask students to come up with a way to print two lines with only one print statement. Allow for students to Google the `\n` character. 
+* If students are moving quickly, have students practice higher order-of-operations problems. Ask students to come up with a way to print two lines with only one print statement. Allow for students to Google the `\n` character. 
   
 
 [Worksheet]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/03_lesson/lab_103.html
