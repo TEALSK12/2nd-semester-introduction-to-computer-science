@@ -16,7 +16,7 @@ for x in []:
 Although a list can contain another list, the nested list still counts as a single element. The length of this list is four:
 ['spam', 1, ['Brie', 'Roquefort', 'Pol le Veq'], [1, 2, 3]]
 
-##Traversal a String
+##Traversing a String
 
 A lot of computations involve processing a string one character at a time. Often they start at the beginning, select each character in turn, do something to it, and continue until the end. This pattern of processing is called a traversal. One way to write a traversal is with a while loop:
 
@@ -65,3 +65,23 @@ Of course, that’s not quite right because “Ouack” and “Quack” are miss
 
 ###Exercise 2  
 Modify the program to fix this error.
+
+## Looping and counting
+
+The following program counts the number of times the letter a appears in a string:
+
+```
+word = 'banana'
+count = 0
+for letter in word:
+    if letter == 'a':
+        count = count + 1
+print count
+```
+
+This program demonstrates another pattern of computation called a counter. The variable count is initialized to 0 and then incremented each time an a is found. When the loop exits, count contains the result—the total number of a’s.
+
+###Exercise 5  
+Encapsulate this code in a function named count, and generalize it so that it accepts the string and the letter as arguments.
+###Exercise 6  
+Rewrite this function so that instead of traversing the string, it uses the three-parameter version of find from the previous section.
