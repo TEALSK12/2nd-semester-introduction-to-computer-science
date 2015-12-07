@@ -1,0 +1,45 @@
+#Lesson 5.02: EarSketch Music
+
+##Learning Objectives
+Students will be able to...
+
+* Define and identify: **rhythm**, **beat**, **tempo**, **measures**, **setEffect()**, **makeBeat()**
+* Playing beats using the functions
+* Loop through items in a list
+* Be aware of the scope of variables during iteration 
+
+##Materials/Preparation
+* [Do Now]
+* [Lab]
+*  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
+
+## Pacing Guide
+| **Duration**   | **Description** |
+| ---------- | ----------- |
+| 5 Minutes  | Do Now      |
+| 10 Minutes | Lesson      |
+| 30 Minutes | Lab         |
+| 10 Minutes | Debrief     |
+
+## Instructor's Notes
+
+1. **Do Now**
+    * Display the Do Now on the board
+2. **Lesson**
+	* Ask what phrases the students wrote down or remembered from the reading. 
+		* **rhythm** of a song, we are describing how the music moves through time.
+		* A **beat** is the basic unit of time in music. If you have ever clapped along to a song, you were probably clapping on each beat. So how long does a beat last? The length depends on the overall speed of the song, called the tempo. **Tempo** is measured in beats per minute (bpm). If we are clapping at 60 bpm, then each beat lasts one second. At 120 bpm, each beat takes half a second. The higher the bpm, the faster the song, the shorter the duration of each beat.
+		* Beats are grouped into **measures**. In EarSketch, measures always have four beats.
+		* **setEffect()**: add an effect to a track. Takes parameters: track number, effect name, effect parameter, effect value
+		* **makeBeat()**: instead of composing at the measure-level, we can work at the note-level. Takes parameters: clip name, track number, measure number, beat string
+3. **Lab**
+	* Follow the ear sketch instructions below `makeBeat()` 
+	* Create a simple song with 2 uses of fitMedia, 2 uses of makeBeat and 1 use of effect. 
+	* Students can use looping and if statements if they would like 
+4. **Debrief**
+	* Talk about new functions, questions about data types and using strings.
+
+
+
+[Do Now]: do_now.md
+[Lab]: lab.md
