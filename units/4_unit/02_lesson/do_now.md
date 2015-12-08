@@ -6,7 +6,7 @@
 range(0, 10)
 range(10, 100)
 ```
-Write down what the range function does. What is the function contract?  
+Write down what the range function does. 
 <br>
 <br>
 <br>
@@ -25,4 +25,4 @@ Write down what `range(0, len(a))` does.
 What is the return value of the range function? 
 <br>
 
-3. Use the `range`, `len` and a for loop to update a list of integers so that each integer in the list is doubled. (Remember that for loops iterate over lists)
+3. Use the `range` and `len` functions to make a for loop. (Remember that for loops iterate over lists)

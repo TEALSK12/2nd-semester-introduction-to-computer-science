@@ -40,6 +40,7 @@ Students will be able to...
 	* Practice updating the songs 
 4. **Debrief**
 	* Talk about any of the phrases or issues the students had. Did they find it easy to understand the code when they read it.
+	* Have students read the next part(s) of the guide in EarSketch documentation. 
 
 
 
