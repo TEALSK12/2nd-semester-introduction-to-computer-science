@@ -14,7 +14,7 @@ Students will be able to...
 | **Duration**   |     **Description**    |
 | ---------- | ------------------ |
 | 5 Minutes  | Pass out Quiz      |
-| 20 Minutes | Quiz               |
+| 25 Minutes | Quiz               |
 | 25 Minutes | Debugging Activity |
 
 ## Instructor's Note
