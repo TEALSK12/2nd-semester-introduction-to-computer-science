@@ -1,4 +1,4 @@
-# Lesson Plan 1.05: Debugging & Quiz
+# Lesson Plan 1.05: Quiz & Debugging
 
 ##Learning Objectives
 Students will be able to...
