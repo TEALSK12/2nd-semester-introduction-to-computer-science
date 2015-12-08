@@ -8,7 +8,7 @@ Create a genie program. Save the file as `magic_genie.py`.
 
 2.  There are some repeated strings in this genie program. Move those into variables.   
 
-3.  Without editing or deleting your current code, only adding in code, make your genie confused. Have him print your first wish as your last wish, and your second wish as your first wish, and your third wish as your second wish.  
+3.  Now it's time to make your genie confused. Edit your code to have him print your first wish as your last wish, and your second wish as your first wish, and your third wish as your second wish.  
 
 ### Hint!
 Remember to add spaces you can combine `" "`  to the end of your string using the `+` operator. So `print("hello" + " " + "student")` would print `hello student`
