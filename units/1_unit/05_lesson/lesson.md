@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to...
-* Define and identify: syntax errors, runtime errors, semantic errors
+* Define and identify: **syntax errors, runtime errors, semantic errors**
 * Respond to error messages
 
 ##Materials/Preparation
