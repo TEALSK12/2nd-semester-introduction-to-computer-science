@@ -63,5 +63,5 @@ If students are moving quickly, have students practice higher order-of-operation
 
   
 
-[Worksheet]:units/1_unit/03_lesson/worksheet.md
+[Worksheet]:worksheet.md
 [Do Now]: do_now.md
