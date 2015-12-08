@@ -11,6 +11,7 @@
     * [Lab](units/1_unit/02_lesson/lab.md)
     * [Associated Reading](units/1_unit/02_lesson/associated_reading.md)
   * [Lesson 1.03: Script Mode and Variables](units/1_unit/03_lesson/lesson.md) 
+    * [Do Now](units/1_unit/03_lesson/do_now.md)
     * [Worksheet](units/1_unit/03_lesson/worksheet.md)
     * [Associated Reading](units/1_unit/03_lesson/associated_reading.md)
   * [Lesson 1.04: Variables Input](units/1_unit/04_lesson/lesson.md) 
