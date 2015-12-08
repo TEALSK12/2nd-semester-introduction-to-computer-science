@@ -6,11 +6,11 @@ Using Python and EarSketch you will create a fully fledged song consisting of 2 
 We have worked in class to practice creating sections of songs. We will use that knowledge to create a song using the samples we are given. 
 
 ### Behavior
-* The song will have 2 verses, between each verse there should be a chorus, between the 2nd chorus and the final verse there should be a bridge. 
+* The song will have pattern (verse, chorus, verse2, chorus, bridge, chorus)
 * The verses should contain some of the same forms, but be independent. 
-* Each verse should consist of X measures
-* The chorus should consist of X measures
-* The bridge should consist of X measures
+* Each verse should consist of at least 8 measures
+* The chorus should consist of at least 8 measures
+* The bridge should consist of 2-8 measures
 * The song should have a flow and underlying themes that recur
 
 ### Implementation Details
