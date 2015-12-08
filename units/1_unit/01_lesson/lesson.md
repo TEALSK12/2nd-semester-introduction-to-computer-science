@@ -56,5 +56,5 @@ Students will be able to...
 
 
 [Python Code]:hello_world.py
-[Sign Up Guide]:Python_online_editor_sign_up.md
-[Sign Up Guide Teachers]:Python_online_editor_sign_up_teachers.md
+[Sign Up Guide]:python_online_editor_sign_up.md
+[Sign Up Guide Teachers]:python_online_editor_sign_up_teachers.md
