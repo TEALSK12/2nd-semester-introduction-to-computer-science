@@ -68,4 +68,4 @@ If students are moving quickly, have students practice higher order-of-operation
   
 
 
-[Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/02_lesson/lab_102.html
+[Lab]:lab.md
