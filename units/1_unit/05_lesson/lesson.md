@@ -25,9 +25,9 @@ Students will be able to...
 		1. Give students a longer piece of code (eg [code]). Ask them to read through it and say what is printed out
 		2. When reading through code we go line by line, as if we are the interpreter. It is also helpful to run the code, and look at the error message given back.
 		3. Display a stack trace. Ask students what line of code they think the error message might be on. Walk through the stack trace.
-	2. Have students work through this web page at [debugging]
+	2. Direct students work through this web tutorial on [debugging]
 
 
 [Quiz]:quiz.md
 [debugging]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html
-[code]: code.py
+[code]:code.py
