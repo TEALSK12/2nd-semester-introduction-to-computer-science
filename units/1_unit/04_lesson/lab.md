@@ -1,6 +1,6 @@
 # Lab 1.04 - Magic Genie
 
-**Goals**: Use Python to interact with variables and user input. 
+**Goal**: Use Python to interact with variables and user input. 
 
 Create a genie program. Save the file as `magic_genie.py`. 
 
