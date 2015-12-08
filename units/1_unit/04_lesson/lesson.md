@@ -15,9 +15,9 @@ Students will be able to...
 | **Duration**   |     **Description**    |
 | ---------- | ------------------ |
 | 5 Minutes  | Do Now             |
-| 25 Minutes  | Continue Do Now & Discussion |
+| 20 Minutes  | Continue Do Now & Discussion |
 | 20 Minutes | Magic Genie Lab|
-| 5 Minutes | Debrief         |
+| 10 Minutes | Debrief/Quiz Prep         |
 
 ## Instructor's Note
 1. **Do Now**
@@ -47,10 +47,11 @@ Students will be able to...
 3.  **Magic Genie Lab**
 	*	Make sure students feel comfortable saving things as variables and can print multiple things.
 	*	Troubleshoot with students and try to recognize early which students are struggling.
-4.	**Debrief**
+4.	**Debrief/Quiz Prep**
 	*	Discuss any issues that came up in the magic genie program.
 		*	Were there any error messages? What do they mean?
 	    *	Did anyone use more than one variable? 
+	* Let students know about 
 		*	Review concepts so far: **variables, interpreter, terminal, string, integer, run, output, swapping**
 
   
