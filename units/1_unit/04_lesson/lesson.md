@@ -9,7 +9,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now] 
 * [Lab]
-* Read through the Do Now, Worksheet, and lesson so that you are familiar with the requirements and can assist students
+* Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 | **Duration**   |     **Description**    |
