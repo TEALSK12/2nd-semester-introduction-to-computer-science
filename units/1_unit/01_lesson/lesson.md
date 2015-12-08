@@ -55,6 +55,6 @@ Students will be able to...
 
 
 
-[Python Code]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/hello_world.html
-[Sign Up Guide]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/Python_online_editor_sign_up.html
+[Python Code]:hello_world.py
+[Sign Up Guide]:Python_online_editor_sign_up.md
 [Sign Up Guide Teachers]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/Python_online_editor_sign_up_teachers.html
