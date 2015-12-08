@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now] 
-* [Worksheet]
+* [Lab]
 * Read through the Do Now, Worksheet, and lesson so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -55,4 +55,4 @@ Students will be able to...
 		*	Review concepts so far: **variables, interpreter, terminal, string, integer, run, output, swapping**
 
 [Do Now]:worksheet.md
-[Worksheet]:lab.md
+[Lab]:lab.md
