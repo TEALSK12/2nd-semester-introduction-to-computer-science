@@ -54,5 +54,5 @@ Students will be able to...
 	* Let students know about 
 		*	Review concepts so far: **variables, interpreter, terminal, string, integer, run, output, swapping**
 
-[Do Now]:  
-[Worksheet]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/03_lesson/lab_103.html
+[Do Now]:worksheet.md
+[Worksheet]:lab.md
