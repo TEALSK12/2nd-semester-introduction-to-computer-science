@@ -18,7 +18,6 @@
     * [Lab 1.04](units/1_unit/04_lesson/lab.md)
     * [Worksheet 1.04](units/1_unit/04_lesson/worksheet.md)
   * [Lesson 1.05: Debugging](units/1_unit/05_lesson/lesson.md) 
-    * [Lab](units/1_unit/05_lesson/lab.md)
     * [Quiz](units/1_unit/05_lesson/quiz.md)
     * [Associated Reading](units/1_unit/05_lesson/associated_reading.md)  
   * [Lesson 1.06: MadLibs](units/1_unit/06_lesson/lesson.md) 
