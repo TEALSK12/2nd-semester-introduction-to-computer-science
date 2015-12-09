@@ -7,7 +7,8 @@ Students will be able to...
 * Convert from one data type to another data type
 
 ##Materials/Preparation
-* [Do Now Handout]
+* [Do Now]
+* [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -39,4 +40,5 @@ Students will be able to...
     1. If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0s and 1s). In practice these translate to True and False. Convert numbers to boolean, and booleans to number.
   
 
-[Do Now Handout]:do_now.md
+[Do Now]:do_now.md
+[Lab]:lab.md
