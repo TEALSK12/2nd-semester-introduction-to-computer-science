@@ -6,8 +6,7 @@ Students will be able to...
 * List conditionals
 
 ##Materials/Preparation
-* [Do Now Handout]
-* [Lab]
+* [Do Now]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -29,6 +28,4 @@ Students will be able to...
     1. This lesson may not be necessary, but the subject might need more time. 
     2. Quiz: there could also be a quiz after game loop or during the zork lesson
   
-
-[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_206.html
-[Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lab_206.html
+[Do Now]:do_now2.md
