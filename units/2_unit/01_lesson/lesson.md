@@ -6,7 +6,7 @@ Students will be able to...
 * Describe different representations of data
 
 ##Materials/Preparation
-* [Do Now Handout]
+* [Do Now]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -34,5 +34,4 @@ Students will be able to...
   4. Discuss how everything the computer reads gets turned into binary in the end.
     1. How could letters be turned into binary? How can letters be turned into numbers? a = 1, b = 2, c = 3.
 
-
-[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/do_now_201.html
+[Do Now]:do_now.md
