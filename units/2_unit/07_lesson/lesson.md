@@ -6,7 +6,7 @@ Students will be able to...
 * Use a while list to simulate game play
 
 ##Materials/Preparation
-* [Do Now Handout]
+* [Do Now]
 * [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -30,6 +30,5 @@ Students will be able to...
     1. If there is a lot of extra time start reviewing concepts and going over any issues. 
     2. If there is more time have students start reading through the project specs. 
   
-
-[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_207.html
-[Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lab_207.html
+[Do Now]:do_now.md
+[Lab]:lab.md
