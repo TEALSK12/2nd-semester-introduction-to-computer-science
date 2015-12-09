@@ -1,8 +1,8 @@
 # Summary
 
-* [Introductionn](README.md)
-* [Curriculum Map](curriculum_map.md)
-* [Summary](SUMMARY.md)
+* [Introductionn](./README.md)
+* [Curriculum Map](./curriculum_map.md)
+* [Summary](./SUMMARY.md)
 * [Unit 1](units/1_unit/unit1.md)
   * [Lesson 1.01: Set Up](units/1_unit/01_lesson/lesson.md)
     * [IDE Sign Up](units/1_unit/01_lesson/python_online_editor_sign_up.md)
