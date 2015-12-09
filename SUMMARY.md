@@ -1,6 +1,6 @@
 # Summary
 
-* [Introductionn](README.md)
+* [Introduction](README.md)
 * [Curriculum Map](curriculum_map.md)
 * [Summary](SUMMARY.md)
 * [Unit 1](units/1_unit/unit_1.md)
