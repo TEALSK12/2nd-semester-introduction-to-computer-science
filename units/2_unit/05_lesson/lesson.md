@@ -8,7 +8,7 @@ Students will be able to...
 * Use the length function
 
 ##Materials/Preparation
-* [Do Now Handout]
+* [Do Now]
 * [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -41,6 +41,5 @@ Students will be able to...
 3. Opportunities for more
     1. If students are moving quickly, start topic of nested lists. Start of with a simple nested list like `['a', 'b', 'c', [1, 2, 3]]`. Ask the students to guess the length. Ask the students to guess how they would access the item '1' from that list! 
   
-
-[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_205.html
-[Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lab_205.html
+[Do Now]:do_now.md
+[Lab]:lab.md
