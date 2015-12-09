@@ -39,5 +39,5 @@ Students will be able to...
 3. Review
     1. During discussion at end of class figure out where students are. During the review the next morning cover these topics 
   
-[Project]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/project2_textmonster.html
-[Code]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/zorky.html
+[Project]: project.md
+[Code]: project_file.md
