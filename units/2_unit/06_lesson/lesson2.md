@@ -17,7 +17,7 @@ Students will be able to...
 | 30 Minutes | Review      |
 | 10 Minutes | Discussion  |
 
-## Instructor's Note
+## Instructor's Notes
 1. Lesson
   1. Go over list `is in` conditionals. Ask what the return value is (Boolean expression)
     1. Have students practice using the `is in` in an if statement. During this time look at the topics they are having problems
