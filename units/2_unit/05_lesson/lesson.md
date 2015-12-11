@@ -20,7 +20,7 @@ Students will be able to...
 | 30 Minutes | Lab         |
 | 10 Minutes | Discussion  |
 
-## Instructor's Note
+## Instructor's Notes
 1. Lesson
   1. Ask students what a list is? 
     1. a list is a sequence of values. In a list, they can be any type. The values in a list are called elements or sometimes items.
