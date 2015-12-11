@@ -1,4 +1,4 @@
-#Lesson 2.01: Binary
+#Lesson 2.01: Binary Day
 
 ##Learning Objectives
 Students will be able to...
