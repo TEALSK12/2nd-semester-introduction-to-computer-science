@@ -19,7 +19,7 @@ Students will be able to...
 | 30 Minutes | Lab         |
 | 10 Minutes | Discussion  |
 
-## Instructor's Note
+## Instructor's Notes
 1. Lesson
   1. Ask students to define 'type'? Talk about types in the context as a way to represent data.(give example of string, int, float) 
   2. Ask students what they thought having str('12') did? Define this as casting. 
