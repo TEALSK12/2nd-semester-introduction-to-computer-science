@@ -18,7 +18,7 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 45 Minutes | Lesson/Activity      |
-| 5 Minutes | Discussion     |
+| 5 Minutes | Debrief     |
 
 ## Instructor's Notes
 1. **Do Now**
