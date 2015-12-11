@@ -1,16 +1,18 @@
 # Project 1: Mad Libs
 
-Using Python, students will use variables, input, and printing to create a Mad Lib. They will also practice designing a project by planning out their Mad Lib before implementing it.
+Using Python, students will use variables, input, and printing to create a Mad Lib. You will also practice *designing* a project by planning out your Mad Lib before implementing it.
 
 ## Overview
-MadLibs are a fun way to tell a story. The story is pre-written except for a few words. The user fills in the words before seeing the story. Then the story is read off with the words given. 
+Mad Libs are a fun way to tell a story. The story is pre-written except for a few words. The user fills in the words before seeing the story. Then the story is read off with the user's words mixed in! 
 
 ## Details
 ### Behavior
-* The program will print out the title of the MadLibs story, as well as a short explanation of game play    
+* The program will print out the title of the Mad Libs story, as well as a short explanation of game play    
     ```
-    A Day in NYC: a MadLib.
-    Welcome! You are about to play a fantastic word game. I will ask you for nouns, verbs, adjectives, proper nouns and adverbs. Using those words I will create an unexpected story for you!
+    A Day in NYC: a Mad Lib.
+    Welcome! You are about to play a fantastic word game. 
+    I will ask you for nouns, verbs, adjectives, proper nouns and adverbs. 
+    Using those words I will create an unexpected story for you!
     ```
 * The program should then prompt the user to enter in nouns, verbs, adjectives, proper nouns, and adverbs
 !(Example running)[mad_libs_screen_shot.png]
