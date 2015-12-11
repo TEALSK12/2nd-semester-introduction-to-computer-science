@@ -1,8 +1,8 @@
-#Lesson 2.02: Casting
+#Lesson 2.01: Binary
 
 ##Learning Objectives
 Students will be able to...
-* Define and identify: binary
+* Define and identify: **binary**
 * Describe different representations of data
 
 ##Materials/Preparation
@@ -17,7 +17,7 @@ Students will be able to...
 | 30 Minutes | Discover    |
 | 10 Minutes | Discuss     |
 
-## Instructor's Note
+## Instructor's Notes
 1. Lesson
   1. Ask students how they counted to 10
   2. Ask students how they counted to 1023?
