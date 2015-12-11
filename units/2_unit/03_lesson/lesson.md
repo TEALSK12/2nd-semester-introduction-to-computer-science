@@ -19,7 +19,7 @@ Students will be able to...
 | 30 Minutes | Lab         |
 | 10 Minutes | Discussion  |
 
-## Instructor's Note
+## Instructor's Notes
 1. Have students work on the Do Now part 1
 2. Lesson
   1. Ask students what they thought a Boolean was? 
