@@ -30,6 +30,8 @@ Students will be able to...
 		* Explain that, much like in Snap, *debugging* is the process of tracking and fixing errors in your code.
 	* Direct students to work through and complete this web tutorial on [debugging]
 
+###Accomodation/Differentiation
+
 
 [Quiz]:quiz.md
 [debugging]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html
