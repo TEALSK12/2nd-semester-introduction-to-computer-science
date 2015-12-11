@@ -4,13 +4,14 @@
 Students will be able to...
 * Define and identify: **binary**
 * Describe different representations of data
+* Represent decimal numbers in binary
 
 ##Materials/Preparation
 * [Do Now]
 * Index cards for binary activity (at least 1 per student)
 * Scissors
-* 8.5" x 11" printer paper, each page has a large number written on it (1, 2, 4, 8, 16, 32, ...)
-* Read through the do now and lesson so that you are familiar with the requirements and can assist students as needed.
+* 8.5" x 11" printer paper, each page has a large number (2^n) written on it (1, 2, 4, 8, 16, 32, ...)
+* Read through the do now and lesson so that you are familiar with the requirements and can assist students as needed
 
 ## Pacing Guide
 | **Duration**   | **Description** |
@@ -21,9 +22,9 @@ Students will be able to...
 | 10 Minutes | Discuss     |
 
 ## Instructor's Notes
-1. Lesson
-  1. Ask students how they counted to 10
-  2. Ask students how they counted to 1023?
+1. **Do Now**
+  * Project [Do Now] questions on the screen
+    2. Ask students how they counted to 1023?
   3. Explain Binary: different base of counting. on the board right out lines with 1 2 4 8 underneath. Explain 10 is 2 in binary because there is a 1 in the twos spot and nothing in the 1s spot. Do a few more examples. Once students are understanding do one of the following activities:
     1. Have students write 1 2 4 8 16 32 ... on the bottom of a note card spaced out about half an inch a part. Cut out so that the letters are each on a flap. Call off n and have students fold up the note card sections to make that number
     2. Have students n students walk up to the front of the classroom. Have them hold the place they represent and have a 2^n written on a sheet of paper (so student's have 0 or 2 or 4 or ... written on their paper). Call out numbers and the students have to decide if their number should be up or not.
