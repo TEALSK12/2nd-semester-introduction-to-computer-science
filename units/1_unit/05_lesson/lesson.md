@@ -18,7 +18,7 @@ Students will be able to...
 | 25 Minutes | Quiz               |
 | 25 Minutes | Debugging Activity |
 
-## Instructor's Note
+## Instructor's Notes
 1. **Welcome and Review**
     * Ask students for any final questions before passing out the quiz.
 2. **Quiz**
