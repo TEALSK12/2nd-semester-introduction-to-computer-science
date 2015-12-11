@@ -21,7 +21,7 @@ Students will be able to...
 | 30 Minutes | Lab         |
 | 10 Minutes | Discussion  |
 
-## Instructor's Note
+## Instructor's Notes
 1. Lesson
   1. Ask students what doing `a[0:2]` did? 
     1. slicing: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
