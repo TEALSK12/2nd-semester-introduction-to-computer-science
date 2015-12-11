@@ -32,4 +32,4 @@ Students will be able to...
 
 [Quiz]:quiz.md
 [debugging]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html
-[code]:code.py
+[code]:project_file.py
