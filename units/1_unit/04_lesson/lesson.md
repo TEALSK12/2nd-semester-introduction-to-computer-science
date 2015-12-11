@@ -55,7 +55,9 @@ Students will be able to...
 		*	Review concepts so far: **variables, interpreter, terminal, string, integer, float, run, output, variable swapping**
 
 ###Accomodation/Differentiation
-Advanced students could be encouraged to modify the genie program even further. 
+Advanced students that are finished early can be paired with students who are struggling. Be careful to give clear guidance about how to effectively help another student, especially emphasizing that helping *never* involves using someone else's keyboard/mouse.
+
+Identify students that may potentially struggle on the quiz and find individual time with them to emphasize key concepts during the magic genie lab. 
 
 [Do Now]:worksheet.md
 [Magic Genie Lab]:lab.md
