@@ -2,25 +2,27 @@
 
 ##Learning Objectives
 Students will be able to...
+* Demonstrate their understanding of key concepts covered up to this point
 * Define and identify: **syntax errors, runtime errors, semantic errors**
-* Respond to error messages
+* Analyze and respond to error messages
 
 ##Materials/Preparation
 * [Quiz]
-* Make sure the students are ready for a quiz
-* Read through the quiz and make sure you have covered all topics
+* Take the quiz and create a scoring rubric
+* Look through [debugging] web tutorial and example [code] to prepare students for analyzing and responding to errors
 
 ## Pacing Guide
 | **Duration**   |     **Description**    |
 | ---------- | ------------------ |
-| 5 Minutes  | Pass out Quiz      |
+| 5 Minutes  | Welcome and Review      |
 | 25 Minutes | Quiz               |
 | 25 Minutes | Debugging Activity |
 
 ## Instructor's Note
-1. Pass out the quiz
-2. Have students start the quiz.
-3. Debugging Activity
+1. **Welcome and Review**
+    * Ask students for any final questions before passing out the quiz.
+2. **Quiz**
+3. **Debugging Activity**
 	1. Talk to students about how to read through code.
 		1. Give students a longer piece of code (eg [code]). Ask them to read through it and say what is printed out
 		2. When reading through code we go line by line, as if we are the interpreter. It is also helpful to run the code, and look at the error message given back.
