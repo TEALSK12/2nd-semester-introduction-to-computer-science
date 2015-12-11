@@ -36,14 +36,14 @@
     * Identify the sub problems of Mad Libs
         * Have students list what variables, inputs, and print statements they will need  
 3.  **Project Work**
-    1.  This project is a summative assessment for the unit. Students should be demonstrating mastery of all the skills covered.
-    2.  Most students will require roughly 1 hour of total work time to complete the project
-    3.  Assess the progress of your students regularly using such techniques as asking them to demonstrate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
-    4.  Adjust the amount of time allowed for the project to fit the needs of your students
-        1.  It is vital that nearly all students complete the project before moving on
-    5. If most students have the ability to work on assignments at home, the amount of in-class time provided can be reduced if necessary.
-    6.  If this approach is taken, be sure to make accommodations for students who not able to work at home, such as after school lab hours
-    7.  Ensure that students are able to ask questions in class throughout the project
+    *  This project is a summative assessment for the unit. Students should be demonstrating mastery of all the skills covered.
+    *  Most students will require roughly 1 hour of total work time to complete the project
+    *  Assess the progress of your students regularly using such techniques as asking them to demonstrate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
+    *  Adjust the amount of time allowed for the project to fit the needs of your students
+        *  It is vital that nearly all students complete the project before moving on
+    * If most students have the ability to work on assignments at home, the amount of in-class time provided can be reduced if necessary.
+        *  If this approach is taken, be sure to make accommodations for students who not able to work at home, such as after school lab hours
+    *  Ensure that students are able to ask questions in class throughout the project
 
 ###Accommodation/Differentiation
 Ask students to research casting. Have them add, subtract, or multiply values as part of the story. 
