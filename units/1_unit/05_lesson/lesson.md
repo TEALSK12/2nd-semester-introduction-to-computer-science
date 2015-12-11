@@ -26,8 +26,7 @@ Students will be able to...
 	* Explain to students that you will now be exploring how to read analyze and respond to errors in code. 
 		* Present students with a longer piece of code that will produce an error (e.g. [code]). Ask them to read through it and predict what will be printed out.
 		* Remind students that when reading through code we go line by line, as if we are the interpreter. 
-		* Run the code, and have students analyze the error message given back.
-		* Display a stack trace. Ask students what line of code they think the error message might be on. Walk through the stack trace.
+		* Run the code, display the stack trace, and have students analyze the error message reported.
 	* Direct students work through and complete this web tutorial on [debugging]
 
 
