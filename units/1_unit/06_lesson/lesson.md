@@ -23,11 +23,11 @@
 
 ## Instructors Notes
 1.  Introduce Project
-    1.  Walk students through project specification, pointing out important details, potential pitfalls, and specific requirements
-    2.  Practice using a written out madlib 
-    3.  Prompts must ask for the correct noun verb combo 
-    4.  Encourage students to look at the grading rubric on page two repeatedly throughout the project to ensure they are meeting all the requirements
-    5.  Demo the project solution
+    *  Introduce students to the MadLib concept by using a short, written out MadLib on the whiteboard, poster paper, or projector.
+    *  Pass out and the project specification and walk students through all the requirements and potential challenges.
+    3.  Emphasize that prompts must ask for the correct noun-verb combinations.
+    4.  Encourage students to look at the grading rubric on page two repeatedly throughout the project to ensure they are meeting all the requirements.
+    5.  Demo a project [solution](project.py) for students to see how a finished product should function
 2.  Project Review (if needed)
     1. Identify the sub problems of MadLibs
         1. Have students list what variables, inputs, and print statements they will need  
