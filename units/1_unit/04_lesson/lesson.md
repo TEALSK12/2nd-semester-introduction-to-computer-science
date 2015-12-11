@@ -19,7 +19,7 @@ Students will be able to...
 | 20 Minutes | Magic Genie Lab|
 | 10 Minutes | Debrief/Quiz Prep         |
 
-## Instructor's Note
+## Instructor's Notes
 1. **Do Now**
     * Make sure that students are working as soon as they get to class. 
 2. **Do Now Work & Discussion**
