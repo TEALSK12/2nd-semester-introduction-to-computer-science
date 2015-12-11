@@ -23,11 +23,12 @@ Students will be able to...
     * Ask students for any final questions before passing out the quiz.
 2. **Quiz**
 3. **Debugging Activity**
-	1. Talk to students about how to read through code.
-		1. Give students a longer piece of code (eg [code]). Ask them to read through it and say what is printed out
-		2. When reading through code we go line by line, as if we are the interpreter. It is also helpful to run the code, and look at the error message given back.
-		3. Display a stack trace. Ask students what line of code they think the error message might be on. Walk through the stack trace.
-	2. Direct students work through this web tutorial on [debugging]
+	* Explain to students that you will now be exploring how to read analyze and respond to errors in code. 
+		* Present students with a longer piece of code that will produce an error (e.g. [code]). Ask them to read through it and predict what will be printed out.
+		* Remind students that when reading through code we go line by line, as if we are the interpreter. 
+		* Run the code, and have students analyze the error message given back.
+		* Display a stack trace. Ask students what line of code they think the error message might be on. Walk through the stack trace.
+	* Direct students work through and complete this web tutorial on [debugging]
 
 
 [Quiz]:quiz.md
