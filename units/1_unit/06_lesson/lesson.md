@@ -8,18 +8,23 @@
 * [Mad Libs Example Code]
 * [Project Spec]
 * Create a list of possible parts of speech for students to use (noun, verb, adjective, adverb, proper noun, etc)
+* Practice running the example code
+* Read through the project specifications so that you can completely communicate the requirements of the project 
 
 ## Pacing Guide
 | **Duration**   |     **Description**    |
 | ---------- | ------------------ |
 | 5 Minutes  | Quiz Debrief        |
 | 10 Minutes | Project Overview   |
-| 30 Minutes | Project Work       |
-| 10 Minutes | Wrap Up            |
-| Day 2 (if needed) |             |
-| 10 Minutes | Project Review     |
-| 35 Minutes | Project Work       |
-| 10 Minutes | Wrap Up            |
+| 40 Minutes | Project Work       |
+
+
+**Day 2 (if needed)**
+
+| **Duration** |    **Description**         |
+|--|--|
+| 45 Minutes | Project Work       |
+| 10 Minutes | Wrap Up - Student Demos          |
 
 ## Instructors Notes
 1.  **Project Overview**
@@ -39,7 +44,8 @@
     5. If most students have the ability to work on assignments at home, the amount of in-class time provided can be reduced if necessary.
     6.  If this approach is taken, be sure to make accommodations for students who not able to work at home, such as after school lab hours
     7.  Ensure that students are able to ask questions in class throughout the project
-4. Accommodation/Differentiation
+
+###Accommodation/Differentiation
     1. Ask students to research casting. Have them add, substract, or multiply values as part of the story. 
 
 [Mad Libs Example Code]: project.py
