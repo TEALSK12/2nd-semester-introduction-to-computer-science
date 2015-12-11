@@ -7,7 +7,10 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
+* Index cards for binary activity (at least 1 per student)
+* Scissors
+* 8.5" x 11" printer paper, each page has a large number written on it (1, 2, 4, 8, 16, 32, ...)
+* Read through the do now and lesson so that you are familiar with the requirements and can assist students as needed.
 
 ## Pacing Guide
 | **Duration**   | **Description** |
