@@ -46,7 +46,7 @@
     7.  Ensure that students are able to ask questions in class throughout the project
 
 ###Accommodation/Differentiation
-    1. Ask students to research casting. Have them add, substract, or multiply values as part of the story. 
+Ask students to research casting. Have them add, subtract, or multiply values as part of the story. 
 
 [Mad Libs Example Code]: project.py
 [Project Spec]: project.md
