@@ -54,5 +54,7 @@ Students will be able to...
 	* Let students know about 
 		*	Review concepts so far: **variables, interpreter, terminal, string, integer, run, output, swapping**
 
+###Accomodation/Differentiation
+
 [Do Now]:worksheet.md
 [Magic Genie Lab]:lab.md
