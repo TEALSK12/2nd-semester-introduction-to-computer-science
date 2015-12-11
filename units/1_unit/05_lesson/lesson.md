@@ -31,7 +31,7 @@ Students will be able to...
 	* Direct students to work through and complete this web tutorial on [debugging]
 
 ###Accomodation/Differentiation
-
+Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
 
 [Quiz]:quiz.md
 [debugging]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html
