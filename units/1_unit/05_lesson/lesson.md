@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to...
 * Demonstrate their understanding of key concepts covered up to this point
-* Define and identify: **syntax errors, runtime errors, semantic errors**
+* Define and identify: **debugging, syntax errors**
 * Analyze and respond to error messages
 
 ##Materials/Preparation
@@ -27,7 +27,8 @@ Students will be able to...
 		* Present students with a longer piece of code that will produce an error (e.g. [code]). Ask them to read through it and predict what will be printed out.
 		* Remind students that when reading through code we go line by line, as if we are the interpreter. 
 		* Run the code, display the stack trace, and have students analyze the error message reported.
-	* Direct students work through and complete this web tutorial on [debugging]
+		* Explain that, much like in Snap, *debugging* is the process of tracking and fixing errors in your code.
+	* Direct students to work through and complete this web tutorial on [debugging]
 
 
 [Quiz]:quiz.md
