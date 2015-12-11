@@ -55,7 +55,7 @@ Students will be able to...
 		*	Review concepts so far: **variables, interpreter, terminal, string, integer, float, run, output, variable swapping**
 
 ###Accomodation/Differentiation
-
+Advanced students could be encouraged to modify the genie program even further. 
 
 [Do Now]:worksheet.md
 [Magic Genie Lab]:lab.md
