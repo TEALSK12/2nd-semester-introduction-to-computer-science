@@ -52,9 +52,10 @@ Students will be able to...
 		*	Were there any error messages? What do they mean?
 	    *	Did anyone use more than one variable? 
 	* Let students know about 
-		*	Review concepts so far: **variables, interpreter, terminal, string, integer, run, output, swapping**
+		*	Review concepts so far: **variables, interpreter, terminal, string, integer, float, run, output, variable swapping**
 
 ###Accomodation/Differentiation
+
 
 [Do Now]:worksheet.md
 [Magic Genie Lab]:lab.md
