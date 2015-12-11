@@ -23,10 +23,10 @@ It was a beautiful day in New York City. Our hero Ariana Grande was on a walk fr
 ```
 
 ### Implementation Details
-As mentioned above the program must request words from the user. The following must be included in the program: 
+As mentioned above the program must request words from the user. The following **must** be included in the program: 
 * 10 different words inputted
-* variable names should correspond to the part of speech requested and part of the story they belong to
-* only use 3 print statements
+* Variable names should correspond to the part of speech requested and part of the story they belong to (e.g. `noun1`, `verb2`, etc)
+* You may only use 3 print statements.
 
 ## Grading 
 ### Scheme/Rubric
