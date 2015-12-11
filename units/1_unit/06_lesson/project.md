@@ -30,11 +30,11 @@ As mentioned above the program must request words from the user. The following *
 
 ## Grading 
 ### Scheme/Rubric
-| Functional Correctness(Behavior)                                |     |
+| **Functional Correctness(Behavior)**                                |     |
 | --------------------------------------------------------------- |-----|
 | Program greets user and explains rules  | 3   |
 | Program accurately requests 10 words (1 for word, 1 for correct request)| 20|
-| Program prints full madlib | 10   |
+| Program prints full Mad Lib | 10   |
 | Program exhibits creativity               | 3   |
 | **Sub total**                                                   | 35  |
 | **Technical Correctness   **                                    |     |
