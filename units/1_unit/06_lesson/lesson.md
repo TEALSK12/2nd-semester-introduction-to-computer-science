@@ -5,14 +5,14 @@
 * Practice good debugging skills
 
 ## Materials/Preparation
-* [Madlibs Code]
+* [Mad Libs Example Code]
 * [Project Spec]
-* List of nouns/adjectives/adverbs/names for inputs if students are struggling
+* Create a list of possible parts of speech for students to use (noun, verb, adjective, adverb, proper noun, etc)
 
 ## Pacing Guide
 | **Duration**   |     **Description**    |
 | ---------- | ------------------ |
-| 5 Minutes  | Quiz Review        |
+| 5 Minutes  | Quiz Debrief        |
 | 10 Minutes | Project Overview   |
 | 30 Minutes | Project Work       |
 | 10 Minutes | Wrap Up            |
@@ -22,16 +22,15 @@
 | 10 Minutes | Wrap Up            |
 
 ## Instructors Notes
-1.  Introduce Project
-    *  Introduce students to the MadLib concept by using a short, written out MadLib on the whiteboard, poster paper, or projector.
+1.  **Project Overview**
+    *  Introduce students to the Mad Lib concept by using a short, written out Mad Lib on the whiteboard, poster paper, or projector.
     *  Pass out and the project specification and walk students through all the requirements and potential challenges.
-    3.  Emphasize that prompts must ask for the correct noun-verb combinations.
-    4.  Encourage students to look at the grading rubric on page two repeatedly throughout the project to ensure they are meeting all the requirements.
-    5.  Demo a project [solution](project.py) for students to see how a finished product should function
-2.  Project Review (if needed)
-    1. Identify the sub problems of MadLibs
-        1. Have students list what variables, inputs, and print statements they will need  
-3.  Project
+    *  Emphasize that prompts must ask for the correct noun-verb combinations.
+    *  Encourage students to look at the grading rubric on page two repeatedly throughout the project to ensure they are meeting all the requirements.
+    *  Demo a sample project [solution](project.py) for students to see how a completed program should function.
+    * Identify the sub problems of Mad Libs
+        * Have students list what variables, inputs, and print statements they will need  
+3.  **Project Work**
     1.  This project is a summative assessment for the unit. Students should be demonstrating mastery of all the skills covered.
     2.  Most students will require roughly 1 hour of total work time to complete the project
     3.  Assess the progress of your students regularly using such techniques as asking them to demonstrate their incomplete programs, tracking questions asked during lab time, and/or utilizing peer reviews.
@@ -43,5 +42,5 @@
 4. Accommodation/Differentiation
     1. Ask students to research casting. Have them add, substract, or multiply values as part of the story. 
 
-[Madlibs Code]: project.py
+[Mad Libs Example Code]: project.py
 [Project Spec]: project.md
