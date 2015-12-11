@@ -24,7 +24,7 @@ Students will be able to...
 | 20 Minutes | Variables Lesson/Worksheet Part 2   |
 | 10 Minutes | Debrief         |
 
-## Instructor's Note
+## Instructor's Notes
 1. **Do Now**
     * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 2. **Printing Lesson/Worksheet Part 1**
