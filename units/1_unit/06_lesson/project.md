@@ -15,7 +15,7 @@ Mad Libs are a fun way to tell a story. The story is pre-written except for a fe
     Using those words I will create an unexpected story for you!
     ```
 * The program should then prompt the user to enter in nouns, verbs, adjectives, proper nouns, and adverbs
-!(Example running)[mad_libs_screen_shot.png]
+![Example running](mad_libs_screen_shot.png)
 * After all the words have been entered. The program will print out the story.
 ```
 A Day in NYC: 
