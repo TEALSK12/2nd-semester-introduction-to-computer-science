@@ -1,7 +1,7 @@
 #Do Now: 2.02
 
 Open up the terminal. Type the following code. 
-```
+```python
  x_stage1 = 123
  y_stage1 = 456
  
@@ -22,6 +22,6 @@ What type are the variables `x_stage2` and `y_stage2`?
 <br>
 <br>
 
-Try to figure out how to convert a string, `'100'` to an integer? 
+How would you convert a string, `'100'` to an integer? 
 
 
