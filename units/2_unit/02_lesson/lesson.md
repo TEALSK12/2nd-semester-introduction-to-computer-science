@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: string, casting, floating point, integer
+* Define and identify: **string, casting, floating point number (float), integer**
 * Describe different representations of data in Python 
 * Convert from one data type to another data type
 
