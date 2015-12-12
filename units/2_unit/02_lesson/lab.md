@@ -2,18 +2,15 @@
 
 1) Without using the computer, predict what following will be. Check your answers in interactive mode. 
 
-* `float('1')`
-
-* `str(1 + '2')`
-* `str('2')`
-
-* `int('abc')`
-
-* `int(float('1.6'))`
-
-* `float(int(1.6))`
-
-* `str(float(1))`
+| Type in Interactive Mode | Prediction | Result |
+|--|--|--| 
+| `float('1')`| | | 
+| `str(1 + '2')`| | |
+| `str('2')`| | |
+|`int('abc')`| | |
+| `int(float('1.6'))`| | |
+| `float(int(1.6))`| | |
+| `str(float(1))`| | | |
 
 2) Create a program, which will take in an input and print out that input divided by 2. 
 
