@@ -44,4 +44,7 @@ Students will be able to...
     * How could letters (a,b,c,...) be turned into binary? 
         * How can letters be turned into numbers? a = 1, b = 2, c = 3.
 
+###Accommodation/Differentiation
+
+
 [Do Now]:do_now.md
