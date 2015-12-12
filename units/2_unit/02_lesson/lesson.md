@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **string, casting, floating point number (float), integer**
+* Define and identify: **type, string, casting, floating point number (float), integer**
 * Describe different representations of data in Python 
 * Convert from one data type to another data type
 
@@ -16,12 +16,12 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
-| 10 Minutes | Discussion  |
+| 35 Minutes | Lab         |
+| 5 Minutes | Debrief  |
 
 ## Instructor's Notes
 1. **Lesson**
-  * Ask students to define 'type'? Talk about types in the context as a way to represent data.(give example of string, int, float) 
+  * Ask students to define *type*. Talk about types as a way to represent data (give examples of strings, ints, and floats).
   * Ask students what they thought having str('12') did? Define this as casting. 
   * Ask students what they did to cast an integer into a string? Define the int function if the students were unable to guess it from the lab.
   * Break for a few minutes to have students write down how they would produce the following program using the input function:
@@ -35,8 +35,8 @@ Students will be able to...
   * `type`: ask students what they think `type('a')` would output.  
     * Why might you want to use `type`?
 2. **Lab**
-    1. Practice predicting what casting will do to inputs. 
-    2. Create a halving program as well as program that halves to whole numbers. 
+    * Practice predicting what casting will do to inputs. 
+    * Create a halving program as well as program that halves to whole numbers. 
 
 ###Accommodation/Differentiation
 If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0s and 1s). In practice these translate to True and False. Convert numbers to boolean, and booleans to number.
