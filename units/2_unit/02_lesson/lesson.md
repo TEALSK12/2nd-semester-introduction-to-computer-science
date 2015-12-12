@@ -22,7 +22,7 @@ Students will be able to...
 ## Instructor's Notes
 1. **Lesson**
   * Ask students to define *type*. Talk about types as a way to represent data (give examples of strings, ints, and floats).
-  * Ask students what they thought having str('12') did? Define this as casting. 
+  * Ask students what they thought having str('') did? Define this as casting. 
   * Ask students what they did to cast an integer into a string? Define the int function if the students were unable to guess it from the lab.
   * Break for a few minutes to have students write down how they would produce the following program using the input function:
     ```
