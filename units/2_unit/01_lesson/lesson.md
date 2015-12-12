@@ -25,9 +25,12 @@ Students will be able to...
   * Project [Do Now] questions on the screen
     * Have students discuss how they used their fingers to count to 10, compared to how they counted to 1023.
 2. **Lesson/Activity**
-  * Explain Binary: different base of counting. on the board right out lines with 1 2 4 8 underneath. Explain 10 is 2 in binary because there is a 1 in the twos spot and nothing in the 1s spot. Do a few more examples. Once students are understanding do one of the following activities:
-    * Have students write 1 2 4 8 16 32 ... on the bottom of a note card spaced out about half an inch a part. Cut out so that the letters are each on a flap. Call off n and have students fold up the note card sections to make that number
-    * Have students n students walk up to the front of the classroom. Have them hold the place they represent and have a 2^n written on a sheet of paper (so student's have 0 or 2 or 4 or ... written on their paper). Call out numbers and the students have to decide if their number should be up or not.
+  * Explain *binary* compared to decimal: it is a different base of counting, specifically base-2. 
+    * Have students write | 1 | 2 | 4 | 8 | 16 | 32 | ... on the bottom of an index card spaced out about half an inch apart. Cut along the lines so that the numbers are each on a flap. 
+        * Announce any number and have students fold up the note card sections such that the numbers showing add up to the desired number.
+        * Write on the board what the decimal number announced now looks like in binary (e.g. 9 = 1001)
+        * Repeat with additional numbers until all students understand.
+    * Choose students to walk up to the front of the classroom. Have them hold the place they represent and have a 2^n on a sheet of paper (so student's have a 1 or 2 or 4 or ... written on their paper). Call out numbers and the students have to decide if their number should be held up (representing a "1") or not.
   * What else can be represented by binary? Answer (ANYTHING)
     * Picture example:
         * Show kids this photo : ![Stary Night](starynight.png), say these get put into 0/1
