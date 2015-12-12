@@ -27,7 +27,7 @@ Students will be able to...
 2. **Lesson/Activity**
   * Explain *binary* compared to decimal: it is a different base of counting, specifically base-2. 
     * Have students write | 1 | 2 | 4 | 8 | 16 | 32 | ... on the bottom of an index card spaced out about half an inch apart. Cut along the lines so that the numbers are each on a flap. 
-        * Announce any number and have students fold up the note card sections such that the numbers showing add up to the desired number.
+        * Announce any number and have students fold up the index card sections such that the numbers showing add up to the desired number.
         * Write on the board what the decimal number announced now looks like in binary (e.g. 9 = 1001)
         * Repeat with additional numbers until all students understand.
     * Choose students to walk up to the front of the classroom. Have them hold the place they represent and have a 2^n on a sheet of paper (so student's have a 1 or 2 or 4 or ... written on their paper). Call out numbers and the students have to decide if their number should be held up (representing a "1") or not.
