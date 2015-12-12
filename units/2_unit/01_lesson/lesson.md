@@ -28,17 +28,20 @@ Students will be able to...
   * Explain *binary* compared to decimal: it is a different base of counting, specifically base-2. 
     * Have students write | 1 | 2 | 4 | 8 | 16 | 32 | ... on the bottom of an index card spaced out about half an inch apart. Cut along the lines so that the numbers are each on a flap. 
         * Announce any number and have students fold up the index card sections such that the numbers showing add up to the desired number.
-        * Write on the board what the decimal number announced now looks like in binary (e.g. 9 = 1001)
-        * Repeat with additional numbers until all students understand.
-    * Choose students to walk up to the front of the classroom. Have them hold the place they represent and have a 2^n on a sheet of paper (so student's have a 1 or 2 or 4 or ... written on their paper). Call out numbers and the students have to decide if their number should be held up (representing a "1") or not.
-  * What else can be represented by binary? Answer (ANYTHING)
+        * Write on the board what the decimal number announced now looks like in binary (e.g. 9 = 1001).
+        * Repeat with additional numbers until all students demonstrate understanding.
+    * Choose students to walk up to the front of the classroom. Have them hold the place they represent and have a number (2^n) on a sheet of paper (so student's have a 1 or 2 or 4 or ... written on their paper). Call out numbers and then have the students work together to decide if their number should be held up (representing a "1") or not.
+  * What else can be represented by binary? Answer (ANYTHING!)
     * Picture example:
-        * Show kids this photo : ![Stary Night](starynight.png), say these get put into 0/1
-        * Hmm well that's a bit complicated, let's start with: ![city scape](basic_city.png)
-        * Let's zoom in to pizel level: ![Pixel Level](Screen Shot 2015-11-24 at 12.19.32 PM.png)
-        * We can imagine saying 1 is black and 0 is white.
-    * All data get's converted into binary values! Even Music, video, and complex images!
-  4. Discuss how everything the computer reads gets turned into binary in the end.
-    1. How could letters be turned into binary? How can letters be turned into numbers? a = 1, b = 2, c = 3.
+        * Show students this photo: ![Stary Night](starynight.png)
+        * Explain how this is a digital representation of the artwork, but it's not immediately clear to see how this is represented with 0's and 1's.
+        
+        * Now you can have students look at a black & white example for more clarity: ![city scape](basic_city.png)
+        * Zooming in to pixel level: ![Pixel Level](Screen Shot 2015-11-24 at 12.19.32 PM.png)
+        * Explain to students that we can imagine saying 1 is black and 0 is white.
+    * All data gets converted into binary values! Even music, video, and complex images!
+  * Discuss how everything the computer reads gets turned into binary in the end, including the code that they will write in this class.
+    * How could letters (a,b,c,...) be turned into binary? 
+        * How can letters be turned into numbers? a = 1, b = 2, c = 3.
 
 [Do Now]:do_now.md
