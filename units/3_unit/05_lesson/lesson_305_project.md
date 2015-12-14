@@ -22,7 +22,7 @@ Students will be able to...
 | 30 Minutes | Project Work|
 | 10 Minutes | Wrap Up     |
 
-## Instructor's Note
+## Instructor's Notes
 1. Lesson
   1. Demo the oregon trail game
   2. Give out instructions and go over game rules
