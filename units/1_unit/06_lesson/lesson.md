@@ -5,7 +5,7 @@
 * Practice good debugging skills
 
 ## Materials/Preparation
-* [Mad Libs Example Code]
+* [Mad Libs - Example Code]
 * [Project Spec]
 * Create a list of possible parts of speech for students to use (noun, verb, adjective, adverb, proper noun, etc)
 * Practice running the example code
@@ -51,5 +51,5 @@
 ###Accommodation/Differentiation
 Ask students to research casting. Have them add, subtract, or multiply values as part of the story. 
 
-[Mad Libs Example Code]: project.py
+[Mad Libs - Example Code]: project.py
 [Project Spec]: project.md
