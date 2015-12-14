@@ -10,7 +10,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab]
-* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 | **Duration**   | **Description** |
@@ -21,7 +21,7 @@ Students will be able to...
 | 10 Minutes | Debrief  |
 
 ## Instructor's Notes
-1. Lesson
+1. **Do Now**
   1. Build Your Own Blocks vs Functions
  	1. Ask students to recall how they built custom blocks
   	2.function: named sequence of statements that performs a computation. When you define a function, you specify the name and the sequence of statements. Later, you can “call” the function by name. We have already seen one example of a function call
