@@ -21,14 +21,12 @@ Students will be able to...
 ## Instructor's Notes
 1. **Do Now**
 2. **Lesson**
-  1. Ask students why a function is useful?
-  	1. Abstraction
-  	2. less repeated code
-  	3. Consolidation of understanding
-  2. How do you create a function
-  	1. go over the syntax,
-  	2. arguments
-  3. Ask students how they would call the function, what about a function that takes in arguments
+    * Ask students why a function is useful?
+        * *Abstraction*: managing complexity of a program.
+        * Less repeated code.
+        * Consolidation of understanding.
+    * Demonstrate to students how you create a function using *def*, showing syntax and arguments.
+    * Ask students how they would call your example function.
   4. Have students practice making a function that takes arguments and sum them. Saving both the variables as the sum in the function. 
   5. Introduce concept of a function contract. Using `#` which adds a comment (non executed line to code)
   	1. Explain what the function will do, arguments it takes in (and their types)
