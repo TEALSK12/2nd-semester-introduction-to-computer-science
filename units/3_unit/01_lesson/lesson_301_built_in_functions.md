@@ -22,10 +22,11 @@ Students will be able to...
 
 ## Instructor's Notes
 1. **Do Now**
-
+    * Give students 3-4 minutes to follow the instructions on the Do Now page.
+    * Debrief the answers to the questions on the Do Now by calling on students to respond.
 2. **Lesson**
     * Build Your Own Blocks vs Functions
- 	    * Ask students to recall how they built custom blocks
+ 	    * Ask students to recall how they built custom blocks in Snap!
  	    * *Function*: named sequence of statements that performs a computation. When you define a function, you specify the name and the sequence of statements. Later, you can “*call*” the function by name. We have already seen one example of a function call
   	* Explain that we have already gotten used to calling functions like `type()` and `print()`
   	* Ask students how they would create a random number generator. 
