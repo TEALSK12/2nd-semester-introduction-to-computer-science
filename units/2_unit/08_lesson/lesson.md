@@ -6,7 +6,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Project Spec]
-* [Code]
+* [Example Code]
 * Read through the handout,and project so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -40,4 +40,4 @@ Students will be able to...
     1. During discussion at end of class figure out where students are. During the review the next morning cover these topics 
   
 [Project Spec]: project.md
-[Code]: project_file.md
+[Example Code]: project_file.md
