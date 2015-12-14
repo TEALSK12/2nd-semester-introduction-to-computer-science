@@ -8,7 +8,7 @@ Students will be able to...
 * draw a simple stack trace
 
 ##Materials/Preparation
-* [Do Now Handout]
+* [Do Now]
 * [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -39,5 +39,5 @@ Students will be able to...
 4. Opportunities for more
     1. If students are moving quickly, they can look at the project spec
 
-[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_304.html
-[Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lab_304.html
+[Do Now]:do_now_304.md
+[Lab]:lab_304.md
