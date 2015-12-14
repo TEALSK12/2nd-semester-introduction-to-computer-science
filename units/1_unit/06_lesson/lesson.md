@@ -5,8 +5,8 @@
 * Practice good debugging skills
 
 ## Materials/Preparation
-* [Mad Libs - Example Code]
 * [Project Spec]
+* [Mad Libs - Example Code]
 * Create a list of possible parts of speech for students to use (noun, verb, adjective, adverb, proper noun, etc)
 * Practice running the example code
 * Read through the project specifications so that you can completely communicate the requirements of the project 
