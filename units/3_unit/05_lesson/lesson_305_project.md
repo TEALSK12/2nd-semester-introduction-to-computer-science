@@ -16,12 +16,12 @@ Students will be able to...
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Project Overview      |
 | 30 Minutes | Planning    |
-| 10 Minutes | Discussion  |
+| 10 Minutes | Debrief  |
 |**Day 2-9** |             |
 | 5 Minutes  | Day Plan    | 
 | 10 Minutes | Review      |
 | 30 Minutes | Project Work|
-| 10 Minutes | Wrap Up     |
+| 10 Minutes | Debrief    |
 
 ## Instructor's Notes
 1. Lesson
