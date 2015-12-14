@@ -59,6 +59,7 @@
 * [Unit 3](units/3_unit/unit_3.md)
    * [Lesson 3.01: Built In Functions](units/3_unit/01_lesson/lesson_301_built_in_functions.md)
        * [Do Now 3.01](units/3_unit/01_lesson/do_now_301.md)
+           * Lab 3.01
    * [Lesson 3.02: User Defined Functions](units/3_unit/02_lesson/lesson_302_user_defined_functions.md)
        * [Do Now 3.02](units/3_unit/02_lesson/do_now_302.md)
        * [Lab 3.02](units/3_unit/02_lesson/lab_302.md)
