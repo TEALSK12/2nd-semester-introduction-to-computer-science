@@ -12,12 +12,12 @@ What does `my_function` do?
 <br>
 <br>
 
-How would you call the function? 
+How would you call the function? Practice calling `my_function` and checking that it does what you expect it to.
 <br>
 <br>
 <br>
 
-How would you add arguments? 
+How would you add arguments to `my_function`? 
 <br>
 <br>
 <br>
