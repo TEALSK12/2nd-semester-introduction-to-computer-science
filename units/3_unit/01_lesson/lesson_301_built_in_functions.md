@@ -2,10 +2,10 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: function, abstraction, arguments, calling, importing, returning
+* Define and identify: **function, abstraction, arguments, calling, importing, returning**
 * Call built-in functions, using arguments
 * Utilize code other people have written
-* Understand printing vs returning
+* Understand the difference between printing and returning
 
 ##Materials/Preparation
 * [Do Now]
