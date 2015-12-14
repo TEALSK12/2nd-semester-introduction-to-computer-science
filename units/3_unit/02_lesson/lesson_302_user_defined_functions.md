@@ -36,7 +36,8 @@ Students will be able to...
     1. Practice making a function that will take in a name, and sing 'happy birthday' to that name. 
     2. Create a function that randomly selects 5 cards from a deck of cards (repeating allowed)
 4. **Debrief**
-    * 
+    * Check student progress and completion of the lab, wrap up by taking any final questions. 
+
 ###Accommodation/Differentiation
 
 If students are moving quickly, they could go back and use functions to improve an old project.
