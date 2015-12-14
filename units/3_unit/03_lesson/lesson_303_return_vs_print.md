@@ -42,5 +42,5 @@ Students will be able to...
     1. Ask students to look into the deal function and research the functions in it. Write a little bit about what is going on
   
 
-[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_303.html
-[Lab]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lab_303.html
+[Do Now]:do_now_303.md
+[Lab]:lab_303.md
