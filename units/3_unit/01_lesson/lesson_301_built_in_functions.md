@@ -4,7 +4,7 @@
 Students will be able to... 
 * Define and identify: **function, abstraction, arguments, calling, importing, returning**
 * Call the built-in `randint` function, using arguments
-* Utilize code other people have written
+* Utilize code other people have written in the Python documentation
 * Understand the difference between printing and returning
 
 ##Materials/Preparation
@@ -28,16 +28,16 @@ Students will be able to...
     * Build Your Own Blocks vs Functions
  	    * Ask students to recall how they built custom blocks in Snap!
  	    * *Function*: named sequence of statements that performs a computation. When you define a function, you specify the name and the sequence of statements. Later, you can “*call*” the function by name. 
-        * Explain that we have already gotten used to *calling* functions like `type()` and `print()`
+        * Explain that we have already gotten used to *calling* functions like `type()` and `print()`.
     * Ask students how they would create a random number generator. 
         * Sounds hard! Luckily someone has already done that: the random library (essentially a bunch of code written by someone else) which has many associated functions. 
-        * How to get a random integer: randint(0, 10)
+        * Remind students what they saw in the Do Now - how to get a random integer: randint(0, 10).
             * Identify the 0 and 10 in this example as *arguments*, or values passed into the function.
   		    * Ask students what the argument is when we use `print` or `type`
-  		    * `randint` gives back a value that you might want to store - this is called *returning*. If nothing is given back, the return value is `None`
+  		    * `randint` gives back a value that you might want to store - this is called *returning*. If nothing is given back, the return value is `None`.
     * Contract
-        * Functions have a contract, you write down the arguments, their type, and the return type expected 
-            * Ask students what the contract of `randint` is
+        * Functions have a contract: you write down the arguments, their type, and the return type expected.
+            * Ask students what the contract of `randint` is.
                 * 2 values, of type integer, with an integer returned 
             * Since `randint` is written by someone else there is a place where that contract is written out - *Documentation*. Have students begin the lab, which will instruct them to find the Python documentation for the random library.
  
