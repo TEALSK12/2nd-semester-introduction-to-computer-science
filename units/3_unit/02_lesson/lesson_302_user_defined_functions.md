@@ -19,7 +19,8 @@ Students will be able to...
 | 5 Minutes | Debrief  |
 
 ## Instructor's Notes
-1. **Lesson**
+1. **Do Now**
+2. **Lesson**
   1. Ask students why a function is useful?
   	1. Abstraction
   	2. less repeated code
@@ -31,10 +32,11 @@ Students will be able to...
   4. Have students practice making a function that takes arguments and sum them. Saving both the variables as the sum in the function. 
   5. Introduce concept of a function contract. Using `#` which adds a comment (non executed line to code)
   	1. Explain what the function will do, arguments it takes in (and their types)
-2. **Lab**
+3. **Lab**
     1. Practice making a function that will take in a name, and sing 'happy birthday' to that name. 
     2. Create a function that randomly selects 5 cards from a deck of cards (repeating allowed)
-
+4. **Debrief**
+    * 
 ###Accommodation/Differentiation
 
 If students are moving quickly, they could go back and use functions to improve an old project.
