@@ -28,11 +28,10 @@ Students will be able to...
  	    * Ask students to recall how they built custom blocks
  	    * *Function*: named sequence of statements that performs a computation. When you define a function, you specify the name and the sequence of statements. Later, you can “*call*” the function by name. We have already seen one example of a function call
   	* Explain that we have already gotten used to calling functions like `type()` and `print()`
-  	* Functions
-  	    * Ask students how they would create a random number generator? Luckily somone has already done that: random library (bunch of code written by someone else) with many functions. 
+  	* Ask students how they would create a random number generator. 
+  	    * Luckily someone has already done that: random library (essentially a bunch of code written by someone else) with many functions. 
   		    * How to get a random integer: randint(0, 10)
-  		    * ask students what they think 0 and 10 are
-  		    * arguments: values you give to the function
+  		        * Identify the 0 and 10 in this example as *arguments*, or values passed into the function.
   		    * have students practice using random, change the arguments and see what happens
   		    * What is the argument to `print` or `type`
   		    * randint gives back a value that you might want to store. this is called returning. If nothing is given back return value is `None`
