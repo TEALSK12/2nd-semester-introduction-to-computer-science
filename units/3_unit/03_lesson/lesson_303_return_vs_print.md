@@ -7,7 +7,7 @@ Students will be able to...
 * What a none and void means 
 
 ##Materials/Preparation
-* [Do Now Handout]
+* [Do Now]
 * [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 * Note this may take two days.
