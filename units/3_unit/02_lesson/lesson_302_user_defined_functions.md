@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **def**
+* Define and identify: **abstraction, def**
 * Create functions
 
 ##Materials/Preparation
