@@ -48,7 +48,7 @@ Students will be able to...
     * Check student progress and completion of the lab, wrap up by taking any final questions. 
 
 ###Accommodation/Differentiation
-If students are moving quickly, find another library to import from OR allow students to move on to creating their own functions
+If students are moving quickly, find another library to import from (see **bonus** in the lab) OR allow students to move on to creating their own functions.
 
 
 [Do Now]:do_now_301.md
