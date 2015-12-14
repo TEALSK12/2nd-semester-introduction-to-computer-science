@@ -18,12 +18,12 @@ Students will be able to...
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
 | 30 Minutes | Lab         |
-| 10 Minutes | Discussion  |
+| 10 Minutes | Debrief  |
 | **Day 2**  |             |
 | 5 Minutes  | Write down what needs to be done| 
 | 10 Minutes | Review      | 
 | 30 Minutes | Finish Lab  |
-| 10 Minutes | Discussion  |  
+| 10 Minutes | Debrief  |  
 
 ## Instructor's Notes
 1. Lesson
