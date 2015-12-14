@@ -6,7 +6,8 @@ Students will be able to...
 * Create functions
 
 ##Materials/Preparation
-* [Do Now Handout]
+* [Do Now]
+* [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -37,4 +38,5 @@ Students will be able to...
     1. If students are moving quickly, they could go back and use functions in an old project
   
 
-[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_302.html
+[Do Now]:do_now_302.md
+[Lab]:lab_302.md
