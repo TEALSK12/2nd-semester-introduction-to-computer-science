@@ -20,7 +20,7 @@ Students will be able to...
 | 30 Minutes | Lab         |
 | 10 Minutes | Discussion  |
 
-## Instructor's Note
+## Instructor's Notes
 1. Have students work on the Do Now
 2. Lesson
   1. Ask students if they had trouble on the do now? 
