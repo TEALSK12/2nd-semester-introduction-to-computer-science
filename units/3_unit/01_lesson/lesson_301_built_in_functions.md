@@ -8,7 +8,8 @@ Students will be able to...
 * Understand printing vs returning
 
 ##Materials/Preparation
-* [Do Now Handout]
+* [Do Now]
+* [Lab]
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -47,4 +48,5 @@ Students will be able to...
     1. If students are moving quickly, find another library to import from OR move on to creating their own functions
 
 
-[Do Now Handout]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/do_now_202.html
+[Do Now]:do_now_301.md
+[Lab]:lab_301.md
