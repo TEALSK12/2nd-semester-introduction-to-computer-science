@@ -5,7 +5,7 @@ Students will be able to...
 * use knowledge of lists, booleans, conditionals, and while loops 
 
 ##Materials/Preparation
-* [Project]
+* [Project Spec]
 * [Code]
 * Read through the handout,and project so that you are familiar with the requirements and can assist students
 
@@ -39,5 +39,5 @@ Students will be able to...
 3. Review
     1. During discussion at end of class figure out where students are. During the review the next morning cover these topics 
   
-[Project]: project.md
+[Project Spec]: project.md
 [Code]: project_file.md
