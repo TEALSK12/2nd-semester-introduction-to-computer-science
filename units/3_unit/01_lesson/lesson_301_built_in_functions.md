@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to... 
 * Define and identify: **function, abstraction, arguments, calling, importing, returning**
-* Call built-in functions, using arguments
+* Call the built-in `randint` function, using arguments
 * Utilize code other people have written
 * Understand the difference between printing and returning
 
@@ -28,18 +28,17 @@ Students will be able to...
     * Build Your Own Blocks vs Functions
  	    * Ask students to recall how they built custom blocks in Snap!
  	    * *Function*: named sequence of statements that performs a computation. When you define a function, you specify the name and the sequence of statements. Later, you can “*call*” the function by name. We have already seen one example of a function call
-  	* Explain that we have already gotten used to calling functions like `type()` and `print()`
-  	* Ask students how they would create a random number generator. 
-  	    * Luckily someone has already done that: random library (essentially a bunch of code written by someone else) with many functions. 
-  		    * How to get a random integer: randint(0, 10)
-  		        * Identify the 0 and 10 in this example as *arguments*, or values passed into the function.
-  		    * have students practice using random, change the arguments and see what happens
-  		    * What is the argument to `print` or `type`
-  		    * randint gives back a value that you might want to store. this is called returning. If nothing is given back return value is `None`
-  	* Contract
-  		    * Functions have a contract, you write down the arguments, their type, and the return type expected 
-  		    * Ask students what the contract of `randint` is?
-  		    * Since `randint` is written by someone else there is a place where that contract is written out. `Documentation`. Have students go to computer and read the docs for random
+        * Explain that we have already gotten used to calling functions like `type()` and `print()`
+    * Ask students how they would create a random number generator. 
+        * Luckily someone has already done that: random library (essentially a bunch of code written by someone else) with many functions. 
+        * How to get a random integer: randint(0, 10)
+            * Identify the 0 and 10 in this example as *arguments*, or values passed into the function.
+  		    * Ask students what the argument is when we use `print` or `type`
+  		    * `randint` gives back a value that you might want to store - this is called *returning*. If nothing is given back, the return value is `None`
+    * Contract
+        * Functions have a contract, you write down the arguments, their type, and the return type expected 
+            * Ask students what the contract of `randint` is?
+            * Since `randint` is written by someone else there is a place where that contract is written out. `Documentation`. Have students go to computer and read the docs for random.
  
 3. **Lab**
     * Practice importing different random functions and using them
