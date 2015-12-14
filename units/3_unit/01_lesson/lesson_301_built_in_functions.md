@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **function, abstraction, arguments, calling, importing, returning**
+* Define and identify: **function, arguments, calling, importing, returning**
 * Call the built-in `randint` function, using arguments
 * Utilize code other people have written in the Python documentation
 * Understand the difference between printing and returning
