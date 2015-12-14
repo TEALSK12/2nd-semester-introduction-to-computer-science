@@ -1,6 +1,6 @@
 # Do Now 3.01
 
-Type the following code into the editor. 
+Type the following code into the editor and run the program. 
 
 ```python
 import random
@@ -15,11 +15,11 @@ What does randint do?
 <br>
 <br>
 <br>
-What do the values `0` and `3` do? Try changing them and see what happens
+What do the values `0` and `3` do? Try changing those numbers, rerun the program, and write down what changed.
 <br>
 <br>
 <br>
-What is the difference between `random.randit(0,3)` and `print(random.randint(0,3))`? 
+What is the difference between `random.randint(0,3)` and `print(random.randint(0,3))`? 
 <br>
 <br>
 <br>
