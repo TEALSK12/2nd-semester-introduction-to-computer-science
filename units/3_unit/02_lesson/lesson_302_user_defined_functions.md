@@ -15,7 +15,7 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
+| 35 Minutes | Lab         |
 | 5 Minutes | Debrief  |
 
 ## Instructor's Notes
@@ -32,7 +32,7 @@ Students will be able to...
         * Explain what the function will do, arguments it takes in (and their types)
 3. **Lab**
     * Practice making a function that will take in a name as an argument and output the 'happy birthday song' to that name. 
-    * Create a function that randomly selects 5 cards from a deck of cards (repeating allowed)
+    * Create a function that randomly selects 5 cards from a deck of cards (repeating allowed).
 4. **Debrief**
     * Check student progress and completion of the lab, wrap up by taking any final questions. 
 
