@@ -25,7 +25,7 @@ Students will be able to...
 | 30 Minutes | Finish Lab  |
 | 10 Minutes | Discussion  |  
 
-## Instructor's Note
+## Instructor's Notes
 1. Lesson
   1. Ask: What does returning do? What does printing do? 
     1. How did you rewrite the code
