@@ -28,7 +28,7 @@ Students will be able to...
   	*function: named sequence of statements that performs a computation. When you define a function, you specify the name and the sequence of statements. Later, you can “call” the function by name. We have already seen one example of a function call
   	* We have seen functions type, print, etc
   	* Ask students how they would call.
-  		1. Using parethensis
+  		* Using parethenses
   * Functions
   	* Ask students how they would create a random number generator? Luckily somone has already done that: random library (bunch of code written by someone else) with many functions. 
   		* How to get a random integer: randint(0, 10)
@@ -38,9 +38,9 @@ Students will be able to...
   		* What is the argument to `print` or `type`
   		* randint gives back a value that you might want to store. this is called returning. If nothing is given back return value is `None`
   	* Contract
-  		1. Functions have a contract, you write down the arguments, their type, and the return type expected 
-  		2. Ask students what the contract of `randint` is?
-  		3. Since `randint` is written by someone else there is a place where that contract is written out. `Documentation`. Have students go to computer and read the docs for random
+  		* Functions have a contract, you write down the arguments, their type, and the return type expected 
+  		* Ask students what the contract of `randint` is?
+  		* Since `randint` is written by someone else there is a place where that contract is written out. `Documentation`. Have students go to computer and read the docs for random
  
 3. **Lab**
     * Practice importing different random functions and using them
