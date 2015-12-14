@@ -6,7 +6,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Project Spec]
-* [Example Code]
+* [Text Monster Game - Example Code]
 * Read through the handout,and project so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
