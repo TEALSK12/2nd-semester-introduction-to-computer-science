@@ -26,13 +26,13 @@ Students will be able to...
         * Less repeated code.
         * Consolidation of understanding.
     * Demonstrate to students how you create a function using *def*, showing syntax and arguments.
-    * Ask students how they would call your example function.
-  4. Have students practice making a function that takes arguments and sum them. Saving both the variables as the sum in the function. 
-  5. Introduce concept of a function contract. Using `#` which adds a comment (non executed line to code)
-  	1. Explain what the function will do, arguments it takes in (and their types)
+        * Ask students how they would call your example function.
+    * Have students practice making a function that takes two arguments and adds them together. Saving both the variables as the sum in the function. 
+    * Introduce concept of a function contract. Using `#` which adds a comment (non executed line of code)
+        * Explain what the function will do, arguments it takes in (and their types)
 3. **Lab**
-    1. Practice making a function that will take in a name, and sing 'happy birthday' to that name. 
-    2. Create a function that randomly selects 5 cards from a deck of cards (repeating allowed)
+    * Practice making a function that will take in a name as an argument and output the 'happy birthday song' to that name. 
+    * Create a function that randomly selects 5 cards from a deck of cards (repeating allowed)
 4. **Debrief**
     * Check student progress and completion of the lab, wrap up by taking any final questions. 
 
