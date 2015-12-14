@@ -1,8 +1,8 @@
-#Lesson 3.02: User Defined Functions
+#Lesson 3.02: User-Defined Functions
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: def
+* Define and identify: **def**
 * Create functions
 
 ##Materials/Preparation
