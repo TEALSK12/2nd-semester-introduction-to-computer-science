@@ -19,7 +19,7 @@ Students will be able to...
 | 30 Minutes | Lab         |
 | 10 Minutes | Discussion  |
 
-## Instructor's Note
+## Instructor's Notes
 1. Lesson
   1. Build Your Own Blocks vs Functions
  	1. Ask students to recall how they built custom blocks
