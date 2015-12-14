@@ -27,10 +27,10 @@ Students will be able to...
 2. **Lesson**
     * Build Your Own Blocks vs Functions
  	    * Ask students to recall how they built custom blocks in Snap!
- 	    * *Function*: named sequence of statements that performs a computation. When you define a function, you specify the name and the sequence of statements. Later, you can “*call*” the function by name. We have already seen one example of a function call
-        * Explain that we have already gotten used to calling functions like `type()` and `print()`
+ 	    * *Function*: named sequence of statements that performs a computation. When you define a function, you specify the name and the sequence of statements. Later, you can “*call*” the function by name. 
+        * Explain that we have already gotten used to *calling* functions like `type()` and `print()`
     * Ask students how they would create a random number generator. 
-        * Luckily someone has already done that: random library (essentially a bunch of code written by someone else) with many functions. 
+        * Sounds hard! Luckily someone has already done that: the random library (essentially a bunch of code written by someone else) which has many associated functions. 
         * How to get a random integer: randint(0, 10)
             * Identify the 0 and 10 in this example as *arguments*, or values passed into the function.
   		    * Ask students what the argument is when we use `print` or `type`
@@ -38,11 +38,11 @@ Students will be able to...
     * Contract
         * Functions have a contract, you write down the arguments, their type, and the return type expected 
             * Ask students what the contract of `randint` is?
-            * Since `randint` is written by someone else there is a place where that contract is written out. `Documentation`. Have students go to computer and read the docs for random.
+            * Since `randint` is written by someone else there is a place where that contract is written out - *Documentation*. Have students begin the lab, which will instruct them to find the Python documentation for the random library.
  
 3. **Lab**
-    * Practice importing different random functions and using them
-    * 8 ball 
+    * Practice importing different random functions and using them.
+    * Create a Magic 8-ball program using a list and `randint`. 
 
 4. **Debrief**
     * Check student progress and completion of the lab, wrap up by taking any final questions. 
