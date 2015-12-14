@@ -37,11 +37,12 @@ Students will be able to...
   		    * `randint` gives back a value that you might want to store - this is called *returning*. If nothing is given back, the return value is `None`
     * Contract
         * Functions have a contract, you write down the arguments, their type, and the return type expected 
-            * Ask students what the contract of `randint` is?
+            * Ask students what the contract of `randint` is
+                * 2 values, of type integer, with an integer returned 
             * Since `randint` is written by someone else there is a place where that contract is written out - *Documentation*. Have students begin the lab, which will instruct them to find the Python documentation for the random library.
  
 3. **Lab**
-    * Practice importing different random functions and using them.
+    * Students look through `random` library documentation, practice importing different random functions and using them.
     * Create a Magic 8-ball program using a list and `randint`. 
 
 4. **Debrief**
