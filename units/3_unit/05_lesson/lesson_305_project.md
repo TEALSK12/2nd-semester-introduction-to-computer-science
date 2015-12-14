@@ -6,7 +6,8 @@ Students will be able to...
 * Create functions to organize a project
 
 ##Materials/Preparation
-* [Project]
+* [Project Spec]
+* Example 
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -40,5 +41,5 @@ Students will be able to...
     1. Students can add in random events like cholera, or snake bites. 
     2. Students can have a list of travellers instead of just 1
     
-[Project]: 
+[Project]:project3.md 
   
