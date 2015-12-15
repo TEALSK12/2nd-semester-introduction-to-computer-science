@@ -1,4 +1,4 @@
-# Associated Reding 2.05
+# Associated Reading 2.05
 
 #A list is a sequence
 

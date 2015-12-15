@@ -12,6 +12,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab]
+* Associated Reading in EarSketch
 *  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide

@@ -8,6 +8,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab] - Birthday Song & Random Cards
+* Associated Reading - section 3.2 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide

@@ -11,6 +11,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Lab] worksheet
+* Associated Reading - section 1.1 of Book
 * Ensure all students are able to log into the system
 * Go through the lab so that you are familiar with the requirements/results and can assist students
 

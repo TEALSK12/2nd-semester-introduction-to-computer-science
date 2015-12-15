@@ -8,6 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Quiz]
+* Associated Reading - section 1.3 of Book
 * Take the quiz and create a scoring rubric
 * Look through [debugging] web tutorial and example [code] to prepare students for analyzing and responding to errors
 

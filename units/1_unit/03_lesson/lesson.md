@@ -14,6 +14,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now] - Project on screen
 * [Worksheet]
+* Associated Reading - section 1.2 of Book
 * Read through the Do Now, Worksheet, and lesson so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide

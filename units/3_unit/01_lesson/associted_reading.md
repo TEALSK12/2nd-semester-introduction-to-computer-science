@@ -1,4 +1,4 @@
-# Associted Reading 3:01
+# Associated Reading 3:01
 
 #Function calls
 

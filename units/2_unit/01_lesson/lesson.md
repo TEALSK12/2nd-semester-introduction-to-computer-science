@@ -8,6 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
+* Associated Reading - section 2.1 of Book
 * Index cards for binary activity (at least 1 per student)
 * Scissors
 * 8.5" x 11" printer paper, each page has a large number (2^n) written on it (1, 2, 4, 8, 16, 32, ...)
