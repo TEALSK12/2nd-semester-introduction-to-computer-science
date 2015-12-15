@@ -1,4 +1,4 @@
-#Lesson: Dictionaries Intro
+#Lesson: Dictionaries Methods
 
 ##Learning Objectives
 Students will be able to...

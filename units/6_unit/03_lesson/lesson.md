@@ -1,4 +1,4 @@
-#Lesson: Dictionaries Intro
+#Lesson: Dictionaries of Lists
 
 ##Learning Objectives
 Students will be able to...

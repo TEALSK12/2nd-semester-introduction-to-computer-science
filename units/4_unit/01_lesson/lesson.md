@@ -1,4 +1,4 @@
-#Lesson 4.01: Set Up
+#Lesson 4.01: Looping Basics
 
 ##Learning Objectives
 Students will be able to...
