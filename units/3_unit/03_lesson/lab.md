@@ -4,8 +4,8 @@
 
 Your game should: 
 
-* Start with a given shuffled deck variable
-* Ask for player1 and player2's names
+* Start with a given shuffled deck variable.
+* Ask for player1 and player2's names.
 * Have a function `player_turn`, with the contract shown below:
 
 ```python
@@ -15,7 +15,7 @@ Your game should:
 ```
 * Have a function `compare_scores` that takes in the two strings representing the cards drawn and compares the card values. Make sure to write the contract for `compare_scores`!
 * Include a while loop that keeps the game running until there are no cards in the deck.
-* Keep track of the score
+* Keep track of the score.
 * Declare the name of the winner and final score at the end of the game.
 
 
