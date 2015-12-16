@@ -24,7 +24,7 @@ Students will be able to...
 | 5 Minutes | Wrap up     |
 ## Instructor's Note
 
-1. 
+1. **Intro Day**
     1. **Project Hand Out**
         * Hand out the project spec and have students read through it. 
     2. **Lesson**
@@ -37,7 +37,6 @@ Students will be able to...
     4. **Project Planning**
     	* Have students write down the classes and methods they need to create
     	* Have them outline what they will do each day
-
 2. **Project Days**
 	1. ** Planning/Questions **
 		* Have students write down what they want to do that day and any questions they have from yesterday
