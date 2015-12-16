@@ -33,6 +33,7 @@ Students will be able to...
     1. index: a map from the position in the list to the element stored there. 
     2. 0-index: lists are 0 indexed. So the first element in the list is at the 0-index
     3. out-of-bounds: what happened when you tried to index into a list that was too long?
+    4. Snap Equivalent: ![snap indexing](http://bjc.edc.org/bjc-r/img/3-lists/gs5how_many.png)
   2. Break for students to practice creating lists. Ask them how they would get the last item in a list. (Hint use the length function!) 
   3. Ask students to write on the board how they got the last element of a list. Ask another student to write how they would get the second to last element of the list and so on. 
   4. After accessing this element you can change it. Practice this in class. 
