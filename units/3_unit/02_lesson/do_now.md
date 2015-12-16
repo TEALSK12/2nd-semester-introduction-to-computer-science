@@ -2,7 +2,7 @@
 
 Open up the terminal. Type the following code. 
 
-```
+```python
 def my_function(): 
 	print("THIS IS MY FUNCTION!")
 ```
