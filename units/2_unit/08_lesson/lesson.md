@@ -7,7 +7,8 @@ Students will be able to...
 ##Materials/Preparation
 * [Project Spec]
 * [Text Monster Game - Example Code]
-* Read through the handout,and project so that you are familiar with the requirements and can assist students
+* Update the Project Spec as needed to meet your grading requirements
+* Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
 
 ## Pacing Guide
 ##### Day 1
