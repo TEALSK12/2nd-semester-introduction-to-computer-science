@@ -1,8 +1,8 @@
 # Lab 3.03 - War (Card Game)
 
-1) Create a program that lets a user play the card game ['War'](https://en.wikipedia.org/wiki/War_(card_game). 
+1) Create a program that lets a user play the card game ['War'](http://www.pagat.com/war/war.html). 
 
-Game should: 
+Your game should: 
 
 * ask for player1 and player2's names
 * given a shuffled deck variable 
