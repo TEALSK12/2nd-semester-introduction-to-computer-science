@@ -41,6 +41,6 @@ Students will be able to...
     1. Students can add in random events like cholera, or snake bites. 
     2. Students can have a list of travellers instead of just 1
     
-[Project Spec]:project3.md 
+[Project Spec]:project.md 
 [Oregon Trail - Example Code]:oregon_trail.py
   
