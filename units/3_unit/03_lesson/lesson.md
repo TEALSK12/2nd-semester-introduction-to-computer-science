@@ -24,7 +24,9 @@ Students will be able to...
 | 5 Minutes | Debrief  |  
 
 ## Instructor's Notes
-1. Lesson
+1. **Do Now**
+    * 
+2. **Lesson**
     1. Ask: What does returning do? What does printing do? 
         1. How did you rewrite the code
         2. Ask a student to write the code on the board. 
@@ -34,7 +36,7 @@ Students will be able to...
         2. On board display function in pseudo code that just prints the value. Students call the student and request cards. Have the student draw the card on the board or write 4Spades on the board
         3. Next display a function that returns. Have students call function. This time have the student pass out the cards when it is called. 
     	4. Debrief the activity and talk about what was learned 
-2. Lab
+3. **Lab**
     * Given a shuffled deck, create a program that plays the game 'War'.  
 
 
