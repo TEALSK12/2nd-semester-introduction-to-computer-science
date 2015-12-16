@@ -10,7 +10,7 @@ Students will be able to...
 * Lab worksheet with predictions and results
 
 ##Materials/Preparation
-* [Lab] worksheet
+* [Lab] - Using the Interpreter
 * Associated Reading - section 1.1 of Book
 * Ensure all students are able to log into the system
 * Go through the lab so that you are familiar with the requirements/results and can assist students
