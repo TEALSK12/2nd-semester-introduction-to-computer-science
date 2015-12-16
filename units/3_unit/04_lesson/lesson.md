@@ -2,16 +2,16 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: scope, aliasing, stack trace
+* Define and identify: **scope, aliasing, stack trace**
 * Understand that changing a list in a function updates the list outside of the function
-* understand that updating variables in the function does not affect that. 
-* draw a simple stack trace
+* Understand that updating variables in a function does not affect the variable outside of the function. 
+* Draw a simple stack trace
 
 ##Materials/Preparation
 * [Do Now]
 * [Lab]
 * Associated Reading - section 3.4 of Book
-* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 | **Duration**   | **Description** |
@@ -22,11 +22,11 @@ Students will be able to...
 | 10 Minutes | Debrief  |
 
 ## Instructor's Notes
-1. Have students work on the Do Now
-2. Lesson
-  1. Ask students if they had trouble on the do now? 
-    1. what happened to the list? 
-    2. Explain concept of aliasing. Draw out the var pointing to a list. Passing the location of a list, not the actual value so the list can be changed. 
+1. **Do Now**
+2. **Lesson**
+    * Ask students if they had trouble on the do now? 
+        * what happened to the list? 
+        * Explain concept of *aliasing*. Draw out the var pointing to a list. Passing the location of a list, not the actual value so the list can be changed. 
    2. Scope of functions
    	1. Variables in functions are the arguments and the ones you define in the function. Variables from outside the function can be used, but they can't be set. Normally hold values that don't change. 
    	2. Explain the Stack Diagrams used by the book (this is in this seciontes associated reading)
