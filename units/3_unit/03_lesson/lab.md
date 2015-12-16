@@ -20,4 +20,4 @@ Your game should:
 
 
 ###Bonus!
-Instead of closing the program. Create a way for the user to play again.
+Instead of closing the program when the deck is empty, create a way for the user to play again.
