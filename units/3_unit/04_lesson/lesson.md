@@ -35,10 +35,10 @@ Students will be able to...
     * Debugging
         * Help students follow their program to understand how the code is working
         * Explain how the use of print statements throughout your code can let you know where in the program things are not operating as expected.
-3. **Lab/Review**
-    1. This lab covers topics from the past two units that students are struggling with 
-    2. There is also a worksheet  
+3. **Lab**
+    * This lab has students running code that gets them thinking about aliasing and scope. They must also create a stack trace for a program to show their understanding of scope.
 4. **Debrief**
+    * Take any questions from students 
 
 ###Accommodation/Differentiation    
 If students are moving quickly, they can look ahead at the project spec or research the game Oregon Trail for context.
