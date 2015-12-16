@@ -19,7 +19,7 @@ Write down the result? Explain what `print` does. Try printing out 3 different v
 1. Open
 ![Open A file](new_file_photo.png)
 2. Save
-* Save how you would on a Word, or like File->Save
+    * Save how you would on a Word, or like File->Save
 3. Run 
 ![Run Python 3](running_file_python3.png)
     * If there is not a terminal open: 
