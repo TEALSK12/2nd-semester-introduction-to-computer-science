@@ -31,6 +31,8 @@ Students will be able to...
         * Get a volunteer to describe how they rewrote the code in the Do Now to get a value output.
         * Ask a student to write the code on the board. 
     * Discuss the concept of the function contract again, explaining that the functions we will work with have both inputs and outputs.
+    * Returning is a concept in snap: reporting. 
+        * ![BJC Reporint](http://bjc.berkeley.edu/bjc-r/img/building-blocks/max-code-buggy.png) 
     * If students appear to be struggling with the return vs. print concept, try this activity: 
         * Students work together to build a structure using cards. One student volunteer represents the `give_card` function. This students holds the deck of cards and stands by the board. 
         * On the board display the `give_card` function in code code that only **prints** the value of a randomly chosen card. Students 'call' the student and request cards, which then the student follows the instructions and draws ('prints') the card on the board.
