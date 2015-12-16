@@ -13,7 +13,7 @@ def birthday_song(name):
 
 ```python
 number = ['A', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K']
-suite = ['Spades', 'Clubs', 'Diamonds', 'Hearts']
+suit = ['Spades', 'Clubs', 'Diamonds', 'Hearts']
 ```
 
 ###Bonus!
