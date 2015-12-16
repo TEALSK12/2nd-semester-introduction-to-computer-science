@@ -27,11 +27,12 @@ Students will be able to...
     * Debrief the answers to the questions on the Do Now by calling on students to respond.
 2. **Lesson**
     * Build Your Own Blocks vs Functions
- 	    * Ask students to recall how they built custom blocks in Snap!
+ 	    * Ask students to recall how they built custom blocks in Snap! ![Snap Custom Block](https://i.ytimg.com/vi/Bbl2fh3igQ4/maxresdefault.jpg)
  	    * *Function*: named sequence of statements that performs a computation. When you define a function, you specify the name and the sequence of statements. Later, you can “*call*” the function by name. 
         * Explain that we have already gotten used to *calling* functions like `type()` and `print()`.
     * Ask students how they would create a random number generator. 
         * Sounds hard! Luckily someone has already done that: the random library (essentially a bunch of code written by someone else) which has many associated functions. 
+            * Random in Snap ![Random in Snap](http://bjc.berkeley.edu/bjc-r/img/lab-10/random-tree-buggy-code-snap.png) 
         * Remind students what they saw in the Do Now - how to get a random integer: randint(0, 10).
             * Identify the 0 and 10 in this example as *arguments*, or values passed into the function.
   		    * Ask students what the argument is when we use `print` or `type`
