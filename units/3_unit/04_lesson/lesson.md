@@ -18,8 +18,8 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 35 Minutes | Lab/Review         |
-| 5 Minutes | Debrief  |
+| 30 Minutes | Lab/Review         |
+| 10 Minutes | Debrief  |
 
 ## Instructor's Notes
 1. **Do Now**
@@ -38,7 +38,7 @@ Students will be able to...
 3. **Lab**
     * This lab has students running code that gets them thinking about aliasing and scope. They must also create a stack trace for a program to show their understanding of scope.
 4. **Debrief**
-    * Take any questions from students 
+    * Take time to review Scope, Aliasing, and Stack Traces 
 
 ###Accommodation/Differentiation    
 If students are moving quickly, they can look ahead at the project spec or research the game Oregon Trail for context.
