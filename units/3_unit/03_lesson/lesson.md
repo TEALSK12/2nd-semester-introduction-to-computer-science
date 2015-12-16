@@ -27,15 +27,15 @@ Students will be able to...
 1. **Do Now**
     * Students experiment with a function that returns a value, but they must add a print command to output that value. 
 2. **Lesson**
-    1. Ask: What does returning do? What does printing do? 
-        1. How did you rewrite the code
-        2. Ask a student to write the code on the board. 
-    2. Rediscuss the contract. Now have outputs as well as inputs 
-    3. If students are struggling run an activity: 
-        1. Have students build a structure using cards. One student is the give_card function. This students holds the deck of cards and stands by the board. 
-        2. On board display function in pseudo code that just prints the value. Students call the student and request cards. Have the student draw the card on the board or write 4Spades on the board
-        3. Next display a function that returns. Have students call function. This time have the student pass out the cards when it is called. 
-    	4. Debrief the activity and talk about what was learned 
+    * Ask students about what they think the difference between returning and printing is. 
+        * Get a volunteer to describe how they rewrote the code in the Do Now to get a value output.
+        * Ask a student to write the code on the board. 
+    * Discuss the concept of the function contract again, explaining that the functions we will work with have both inputs and outputs.
+    * If students appear to be struggling with the return vs. print concept, try this activity: 
+        * Students work together to build a structure using cards. One student volunteer represents the `give_card` function. This students holds the deck of cards and stands by the board. 
+        * On the board display the `give_card` function in code code that only **prints** the value of a randomly chosen card. Students 'call' the student and request cards, which then the student follows the instructions and draws ('prints') the card on the board.
+        * Next display a new `give_card` function that returns a card instead. Have students 'call' the function, however this time have the `give_card` student pass out the card when a student calls him/her. 
+    	* Debrief the activity and talk about what was learned. 
 3. **Lab**
     * Given a shuffled deck, create a program that plays the game 'War'.  
 
