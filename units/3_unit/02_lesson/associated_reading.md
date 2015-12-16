@@ -5,7 +5,7 @@
 So far, we have only been using the functions that come with Python, but it is also possible to add new functions. A function definition specifies the name of a new function and the sequence of statements that execute when the function is called.
 Here is an example:
 
-```
+```python
 def print_lyrics():
     print "I'm a lumberjack, and I'm okay."
     print "I sleep all night and I work all day."
@@ -19,7 +19,7 @@ The strings in the print statements are enclosed in double quotes. Single quotes
 
 If you type a function definition in interactive mode, the interpreter prints ellipses (...) to let you know that the definition isn’t complete:
 
-```
+```python
 >>> def print_lyrics():
 ...     print "I'm a lumberjack, and I'm okay."
 ...     print "I sleep all night and I work all day."
@@ -28,7 +28,7 @@ If you type a function definition in interactive mode, the interpreter prints el
 To end the function, you have to enter an empty line (this is not necessary in a script).
 Defining a function creates a variable with the same name.
 
-```
+```python
 >>> print print_lyrics
 <function print_lyrics at 0xb7e99e9c>
 >>> type(print_lyrics)
@@ -38,7 +38,7 @@ Defining a function creates a variable with the same name.
 The value of print_lyrics is a function object, which has type 'function'.
 The syntax for calling the new function is the same as for built-in functions:
 
-```
+```python
 >>> print_lyrics()
 I'm a lumberjack, and I'm okay.
 I sleep all night and I work all day.
@@ -59,7 +59,7 @@ But that’s not really how the song goes.
 
 Pulling together the code fragments from the previous section, the whole program looks like this:
 
-```
+```python
 def print_lyrics():
     print "I'm a lumberjack, and I'm okay."
     print "I sleep all night and I work all day."
@@ -101,7 +101,7 @@ Some of the built-in functions we have seen require arguments. For example, when
 
 Inside the function, the arguments are assigned to variables called parameters. Here is an example of a user-defined function that takes an argument:
 
-```
+```python
 def print_twice(bruce):
     print bruce
     print bruce
@@ -110,7 +110,7 @@ def print_twice(bruce):
 This function assigns the argument to a parameter named bruce. When the function is called, it prints the value of the parameter (whatever it is) twice.
 This function works with any value that can be printed.
 
-```
+```python
 >>> print_twice('Spam')
 Spam
 Spam
@@ -123,7 +123,7 @@ Spam
 ```
 The same rules of composition that apply to built-in functions also apply to user-defined functions, so we can use any kind of expression as an argument for print_twice:
 
-```
+```python
 >>> print_twice('Spam '*4)
 Spam Spam Spam Spam
 Spam Spam Spam Spam
@@ -135,7 +135,7 @@ Spam Spam Spam Spam
 The argument is evaluated before the function is called, so in the examples the expressions 'Spam '*4 and math.cos(math.pi) are only evaluated once.
 You can also use a variable as an argument:
 
-```
+```python
 >>> michael = 'Eric, the half a bee.'
 >>> print_twice(michael)
 Eric, the half a bee.
