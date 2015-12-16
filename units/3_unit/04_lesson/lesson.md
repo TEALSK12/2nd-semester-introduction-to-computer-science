@@ -26,7 +26,7 @@ Students will be able to...
 2. **Lesson**
     * Ask students if they had trouble on the do now? 
         * what happened to the list? 
-        * Explain concept of *aliasing*. Draw out the var pointing to a list. Passing the location of a list, not the actual value so the list can be changed. 
+    * Explain concept of *aliasing*. Draw out the var pointing to a list. Passing the location of a list, not the actual value so the list can be changed. 
    2. Scope of functions
    	1. Variables in functions are the arguments and the ones you define in the function. Variables from outside the function can be used, but they can't be set. Normally hold values that don't change. 
    	2. Explain the Stack Diagrams used by the book (this is in this seciontes associated reading)
