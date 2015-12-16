@@ -23,6 +23,8 @@ Students will be able to...
 
 ## Instructor's Notes
 1. **Do Now**
+    * Students have a chance to think about what will be covered on the quiz next class, and are given time to think about & discuss what concepts they are most challenged by.
+    * Next students 
 2. **Lesson**
     * Ask students if they had trouble on the do now? 
         * what happened to the list? 
