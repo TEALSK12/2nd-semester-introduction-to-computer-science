@@ -8,12 +8,9 @@ Students will be able to...
 * Compare script mode vs interactive mode
 * Know how to store a value into a variable
 
-## Assessment
-* [Lab] with predictions, results, and completed programs
-
 ##Materials/Preparation
 * [Do Now] - Project on screen
-* [Worksheet]
+* [Lab] - Printing & Variables
 * Associated Reading - section 1.2 of Book
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students.
 
