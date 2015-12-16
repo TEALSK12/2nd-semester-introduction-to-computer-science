@@ -69,7 +69,7 @@
        * [Associated Reading 3.03](units/3_unit/03_lesson/associated_reading.md)
    * [Lesson 3.04: Debugging and Scope](units/3_unit/04_lesson/lesson.md)
        * [Do Now 3.04](units/3_unit/04_lesson/do_now.md)
-       * [Lab 3.03](units/3_unit/04_lesson/lab.md)
+       * [Lab 3.04](units/3_unit/04_lesson/lab.md)
        * [Associated Reading 3.03](units/3_unit/04_lesson/associated_reading.md)
    * [Lesson 3.05: Oregon Trail](units/3_unit/05_lesson/lesson.md)
        * [File](units/3_unit/05_lesson/oregon_trail.py)
