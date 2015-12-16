@@ -40,5 +40,5 @@ Students will be able to...
 4. Opportunities for more
     1. If students are moving quickly, they can look at the project spec
 
-[Do Now]:do_now_304.md
-[Lab]:lab_304.md
+[Do Now]:do_now.md
+[Lab]:lab.md
