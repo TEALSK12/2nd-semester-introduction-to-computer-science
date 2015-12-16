@@ -26,6 +26,7 @@ Students will be able to...
 1. Lesson
   1. Ask students what doing `a[0:2]` did? 
     1. slicing: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
+        * Note that slicing doesn't exist in SNAP
     2. Ask what the list would return if you did `a[1:2]`?
     3. What does `remove` do? What does `pop` do? What were the differences. 
     4. Ask students what the plus sign does? What does append do? What would happen if you did `append([1, 2, 3])`?
