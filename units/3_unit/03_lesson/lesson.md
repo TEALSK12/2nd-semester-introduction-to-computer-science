@@ -35,7 +35,7 @@ Students will be able to...
         3. Next display a function that returns. Have students call function. This time have the student pass out the cards when it is called. 
     	4. Debrief the activity and talk about what was learned 
 2. Lab
-    * Given a shuffled deck, create a program that plays the game war.  
+    * Given a shuffled deck, create a program that plays the game 'War'.  
 
 
 ###Accommodation/Differentiation
