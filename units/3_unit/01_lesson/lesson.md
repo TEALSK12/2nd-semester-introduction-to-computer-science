@@ -54,4 +54,4 @@ If students are moving quickly, find another library to import from (see **bonus
 
 
 [Do Now]:do_now_301.md
-[Lab]:lab_301.md
+[Lab]:lab.md
