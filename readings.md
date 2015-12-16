@@ -985,7 +985,7 @@ Here’s how it is used:
 ```
 The parameter t and the variable letters are aliases for the same object. The stack diagram looks like the following:
 
-![Stack Diagram](http://www.greenteapress.com/thinkPython/html/thinkPython017.png)
+![Stack Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython017.png)
 
 Since the list is shared by two frames, I drew it between them.
 It is important to distinguish between operations that modify lists and operations that create new lists. For example, the append method modifies a list, but the + operator creates a new list:
