@@ -25,7 +25,7 @@ Students will be able to...
 
 ## Instructor's Notes
 1. **Do Now**
-    * Students experiment with a function that returns a value, but must add a print command to output that value. 
+    * Students experiment with a function that returns a value, but they must add a print command to actually output that value. 
 2. **Lesson**
     1. Ask: What does returning do? What does printing do? 
         1. How did you rewrite the code
