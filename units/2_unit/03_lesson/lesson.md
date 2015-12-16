@@ -21,8 +21,9 @@ Students will be able to...
 | 10 Minutes | Discussion  |
 
 ## Instructor's Notes
-1. Have students work on the Do Now part 1
-2. Lesson
+1. **Do Now** 
+  * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
+2. **Lesson**
   1. Ask students what they thought a Boolean was? 
     1. If students are struggling. Ask them what values they saw? (answer should be `True` or `False`) 
     2. Boolean expression: is an expression that evaluates to either true or false.

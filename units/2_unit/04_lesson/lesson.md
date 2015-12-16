@@ -21,8 +21,9 @@ Students will be able to...
 | 10 Minutes | Discussion  |
 
 ## Instructor's Notes
-1. Have students work on the Do Now
-2. Lesson
+1. **Do Now** 
+  * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
+2. **Lesson**
   1. Ask students if they had trouble on the do now? 
     1. What did they feel like the needed? 
     2. In order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly. Conditional statements give us this ability. The simplest form is the if statement. The boolean expression after `if` is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.

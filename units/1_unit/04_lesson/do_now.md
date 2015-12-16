@@ -1,5 +1,5 @@
 # Do Now
-Type in and run the following code: 
+Type in the following code into a file and save: 
 
 ```python
 a = input(“What is your name? ”)
@@ -8,14 +8,13 @@ a = input(“What is your name? ”)
 print(“Hello there, ” + a)
 ```
 
-Write down the answers to the following questions. 
-1. What do you expect the output to be?
+1. Read through the code and write down what you expect the printed results to be?
 <br><br>
-2. What is the actual output?
+2. Run the code and write down the actual printed result?
 <br><br>
-3. What does the `#` do? 
+3. Briefly describe what the `#` does? 
 <br><br>
-4. What does `input` do?
+4. Briefly describe what `input` does?
 <br><br>
 
 ## Snap to Python

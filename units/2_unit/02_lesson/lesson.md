@@ -20,7 +20,9 @@ Students will be able to...
 | 5 Minutes | Debrief  |
 
 ## Instructor's Notes
-1. **Lesson**
+1. **Do Now** 
+  * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
+2. **Lesson**
   * Ask students to define *type*. Talk about types as a way to represent data (give examples of strings, ints, and floats).
   * Ask students what they thought typing the command str(123) does. 
     * Define this as *casting*. 
@@ -38,7 +40,7 @@ Students will be able to...
     * If input is a float, can cast with float(num)
   * `type`: ask students what they think `type('a')` would output.  
     * Why might you want to use `type`?
-2. **Lab**
+3. **Lab**
     * Practice predicting what casting will do to inputs. 
     * Create a halving program as well as program that halves to whole numbers. 
 

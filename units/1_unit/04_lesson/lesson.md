@@ -21,7 +21,7 @@ Students will be able to...
 
 ## Instructor's Notes
 1. **Do Now**
-    * Make sure that students are working as soon as they get to class. 
+  * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. Only allow 5 minutes. Additional time will be given to complete
 2. **Do Now Work & Discussion**
 	* Input Discussion
 		*	Discuss answers to the questions written in the Do Now. 
@@ -59,5 +59,5 @@ Advanced students that are finished early can be paired with students who are st
 
 Identify students that may potentially struggle on the quiz and find individual time with them to emphasize key concepts during the magic genie lab. 
 
-[Do Now]:worksheet.md
+[Do Now]:do_now.md
 [Magic Genie Lab]:lab.md
