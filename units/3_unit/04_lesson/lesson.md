@@ -23,7 +23,7 @@ Students will be able to...
 
 ## Instructor's Notes
 1. **Do Now**
-    * Students have a chance to think about what will be covered on the quiz next class, and are given time to think about & discuss what concepts they are most challenged by.
+    * Students have a chance to think about what & discuss what concepts they have been most challenged by.
     * Next, students practice passing a list as an argument and updating that list within the function. 
 2. **Lesson**
     * Discuss what students observed in the Do Now and take time, if needed, to go over questions about concepts that students find challenging. 
