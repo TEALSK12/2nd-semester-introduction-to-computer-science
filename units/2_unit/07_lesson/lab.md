@@ -30,3 +30,6 @@
     ![tic-tac-toe](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrA_MowUM-KZXl1CpkrQhi8W505dM3cxZG1787i9qFz8KefqFkIQ)
     * depending on the position user gave,  update the position of the board to reflect that
     * print the board out 
+
+###Extra Credit: 
+Create a variable size board. So instead of 3 by 3, create a way for the user specify the size of the board they want to play with. 
