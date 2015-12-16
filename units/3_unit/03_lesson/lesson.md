@@ -43,5 +43,5 @@ Students will be able to...
     1. Ask students to look into the deal function and research the functions in it. Write a little bit about what is going on
   
 
-[Do Now]:do_now_303.md
-[Lab]:lab_303.md
+[Do Now]:do_now.md
+[Lab]:lab.md
