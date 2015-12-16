@@ -1,17 +1,17 @@
 # Lab 3.04
 
-1. Aliasing 
-    * Will updating b affect a?   
+##Aliasing 
+* Will updating b affect a?   
     
-    ```
+    ```python
         a = [1, 2, 4]
         b = a 
       ```
     <br>
     
-    * What will the list print out at the end 
+* What will the list print out after this code is run?
     
-     ```
+     ```python
      # input: a list of ints
      # output: an int
      def update_list(a_list): 
@@ -25,10 +25,10 @@
      ```
     <br>
     
-2. Scope
-    * Draw the stack diagram for the following.
+##Scope
+* Draw the stack diagram for the following.
     
-    ```
+    ```python
 	var_1 = "kittens"
 	var_2 = "cookies"
 	
