@@ -17,7 +17,11 @@ Students will be able to...
 | 10 Minutes | Lesson      |
 | 15 Minutes | Project OverView         
 | 25 Minutes | Project Planning  |
-
+| ** Day 2-7 ** |             |
+| 5 Minutes  | Planning/Questions      |
+| 10 Minutes | Review of Questions      |
+| 35 Minutes | Project Work        |
+| 5 Minutes | Wrap up     |
 ## Instructor's Note
 
 1. **Project Hand Out**
