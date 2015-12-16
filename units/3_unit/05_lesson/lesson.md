@@ -2,13 +2,15 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Use project planning skills to complete a larger project
+* Use project planning skills to complete a longer-term project
 * Create functions to organize a project
+* Apply skills learned in units 1-3 to create a functioning program
 
 ##Materials/Preparation
 * [Project Spec]
 * [Oregon Trail - Example Code] 
-* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
+* Update the Project Spec as needed to meet your grading requirements
+* Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit. 
 
 ## Pacing Guide
 | **Duration**   | **Description** |
