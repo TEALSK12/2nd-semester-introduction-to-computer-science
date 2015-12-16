@@ -1,14 +1,13 @@
 #Do Now: 3.03
 
-Open up the terminal. Type the following code into the editor. 
+Open up the terminal. Paste the following code into the editor:
 
-```
+```python
 import random
-# inputs:  x, int
-           y, int
+# inputs:  x (int), y (int)
 # outputs: int 
 # 50% returns sum of x and y, 50% returns product of x and y
-def mystery_functions(x, y):
+def mystery_function(x, y):
 	random_number = random.randint(0,2)
 	if random_number > 0: 
 		z = x + y 
@@ -18,12 +17,12 @@ def mystery_functions(x, y):
 mystery_function(1, 2)
 ```
 
-What happens in this code? How do you know what the result was? 
+What happens when your run this code? How do you know what the result was? 
 <br>
 <br>
 <br>
 
-Keeping the function the same, rewrite the code to print out the value to the function? 
+Keeping the function the same, rewrite the code to print out the value that the function returns.
 <br>
 <br>
 <br>
