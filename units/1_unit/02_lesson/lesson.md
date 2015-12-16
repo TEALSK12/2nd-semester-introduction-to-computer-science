@@ -6,9 +6,6 @@ Students will be able to...
 * Use the Python interpreter to evaluate simple math expressions
 * Distinguish between an integer, float, and string
 
-##Assessment
-* Lab worksheet with predictions and results
-
 ##Materials/Preparation
 * [Lab] - Using the Interpreter
 * Associated Reading - section 1.1 of Book
