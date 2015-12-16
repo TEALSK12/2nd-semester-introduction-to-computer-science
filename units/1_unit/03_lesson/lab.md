@@ -1,4 +1,4 @@
-# Worksheet 1.03
+# Lab 1.03
 ## Part 1 - Printing Practice 
 
 Practice typing out some statements in the editor part of the IDE, then hit "Run" at the top of the screen:
