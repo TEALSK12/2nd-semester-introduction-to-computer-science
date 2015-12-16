@@ -1,7 +1,7 @@
 # Do Now 5.01 
 
 1. Skim the 'Getting Started with Programming'
-2. Copy the following code from the reading above: 
+2. Copy the following code from the reading above into the EarSketch Editor: 
 
 ```
 # python code
