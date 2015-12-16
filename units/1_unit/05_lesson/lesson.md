@@ -36,4 +36,4 @@ Make sure to provide extended time on the quiz for any students that have that r
 
 [Quiz]:quiz.md
 [debugging]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html
-[code]:project_file.py
+[code]:code.py

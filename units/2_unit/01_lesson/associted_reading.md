@@ -1,4 +1,4 @@
-## Associted Reading
+## Associated Reading
 
 #Variables, expressions and statements
 
