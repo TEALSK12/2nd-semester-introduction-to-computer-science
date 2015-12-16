@@ -53,5 +53,5 @@ Students will be able to...
 If students are moving quickly, find another library to import from (see **bonus** in the lab) OR allow students to move on to creating their own functions.
 
 
-[Do Now]:do_now_301.md
+[Do Now]:do_now.md
 [Lab]:lab.md
