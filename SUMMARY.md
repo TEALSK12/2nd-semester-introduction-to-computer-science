@@ -109,7 +109,7 @@
        * [Lab 5.04](units/5_unit/04_lesson/lab.md)
    * [Lesson 5.05: Song](units/5_unit/05_lesson/lesson.md)
        * [Do Now 5.05](units/5_unit/05_lesson/do_now.md)
-* [Unit 6](units/6_unit/unit6_md.md)
+* [Unit 6](units/6_unit/unit6.md)
    * [Lesson 6.01: Dictionaries Intro](units/6_unit/01_lesson/lesson.md)
        * [Do Now 6.01](units/6_unit/01_lesson/do_now.md)
        * [Lab 6.01](units/6_unit/01_lesson/lab.md)
