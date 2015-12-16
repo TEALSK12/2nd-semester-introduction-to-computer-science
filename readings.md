@@ -955,7 +955,7 @@ True
 
 The state diagram looks like:
 
-![State Diagram](http://www.greenteapress.com/thinkPython/html/thinkPython016.png)
+![State Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython016.png)
 
 The association of a variable with an object is called a reference. In this example, there are two references to the same object.
 An object with more than one reference has more than one name, so we say that the object is aliased.
