@@ -1,4 +1,4 @@
-# Lab 3.04
+# Lab 3.04 - Aliasing & Scope
 
 ##Aliasing 
 * Will updating b affect a?   
