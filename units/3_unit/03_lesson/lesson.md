@@ -2,9 +2,9 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: return, none, void
-* Difference between printing and returning
-* What a none and void means 
+* Define and identify: **return, none, void**
+* Explain and demonstrate the difference between printing and returning
+* Explain what the output `none` and the command `void` means.
 
 ##Materials/Preparation
 * [Do Now]
