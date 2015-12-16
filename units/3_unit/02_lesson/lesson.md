@@ -42,5 +42,5 @@ Students will be able to...
 If students are moving quickly, they could go back and use functions to improve an old project.
   
 
-[Do Now]:do_now_302.md
-[Lab]:lab_302.md
+[Do Now]:do_now.md
+[Lab]:lab.md
