@@ -149,4 +149,4 @@
    * [Lesson 7.05: Pokemon](units/7_unit/05_lesson/lesson.md)
        * [Project: Pokemon](units/7_unit/05_lesson/project.md)
 * [Unit 8](units/8_unit/unit8.md)
-  * [Project](project.md) 
+  * [Project]((units/8_unit/project.md) 
