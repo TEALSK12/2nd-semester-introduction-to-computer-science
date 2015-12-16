@@ -1,6 +1,6 @@
 # Lab 3.03 - War (Card Game)
 
-1) Create a program that lets a user play the card game 'War'. 
+1) Create a program that lets a user play the card game ['War'](https://en.wikipedia.org/wiki/War_(card_game). 
 
 Game should: 
 
