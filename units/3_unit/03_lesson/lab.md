@@ -4,8 +4,8 @@
 
 Your game should: 
 
-* ask for player1 and player2's names
-* given a shuffled deck variable 
+* Start with a given shuffled deck variable
+* Ask for player1 and player2's names
 * have a function player_turn
 
 ```python
