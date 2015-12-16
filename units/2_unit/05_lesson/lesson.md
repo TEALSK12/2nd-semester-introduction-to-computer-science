@@ -27,6 +27,7 @@ Students will be able to...
     1. a list is a sequence of values. In a list, they can be any type. The values in a list are called elements or sometimes items.
     2. to create a list enclose items in square brackets
     3. Ask students what values items in a list can be? Answer any type! You can even have lists within lists (more on that later...)
+    4. Lists in Python ![lists in snap](http://bjc.edc.org/bjc-r/img/3-lists/wordlists.png)
   2. Ask students what len does? 
   3. Ask students how they tried to print the first item from a list? Was this what they were expecting? 
     1. index: a map from the position in the list to the element stored there. 
