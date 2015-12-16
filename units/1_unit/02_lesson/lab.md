@@ -1,4 +1,4 @@
-# Lab 1.02
+# Lab 1.02 - Using the Interpreter
 
 ## Part 1
 Using the interpreter, type in the expressions below. Copy and paste the output into the output column. If the result is unexpected, note that in the third column.
