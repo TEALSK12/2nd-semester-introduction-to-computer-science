@@ -26,10 +26,10 @@ Students will be able to...
 1. **Do Now**
     * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 2. **Printing Lesson/Lab Part 1**
-	*	Explain that the file is the center section of the screen. Sometimes this is called a *script*.
+	*	Explain that the file is the center section of the screen. Sometimes this is called a **script**.
 		* Reminder questions: how do you save/run a file? What happened when you ran the file from the do now?
 		* Explain the purpose of the `print` statement, which will print whatever is in between the parentheses to the console.
-			* Explain to students that this what appears on the console is called *output*
+			* Explain to students that this what appears on the console is called **output**
 		* Talk to students about reading a program and the order in which the computer executes statements. 
 	* Ask students how they would print the following:
 	```
@@ -41,7 +41,7 @@ Hello World
 	```
 	* Have students work on Part 1 of the lab for 10 Minutes
 3. **Variables Lesson/Lab Part 2**
-	* *Variable*: a name that refers to a value
+	* **Variable**: a name that refers to a value
 	* An assignment statement creates new variables and gives them values: 
 	
 	```python
