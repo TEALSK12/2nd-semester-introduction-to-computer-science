@@ -15,9 +15,8 @@ Students will be able to...
 ## Pacing Guide
 | **Duration**   | **Description** |
 | ---------- | ----------- |
-| 5 Minutes  | Do Now      |
 | 10 Minutes | Project Overview      |
-| 30 Minutes | Planning    |
+| 35 Minutes | Planning    |
 | 10 Minutes | Debrief  |
 |**Day 2-9** |             |
 | 5 Minutes  | Day Plan    | 
@@ -26,7 +25,7 @@ Students will be able to...
 | 10 Minutes | Debrief    |
 
 ## Instructor's Notes
-1. Lesson
+1. **Lesson**
   1. Demo the oregon trail game
   2. Give out instructions and go over game rules
 2. Planning
@@ -39,9 +38,11 @@ Students will be able to...
     	5. finish day updating 
     	6. connect functions together
     	7. wrap up and game over check is correct
-3. Opportunities for more
-    1. Students can add in random events like cholera, or snake bites. 
-    2. Students can have a list of travellers instead of just 1
+
+###Accommodation/Differentiation
+Advanced students can add in random events like cholera, or snake bites. Students can also have a list of travelers instead of just 1, where each traveler is affected differently by each action.
+
+The planning phase of this project will be essential, especially for students who you think may struggle with this project. Provide more guidance and scaffolding to those students that need it. 
     
 [Project Spec]:project.md 
 [Oregon Trail - Example Code]:oregon_trail.py
