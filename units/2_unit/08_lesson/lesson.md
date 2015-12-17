@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* use knowledge of lists, booleans, conditionals, and while loops 
+* Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game. 
 
 ##Materials/Preparation
 * [Project Spec]
