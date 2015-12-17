@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Review: index, slice, append, remove, nested list
+* Review: **index, slice, append, remove, nested list**
 * List conditionals
 
 ##Materials/Preparation
