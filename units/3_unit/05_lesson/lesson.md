@@ -37,9 +37,9 @@ Students will be able to...
         * Students should plan to create functions for each user interaction by figuring out where the repeated code will be. 
         * Students should list out which variables they will need.
     * Have students plan out their next 7 days. Suggested timeline/checkpoints below: 
-    	1. Set up user inputs with dummy functions, make sure game loop works.
-    	2. Create variables necessary to run the game, start implementing basic functions.
-    	3. Focus on the random functions.
+    	1. Set up user inputs with dummy functions, make sure game loop works
+    	2. Create variables necessary to run the game, start implementing basic functions
+    	3. Focus on the random functions
     	4. Figure out how to move the days
     	5. Finish day updating 
     	6. Connect functions together
