@@ -3,14 +3,15 @@
 Using variables, functions, and conditionals in Python, students will create an Oregon Trail game. 
 
 ## Overview
-We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (2000 miles) by Dec 31st. However the trail is arduous. Each day costs you food and health. You can hunt and rest, but you have to get there before winter! 
+We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (2000 miles) by Dec 31st. However, the trail is arduous. Each day costs you food and health. You can hunt and rest, but you have to get there before winter! 
 
 ## Details 
 ### Behavior 
-* Player starts in NYC on 03/01 with 2,000 miles to go, 500lbs of food, 5 health and Player must get to Oregon by 12/31
-* at the beginning of the game, user is asked name
-* each turn player is asked what they should choose, player can type in the following: `travel`, `rest`, `hunt`, `status`, `help`, `quit`
-* players health randomly decreases 2 times during the month 
+* Player starts in NYC on 03/01 with 2,000 miles to go, 500lbs of food, and 5 health. 
+* The player must get to Oregon by 12/31
+* At the beginning of the game, user is asked their name.
+* Each turn, the player is asked what action they choose, where the player can type in the following: `travel`, `rest`, `hunt`, `status`, `help`, `quit`
+* The player's health randomly decreases 2 times during the month. 
 * `travel`: moves you randomly btween 30-60 miles and takes 3-7 days
 * `rest`: increases health 1 level (up to 5) and takes 2-5 days
 * `hunt`: adds 100lbs of food and takes 2-5 days
