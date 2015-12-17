@@ -1,6 +1,6 @@
 # Project 3: Oregon Trail
 
-Using Python students will be using functions, variables. 
+Using variables, functions, and Python, students will be using functions, variables. 
 
 ## Overview
 We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (2000 miles) by Dec 31st. However the trail is arduous. Each day costs you food and health. You can hunt and rest, but you have to get there before winter! 
