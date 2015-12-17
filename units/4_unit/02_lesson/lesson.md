@@ -23,6 +23,7 @@ Students will be able to...
 
 1. **Do Now**
     * Display the Do Now on the board
+    * Students experiment with and are introduced to the `range` function. 
 2. **Lesson**
 	* Go over Part 1 of the Do Now. Ask students what the range function did. Remind them that there are docs. Show the docs for the range function (it actually takes in a third value that is optional). Work together with the students to write a for loop just using the range function. 
 	* Go over part 2 of the Do Now. Ask the students what happened. Ask the students why these values might be helpful? (they are a list of the indices)
