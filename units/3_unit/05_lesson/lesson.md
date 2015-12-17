@@ -13,12 +13,17 @@ Students will be able to...
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit. 
 
 ## Pacing Guide
-| **Day 1**   | **Description** |
+####Day 1
+| **Duration**   | **Description** |
 | ---------- | ----------- |
 | 10 Minutes | Project Overview      |
 | 40 Minutes | Planning    |
 | 5 Minutes | Debrief  |
-|**Days 2-9** |             |
+
+####Days 2-9
+
+|**Duration** |**Description**             |
+|--|--|
 | 5 Minutes  | Review Day Plan    | 
 | 45 Minutes | Project Work|
 | 5 Minutes | Debrief    |
