@@ -34,13 +34,13 @@ Students will be able to...
 	* Present demo of a program written in Python to hook students and to give them an idea of what they will be working with.
 3. **Python/IDE Intro**
 	* Python
-		* *Python* is a text-based programming language, uses tabbing/indentation to control execution, and is known for its readability. 
+		* **Python** is a text-based programming language, uses tabbing/indentation to control execution, and is known for its readability. 
 		* Show [Python Code].  Ask students to write down at least 3 specific things they observe about the program/code.
 	        * Possible responses might include: indentation, different colors of text, using "print" instead of "say" (Snap).
 	        * Discuss what students observed.
 	* IDE
 		* **I**ntegrated **D**evelopment **E**nvironment 
-		* An IDE is an application that allows you to create, edit, save, and run programs.
+		* An **IDE** is an application that allows you to create, edit, save, and run programs.
 		    * Point out that for this course we will be using an online IDE called Cloud9.
 		* Note that with Python, we can't use drag and drop blocks anymore - it is a language that must be typed into an IDE. 
 		* Talk to students about the different areas and parts of the IDE, use the [Python Code] to demo once more how it looks/works.
