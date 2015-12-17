@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: evaluating, expressions, True, False
+* Define and identify: **evaluating, expressions, True, False**
 * Evaluate a boolean expression
 * Compose boolean expressions using and, or, not, <, >, == 
 
@@ -38,7 +38,7 @@ Students will be able to...
     1.Poll students- how many boolean expressions are used? Answers here can vary but ~7 (age >= 16, age <18, driving_with_permit >=6, and expression, age > 18, or expression, whole expression) 
     2. Define composition: Using an expression as part of a larger expression, or a statement as part of a larger statement. You can use parenthesis to compose expressions as well
   5. Parenthesis: In SNAP! to compose many expressions they were nested together. In snap you can just put them one after another. However if you want certain things to evaluated together use parenthesis
-3. Lab
+3. **Lab**
     2. Evaluate expressions with `and`, `or`, and `not`
     2. Given written out rules, and turn them into Boolean Expressions
     3. Create a large expression using variables that describes you. 
