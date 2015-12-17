@@ -38,7 +38,7 @@ Students will be able to...
 		* Remind students of the concept of **scope**, showing how `num` changes values with each iteration of the loop. 
 	* Go over Part 3 (many students likely didn't have time to finish). Ask students to write the first line of the loop on the board. Have students brainstorm what the body should be. Come to a group consensus and run the code.  
 3. **Lab**
-	* Count the vowels lab: Students will be given a sentence that they will need to print without vowels. 
+	* De-vowel lab: Students will create a function that will take in a sentence and return that sentence without vowels. 
 4. **Debrief**
 	* Talk about any issues or challenges the students had with this lab. If there is time, call students up to the board to shown and demonstrate their code/solutions.
 	
