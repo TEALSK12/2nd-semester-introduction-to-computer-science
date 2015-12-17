@@ -7,7 +7,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab]
+* [Lab] - Getting Loopy
 * Associated Reading - section 4.2 of Book
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
