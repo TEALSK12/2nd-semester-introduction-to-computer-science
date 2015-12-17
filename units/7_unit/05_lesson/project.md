@@ -1,9 +1,9 @@
-# Project: Pokemon
+[# Project: Pokemon
 
 In this project we will be creating a basic implementation of pokemon battle.
 
 ##Overview
-You will create a hand of 5 pokemon. Once you create your hand. You will simulate game play of a battle. The opponent will have a pokemon chosen randomly and you will battle.
+You will create a hand of 3 pokemon. Once you create your hand. You will simulate game play of a battle. The opponent will have a pokemon chosen randomly and you will battle.
 
 At the start of the game, the program will list out possible pokemon. You will then select the 3 pokemon you want in your hand. 
 
