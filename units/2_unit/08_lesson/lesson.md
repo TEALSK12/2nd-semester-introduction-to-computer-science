@@ -11,7 +11,8 @@ Students will be able to...
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
 
 ## Pacing Guide
-##### Day 1
+
+#### Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
