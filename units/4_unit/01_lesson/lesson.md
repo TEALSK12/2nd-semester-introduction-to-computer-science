@@ -36,7 +36,7 @@ Students will be able to...
 		    * Emphasize that the body of the for loop is the indented part
 		* **Iteration**: body of the loop is repeated with different values of the list. Note how the body of the loop is repeated but `num` changes. Consider drawing this out on the board. 
 		* Remind students of the concept of **scope**, showing how `num` changes values with each iteration of the loop. 
-	* Go over Part 3 (many students likely didn't have time to finish). Ask students to write the first line of the loop on the board. Brainstorm what the body should be. Call on students. If struggling write up `multi_fruit.append(single_fruit[0] + 's')` from part 1 into the body of the  and ask a student to change it. Use print statements to show debugging. 
+	* Go over Part 3 (many students likely didn't have time to finish). Ask students to write the first line of the loop on the board. Have students brainstorm what the body should be. Come to a group consensus and run the code.  
 3. **Lab**
 	* Count the vowels lab: Students will be given a sentence that they will need to print without vowels. 
 4. **Debrief**
