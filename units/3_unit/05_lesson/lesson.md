@@ -44,7 +44,7 @@ Students will be able to...
     	7. Wrap up and game over check is correct
 
 ###Accommodation/Differentiation
-Advanced students can add in random events like cholera, or snake bites. Students can also have a list of travelers instead of just 1, where each traveler is affected differently by each action.
+Advanced students can add in random events like cholera or snake bites. Students can also have a list of travelers instead of just 1, where each traveler is affected differently by each action.
 
 The planning phase of this project will be essential, especially for students who you think may struggle with this project. Provide more guidance and scaffolding to those students that need it. 
     
