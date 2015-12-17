@@ -1,7 +1,6 @@
 # Do Now
 
 1. Copy and run the following code:
-
 ```python
 single_fruit = ['apple', 'banana', 'watermelon', 'grape']
 multi_fruit = []
@@ -17,13 +16,11 @@ Briefly write down what happened. What would happen if you added 100 items to th
 <br>
 
 2. Copy and run the following code:
-
 ```python
 list_of_numbers = [3, 5, 10, 23]
 for num in list_of_numbers: 
 	print("num is " + str(num))
 ```
-
 Briefly write down what happened. How would this change if you added 100 items to `list_of_numbers`? 
 <br>
 <br>
