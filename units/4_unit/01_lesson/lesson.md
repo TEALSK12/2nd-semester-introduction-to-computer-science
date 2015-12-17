@@ -17,9 +17,9 @@ Students will be able to...
 ## Pacing Guide
 | **Duration**   | **Description** |
 | ---------- | ----------- |
-| 5 Minutes  | Do Now      |
+| 10 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 35 Minutes | Lab         |
+| 30 Minutes | Lab         |
 | 5 Minutes | Debrief     |
 
 ## Instructor's Notes
