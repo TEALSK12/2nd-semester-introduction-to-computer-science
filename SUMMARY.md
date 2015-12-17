@@ -79,7 +79,7 @@
        * [Do Now 4.01](units/4_unit/01_lesson/do_now.md)
        * [Lab 4.01](units/4_unit/01_lesson/lab.md)
        * [Associated Reading](units/4_unit/01_lesson/associated_reading.md)
-   * [Lesson 4.02: For Loop using Range, Start of Nested](units/4_unit/02_lesson/lesson.md)
+   * [Lesson 4.02: For Loops, Nested Loops](units/4_unit/02_lesson/lesson.md)
        * [Do Now 4.02](units/4_unit/02_lesson/do_now.md)
        * [Lab 4.02](units/4_unit/02_lesson/lab.md)
        * [Associated Reading](units/4_unit/02_lesson/associated_reading.md)
