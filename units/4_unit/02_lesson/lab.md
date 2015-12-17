@@ -12,7 +12,7 @@ Write a function fruit_pluralizer. It will take in a list of fruit and return no
 ### Example
 Example of the file: 
 
-```
+```python
 # contract goes here
 def fruit_pluralizer(list_of_strings): 
 	# your code goes here
@@ -25,7 +25,7 @@ print("No longer single Fruit: " + str(fruit_list))
 
 Example Running the code: 
 
-```
+```python
 >>> python3 fruit_pluralizer_lab.py
 Single Fruit: ['apple', 'berry', 'melon']
 No longer single Fruit: ['apples', 'berries', 'melons']
