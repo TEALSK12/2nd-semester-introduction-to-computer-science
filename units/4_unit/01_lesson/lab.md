@@ -22,7 +22,7 @@ print(no_vowels)
 # examples go here
 ```
 
-Example Running the code: 
+Example running of the code: 
 
 ```python
 >>> python3 de_vowel_lab.py
