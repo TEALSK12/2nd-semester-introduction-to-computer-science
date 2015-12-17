@@ -22,5 +22,6 @@ Write down what `range(0, len(a))` does.
 <br>
 What is the return value of the range function? 
 <br>
+<br>
 
 3. Use the `range` and `len` functions to make a for loop. (Remember that for loops iterate over lists)
