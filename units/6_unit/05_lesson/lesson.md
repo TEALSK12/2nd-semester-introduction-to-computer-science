@@ -8,6 +8,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Project]
+* [Project File]
 *  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -47,4 +48,5 @@ Students will be able to...
 
 
 [Do Now]: do_now.md
-[Lab]: lab.md
+[Project]: project.md
+[Project File]: project_file.py
