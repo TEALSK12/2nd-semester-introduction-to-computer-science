@@ -1,8 +1,7 @@
 # Do Now 4.02
 
 1. Copy and run the following code into the interpreter. 
-
-```
+```python
 range(0, 10)
 range(10, 100)
 ```
@@ -12,8 +11,7 @@ Write down what the range function does.
 <br>
 
 2. Copy and run the following code in the interpreter. 
-
-```
+```python
 a = ['apples', 'oranges', 'pears', 'grapes']
 len_a = len(a)
 range(0, len(a))
