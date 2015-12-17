@@ -23,9 +23,9 @@ Students will be able to...
 1. **Do Now** 
   * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 2. **Lesson**
-  * Ask students to define *type*. Talk about types as a way to represent data (give examples of strings, ints, and floats).
+  * Ask students to define **type**. Talk about types as a way to represent data (give examples of strings, ints, and floats).
   * Ask students what they thought typing the command str(123) does. 
-    * Define this as *casting*. 
+    * Define this as **casting**. 
   * Ask students what they did to cast string into an integer. 
     * Define the int function if the students were unable to guess it from the do now.
   * Take a few minutes to have students write down how they would produce the following output:
