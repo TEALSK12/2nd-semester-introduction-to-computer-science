@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **comments**, **storing**, **mutable**, **variable assignment**,** input**
+* Define and identify: **comments**, **storing**, **mutability**, **variable assignment**,** input**
 * Assign and swap variables
 * Store user input into a variable
 
@@ -25,12 +25,12 @@ Students will be able to...
 2. **Do Now Work & Discussion**
 	* Input Discussion
 		*	Discuss answers to the questions written in the Do Now. 
-		*	Explain that *comments* are not executed by the interpreter
+		*	Explain that **comments** are not executed by the interpreter
 		*	Discussion Questions: 
 		    *	What did `input` do? 
 		    *	What did the string between the parentheses do? 
 		    *	What would changing that string do? (it changes the prompt given to the user) 
-		* Define *input*: user data given to the app. 
+		* Define **input**: user data given to the app. 
 		* Explain that in Python `input` lets a program take input from the terminal and use it in the code. Recall using input from snap.
 		* Display on the screen: ![Snap Input](snap_input.png)
 			* Ask students what things from Python they will need to create this program. 
@@ -43,7 +43,7 @@ Students will be able to...
 			*	Have students write answers on the board, or call on students to give you answers line by line and you write the code on board or type out. 
 		*	Discuss the idea of setting variables to be other values. 
 			*	What would happen if you don’t store a into c in this program? 
-			*	*Mutability*: you can change an existing value
+			*	**Mutability**: you can change an existing value
 3.  **Magic Genie Lab**
 	*	Make sure students feel comfortable saving things as variables and can print multiple things.
 	*	Troubleshoot with students and try to recognize early which students are struggling.
