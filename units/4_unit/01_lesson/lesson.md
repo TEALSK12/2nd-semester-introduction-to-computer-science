@@ -4,8 +4,8 @@
 Students will be able to...
 
 * Define and identify: **for loop**, **item**, **iteration**, **scope**
-* Recall looping in Snap! and reapply concept to python 
-* Loop through items in a list
+* Recall looping in Snap! and reapply the concept in Python 
+* Loop through (traverse) the items in a list
 * Be aware of the scope of variables during iteration 
 
 ##Materials/Preparation
