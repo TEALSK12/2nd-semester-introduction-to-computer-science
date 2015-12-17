@@ -20,10 +20,10 @@ We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (20
 * `quit`: will end the game.
 
 ### Implementation details 
-* Create functions for all options a player can take
-* Create variables for health, food, miles, month, day, days_passed, and more
-* Create a function add_day which updates the day 
-* Create a function update_days which uses a while loop to call add_day function
+* Create functions for all options a player can take, each function should take in a a list of user_data
+* Create a list of variables called user_data that will contain the health, food, miles, month, day, days_passed, and more and be passed to each function
+* Create a function add_day which updates the day and takes in the list of user_data
+* Create a function update_days which uses a while loop to call add_day function and takes in the list of user_data
 
 ## Grading 
 ### Scheme/Rubric
