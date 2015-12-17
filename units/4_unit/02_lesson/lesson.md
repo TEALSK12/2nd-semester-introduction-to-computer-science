@@ -33,8 +33,12 @@ Students will be able to...
 	* have students re-write the fruit plural program from yesterday's do now, but without creating a new list.
 	* have students write a function that reverses the letters in a string
 4. **Debrief**
-	* Talk about any issues. The students had. Discuss how the lists are mutable so you don't have to return a new value the list is just updated so no need to return. If there is issue with grabbing the last item of a string discuss this. 
-	* Go over the bonus question if students got to it. Discuss having a function inside of the loop. Ask the students what they saw happening. 
+	* Talk about any issues the students had with the lab today. Discuss how lists are mutable, so you don't have to return a new value. Instead, the list is just updated as the loop runs. 
+
+###Accommodation/Differentiation
+Some students may have issues with grabbing the last item of a string, consider providing tips or scaffolding for students struggling with this. 
+
+Go over the bonus question if any students got to it. Discuss having a function inside of the loop and how that operated. 
 
 
 
