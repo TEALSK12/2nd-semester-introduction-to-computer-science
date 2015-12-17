@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to... 
 
-* Define and identify: slice, append, remove, nested list
+* Define and identify: **slice, append, remove, nested list**
 * Slice a list
 * Add and remove elements from a list
 * Access items from a nested list
