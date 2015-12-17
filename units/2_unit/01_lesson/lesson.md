@@ -26,7 +26,7 @@ Students will be able to...
   * Project [Do Now] questions on the screen
     * Have students discuss how they used their fingers to count to 10, compared to how they counted to 1023.
 2. **Lesson/Activity**
-  * Explain *binary* compared to decimal: it is a different base of counting, specifically base-2. 
+  * Explain **binary** compared to decimal: it is a different base of counting, specifically base-2. 
     * Have students write | 1 | 2 | 4 | 8 | 16 | 32 | ... on the bottom of an index card spaced out about half an inch apart. Cut along the lines so that the numbers are each on a flap. 
         * Announce any number and have students fold up the index card sections such that the numbers showing add up to the desired number.
         * Write on the board what the decimal number announced now looks like in binary (e.g. 9 = 1001).
