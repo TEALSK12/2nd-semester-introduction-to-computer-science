@@ -40,8 +40,12 @@ Students will be able to...
 3. **Lab**
 	* Count the vowels lab: Students will be given a sentence that they will need to print without vowels. 
 4. **Debrief**
-	* Talk about any issues. The students had. This is similar to the lab, but with building up a string so there might be some issues with adding back the spaces
-	* Go over the bonus question. Explain a counter is frequently used to keep track of count of things from outside the loop . Discuss concept of counter's scope (counter get's updated in the loop, but doesn't reset automatically at each iteration). Counters can be used with any loop. Often used with while loops!
+	* Talk about any issues or challenges the students had with this lab. If there is time, call students up to the board to shown and demonstrate their code/solutions.
+	
+
+###Accommodation/Differentiation
+
+If there is time, go over the bonus question. Explain how a counter is a frequently used tool to keep track of the count of things from outside the loop . Discuss the concept of the counter's scope (counter gets updated in the loop, but doesn't reset automatically at each iteration). Counters can be used with any loop, and are often used with while loops!
 
 
 
