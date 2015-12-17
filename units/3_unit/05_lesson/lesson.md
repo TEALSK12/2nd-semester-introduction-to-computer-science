@@ -30,10 +30,12 @@ Students will be able to...
 
 ## Instructor's Notes
 1. **Project Overview**
-    * Demo the oregon trail game
-    * Give out instructions and go over game rules
+    * Demo the Oregon Trail finished project.
+    * Give out the project spec and go over game rules.
 2. **Planning**
-    * Have students draw out game play. Create functions for each user interaction. Figure out where the repeated code is. Write a function for that. Figure out which variables they will need
+    * Have students draw out the game play. 
+        * Students should plan to create functions for each user interaction by figuring out where the repeated code will be. 
+        * Students should list out which variables they will need.
     * Have students plan out their next 7 days. Suggested timeline/checkpoints below: 
     	1. Set up user inputs with dummy functions, make sure game loop works.
     	2. Create variables necessary to run the game, start implementing basic functions.
