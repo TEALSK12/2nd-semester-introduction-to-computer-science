@@ -1,7 +1,7 @@
 #Do Now: 2.03
 
 ##Part 1
-Open up the terminal. Type the following code into the interactive editor. 
+Open up the terminal. Type the following code into the interactive editor: 
 ```
  >>> 5 < 3
  >>> 5 > 3
