@@ -8,10 +8,11 @@
     >>> b = "science"
     >>> a > 75 and b == "science" 
 ```
-<br>
+
 | **Predicted Output** | **Actual Output** |
 | -- | -- |
-| | |
+|  |  | |
+
 
 
 ```
