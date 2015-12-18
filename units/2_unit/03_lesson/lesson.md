@@ -4,7 +4,7 @@
 Students will be able to... 
 * Define and identify: **evaluating, expressions, True, False**
 * Evaluate a boolean expression
-* Compose boolean expressions using and, or, not, <, >, == 
+* Compose boolean expressions using `and`, `or`, `not`, `<`, `>`, and `==` 
 
 ##Materials/Preparation
 * [Do Now]
