@@ -1,4 +1,4 @@
-#Lesson 4.02: For Loops, Nested Loops
+#Lesson 4.02: For Loops Using Range
 
 ##Learning Objectives
 Students will be able to... 
