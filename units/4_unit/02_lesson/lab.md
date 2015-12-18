@@ -4,14 +4,13 @@
 Write a function `fruit_pluralizer`. It will take in a list of fruit and return nothing. The function should update the values of the list so that the values are plural. If the fruit name ends in a 'y' remove the 'y' and add 'ies', otherwise add an 's'.
 
 1. Create the function contract for `fruit_pluralizer`. 
-2. Provide a few examples that confirm `fruit_pluralizer` works as expected.
+2. Provide a few examples that confirm `fruit_pluralizer` works as expected:
 	* Include examples with 'berry'
 	* What if the list is empty?
 	* What if the fruit ends in 's'?
 	
 ### Example
  
-
 ```python
 # contract goes here
 def fruit_pluralizer(list_of_strings): 
@@ -36,17 +35,16 @@ No longer single Fruit: ['apples', 'berries', 'melons']
 Remember that you can index into the string and get the length of a string. Use that to get the last letter of each word. 
 
 ## Part 2
-Create a function `my_reverse` which will return a reversed string.
+Create a function `my_reverse`, which will return a reversed string.
 
-1. Create the function contract for my_reverse
-2. provide a few examples to confirm that my_reverse works
-	* an empty string
-	* a string of even length
-	* a string of odd length greater than 1
-	* a string of length 1 
+1. Create the function contract for `my_reverse`.
+2. Provide a few examples to confirm that `my_reverse` works:
+	* An empty string
+	* A string of even length
+	* A string of odd length greater than 1
+	* A string of length 1 
 
 ### Example
-Example of the file: 
 
 ```python
 # contract goes here
@@ -57,9 +55,9 @@ print(reversed)
 # examples go here
 ```
 
-Example Running the code: 
+Running the code: 
 
-```
+```python
 >>> python3 my_reverse_lab.py
 selppa
 ```
