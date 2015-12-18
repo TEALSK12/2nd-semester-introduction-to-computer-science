@@ -129,6 +129,7 @@
    * [Lesson 6.05: Guess Who](units/6_unit/05_lesson/lesson.md)
        * [Do Now 6.05](units/6_unit/05_lesson/do_now.md)
        * [Project: Guess Who](units/6_unit/05_lesson/project.md)
+       * [File](units/6_unit/05_lesson/project_file.py)
 * [Unit 7](units/7_unit/unit7.md)
    * [Lesson 7.01: Creating Classes](units/7_unit/01_lesson/lesson.md)
        * [Do Now 7.01](units/7_unit/01_lesson/do_now.md)
