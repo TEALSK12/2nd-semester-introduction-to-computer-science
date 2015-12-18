@@ -2,8 +2,8 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **range**, **nested**
-* Use the range and len function to to update lists via for loops
+* Define and identify: **range**
+* Use the `range` and `len` function to to update lists via for loops
 
 ##Materials/Preparation
 * [Do Now]
@@ -25,7 +25,7 @@ Students will be able to...
     * Display the Do Now on the board.
     * Students experiment with and are introduced to the `range` function. 
 2. **Lesson**
-	* Go over Part 1 of the Do Now. Ask students what the range function did. Remind them that there are reference docs online. Show the docs for the range function (note that it actually takes in a third value that is optional). Work together with the students to write a for loop just using the range function. 
+	* Go over Part 1 of the Do Now. Ask students what the **range** function did. Remind them that there are reference docs online. Show the docs for the range function (note that it actually takes in a third value that is optional). Work together with the students to write a for loop just using the range function. 
 	* Go over part 2 of the Do Now. Ask the students what happened. Ask the students why these values might be helpful. 
 	    * They are a list of the indices!
 	* Go Over Part 3 (many students likely didn't finish). Ask students to write the first line of the loop on the board. Work together as a class to come to a solution that is demonstrated for all to see. 
