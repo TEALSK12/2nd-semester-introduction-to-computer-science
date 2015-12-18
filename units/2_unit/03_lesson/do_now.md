@@ -11,7 +11,11 @@ Open up the terminal. Type each line of the following code into the interactive 
  >>> user_favorite_animal = input("What is your favorite animal? ") 
  >>> my_favorite_animal == user_favorite_animal
  ```
- What does `5 < 3` evaluate to? What do you think a boolean is? 
+ What does `5 < 3` evaluate to?  
+<br>
+<br>
+<br>
+What is the type of `5 < 3`? What does that stand for (should be familiar from Snap!)?
 <br>
 <br>
 <br>
