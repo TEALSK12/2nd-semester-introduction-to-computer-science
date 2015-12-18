@@ -1,34 +1,41 @@
 # Lab 2.03
 
-1) Without using the computer, predict if the following will be `True` or `False`. Check your answers in interactive mode. 
+1) Without using the computer, predict if each of the following will produce a `True` or `False` output. Check your answers in interactive mode. 
 
-*  
-*  ```
-    > a = 100
-    > b = "science"
-    > a > 75 and b == "science" ```
-<br>
 
-*  
-*  ```
+```
     >>> a = 100
     >>> b = "science"
-    >>> a > 75 and b != "science" ```
+    >>> a > 75 and b == "science" 
+```
 <br>
+| **Predicted Output** | **Actual Output** |
+| -- | -- |
+| | |
 
-*  
-*  ```
+
+```
     >>> a = 100
     >>> b = "science"
-    >>> a > 75 or b != "science" ```
+    >>> a > 75 and b != "science" 
+```
 <br>
 
-*  
-*  ```
+  
+```
+    >>> a = 100
+    >>> b = "science"
+    >>> a > 75 or b != "science" 
+```
+<br>
+
+  
+```
     >>> a = 100
     >>> b = "science"
     >>> c = True
-    >>> not c and a > 75 and b == science ```
+    >>> not c and a > 75 and b == science 
+```
 <br>
 
 
