@@ -10,7 +10,7 @@ Write a function `fruit_pluralizer`. It will take in a list of fruit and return 
 	* What if the fruit ends in 's'?
 	
 ### Example
-Example of the file: 
+ 
 
 ```python
 # contract goes here
@@ -23,7 +23,7 @@ print("No longer single Fruit: " + str(fruit_list))
 # examples go here
 ```
 
-Example Running the code: 
+Running the code: 
 
 ```python
 >>> python3 fruit_pluralizer_lab.py
@@ -33,10 +33,10 @@ No longer single Fruit: ['apples', 'berries', 'melons']
 ```
 
 ### Hint
-Remember that you can index into string and get the length of a string. So use that to get the last letter of a word. 
+Remember that you can index into the string and get the length of a string. Use that to get the last letter of each word. 
 
 ## Part 2
-Create a function my_reverse which will return a reversed string.
+Create a function `my_reverse` which will return a reversed string.
 
 1. Create the function contract for my_reverse
 2. provide a few examples to confirm that my_reverse works
