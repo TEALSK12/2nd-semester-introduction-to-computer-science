@@ -1,7 +1,7 @@
 # Lab 4.02 - Getting Loopy
 
 ## Part 1
-Write a function fruit_pluralizer. It will take in a list of fruit and return nothing. The function should update the values of the list so that the values are plural. If the fruit name ends in a 'y' remove the 'y' and add 'ies' otherwise add an 's'.
+Write a function `fruit_pluralizer`. It will take in a list of fruit and return nothing. The function should update the values of the list so that the values are plural. If the fruit name ends in a 'y' remove the 'y' and add 'ies', otherwise add an 's'.
 
 1. Create the function contract for fruit_pluralizer. 
 2. provide a few examples that confirm fruit_pluralizer works as expected
