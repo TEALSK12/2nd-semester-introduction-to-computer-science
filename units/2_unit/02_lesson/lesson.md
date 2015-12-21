@@ -43,6 +43,9 @@ Students will be able to...
 3. **Lab**
     * Practice predicting what casting will do to inputs. 
     * Create a halving program as well as program that halves to whole numbers. 
+4. **Debrief**
+    * Check student progress and completion of the lab, wrap up by taking any final questions.
+
 
 ###Accommodation/Differentiation
 If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0's and 1's). In practice these translate to True and False. Convert numbers to boolean, and booleans to numbers.
