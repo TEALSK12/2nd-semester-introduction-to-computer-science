@@ -30,10 +30,10 @@ Students will be able to...
     * Explain that in order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly. 
         * **Conditional** statements give us this ability. 
         * The simplest form is the if statement. The boolean expression after `if` is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.
-    ```python
-    if x > 0: 
-        print("x is positive")
-    ```
+```python
+if x > 0: 
+    print("x is positive")
+```
   * Write out the syntax of if statement on the board. Point out: the Boolean expression(condition), the colon, and the tabbing. 
   * Ask students if they recall what else went along with the if statement.(else) 
     * else is used when there are two possibilities and the condition determines which one gets executed
