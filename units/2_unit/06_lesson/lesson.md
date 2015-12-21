@@ -10,7 +10,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab]
+* [Lab] - Tic-Tac-Toe
 * Associated Reading - section 2.5 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
