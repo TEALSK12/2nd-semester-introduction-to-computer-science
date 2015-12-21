@@ -24,10 +24,12 @@ Students will be able to...
 ## Instructor's Notes
 1. **Lesson**
   * Ask students to recall what a list is, and how lists were used in Snap!
-    * A list is a sequence of values. In a list, they can be any type. The values in a list are called elements or sometimes items.
-    * to create a list enclose items in square brackets
-    * Ask students what values items in a list can be? Answer any type! You can even have lists within lists (more on that later...)
-    * Lists in Python ![lists in snap](http://bjc.edc.org/bjc-r/img/3-lists/wordlists.png)
+    * A **list** is a sequence of values. In a list, they can be any type. The values in a list are called elements or sometimes **items**.
+    * In Python, to create a list you must enclose items in square brackets
+    * Emphasize that you can have lists of any type (int, float, string, etc). You can even have lists within lists (more on that later...)
+    * Lists in Snap! 
+
+    ![lists in snap](http://bjc.edc.org/bjc-r/img/3-lists/wordlists.png)
   * Ask students what len does? 
   * Ask students how they tried to print the first item from a list? Was this what they were expecting? 
     * index: a map from the position in the list to the element stored there. 
