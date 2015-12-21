@@ -26,8 +26,7 @@ Students will be able to...
   * Students should quickly realize that they do not have all the tools necessary to complete the task.
   
 2. **Lesson**
-  * Ask students if they had trouble on the do now? 
-    * What did they feel like the needed? 
+  * Ask students what they felt like they needed that they had in Snap!
     * In order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly. Conditional statements give us this ability. The simplest form is the if statement. The boolean expression after `if` is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.
     ```python
     if x > 0: 
