@@ -23,7 +23,9 @@ Students will be able to...
 | 5 Minutes | Debrief  |
 
 ## Instructor's Notes
-1. Lesson
+1. **Do Now**
+
+2. **Lesson**
   1. Ask students what doing `a[0:2]` did? 
     1. slicing: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
         * Note that slicing doesn't exist in SNAP
@@ -34,7 +36,7 @@ Students will be able to...
         1. Ask Students the length of this nested list? 
         2. Ask students how would we get the length of the inner list
     6. Asks students to write down how they would represent a tic-tac-toe board using lists. Create a tic-tac-toe board with students in class. 
-2. Lab
+3. **Lab**
     1. Have students practice slicing, adding, removing elements from some given lists. 
     2. Tic-Tac-toe single move
 
