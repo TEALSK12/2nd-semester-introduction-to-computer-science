@@ -55,7 +55,7 @@
  <br><br>
     
 
-2) Translate this snap program into a Python program. 
+2) Translate this Snap! program into a Python program. 
 ![triangle_program](triangle_program.png)
 
 3) Create a game show program! 
