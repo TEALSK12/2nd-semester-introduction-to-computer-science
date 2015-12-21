@@ -4,7 +4,7 @@
 Students will be able to... 
 * Define and identify: **if, else, elif, conditionals, flow of control** 
 * Create chaining if statements
-* Understand how conditional statements alter flow of control of the program
+* Understand how conditional statements alter the flow of control of a program
 
 ##Materials/Preparation
 * [Do Now]
