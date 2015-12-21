@@ -1,4 +1,4 @@
-# Lab 2.06
+# Lab 2.06 - Tic-Tac-Toe
 
 1. Predict what will be printed. Then run the program and confirm. 
     *  
