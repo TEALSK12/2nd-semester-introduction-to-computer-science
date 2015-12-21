@@ -37,7 +37,7 @@ Students will be able to...
   * Have a student write up the expression they used to update the `can_get_license` code.
     * Poll students - how many boolean expressions are used? Answers here may vary depending on the students' code. 
     2. Define **composition**: Using an expression as part of a larger expression, or a statement as part of a larger statement. You can use parentheses to compose expressions as well.
-  5. Parenthesis: In SNAP! to compose many expressions they were nested together. In snap you can just put them one after another. However if you want certain things to evaluated together use parenthesis
+  5. Parentheses: In Snap! to compose many expressions they were nested together by simply putting blocks one after another. However, in Python if you want certain things to be evaluated together, use parentheses.
 3. **Lab**
     * Evaluate expressions with `and`, `or`, and `not`
     * Given written out rules, students will convert them into Boolean expressions.
