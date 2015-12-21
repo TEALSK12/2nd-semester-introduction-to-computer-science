@@ -1,4 +1,4 @@
-# Lab 2.05
+# Lab 2.05 - College Chooser
 
 1. For each example below, predict what will be printed. Next, run the program and confirm what was output. 
 
