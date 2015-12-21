@@ -24,13 +24,13 @@ Students will be able to...
 1. **Do Now** 
   * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 2. **Lesson**
-  * Ask students what they thought a Boolean was? 
-    * If students are struggling. Ask them what values they saw? (answer should be `True` or `False`) 
-    * Boolean expression: is an expression that evaluates to either true or false.
+  * Ask students to recall what a boolean is and how they used booleans in Snap!
+    * Ask students what values they saw in part 1 of the Do Now (answer should be `True` or `False`) 
+    * **Boolean expression**: is an expression that evaluates to either true or false.
   * Ask Students about the difference between `=` and `==`. 
-    * = is a setter for variables 
-    * == builds a boolean expression
-  * Remind students of boolean expressons in Snap! 
+    * = is for assignment of value 
+    * == builds a boolean expression and is a way to compare two values
+  * Remind students of boolean expressions in Snap! 
     ![Snap boolean Expressions](snap_boolean_expressions.png)
     * Ask the students to recall what `and`, `or` and `not` did.
   * Give students additional time to finish completing part 2 of the Do Now. 
@@ -44,7 +44,7 @@ Students will be able to...
     * Create a large expression using variables that describes you.
 
 ###Accommodation/Differentiation
-If students are moving quickly, opportunity to go over truth tables (or ask them to research De Morgan's Law) 
+If students are moving quickly, use this opportunity to go over truth tables (or ask them to research De Morgan's Law) 
   
 [Do Now]:do_now.md
 [Lab]:lab.md
