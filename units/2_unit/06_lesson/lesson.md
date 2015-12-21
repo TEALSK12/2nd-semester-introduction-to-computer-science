@@ -41,6 +41,8 @@ Students will be able to...
 3. **Lab**
     * Students practice slicing, adding, and removing elements from some given lists. 
     * Students create a single move Tic-Tac-Toe game
+4. **Debrief**
+    * Check student progress and completion of the lab, wrap up by taking any final questions.
 
 ###Accommodation/Differentiation
 If students are moving quickly, start topic of while loop as the game loop. Explore the concept of keeping score for the game.
