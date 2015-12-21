@@ -1,6 +1,6 @@
 # Lab 2.04 - Game Show
 
-1. Follow the flow of execution in the following programs and predict what will happen for each one:
+1) Follow the flow of execution in the following programs and predict what will happen for each one:
 
 ```python
     a = 100
@@ -55,14 +55,16 @@
  <br><br>
     
 
-
-2. Translate this snap program into a Python program. 
+2) Translate this snap program into a Python program. 
 ![triangle_program](triangle_program.png)
 
-3. Create a game show program! 
-    * Declare 10 prizes (prize1, prize2, prize 3 at the top of your file)
-    * User picks a number
-    * Prize corresponding with that door is printed for the user. 
+3) Create a game show program! 
+    
+* Declare 10 prizes (prize1, prize2, prize 3 at the top of your file)
+* User picks a number
+* The prize corresponding with that door is printed for the user. 
 
 
-Extra Credit: Research lists. Re-implement problem 3 using lists. 
+###Bonus! 
+
+Research lists in Python. Re-implement problem 3 using lists. 
