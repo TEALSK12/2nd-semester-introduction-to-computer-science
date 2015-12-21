@@ -38,7 +38,7 @@
 3) Create a quiz to help you choose which college you should got to! The program should ask the user a question and list five possible answers. If the student chooses the first answer, add 1 point to `School[0]`. If they choose the second answer add 1 point to `School[1]`. And so on. At the end print out the schools and the scores for each school. 
 * Create a list of 5 options of colleges/pets/tv-shows.
 * Create a different list of 5 0s, representing the user's votes so far.
-* Create 4 questions. Each question should have five different answers. Each answer corresponds to the specific option.
+* Create 4 questions. Each question should have five different answers. Each answer corresponds to the specific school option.
 * At the end print off the 5 different schools and the score the user got for each of those schools. 
 
 ###Bonus!
