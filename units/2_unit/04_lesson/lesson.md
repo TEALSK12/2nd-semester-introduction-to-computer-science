@@ -40,7 +40,7 @@ if x > 0:
   * Ask students if they recall what else went along with the if statement when they used it in Snap! 
     * `else` is used when there are two possibilities and the condition determines which one gets executed
     * show the syntax of the else
-  * Describe the elif statment
+  * Describe the `elif` statement
     * Sometimes there are more than two possibilities and we need more than two branches. One way to express a computation like that is a chained conditional:
     * Show the syntax of elif
 3. **Lab**
