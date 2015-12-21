@@ -42,10 +42,12 @@ Students will be able to...
     * Ask students how they would access the last item in a list of unknown length. (Use the length function!) 
         * Ask students to write on the board how they got the last element of a list. Ask another student to write how they would get the second to last element of the list and so on. 
     * After accessing any list element you can change it. Take a moment to demonstrate this syntax before starting the lab. 
-2. **Lab**
+3. **Lab**
     * Practice accessing and updating items in a list
     * Implement program from last lab using lists
     * Create a quiz program
+4. **Debrief**
+    * Check student progress and completion of the lab, wrap up by taking any final questions.
 
 ###Accommodation/Differentiation
 If students are moving quickly, you can introduce the topic of nested lists. Start off with a simple nested list like `['a', 'b', 'c', [1, 2, 3]]`. Ask the students to guess the length. Ask the students to guess how they would access the item '1' from that list! 
