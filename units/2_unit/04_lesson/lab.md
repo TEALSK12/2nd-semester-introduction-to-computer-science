@@ -1,4 +1,4 @@
-# Lab 2.04
+# Lab 2.04 - Game Show
 
 1. Follow the flow of execution in the following programs and predict what will be the output for each one:
 
