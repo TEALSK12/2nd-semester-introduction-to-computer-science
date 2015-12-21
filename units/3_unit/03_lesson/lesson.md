@@ -39,7 +39,10 @@ Students will be able to...
         * Next display a new `give_card` function that **returns** a card instead. Have students 'call' the function, however this time have the `give_card` student pass out the card when a student calls him/her. 
     	* Debrief the activity and talk about what was learned. 
 3. **Lab**
-    * Given a shuffled deck list, students will create a program that plays the game 'War' with the user.  
+    * Given a shuffled deck list, students will create a program that plays the game 'War' with the user. 
+    
+4. **Debrief**
+    * Check student progress and completion of the lab, wrap up by taking any final questions.
 
 
 ###Accommodation/Differentiation
