@@ -42,4 +42,4 @@ Students will be able to...
     1. During discussion at end of class figure out where students are. During the review the next morning cover these topics 
   
 [Project Spec]: project.md
-[Text Monster Game - Example Code]: project_file.md
+[Text Monster Game - Example Code]: project_file.py
