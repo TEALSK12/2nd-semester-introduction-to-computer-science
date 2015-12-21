@@ -56,6 +56,9 @@ Print `True` if the person could be president and `False` if they can't be presi
 Also, the theme park sells frequent rider passes: with a frequent rider pass the roller coaster costs only 2 quarters. Ask the user how tall they are in inches, their age, how many quarters they have, and if they have a frequent rider pass. Print `True` if the person can ride and `False` if they can't. 
 
 
-Extra Credit: Are the following expressions equivalent? Research DeMorgan's Laws and write why you think they are the same or why they are not the same. 
+###Bonus!
+Are the following expressions equivalent? Research DeMorgan's Laws and write why you think they are the same or why they are not the same. 
+
 `not(x or y) == not x and not y`
+
 `not(x and y) == not x or not y`
