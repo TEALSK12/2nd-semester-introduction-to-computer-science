@@ -37,6 +37,7 @@ Students will be able to...
         * Explain how the use of print statements throughout your code can let you know where in the program things are not operating as expected.
 3. **Lab**
     * This lab has students running code that gets them thinking about aliasing and scope. They must also create a stack trace for a program to show their understanding of scope.
+
 4. **Debrief**
     * Take time to review the concepts covered today: **scope**, **aliasing**, and **stack traces**. 
     * Call a few students to the board to draw their stack traces from the lab and talk through them.
