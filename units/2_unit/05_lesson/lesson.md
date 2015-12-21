@@ -23,21 +23,23 @@ Students will be able to...
 
 ## Instructor's Notes
 
-1. **Lesson**
+1. **Do Now**
+    * Students follow instructions to create lists and use the `len` function. 
+2. **Lesson**
   * Ask students to recall what a list is, and how lists were used in Snap!
-    * A **list** is a sequence of values. In a list, they can be any type. The values in a list are called elements or sometimes **items**.
-    * In Python, to create a list you must enclose items in square brackets
+    * A **list** is a sequence of values. In a list, they can be any type. The values in a list are called elements or **items**.
+    * In Python, to create a list you must enclose items in square brackets.
     * Emphasize that you can have lists of any type (int, float, string, etc). You can even have lists within lists (more on that later...)
-    * Lists in Snap! 
+    * Remind students of lists in Snap! 
 
     ![lists in snap](http://bjc.edc.org/bjc-r/img/3-lists/wordlists.png)
   * Ask students what `len` does when they used it in the Do Now. 
-  * Ask students how they tried to print the first item from a list? Was this what they were expecting? 
+  * Ask students how they tried to print the first item from a list. Was this what they were expecting? 
     * **index**: a map from the position in the list to the element stored there. 
     * 0-index: lists are 0 indexed. So the first element in the list is at the 0-index
     * Out-of-bounds: what happened when you tried to index into a list that was too long?
     * Snap Equivalent: ![snap indexing](http://bjc.edc.org/bjc-r/img/3-lists/gs5how_many.png)
-    * Break for students to practice creating lists. Ask them how they would get the last item in a list of unknown length. (Use the length function!) 
+    * Ask students how they would access the last item in a list of unknown length. (Use the length function!) 
         * Ask students to write on the board how they got the last element of a list. Ask another student to write how they would get the second to last element of the list and so on. 
     * After accessing any list element you can change it. Take a moment to demonstrate this syntax before starting the lab. 
 2. **Lab**
