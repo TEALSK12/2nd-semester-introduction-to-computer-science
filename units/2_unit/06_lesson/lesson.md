@@ -45,7 +45,7 @@ Students will be able to...
 ###Accommodation/Differentiation
 If students are moving quickly, start topic of while loop as the game loop. Explore the concept of keeping score for the game.
 
-If students are moving slowly then spend an extra day reviewing lists. 
+If students are moving slowly then spend an extra day reviewing lists and completing lab activities. 
 
 There is also an opportunity for a quiz after the game loop lesson and before the project. 
   
