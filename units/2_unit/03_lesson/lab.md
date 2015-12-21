@@ -1,4 +1,4 @@
-# Lab 2.03 - Can I?
+# Lab 2.03 - Can I or Can't I?
 
 1) Without using the computer, predict if each of the following will produce a `True` or `False` output. Check your answers in interactive mode. 
 
