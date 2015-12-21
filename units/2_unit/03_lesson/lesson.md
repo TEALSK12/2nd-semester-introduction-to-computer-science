@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **evaluating, expressions, True, False**
+* Define and identify: **boolean, expression, composition, True, False**
 * Evaluate a boolean expression
 * Compose boolean expressions using `and`, `or`, `not`, `<`, `>`, and `==` 
 
@@ -24,7 +24,7 @@ Students will be able to...
 1. **Do Now** 
   * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 2. **Lesson**
-  * Ask students to recall what a boolean is and how they used booleans in Snap!
+  * After 5 minutes, ask students to recall what a boolean is and how they used booleans in Snap!
     * Ask students what values they saw in part 1 of the Do Now (answer should be `True` or `False`) 
     * **Boolean expression**: is an expression that evaluates to either true or false.
   * Ask Students about the difference between `=` and `==`. 
@@ -33,10 +33,10 @@ Students will be able to...
   * Remind students of boolean expressions in Snap! 
     ![Snap boolean Expressions](snap_boolean_expressions.png)
     * Ask the students to recall what `and`, `or` and `not` did.
-  * Give students additional time to finish completing part 2 of the Do Now. 
+  * Give students additional time to finish completing part 2 of the Do Now, if needed. 
   * Have a student write up the expression they used to update the `can_get_license` code.
-    1.Poll students- how many boolean expressions are used? Answers here can vary but ~7 (age >= 16, age <18, driving_with_permit >=6, and expression, age > 18, or expression, whole expression) 
-    2. Define composition: Using an expression as part of a larger expression, or a statement as part of a larger statement. You can use parenthesis to compose expressions as well
+    * Poll students - how many boolean expressions are used? Answers here may vary depending on the students' code. 
+    2. Define **composition**: Using an expression as part of a larger expression, or a statement as part of a larger statement. You can use parentheses to compose expressions as well.
   5. Parenthesis: In SNAP! to compose many expressions they were nested together. In snap you can just put them one after another. However if you want certain things to evaluated together use parenthesis
 3. **Lab**
     * Evaluate expressions with `and`, `or`, and `not`
