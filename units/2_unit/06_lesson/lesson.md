@@ -31,7 +31,7 @@ Students will be able to...
         * Note that slicing doesn't exist in Snap!
     * Ask students what the list would return if you did `a[1:2]`.
     * Explore the differences between `remove` and `pop`, asking for student input. 
-    * Ask students what the plus sign does? What does append do? What would happen if you did `append([1, 2, 3])`?
+    * Ask students what the plus sign and `append` do? What would happen if you did `append([1, 2, 3])`?
     * **Nested List**: a list that is contained within another list. Note that it only counts as 1 element.
         * Ask students the length of this nested list.
         * Ask students how would we get the length of the inner list
