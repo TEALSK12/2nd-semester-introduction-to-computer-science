@@ -37,8 +37,8 @@ Students will be able to...
         * Ask students how would we get the length of the inner list
     * Asks students to write down how they would represent a tic-tac-toe board using lists. Create a tic-tac-toe board with students in class. 
 3. **Lab**
-    1. Have students practice slicing, adding, removing elements from some given lists. 
-    2. Tic-Tac-toe single move
+    * Students practice slicing, adding, and removing elements from some given lists. 
+    * Students create a single move Tic-Tac-Toe game
 
 ###Accommodation/Differentiation
 If students are moving quickly, start topic of while loop as the game loop. Explore the concept of keeping score for the game.
