@@ -42,6 +42,8 @@ Students will be able to...
     * Evaluate expressions with `and`, `or`, and `not`
     * Given written out rules, students will convert them into Boolean expressions.
     * Create a large expression using variables that describes you.
+4. **Debrief**
+    * Check student progress and completion of the lab, wrap up by taking any final questions.
 
 ###Accommodation/Differentiation
 If students are moving quickly, use this opportunity to go over truth tables (or ask them to research De Morgan's Law) 
