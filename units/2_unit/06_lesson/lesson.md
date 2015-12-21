@@ -19,8 +19,8 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
-| 10 Minutes | Discussion  |
+| 35 Minutes | Lab         |
+| 5 Minutes | Debrief  |
 
 ## Instructor's Notes
 1. Lesson
@@ -37,10 +37,13 @@ Students will be able to...
 2. Lab
     1. Have students practice slicing, adding, removing elements from some given lists. 
     2. Tic-Tac-toe single move
-3. Opportunities for more
-    1. If students are moving quickly, start topic of while loop as the game loop 
-    2. Keeping score for game
-    3. If students are moving slowly then spend an extra day reviewing. Also opportunity for a quiz after the game loop lesson and before the project. 
+
+###Accommodation/Differentiation
+If students are moving quickly, start topic of while loop as the game loop. Explore the concept of keeping score for the game.
+
+If students are moving slowly then spend an extra day reviewing. 
+
+There is also an opportunity for a quiz after the game loop lesson and before the project. 
   
 
 [Do Now]:do_now.md
