@@ -8,7 +8,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * Associated Reading - section 2.6 of Book
-* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 | **Duration**   | **Description** |
