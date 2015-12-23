@@ -18,7 +18,7 @@ Write down what was printed. Write how you would get the 2nd apartment of the 3r
 <br>
 <br>
 
-2.Write a for loop that iterates over `my_building` and prints out each iteration. Describe what happened. 
+2.Write a for loop that iterates over `my_building` and prints out each value (apartment number). Describe what happened. 
 
 ##Day 2
 
