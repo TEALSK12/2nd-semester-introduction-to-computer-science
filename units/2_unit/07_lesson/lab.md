@@ -1,4 +1,4 @@
-# Lab 2.07 - Tic-Tac-Toe 
+# Lab 2.07 - Tic-Tac-Toe, Complete Game
 
 1. For each example below, predict what will be printed. Next, run the program and confirm.
 
