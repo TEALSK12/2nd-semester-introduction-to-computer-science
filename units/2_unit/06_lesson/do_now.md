@@ -20,7 +20,7 @@ What happens to a? What is b? What type is b?
  >>> print(a) 
 ```
 
-What does `remove` do? What would the length be after `remove`? 
+What does `remove` do? What would the length of this list be after `remove`? 
 <br>
 <br>
 <br>
