@@ -7,22 +7,28 @@
     while a< 100: 
         print(a)
 ```
-<br>
-    
+| **Predicted Output** | **Actual Output** |
+| --- | --- |
+|<br> |<br> | 
+
 ```python
     a = 0
     while a < 100: 
         a = a + 1
         print(a)
 ```
-<br>
+| **Predicted Output** | **Actual Output** |
+| --- | --- |
+|<br> |<br> | 
     
 ```python
     a = input("Would you like to quit: ")
     while a != "y": 
         a = input("Would you like to quit: ")
 ```
-<br>
+| **Predicted Output** | **Actual Output** |
+| --- | --- |
+|<br> |<br> | 
 
 2. Remember the tic-tac-toe game we started to create last week? We are going to keep implementing the game.
     * Allow users to keep playing (max 9 times) 
