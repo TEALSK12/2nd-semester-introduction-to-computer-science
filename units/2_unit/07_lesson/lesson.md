@@ -16,11 +16,12 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
-| 10 Minutes | Discussion  |
+| 35 Minutes | Lab         |
+| 5 Minutes | Debrief  |
 
 ## Instructor's Notes
 1. **Do Now**
+    * 
 2. **Lesson**
   * Ask students what the `while` loop did
     * Go over the syntax of `while` loops.
