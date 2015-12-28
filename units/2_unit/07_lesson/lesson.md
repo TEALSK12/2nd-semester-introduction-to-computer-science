@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: **while**
+* Define and identify: **while loop**
 * Use a while loop to simulate game play
 
 ##Materials/Preparation
