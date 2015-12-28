@@ -18,7 +18,7 @@ Students will be able to...
 | 10 Minutes | Project Overview/Demo|
 | 40 Minutes | Design      |
 | 5 Minutes | Debrief  |
-#### Day 2 - 9 
+#### Days 2 - 9 
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 10 Minutes | Review      |
