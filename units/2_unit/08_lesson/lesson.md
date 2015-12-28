@@ -32,7 +32,7 @@ Students will be able to...
   * Go over specific design considerations from the project spec: 
     * Draw out a game board using nested lists. Have students call out moves and practice going through a game.
     * Introduce the concept of global variables and how they will be useful here.
-    * Identify the importance of the "User Pocket" and how to use a list for this information.
+    * Identify the importance of the "User Pocket" and how to use a list along with `append` and `remove` for this information.
 2. **Design**
     * Have students stay at their desks and write down what lists they'll need. 
     * They should break up the project into parts: parsing user input, keeping track of players position, returning what is at the player's position .
