@@ -10,7 +10,7 @@ How did you accomplish this? Did you feel like something was missing in your pro
 <br>
 <br>
 
-What if you wanted to add in a weekly functionality. For instance, maybe on Tuesday at 4pm you are at soccer practice, but on Thursday at 4pm you are at math club! How would you implement this in your program? 
+What if you wanted to add in a weekly functionality? For instance, maybe on Tuesday at 4pm you are at soccer practice, but on Thursday at 4pm you are at math club! How would you implement this in your program? 
 <br>
 <br>
 <br>
