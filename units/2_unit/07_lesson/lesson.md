@@ -20,16 +20,21 @@ Students will be able to...
 | 10 Minutes | Discussion  |
 
 ## Instructor's Notes
-1. Lesson
-  1. Ask students what the while loop did?
-    1. Go over the syntax. 
-    2. Ask students how you would write this using user input? 
-    3. What if you wanted the loop to stop when the user inputted "quit". Ask the students to think and then have a few come up to the board to write out how. 
-2. Lab
-    1. Tic-tac-toe with many movies 
-3. Opportunities for more
-    1. If there is a lot of extra time start reviewing concepts and going over any issues. 
-    2. If there is more time have students start reading through the project specs. 
+1. **Do Now**
+2. **Lesson**
+  * Ask students what the while loop did
+    * Go over the syntax of `while` loops.
+    * Ask students how they could write this using user input
+    * Present students with a scenario: 
+        * What if you wanted the loop to stop when the user inputs "quit"? 
+        * Ask the students to think and write a solution, then have a few come up to the board to write out how they solved it.
+3. **Lab**
+    * Students work to create a complete Tic-Tac-Toe game, building on their previous work.
+4. **Debrief**
+
+###Accommodation/Differentiation
+
+If there is extra time, have students start reading through the project specs and thinking about how they will apply what they have learned this unit to complete the project.
   
 [Do Now]:do_now.md
 [Lab]:lab.md
