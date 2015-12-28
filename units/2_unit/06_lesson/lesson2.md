@@ -25,7 +25,7 @@ Students will be able to...
   * Go over list `is in` conditionals. Ask what the return value is (Boolean expression).
     * Have students practice using the `is in` in an if statement. User this time to look over the student responses to the first part of the Do Now - identify the topics they are having problems with.
 2. Review
-    * Review the topics students are confused about.
+    * Spend time reviewing the topics students are confused about.
     * Have students practice using lists and Boolean expressions.
 
 ###Accommodation/Differentiation 
