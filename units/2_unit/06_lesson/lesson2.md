@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to... 
 * Define and Identify: **index, slice, append, remove**
-* List conditionals
+* Apply list conditionals to determine if an element is in a list
 
 ##Materials/Preparation
 * [Do Now]
