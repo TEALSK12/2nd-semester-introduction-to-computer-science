@@ -1,4 +1,4 @@
-# Lesson 2.06: Game Loop
+# Lesson 2.07: Game Loop
 
 ##Learning Objectives
 Students will be able to... 
