@@ -1,6 +1,6 @@
 # Do Now 2.04
 
-Create a schedule program. Given the hour of the day print out where you should be. If you're not doing anything else you should be "sleeping"
+Create a schedule program. Given the hour of the day print out where you should be. If you're not doing anything else you should be "sleeping".
 ```
  >>> What hour? 12pm
  >>> You should be at lunch!
