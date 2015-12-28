@@ -30,8 +30,8 @@ Students will be able to...
         * Note that slicing doesn't exist in Snap!
     * Ask students what the list would return if you did `a[1:2]`.
     * Explore the differences between `remove` and `pop`, asking for student input. 
-    * Ask students what the plus sign and `append` do.
-    * Ask students to write down how they would represent a Tic-Tac-Toe board using lists.
+    * Ask students what the plus sign and `append` do to a list.
+    * Ask students to write down or brainstorm how they would represent a Tic-Tac-Toe board using lists.
         * Create a Tic-Tac-Toe board with students in class. 
 3. **Lab**
     * Students practice slicing, adding, and removing elements from some given lists. 
@@ -40,7 +40,7 @@ Students will be able to...
     * Check student progress and completion of the lab, wrap up by taking any final questions.
 
 ###Accommodation/Differentiation
-If students are moving quickly, start topic of while loop as the game loop. Explore the concept of keeping score for the game.
+If students are moving quickly, start the next topic of using a while loop as a game loop. Explore the concept of keeping score for the game.
 
 If students are moving slowly then spend an extra day reviewing lists and completing lab activities. 
 
