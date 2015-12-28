@@ -53,5 +53,5 @@
 
 * User picks a location on the board according to the number: 
     ![tic-tac-toe](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrA_MowUM-KZXl1CpkrQhi8W505dM3cxZG1787i9qFz8KefqFkIQ)
-* Depending on the position that the user inputs, update the position of the board to reflect that
-* Print the updated board out 
+* Depending on the position that the user inputs, update the position of the board to reflect that.
+* Print the updated board out.
