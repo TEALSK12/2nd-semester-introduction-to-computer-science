@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and Identify: **index, slice, append, remove**
+* Define and identify: **index, slice, append, remove**
 * Apply list conditionals to determine if an element is in a list
 
 ##Materials/Preparation
