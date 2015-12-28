@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Review: **index, slice, append, remove**
+* Define and Identify: **index, slice, append, remove**
 * List conditionals
 
 ##Materials/Preparation
