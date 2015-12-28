@@ -39,6 +39,10 @@ Students will be able to...
 3. **Debrief/Review**
     * During discussion and warp up at the end of class, get a feeling for where students are in the project. 
     * During the review the next morning cover the topics/areas that students are struggling on and present tips, suggestions, and goals for that day.
+
+###Accommodation/Differentiation
+
+    
   
 [Project Spec]: project.md
 [Text Monster Game - Example Code]: project_file.html
