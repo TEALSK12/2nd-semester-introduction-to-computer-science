@@ -1,6 +1,6 @@
 # Project 2: Text Monster Game
 
-Using Python students will be using casting, Boolean expressions, lists and while loops to create a text based adventure game.
+Using Python, students will be using casting, Boolean expressions, lists and while loops to create a text-based adventure game!
 
 ## Overview
 This game will take place in a three story dungeon. The user will have to traverse through the levels and find a way to fight monsters. On each move the user can try to: `left`, `right`, `up`, `down`, `grab`, `fight`, `help`. If the move is invalid the game should let the user know, otherwise the game will execute the user's move. The goal is to reach the prize blocked by a boss monster. 
