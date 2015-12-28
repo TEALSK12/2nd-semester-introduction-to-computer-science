@@ -25,18 +25,14 @@ Students will be able to...
 1. **Do Now**
     * Students may need more time than usual to fully go through this lesson's Do Now.
 2. **Lesson**
-  * Ask students what doing `a[0:2]` in the Do Now did.
-    * Define **slicing**: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
+    * Ask students what doing `a[0:2]` in the Do Now did.
+        * Define **slicing**: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
         * Note that slicing doesn't exist in Snap!
     * Ask students what the list would return if you did `a[1:2]`.
     * Explore the differences between `remove` and `pop`, asking for student input. 
-    * Ask students what the plus sign and `append` do? 
-        * What would happen if you did `append([1, 2, 3])` with the last example in the Do Now?
-    * **Nested List**: a list that is contained within another list. Note that it only counts as 1 element.
-        * Ask students the length of this nested list.
-        * Ask students how would we get the length of the inner list
+    * Ask students what the plus sign and `append` do.
     * Ask students to write down how they would represent a Tic-Tac-Toe board using lists.
-    * Create a Tic-Tac-Toe board with students in class. 
+        * Create a Tic-Tac-Toe board with students in class. 
 3. **Lab**
     * Students practice slicing, adding, and removing elements from some given lists. 
     * Students create a single move Tic-Tac-Toe game
