@@ -15,8 +15,8 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Review      |
-| 10 Minutes | Discussion  |
+| 35 Minutes | Review      |
+| 5 Minutes | Debrief  |
 
 ## Instructor's Notes
 1. Do Now
@@ -24,7 +24,7 @@ Students will be able to...
 2. Lesson
   * Go over list `is in` conditionals. Ask what the return value is (Boolean expression).
     * Have students practice using the `is in` in an if statement. User this time to look over the student responses to the first part of the Do Now - identify the topics they are having problems with.
-2. Review
+3. Review
     * Spend time reviewing the topics students are confused about.
     * Have students practice using lists and Boolean expressions.
 
