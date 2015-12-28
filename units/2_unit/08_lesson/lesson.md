@@ -15,17 +15,15 @@ Students will be able to...
 #### Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
-| 5 Minutes  | Do Now      |
 | 10 Minutes | Project/Demo|
-| 30 Minutes | Design      |
-| 10 Minutes | Discussion  |
+| 40 Minutes | Design      |
+| 5 Minutes | Debrief  |
 #### Day 2 - 9 
 | **Duration**   | **Description** |
 | ---------- | ----------- |
-| 5 Minutes  | Do Now      |
 | 10 Minutes | Review      |
-| 30 Minutes | Project Work|
-| 10 Minutes | Discussion  |
+| 40 Minutes | Project Work|
+| 5 Minutes | Debrief  |
 
 ## Instructor's Notes
 1. Do Now is Students reading through project specs or writing down what they plan to accomplish that day in class
