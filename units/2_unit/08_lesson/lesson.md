@@ -41,7 +41,10 @@ Students will be able to...
     * During the review the next morning cover the topics/areas that students are struggling on and present tips, suggestions, and goals for that day.
 
 ###Accommodation/Differentiation
-
+Make sure to do status checks with all students throughout the project. Identify students that are struggling on the project after the first few days and provide additional scaffolding & support as needed. 
+<br><br>
+For any students that are advancing rapidly through the project, give them extension ideas such as adding a new feature or floor to the game. 
+Advanced students can also be paired as tutors/helpers with struggling students.
     
   
 [Project Spec]: project.md
