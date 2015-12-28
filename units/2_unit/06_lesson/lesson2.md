@@ -2,7 +2,7 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Review: **index, slice, append, remove, nested list**
+* Review: **index, slice, append, remove**
 * List conditionals
 
 ##Materials/Preparation
@@ -19,12 +19,14 @@ Students will be able to...
 | 10 Minutes | Discussion  |
 
 ## Instructor's Notes
-1. Lesson
-  * Go over list `is in` conditionals. Ask what the return value is (Boolean expression)
-    * Have students practice using the `is in` in an if statement. During this time look at the topics they are having problems
+1. Do Now
+    * Students experiment and learn that if they want to find out if a particular element is in a list, there is a useful tool that can save time.
+2. Lesson
+  * Go over list `is in` conditionals. Ask what the return value is (Boolean expression).
+    * Have students practice using the `is in` in an if statement. User this time to look over the student responses to the first part of the Do Now - identify the topics they are having problems with.
 2. Review
-    * Review the topics students are confused about
-    * Have students practice using lists and Boolean expressions 
+    * Review the topics students are confused about.
+    * Have students practice using lists and Boolean expressions.
 
 ###Accommodation/Differentiation 
 This lesson may not be necessary, however this is a good opportunity to check for student understanding of lists and associated functions. 
