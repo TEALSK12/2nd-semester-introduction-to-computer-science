@@ -15,7 +15,7 @@ Students will be able to...
 #### Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
-| 10 Minutes | Project/Demo|
+| 10 Minutes | Project Overview/Demo|
 | 40 Minutes | Design      |
 | 5 Minutes | Debrief  |
 #### Day 2 - 9 
@@ -26,18 +26,19 @@ Students will be able to...
 | 5 Minutes | Debrief  |
 
 ## Instructor's Notes
-1. Do Now is Students reading through project specs or writing down what they plan to accomplish that day in class
-2. Project Overview and Demo 
-  1. Present the project. 
-  2. Show a demo of the project
-  3. Go over design considerations from project spec: 
-    1. Draw out a game board using nested lists. Have students call out moves and practice going through a game
-    2. Global variables
-    3. User Pocket
-2. Design
-    1. Have students stay at their desks and write down what lists they'll need. Break up into parts: parsing user input, keeping track of players position, returning what is at players position 
-3. Review
-    1. During discussion at end of class figure out where students are. During the review the next morning cover these topics 
+1. **Project Overview/Demo** 
+  * Distribute the project spec to all students and walk them through the goals and requirements of the project. 
+  * Show a demo of a completed project.
+  * Go over specific design considerations from the project spec: 
+    * Draw out a game board using nested lists. Have students call out moves and practice going through a game.
+    * Introduce the concept of global variables and how they will be useful here.
+    * Identify the importance of the "User Pocket" and how to use a list for this information.
+2. **Design**
+    * Have students stay at their desks and write down what lists they'll need. 
+    * They should break up the project into parts: parsing user input, keeping track of players position, returning what is at the player's position .
+3. **Debrief/Review**
+    * During discussion and warp up at the end of class, get a feeling for where students are in the project. 
+    * During the review the next morning cover the topics/areas that students are struggling on and present tips, suggestions, and goals for that day.
   
 [Project Spec]: project.md
 [Text Monster Game - Example Code]: project_file.py
