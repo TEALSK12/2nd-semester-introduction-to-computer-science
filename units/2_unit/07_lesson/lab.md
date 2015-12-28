@@ -1,27 +1,28 @@
-# Lab 2.07
+# Lab 2.07 - Tic-Tac-Toe 
 
-1. Predict what will be printed. Then run the program and confirm. 
-    *  
-    *  ```
-        a = 0
-        while a< 100: 
-            print(a)```
-    <br>
-    *  
-    *  ```
-        a = 0
-        while a < 100: 
-            a = a + 1
-            print(a)```
-    <br>
+1. For each example below, predict what will be printed. Next, run the program and confirm.
+
+```python
+    a = 0
+    while a< 100: 
+        print(a)
+```
+<br>
     
-    *  
-    *  ```
+```python
+    a = 0
+    while a < 100: 
+        a = a + 1
+        print(a)
+```
+<br>
+    
+```python
+    a = input("Would you like to quit: ")
+    while a != "y": 
         a = input("Would you like to quit: ")
-        while a != "y": 
-            a = input("Would you like to quit: ")
-    ```
-    <br>
+```
+<br>
 
 2. Remember the tic-tac-toe game we started to create last week? We are going to keep implementing the game.
     * Allow users to keep playing (max 9 times) 
@@ -32,4 +33,4 @@
     * print the board out 
 
 ###Extra Credit: 
-Create a variable size board. So instead of 3 by 3, create a way for the user specify the size of the board they want to play with. 
+Create a variable-sized board. So instead of a classic 3 x 3 board, create a way for the user specify the size of the board they want to play with. 
