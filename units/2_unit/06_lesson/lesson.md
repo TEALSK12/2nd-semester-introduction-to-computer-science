@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to... 
 
-* Define and identify: **slice, append, remove**
+* Define and identify: **slice, append, pop, remove**
 * Slice a list
 * Add and remove elements from a list
 
