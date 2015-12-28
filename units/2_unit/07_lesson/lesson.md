@@ -22,7 +22,7 @@ Students will be able to...
 ## Instructor's Notes
 1. **Do Now**
 2. **Lesson**
-  * Ask students what the while loop did
+  * Ask students what the `while` loop did
     * Go over the syntax of `while` loops.
     * Ask students how they could write this using user input
     * Present students with a scenario: 
