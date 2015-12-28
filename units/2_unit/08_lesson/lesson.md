@@ -41,4 +41,4 @@ Students will be able to...
     * During the review the next morning cover the topics/areas that students are struggling on and present tips, suggestions, and goals for that day.
   
 [Project Spec]: project.md
-[Text Monster Game - Example Code]: project_file.py
+[Text Monster Game - Example Code]: project_file.html
