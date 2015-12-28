@@ -7,7 +7,7 @@ This game will take place in a three story dungeon. The user will have to traver
 
 ## Details 
 ### Behavior 
-* the game has three floors, each floor is made up of 5 rooms. A room can have: a sword, a monster, magic stones, up-stairs, down-stairs or nothing
+* The game has three floors, each floor is made up of 5 rooms. A room can have: a sword, a monster, magic stones, up-stairs, down-stairs or nothing
 * on their move a user can try to move to the left room or right room. If there is no room the game should handle this. The user can also move upstairs or downstairs if the room contains an up-staircase or a down-staircase. 
 * on their move a user can pick up swords or magic stones if they walk into a room with them. The sword or stones are no longer in the room once grabbed
 * monsters: guard rooms. Users can use a sword to defeat the monster. if they have no sword they can run away. Sword and monsters disappear after fighting. 
