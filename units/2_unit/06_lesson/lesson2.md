@@ -20,13 +20,15 @@ Students will be able to...
 
 ## Instructor's Notes
 1. Lesson
-  1. Go over list `is in` conditionals. Ask what the return value is (Boolean expression)
-    1. Have students practice using the `is in` in an if statement. During this time look at the topics they are having problems
+  * Go over list `is in` conditionals. Ask what the return value is (Boolean expression)
+    * Have students practice using the `is in` in an if statement. During this time look at the topics they are having problems
 2. Review
-    1. Review the topics students are confused about
-    2. Have students practice using lists and Boolean expressions 
-3. Opportunities for me: 
-    1. This lesson may not be necessary, but the subject might need more time. 
-    2. Quiz: there could also be a quiz after game loop or during the zork lesson
+    * Review the topics students are confused about
+    * Have students practice using lists and Boolean expressions 
+
+###Accommodation/Differentiation 
+This lesson may not be necessary, however this is a good opportunity to check for student understanding of lists and associated functions. 
+
+There could also be a unit quiz after the game loop lesson or during the Zork project, and this lesson could be used to review for that quiz.
   
 [Do Now]:do_now2.md
