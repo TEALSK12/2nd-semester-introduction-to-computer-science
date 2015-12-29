@@ -3,13 +3,13 @@
 ## Part 1
 The goal of this lab is to practice using and accessing items from lists of lists. 
 
-You will be given a nested list, `schedule`, where the first list represents  morning activities, the second list represents the afternoon activities, the third list represents the evening activities. 
+You will be given a nested list, `schedule`, where the first list represents morning activities, the second list represents afternoon activities, the third list represents evening activities. 
 
-This program will allow the user to ask or update what activities you do in the morning, afternoon or evening. The user can request you `print all` the activities at that time, or request a specific activity.
+This program will allow the user to ask or update what activities you do in the morning, afternoon, or evening. The user can request you `print all` the activities at that time, or request a specific activity.
 
-#### schedule: 
+###Schedule 
 
-```
+```python
 schedule = [
 ['brush teeth', 'eat', 'check email'],
 ['eat', 'do work', 'check instagram'],
@@ -17,7 +17,7 @@ schedule = [
 ]
 ```
 
-##### User Inputs
+### User Inputs
 * `update`
 	* program will ask which time (morning, afternoon, evening) the user wants to update and will also request which position it should update 
 * `print` 
@@ -25,14 +25,13 @@ schedule = [
 * `print all`
 	* program will ask which time (morning, afternoon, evening) the user wants to print 	
 	
-##### Functions
+###Functions
 * `update_activity`: takes in an int representing the index of the time, and an int, representing the index of the activity to update and a string, representing the new item you want to use 
+
 * `print_all`: takes an int representing the index of the time to print
 * feel free to add more functions as you see fit
 
-#### Examples
-
-Example interaction
+### Example
 
 ```
 >>>What would you like to do? print all
