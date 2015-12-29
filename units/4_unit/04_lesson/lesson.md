@@ -28,7 +28,7 @@ Students will be able to...
 | 10 Minutes | Debrief     |
 ## Instructor's Notes
 
-1. **Do Now**
+1. **Do Now (Part 1)**
     * Display the Do Now on the board
 2. **Lesson (Part 1)**
 	* Go over the first problem of the Do Now. Ask students what type `my_building` is. 
@@ -36,12 +36,12 @@ Students will be able to...
 		* Go into depth a bit more on nested lists. Ask the students how they would access different parts of the `my_building` example. Call on students. Write down the syntax of `[][]`. The first bracket gets you the floor and the second gets you the room. 
 		** Have students practice writing their own nested lists, or work in pairs with one student writing one nested lists and the other student writing another. 
 	* Go over part 1.2 of the do now. Asks the students what happened when they iterated over my_building. Have students write their answers up on the board without. Ask other students to explain what was printed out ( should be each floor of the building gets printed out). Ask the students how they would print out each `b` apartment? 
-3. **Lab (part 1)**
+3. **Lab (Part 1)**
 	* Students will practice accessing items from lists of lists by creating a schedule program and acessing/updating elements
-4. ** Debrief(part 1)**
+4. ** Debrief**
 	* Make sure students are able to access elements from the list of lists. 
 5. **Lesson (part 2)**
-	* Go over part 2.1 of the Do Now
+	* Go over the first problem of the Do Now
 		* This should be a review of looping. If students are having trouble make sure to go over looping.
 	* Go over part 2.2 of the Do Now
 		* Ask students to write on the board what they did. Discuss how you would write this without the extra function. 
