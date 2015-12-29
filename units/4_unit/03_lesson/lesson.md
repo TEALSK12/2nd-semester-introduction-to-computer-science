@@ -25,13 +25,14 @@ Students will be able to...
 |---|---|
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Review      |
-| 30 Minutes | Lab         |
-| 10 Minutes | Debrief     |
+| 35 Minutes | Lab         |
+| 5 Minutes | Debrief     |
 
 ## Instructor's Notes
 
 1. **Do Now**
-    * Display the Do Now on the board
+    * Display the Do Now on the board.
+    * Students use nested for loops to create a square star pattern.
 2. **Lesson**
 	* Go over part 1 of the Do Now. 
 		* Discuss the output of the program. Were the students able to guess the output without typing it?
