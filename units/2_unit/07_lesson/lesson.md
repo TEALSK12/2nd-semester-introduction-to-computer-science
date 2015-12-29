@@ -7,7 +7,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - Tic-Tac-Toe, Complete Game
+* [Lab] - Tic-Tac-Toe Revisited
 * Associated Reading - section 2.7 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
