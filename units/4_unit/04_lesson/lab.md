@@ -1,4 +1,4 @@
-# Lab 4.04
+# Lab 4.04 - Daily Schedule
 
 ## Part 1
 The goal of this lab is to practice using and accessing items from lists of lists. 
