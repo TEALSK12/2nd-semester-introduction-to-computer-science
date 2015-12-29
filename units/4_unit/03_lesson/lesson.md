@@ -13,13 +13,16 @@ Students will be able to...
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
+###Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
 | 30 Minutes | Lab         |
 | 10 Minutes | Debrief     |
-| ** Day 2 **|             |
+###Day 2
+| ** Duration **|   **Description**          |
+|---|---|
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Review      |
 | 30 Minutes | Lab         |
