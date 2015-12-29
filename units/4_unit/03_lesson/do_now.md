@@ -8,20 +8,20 @@ def print_6_stars():
 	print my_string
 ```
 
-1. Write down what the output of `print_6_stars` is. (Either guess or type and run)
+1. Write down what the output of the function `print_6_stars` is. 
 <br>
 <br>
 <br>
 2. Write a function  `print_star_squares` that calls `print_6_stars` in a loop to produce the following output. 
 
-```
->>>python3 print_stars.py
-* * * * * * 
-* * * * * * 
-* * * * * * 
-* * * * * * 
-* * * * * * 
-* * * * * * 
-```
+    ```
+    >>>python3 print_stars.py
+    * * * * * * 
+    * * * * * * 
+    * * * * * * 
+    * * * * * * 
+    * * * * * * 
+    * * * * * * 
+    ```
 
-3. Rewrite a function `print_star_squares` without using `print_6_stars`. Note that there are two ways to get the above output, so just try doing both! 
+3. Rewrite the function `print_star_squares` without using `print_6_stars`. Note that there are two ways to get the above output, so just try doing both! 
