@@ -1,7 +1,7 @@
 # Do Now 4.04
 
 ## Day 1
-1. Type and run the following code. 
+1. Type and run the following code: 
 
     ```python
     # my_building is a representation of the apartments on each floor of my 3 story building
@@ -23,7 +23,7 @@
 
 ##Day 2
 
-1. Copy the following code into editor.
+1. Copy the following code into editor:
 
     ```python
     my_floor = ['apt1a', 'apt1b', 'apt1c']
@@ -35,7 +35,7 @@
     <br>
     <br>
 
-2. Copy the following code into the editor. 
+2. Copy the following code into the editor:
 
     ```python
     my_building = [
