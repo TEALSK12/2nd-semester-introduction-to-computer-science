@@ -61,7 +61,7 @@ Students will be able to...
 
 ###Accommodation/Differentiation
 Students may struggle with the concept of nested lists. Be prepared to have additional analogies to help students understand the usefulness of the concept.
-* Ex. What if I have multiple lists that I need to deal with in my daily activities? I have a to-do list, a grocery list, and a wish list of things that I 
+* Ex. What if you keep a weekly to-do list? The days of the week would be the first list, and then each item that you hope to accomplish under each day is the list within the list.
 
 [Do Now]: do_now.md
 [Lab]: lab.md
