@@ -60,7 +60,8 @@ Students will be able to...
 	* Remind students there will be a quiz next class covering everything up to (and including) nested lists.
 
 ###Accommodation/Differentiation
-Students may struggle with the concept of nested lists. Be prepared to have additional analogies 
+Students may struggle with the concept of nested lists. Be prepared to have additional analogies to help students understand the usefulness of the concept.
+* Ex. What if I have multiple lists that I need to deal with in my daily activities? I have a to-do list, a grocery list, and a wish list of things that I 
 
 [Do Now]: do_now.md
 [Lab]: lab.md
