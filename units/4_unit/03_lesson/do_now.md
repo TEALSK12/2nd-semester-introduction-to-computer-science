@@ -1,8 +1,6 @@
 # Do Now 4.03
 
-1.
-
-```
+```python
 def print_6_stars(): 
 	my_string = ''
 	for i in range(0, 6): 
@@ -10,12 +8,11 @@ def print_6_stars():
 	print my_string
 ```
 
-Write down what the output of `print_6_stars` is. (Either guess or type and run)
+1. Write down what the output of `print_6_stars` is. (Either guess or type and run)
 <br>
 <br>
 <br>
-2. 
-Write a function  `print_star_squares` that calls `print_6_stars` in a loop to produce the following output. 
+2. Write a function  `print_star_squares` that calls `print_6_stars` in a loop to produce the following output. 
 
 ```
 >>>python3 print_stars.py
