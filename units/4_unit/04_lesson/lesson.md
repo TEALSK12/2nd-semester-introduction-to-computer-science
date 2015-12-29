@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to... 
 * Define and identify: **nested list**
-* Use **nested for loops** to traverse through **nested lists**
+* Use nested for loops to traverse through nested lists
 
 ##Materials/Preparation
 * [Do Now]
@@ -29,13 +29,19 @@ Students will be able to...
 ## Instructor's Notes
 
 1. **Do Now (Part 1)**
-    * Display the Do Now on the board
+    * Display the Do Now on the board.
+    * Make sure students only work on the first part of the Do Now, as the second part will be for the next lesson.
 2. **Lesson (Part 1)**
-	* Go over the first problem of the Do Now. Ask students what type `my_building` is. 
-	* Discuss **nested lists** as lists that have each element as a list. Ask students to think of some other data that might fit into a **nested list**. What about a game of Tic-Tac-Toe or chess?
-		* Go into depth a bit more on nested lists. Ask the students how they would access different parts of the `my_building` example. Call on students. Write down the syntax of `[][]`. The first bracket gets you the floor and the second gets you the room. 
-		** Have students practice writing their own nested lists, or work in pairs with one student writing one nested lists and the other student writing another. 
-	* Go over part 1.2 of the do now. Asks the students what happened when they iterated over my_building. Have students write their answers up on the board without. Ask other students to explain what was printed out ( should be each floor of the building gets printed out). Ask the students how they would print out each `b` apartment? 
+	* Go over the first problem of the Do Now. 
+	    * Ask students what type `my_building` is. 
+	    * Discuss **nested lists** as lists that have each element as a list. Ask students to think of some other data that might fit into a **nested list**. What about a game of Tic-Tac-Toe or chess?
+	* Go into depth a bit more on nested lists. Ask the students how they would access different parts of the `my_building` example.
+	    * Write down the syntax of `[][]`. 
+	    * The first bracket gets you the floor and the second gets you the room. 
+	* Have students practice writing their own nested lists, or work in pairs with one student writing one nested lists and the other student writing another. 
+	* Go over the second problem in the Do Now. 
+	    * Asks the students what happened when they iterated over `my_building`.  
+	        * As an extension, ask the students how they would print out each `b` apartment.
 3. **Lab (Part 1)**
 	* Students will practice accessing items from lists of lists by creating a schedule program and acessing/updating elements
 4. ** Debrief**
