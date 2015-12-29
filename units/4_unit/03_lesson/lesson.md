@@ -48,16 +48,15 @@ Students will be able to...
 		    * Ideally this should make it easier as a way of abstracting knowledge of looping.
 3. **Lab**
 	* The lab asks students to write functions that produce different outputs using nested for loops. 
- understanding. 
 4. **Debrief**
-	* Remind students there will be a quiz in over this after lab is finished. 
-	* Go over questions the students had 
-	* On the last day go over the bonus and discuss how students thought through which loop needed which conditional
+	* Remind students there will be a quiz over this after lab is finished. 
+	* Go over common questions the students had.
+	* On the second day, if time allows, go over the bonus and discuss how students solved the problem.
 
 ###Accommodation/Differentiation
 If students need extra time for lab there is another day in the schedule for that. 
 
-This topic is often confusing for students new to the concept, so build in time for frequent individual checks for
+This topic is often confusing for students new to the concept, so build in time for frequent individual checks for understanding.
 
 [Do Now]: do_now.md
 [Lab]: lab.md
