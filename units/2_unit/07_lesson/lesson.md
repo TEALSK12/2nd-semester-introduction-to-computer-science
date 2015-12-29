@@ -30,7 +30,7 @@ Students will be able to...
         * What if you wanted the loop to stop when the user inputs "quit"? 
         * Have the students think about and write a solution, then call students up to the board to write out how they solved it.
 3. **Lab**
-    * Students work to create a complete Tic-Tac-Toe game, building on their previous work.
+    * Students work to create a Tic-Tac-Toe game that allows turns (up to 9), building on their previous work.
 4. **Debrief**
     * Check for completion and understanding of the lab. 
 ###Accommodation/Differentiation
