@@ -50,7 +50,7 @@ Students will be able to...
 3. **Lab**
 	* The lab asks students to write functions that produce different outputs using nested for loops. 
 4. **Debrief**
-	* Inform students that there will be a quiz over  after lab is finished. 
+	* Inform students that there will be a Unit 4 Quiz after Lesson 4.04. 
 	* Go over common questions the students had.
 	* On the second day, if time allows, go over the bonus and discuss how students solved the problem.
 
