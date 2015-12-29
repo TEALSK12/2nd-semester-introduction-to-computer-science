@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to... 
 * Define and identify: **nested list**
-* Use **nested for loops** to go through **nested lists**
+* Use **nested for loops** to traverse through **nested lists**
 
 ##Materials/Preparation
 * [Do Now]
