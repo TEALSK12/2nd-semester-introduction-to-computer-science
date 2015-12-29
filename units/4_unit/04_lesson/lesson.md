@@ -52,7 +52,7 @@ Students will be able to...
 	* Ask students if there was any difficulty looping through lists of lists. 
 	* Remind students there will be a quiz next class covering everything up to (and including) nested lists.
 
-
+###Accommodation/Differentiation
 
 
 [Do Now]: do_now.md
