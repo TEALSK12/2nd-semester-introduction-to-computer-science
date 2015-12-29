@@ -31,7 +31,7 @@ Students will be able to...
 1. **Do Now**
     * Display the Do Now on the board
 2. **Lesson (Part 1)**
-	* Go over part 1.1 of the Do Now. Ask students what type `my_building` is. 
+	* Go over the first problem of the Do Now. Ask students what type `my_building` is. 
 	* Discuss **nested lists** as lists that have each element as a list. Ask students to think of some other data that might fit into a **nested list**. What about a game of Tic-Tac-Toe or chess?
 		* Go into depth a bit more on nested lists. Ask the students how they would access different parts of the `my_building` example. Call on students. Write down the syntax of `[][]`. The first bracket gets you the floor and the second gets you the room. 
 		** Have students practice writing their own nested lists, or work in pairs with one student writing one nested lists and the other student writing another. 
