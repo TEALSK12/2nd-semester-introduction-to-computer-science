@@ -1,4 +1,4 @@
-#Lesson 4.03: Nested For Loop 
+#Lesson 4.03: Nested For Loops
 
 ##Learning Objectives
 Students will be able to... 
@@ -41,7 +41,8 @@ Students will be able to...
 	* Go over part 2 of the Do Now. 
 	    * Ask students to write the `print_star_squares` function on the board. 
 		* Define **nested for loop**:  a loop within another loop. For each iteration of the outer loop the inner loop is iterated through completely. 
-		* Draw a diagram (**stack trace**) of the for loop (e.g. something like [loop diagram]) ask students to draw the nested part of the state diagram (should be inside the outer loop but look the same as the outer loop)
+		* Draw a diagram (**stack trace**) of the for loop (e.g. something like [loop diagram]) 
+		    * Ask students to draw the nested part of the state diagram (should be inside the outer loop but look the same as the outer loop)
 	* Go over part 3 of the Do Now.
 		* If students were unable to finish this, give them 5 minutes to practice in groups before calling them back to go over this part. 
 		* Ask students to write on the board how they did this. Ask them how treating the loop as it's own function made it easier or harder. 
