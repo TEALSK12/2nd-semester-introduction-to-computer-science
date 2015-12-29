@@ -1,6 +1,6 @@
 # Do Now 4.04
 
-## Day 1
+## Part 1
 1. Type and run the following code: 
 
     ```python
@@ -24,7 +24,7 @@
 <br>
 <br>
 
-##Day 2
+##Part 2
 
 1. Copy the following code into editor:
 
