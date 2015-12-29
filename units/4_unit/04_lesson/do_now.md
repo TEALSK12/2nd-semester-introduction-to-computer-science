@@ -14,7 +14,7 @@
     print("first floor, 3rd apartment" + str(my_building[0][2]))
     ```
 
-    Write down what was printed. How you would access the 2nd apartment of the 3rd floor?
+    Write down what was printed. How you would access the 2nd apartment of the 3rd floor (`apt3b`)?
 <br>
 <br>
 <br>
