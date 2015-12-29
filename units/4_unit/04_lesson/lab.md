@@ -3,7 +3,7 @@
 ## Part 1
 The goal of this lab is to practice using and accessing items from lists of lists. 
 
-You will be given a nested list, `schedule`, where the first list represents morning activities, the second list represents afternoon activities, the third list represents evening activities. 
+You will be given a nested list, `schedule`, where the first list represents morning activities, the second list represents afternoon activities, and the third list represents evening activities. 
 
 This program will allow the user to ask or update what activities you do in the morning, afternoon, or evening. The user can request you `print all` the activities at that time, or request a specific activity.
 
@@ -19,11 +19,11 @@ schedule = [
 
 ### User Inputs
 * `update`
-	* program will ask which time (morning, afternoon, evening) the user wants to update and will also request which position it should update 
+	* The program will ask which time (morning, afternoon, evening) the user wants to update and will also request which position it should update.
 * `print` 
-	*  program will ask which time (morning, afternoon, evening) the user wants to print from and afterwards will request which position it should print 
+	*  The program will ask which time (morning, afternoon, evening) the user wants to print from and afterwards will request which position it should print.
 * `print all`
-	* program will ask which time (morning, afternoon, evening) the user wants to print 	
+	* The program will ask which time (morning, afternoon, evening) the user wants to print and will print all of the activities associated with that time. 	
 	
 ###Functions
 * `update_activity`: takes in an int representing the index of the time, and an int, representing the index of the activity to update and a string, representing the new item you want to use 
