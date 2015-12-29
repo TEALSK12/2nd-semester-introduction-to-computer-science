@@ -50,7 +50,7 @@ Students will be able to...
 	* Students will create some functions that practice looping through lists of lists
 7. **Debrief (part 2)**
 	* Ask students if there was any difficulty looping through lists of lists. 
-	* Remind students there will be a quiz next class covering everything up till nested lists
+	* Remind students there will be a quiz next class covering everything up to (and including) nested lists.
 
 
 
