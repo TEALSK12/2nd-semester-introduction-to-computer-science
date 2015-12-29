@@ -3,9 +3,9 @@
 ##Learning Objectives
 Students will be able to... 
 * Define and identify: **nested for loops**, **stack trace**
-* Use **nested for loops** via a function and a for loop
-* Use **nested for loops** via two loops nested
-* Use a stack trace to understand flow of **nested for loops**
+* Use nested for loops via a function and a for loop
+* Use nested for loops via two loops nested
+* Use a stack trace to understand and demonstrate the flow of nested for loops
 
 ##Materials/Preparation
 * [Do Now]
@@ -18,8 +18,8 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
-| 10 Minutes | Debrief     |
+| 35 Minutes | Lab         |
+| 5 Minutes | Debrief     |
 ###Day 2
 | ** Duration **|   **Description**          |
 |---|---|
