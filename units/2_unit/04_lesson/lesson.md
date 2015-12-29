@@ -43,8 +43,8 @@ Students will be able to...
         * Demonstrate the syntax of `elif`
 
 3. **Lab**
-    * Students convert the triangle program written in snap into Python. 
-    * Students must also write a program that simulates a list index using if statements. 
+    * Students convert the triangle program written in Snap! into Python. 
+    * Students must also write a program that simulates a list index using `if` statements. 
 4. **Debrief**
     * Check student progress and completion of the lab, wrap up by taking any final questions.
 
