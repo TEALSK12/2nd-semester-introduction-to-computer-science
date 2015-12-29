@@ -60,7 +60,7 @@ Students will be able to...
 	* Remind students there will be a quiz next class covering everything up to (and including) nested lists.
 
 ###Accommodation/Differentiation
-
+Students may struggle with the concept of nested lists. Be prepared to have additional analogies 
 
 [Do Now]: do_now.md
 [Lab]: lab.md
