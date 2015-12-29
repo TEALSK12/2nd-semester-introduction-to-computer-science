@@ -41,9 +41,9 @@ Students will be able to...
 4. ** Debrief**
 	* Make sure students are able to access elements from the list of lists. 
 5. **Lesson (part 2)**
-	* Go over the first problem of the Do Now
-		* This should be a review of looping. If students are having trouble make sure to go over looping.
-	* Go over part 2.2 of the Do Now
+	* Go over the first problem of the Do Now.
+		* This should be a review of looping. If students are having trouble, take extra time to review looping syntax and procedures.
+	* Go over the second problem of the Do Now.
 		* Ask students to write on the board what they did. Discuss how you would write this without the extra function. 
 		* Go over how to write this program. How would the alter it to not print out the middle floor. How would they alter to not print out any apartment a's.
 6. **Lab (part 2)**
