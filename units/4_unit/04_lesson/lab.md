@@ -52,7 +52,7 @@ In this part of the lab you will go through your schedule program and perform a 
 3. In order to make the schedule more rigorous, write a function, `study_more`, that adds `'study'` to each of the lists. 
 4. Dentists recommend we floss our teeth twice daily. Write a function `dentists_agree`, that will go through every element of schedule and update `'brush teeth'` to be `'brush and floss teeth'`.
 
-###Bonus: 
+###Bonus! 
 Write a function to reverse the order of the lists and activities in `schedule`. 
 
 The list should look like the following when printed: 
