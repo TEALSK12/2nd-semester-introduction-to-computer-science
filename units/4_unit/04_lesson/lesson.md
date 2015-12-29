@@ -38,20 +38,21 @@ Students will be able to...
 	* Go into depth a bit more on nested lists. Ask the students how they would access different parts of the `my_building` example.
 	    * Write down the syntax of `[][]`. 
 	    * The first bracket gets you the floor and the second gets you the room. 
-	* Have students practice writing their own nested lists, or work in pairs with one student writing one nested lists and the other student writing another. 
+	    * Have students practice writing their own nested lists, or work in pairs with one student writing one nested lists and the other student writing another. 
 	* Go over the second problem in the Do Now. 
 	    * Asks the students what happened when they iterated over `my_building`.  
 	        * As an extension, ask the students how they would print out each `b` apartment.
 3. **Lab (Part 1)**
-	* Students will practice accessing items from lists of lists by creating a schedule program and acessing/updating elements
+	* Students will practice accessing items from lists of lists by creating a schedule program and accessing/updating elements.
 4. ** Debrief**
-	* Make sure students are able to access elements from the list of lists. 
+	* Make sure that all students are able to access elements from a list of lists. 
 5. **Lesson (part 2)**
 	* Go over the first problem of the Do Now.
 		* This should be a review of looping. If students are having trouble, take extra time to review looping syntax and procedures.
 	* Go over the second problem of the Do Now.
 		* Ask students to write on the board what they did. Discuss how you would write this without the extra function. 
-		* Go over how to write this program. How would the alter it to not print out the middle floor. How would they alter to not print out any apartment a's.
+		* Go over how to write this program. 
+		    * As extensions to this discussion, have students consider how they would alter the program to not print out the middle floor. Or how would they alter it to not print out any apartment a's?
 6. **Lab (part 2)**
 	* Students will create some functions that practice looping through lists of lists
 7. **Debrief (part 2)**
