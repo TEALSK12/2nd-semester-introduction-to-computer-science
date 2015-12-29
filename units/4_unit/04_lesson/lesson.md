@@ -17,15 +17,15 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now (Part 1)|
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab (Part 1) |
-| 10 Minutes | Debrief      |
+| 35 Minutes | Lab (Part 1) |
+| 5 Minutes | Debrief      |
 ###Day 2
 | ** Duration **|    **Description**         |
 |---|---|
 | 5 Minutes  | Do Now (Part 2)|
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab (Part 2) |
-| 10 Minutes | Debrief     |
+| 35 Minutes | Lab (Part 2) |
+| 5 Minutes | Debrief     |
 ## Instructor's Notes
 
 1. **Do Now (Part 1)**
@@ -51,10 +51,10 @@ Students will be able to...
 		* This should be a review of looping. If students are having trouble, take extra time to review looping syntax and procedures.
 	* Go over the second problem of the Do Now.
 		* Ask students to write on the board what they did. Discuss how you would write this without the extra function. 
-		* Go over how to write this program. 
+		* Go over how to write this program, using student responses. 
 		    * As extensions to this discussion, have students consider how they would alter the program to not print out the middle floor. Or how would they alter it to not print out any apartment a's?
 6. **Lab (part 2)**
-	* Students will create some functions that practice looping through lists of lists
+	* Students will create functions that loop through lists of lists.
 7. **Debrief (part 2)**
 	* Ask students if there was any difficulty looping through lists of lists. 
 	* Remind students there will be a quiz next class covering everything up to (and including) nested lists.
