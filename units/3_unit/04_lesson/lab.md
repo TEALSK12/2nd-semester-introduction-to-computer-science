@@ -26,7 +26,7 @@
     <br>
     
 ##Scope
-* Draw the stack diagram for the following.
+* Draw the stack diagram for the following:
     
     ```python
 	var_1 = "kittens"
