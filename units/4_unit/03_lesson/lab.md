@@ -1,4 +1,4 @@
-# Lab 4.03
+# Lab 4.03 - Nested For Loops
 
 In this lab we will be drawing images using nested for loops. 
 
