@@ -83,7 +83,7 @@
        * [Do Now 4.02](units/4_unit/02_lesson/do_now.md)
        * [Lab 4.02](units/4_unit/02_lesson/lab.md)
        * [Associated Reading](units/4_unit/02_lesson/associated_reading.md)
-   * [Lesson 4.03: Nested For Loop](units/4_unit/03_lesson/lesson.md)
+   * [Lesson 4.03: Nested For Loops](units/4_unit/03_lesson/lesson.md)
        * [Do Now 4.03](units/4_unit/03_lesson/do_now.md)
        * [Lab 4.03](units/4_unit/03_lesson/lab.md)
    * [Lesson 4.04: Nested Lists & Looping](units/4_unit/04_lesson/lesson.md)
