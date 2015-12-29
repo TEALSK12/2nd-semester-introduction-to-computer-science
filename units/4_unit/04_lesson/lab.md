@@ -26,10 +26,13 @@ schedule = [
 	* The program will ask which time (morning, afternoon, evening) the user wants to print and will print all of the activities associated with that time. 	
 	
 ###Functions
-* `update_activity`: takes in an int representing the index of the time, and an int, representing the index of the activity to update and a string, representing the new item you want to use 
+* `update_activity`
+    * Takes in an int representing the index of the time, and an int, representing the index of the activity to update and a string, representing the new item you want to use 
+* `print_all`
+    * Takes an int representing the index of the time to print
 
-* `print_all`: takes an int representing the index of the time to print
-* feel free to add more functions as you see fit
+
+* Feel free to add more functions as you see fit
 
 ### Example
 
