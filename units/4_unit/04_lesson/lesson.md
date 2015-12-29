@@ -15,16 +15,16 @@ Students will be able to...
 ###Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
-| 5 Minutes  | Do Now (Day 1)|
+| 5 Minutes  | Do Now (Part 1)|
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab (part 1) |
+| 30 Minutes | Lab (Part 1) |
 | 10 Minutes | Debrief      |
 ###Day 2
 | ** Duration **|    **Description**         |
 |---|---|
-| 5 Minutes  | Do Now (Day 2)|
+| 5 Minutes  | Do Now (Part 2)|
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab (part 2) |
+| 30 Minutes | Lab (Part 2) |
 | 10 Minutes | Debrief     |
 ## Instructor's Notes
 
