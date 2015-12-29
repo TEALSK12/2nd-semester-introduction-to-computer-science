@@ -49,14 +49,15 @@ In this part of the lab you will go through your schedule program and perform a 
 
 1. Create a function, `all_in_one`, that will put all the activities into a single list using a for loop. 
 2. Create a function, `count_meals`, which will go through all items of the list and keep a count of how many times `'eat'` occurs. 
-3. In order to make the schedule more rigorous, write a function, `study_more`, that adds 'study' to each of the lists. 
-4. Dentists recommend we brush our teeth twice daily. Write a function, `dentists_agree`, that will go through every element of schedule and update 'brush teeth' to be 'brush and floss teeth'
+3. In order to make the schedule more rigorous, write a function, `study_more`, that adds `'study'` to each of the lists. 
+4. Dentists recommend we floss our teeth twice daily. Write a function `dentists_agree`, that will go through every element of schedule and update `'brush teeth'` to be `'brush and floss teeth'`.
 
 ###Bonus: 
-Write a function to reverse the order of the lists and activities in schedule. 
-Should look like the following when printed: 
+Write a function to reverse the order of the lists and activities in `schedule`. 
 
-```
+The list should look like the following when printed: 
+
+```python
 schedule = [
 ['brush teeth', 'watch youtube', 'eat'],
 ['check instagram', 'do work', 'check instagram'],
