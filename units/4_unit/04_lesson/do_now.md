@@ -20,6 +20,9 @@
 <br>
 
 2. Write a for loop that iterates over `my_building` and prints out each value (apartment number). Describe what happened. 
+<br>
+<br>
+<br>
 
 ##Day 2
 
