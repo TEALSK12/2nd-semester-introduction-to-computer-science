@@ -17,7 +17,7 @@
    * [Lesson 1.04: Variables Input](units/1_unit/04_lesson/lesson.md)
        * [Lab 1.04](units/1_unit/04_lesson/lab.md)
        * [Do Now 1.04](units/1_unit/04_lesson/do_now.md)
-   * [Lesson 1.05: Debugging](units/1_unit/05_lesson/lesson.md)
+   * [Lesson 1.05: Quiz & Debugging](units/1_unit/05_lesson/lesson.md)
        * [Quiz](units/1_unit/05_lesson/quiz.md)
        * [Associated Reading](units/1_unit/05_lesson/associated_reading.md)
    * [Lesson 1.06: MadLibs](units/1_unit/06_lesson/lesson.md)
