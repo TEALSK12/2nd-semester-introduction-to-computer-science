@@ -2,9 +2,8 @@
 
 ##Learning Objectives
 Students will be able to... 
-* Define and identify: 
 * Read and understand longer programs involving loops
-* Demonstrate their knowledge of looping
+* Demonstrate their knowledge of looping, lists, and nested loops/lists
 
 ##Materials/Preparation
 * [Quiz]
@@ -24,7 +23,7 @@ Students will be able to...
 ## Instructor's Notes
 
 1. **Quiz**
-    * Have students start working on Quiz
+    * Have students start working on Quiz.
 2. **Lesson**
 	* Talk about how to read code in a loop (you can use something of your choice or the [Coding Example])
 	* Go over debugging practices for loops. 
@@ -35,6 +34,8 @@ Students will be able to...
 	* This lab will have students read code and look for errors by reading through the code not at the computer		* After reading through the code they can practice debugging practices mentioned
 4. **Debrief**
 	* What was most helpful in debugging?
+
+###Accommodation/Differentiation
 
 
 [Quiz]: quiz.md
