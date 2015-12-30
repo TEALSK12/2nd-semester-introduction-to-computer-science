@@ -8,6 +8,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Project] - Tic-Tac-Toe
 * Read through the handout, lesson, and project so that you are familiar with the requirements and can assist students
+* Try creating your own variation on the Tic-Tac-Toe game so you are familiar with the potential challenges and bugs your students will hit
 
 ## Pacing Guide
 | Duration   | Description |
