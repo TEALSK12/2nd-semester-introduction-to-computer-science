@@ -12,7 +12,7 @@ Using Python, students will create a complete Tic-Tac-Toe game. This project has
 * Whoever enters their name first will be playing as X's, and the other player will be O's. 
 * The players will take turns inputing the row and column they would like to place their mark. 
 * If that spot is already taken the program will ask for the spot again. 
-* The program will report which player has won.
+* At the end of each players turn the program will check if tThe program will report which player has won.
 * If there are no more spots open and nobody has won the game, the program will print `Tie game!`.
 
 ### Implementation Details
