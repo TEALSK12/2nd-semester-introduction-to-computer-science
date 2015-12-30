@@ -29,20 +29,24 @@ Students will be able to...
 
 ## Instructor's Note
 1. **Do Now** 
-	* hand out the project guide and have students start reading through it
+	* Hand out the project spec and have students start reading through it.
 2. **Project Overview**
- 	* Demo the tic-tac-toe game
-	* Give out instructions and go over game rules
+ 	* Demo the Tic-Tac-Toe game.
+	* Go over all of the game rules and program requirements.
 3. **Planning**
-    * Have students draw out game play. How will the represent the board. How will they have users input their spots. Create functions for each user interaction. Figure out where the repeated code is. Write a function for that. Figure out which variables they will need
-    * Have students plan out their next 7 days. 
-    	* set up game board, basic game loop asking players, and dummy functions for each players turn
-    	* create variables necessary to run the game, start implementing basic functions
-    	* focus on game play. Players should be able to play a game against each other
-    	* Create methods for checking if the game is over. Create a horizontal checker, vertical checker.
-    	* Create the diagonal checkers 
-    	* Connect the functions together
-    	* wrap up and game over check is correct
+    * Have students draw out game play and consider the overall design. 
+        * How will they represent the board? 
+        * How will they have users input their spots? 
+        * Create functions for each user interaction.  
+        * Figure out which variables are needed.
+    * Have students plan out their next 7 days (suggested plan below):
+    	1. set up game board, basic game loop asking players, and dummy functions for each players turn
+    	2. create variables necessary to run the game, start implementing basic functions
+    	3. focus on game play. Players should be able to play a game against each other
+    	4. Create methods for checking if the game is over. Create a horizontal checker, vertical checker.
+    	5. Create the diagonal checkers 
+    	6. Connect the functions together
+    	7. wrap up and game over check is correct
 
 4. **Discussion**
 	* talk to students about questions, and confusion. Make sure to look at their plans and that they have outlined the project in a way that makes sense. Ask them to talk about which part will be the hardest or take the longest time. 
