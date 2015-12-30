@@ -29,8 +29,9 @@ Write down any bugs that you see in this program.
     basic_list = [1, 2, 3, 4]
     my_nested_looping_function(basic_list)
     ```
-Write down any bugs that you see in this program.
+Write down any bugs that you see in this program. 
 <br>
 <br>
 <br>
+
 3. Go to the computer, type and fix the two above programs.
