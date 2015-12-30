@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to... 
 * Use project planning skills to complete a larger project
-* Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game.
+* Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game
 
 ##Materials/Preparation
 * [Project]
