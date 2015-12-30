@@ -16,14 +16,14 @@ Using Python, students will create a complete Tic-Tac-Toe game. This project has
 * If there are no more spots open and nobody has won the game, the program will print `Tie game!`.
 
 ### Implementation Details
-* variables to store the user names for customized prompts
-* a game board represented as a list of lists size 3 by 3
-* check for a winner horizontally, vertically and both diagonals
-* user cannot overwrite a spot on the board
+* Use variables to store the user names for personalized prompts.
+* Create a game board represented as a list of lists, size 3 by 3.
+* Check for a winner horizontally, vertically, and on both diagonals.
+* Cannot allow a user to overwrite a spot on the board.
 
 ## Grading 
 ### Scheme/Rubric
-| Functional Correctness(Behavior)                                |     |
+| **Functional Correctness (Behavior)**                                |     |
 | --------------------------------------------------------------- |-----|
 | Program prompts user for name | 2   |
 | Program marks board where user requested| 10|
