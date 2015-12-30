@@ -6,7 +6,7 @@ Students will be able to...
 * Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game
 
 ##Materials/Preparation
-* [Project]
+* [Project] - Tic-Tac-Toe
 * Read through the handout, lesson, and project so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
