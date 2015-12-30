@@ -7,7 +7,7 @@ Students will be able to...
 * Apply skills learned in units 1-3 to create a functioning program
 
 ##Materials/Preparation
-* [Project Spec] - Oregon Trail
+* [Project Spec - Oregon Trail]
 * [Oregon Trail - Example Code] 
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit. 
@@ -50,6 +50,6 @@ Advanced students can add in random events like cholera or snake bites. Students
 
 The planning phase of this project will be essential, especially for students who you think may struggle with this project. Provide more guidance and scaffolding to those students that need it. 
     
-[Project Spec]:project.md 
+[Project Spec - Oregon Trail]:project.md 
 [Oregon Trail - Example Code]:oregon_trail.py
   
