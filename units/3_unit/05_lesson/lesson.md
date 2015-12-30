@@ -7,7 +7,7 @@ Students will be able to...
 * Apply skills learned in units 1-3 to create a functioning program
 
 ##Materials/Preparation
-* [Project Spec]
+* [Project Spec] - Oregon Trail
 * [Oregon Trail - Example Code] 
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit. 
