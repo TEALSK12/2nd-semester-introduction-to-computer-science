@@ -32,9 +32,10 @@ Students will be able to...
 		* Alter input to make sure body of loop is working correctly.
 		* Make sure lists don't go out of bounds/past the end of the list.
 3. **Lab**
-	* This lab will have students read code and look for errors by reading through the code not at the computer		* After reading through the code they can practice debugging practices mentioned
+	* This lab will have students read code and look for errors by reading through the code not at the computer.	
+	* After reading through the code they can practice the debugging practices mentioned.
 4. **Debrief**
-	* What was most helpful in debugging?
+	* Discuss as a class what was most helpful in debugging, highlight those practices throughout the upcoming project.
 
 ###Accommodation/Differentiation
 Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
