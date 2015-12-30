@@ -6,7 +6,7 @@ Students will be able to...
 * Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game
 
 ##Materials/Preparation
-* [Project Spec] - Tic-Tac-Toe
+* [Project Spec - Tic-Tac-Toe]
 * Read through the handout, lesson, and project so that you are familiar with the requirements and can assist students
 * Try creating your own variation on the Tic-Tac-Toe game so you are familiar with the potential challenges and bugs your students will hit
 
@@ -49,5 +49,5 @@ Students will be able to...
 6. **Review**
 	* From what you saw yesterday, go over anything the class is struggling with. Cover concepts or reviewing things students are struggling with
 	 
-[Project]: project.md
+[Project Spec - Tic-Tac-Toe]: project.md
   
