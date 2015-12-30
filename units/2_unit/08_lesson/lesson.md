@@ -5,7 +5,7 @@ Students will be able to...
 * Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game. 
 
 ##Materials/Preparation
-* [Project Spec]
+* [Project Spec - Zork]
 * [Text Monster Game - Example Code]
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
@@ -47,5 +47,5 @@ For any students that are advancing rapidly through the project, give them exten
 Advanced students can also be paired as tutors/helpers with struggling students.
     
   
-[Project Spec]: project.md
+[Project Spec - Text Monster]: project.md
 [Text Monster Game - Example Code]: project_file.html
