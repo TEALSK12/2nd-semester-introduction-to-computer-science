@@ -47,8 +47,8 @@ Students will be able to...
     	5. Create the diagonal checkers 
     	6. Connect the functions together
     	7. wrap up and game over check is correct
-4. **Discussion**
-	* talk to students about questions, and confusion. Make sure to look at their plans and that they have outlined the project in a way that makes sense. Ask them to talk about which part will be the hardest or take the longest time. 
+4. **Debrief**
+	* Talk to students about questions, and confusion. Make sure to look at their plans and that they have outlined the project in a way that makes sense. Ask them to talk about which part will be the hardest or take the longest time. 
 5. **Day Plan**
 	* At the start of class instead of a Do Now, have the student write down what they hope to accomplish that day, and assess their schedule to see if they are on track
 6. **Review**
