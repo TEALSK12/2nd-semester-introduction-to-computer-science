@@ -4,7 +4,7 @@
 Students will be able to... 
 * Read and understand longer programs involving loops
 * Demonstrate their knowledge of looping, lists, and nested loops/lists
-* Debug programs involving for loops and lists.
+* Debug programs involving for loops and lists
 
 ##Materials/Preparation
 * [Quiz]
