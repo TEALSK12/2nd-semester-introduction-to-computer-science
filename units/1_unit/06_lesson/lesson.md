@@ -5,7 +5,7 @@
 * Practice good debugging skills
 
 ## Materials/Preparation
-* [Project Spec]
+* [Project Spec - Mad Libs]
 * [Mad Libs - Example Code]
 * Practice running the example code
 * Read through the project specifications so that you can completely communicate the requirements of the project 
@@ -51,4 +51,4 @@
 Ask students to research casting. Have them add, subtract, or multiply values as part of the story. 
 
 [Mad Libs - Example Code]: project.py
-[Project Spec]: project.md
+[Project Spec - Mad Libs]: project.md
