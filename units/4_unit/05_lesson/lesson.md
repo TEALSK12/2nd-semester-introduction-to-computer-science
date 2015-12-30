@@ -10,20 +10,21 @@ Students will be able to...
 * [Lab]
 * [Coding Example]
 * Read through the quiz, lesson, and lab so that you are familiar with the requirements and can assist students
+* Go through the quiz and create an answer key & scoring rubric
 
 ## Pacing Guide
 | **Duration**   | **Description** |
 | ---------- | ----------- |
-| 20 Minutes  | Quiz     |
+| 25 Minutes  | Quiz     |
 | 10 Minutes | Lesson     |
 | 20 Minutes | Lab         |
-| 10 Minutes | Debrief     |
+| 5 Minutes | Debrief     |
 
 
 ## Instructor's Notes
 
 1. **Quiz**
-    * Have students start working on Quiz.
+    * Have students start working on the Quiz.
 2. **Lesson**
 	* Talk about how to read code in a loop (you can use something of your choice or the [Coding Example])
 	* Go over debugging practices for loops. 
