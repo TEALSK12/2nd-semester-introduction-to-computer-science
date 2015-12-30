@@ -48,17 +48,18 @@ Students will be able to...
     	6. Connect the functions together
     	7. wrap up and game over check is correct
 4. **Debrief**
-	* Talk to students about questions, and confusion. Make sure to look at their plans and that they have outlined the project in a way that makes sense. Ask them to talk about which part will be the hardest or take the longest time. 
+	* Take time to go over questions and confusion relating to project requirements. 
+	* Make sure to look over individual student project plans and check that they have outlined the project in a way that makes sense. 
 5. **Day Plan**
-	* At the start of class instead of a Do Now, have the student write down what they hope to accomplish that day, and assess their schedule to see if they are on track
+	* At the start of class instead of a Do Now, have the student refer to their original project plan, write down what they hope to accomplish that day, and assess their schedule to see if they are on track.
 6. **Review**
-	* From what you saw yesterday, go over anything the class is struggling with. Cover concepts or reviewing things students are struggling with
+	* Go over any parts of the program that the majority of the class is struggling with. Provide scaffolding and tips to students that are not on track for completion.
 	 
 
 ###Accommodation/Differentiation
 Students can create a variable size board
 
-The checker can actually all be done using one function taking in the start x and y and the movement of the x and y. 
+The checker can actually be done using one function taking in the start x and y and the movement of the x and y. 
 
 [Project Spec - Tic-Tac-Toe]: project.md
   
