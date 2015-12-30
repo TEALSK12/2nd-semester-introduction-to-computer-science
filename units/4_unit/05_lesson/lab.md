@@ -1,6 +1,6 @@
 # Lab 4.05 - Debugging Practice
 
-1. Read through the following code. 
+1. Read through the following code: 
  
     ```python
     def my_looping_function(list): 
@@ -11,12 +11,12 @@
     my_looping_function(basic_list)
 
     ```
-Write down the bugs. 
+Write down any bugs that you see in this program.  
 <br>
 <br>
 <br>
 
-2. Read through the following code.
+2. Read through the following code:
 
     ```python
     def my_nested_looping_function(a_list): 
@@ -28,5 +28,9 @@ Write down the bugs.
 
     basic_list = [1, 2, 3, 4]
     my_nested_looping_function(basic_list)
-```
+    ```
+Write down any bugs that you see in this program.
+<br>
+<br>
+<br>
 3. Go to the computer, type and fix the two above programs.
