@@ -1,4 +1,4 @@
-# Lab 4.05
+# Lab 4.05 - Debugging Practice
 
 1. Read through the following code. 
  
