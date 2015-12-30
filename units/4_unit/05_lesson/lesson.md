@@ -4,7 +4,7 @@
 Students will be able to... 
 * Define and identify: 
 * Read and understand longer programs involving loops
-* assess their knowledge about looping
+* Demonstrate their knowledge of looping
 
 ##Materials/Preparation
 * [Quiz]
