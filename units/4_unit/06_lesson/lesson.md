@@ -11,13 +11,17 @@ Students will be able to...
 * Try creating your own variation on the Tic-Tac-Toe game so you are familiar with the potential challenges and bugs your students will hit
 
 ## Pacing Guide
-| Duration   | Description |
+###Day 1
+| **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Project Overview      |
-| 30 Minutes | Planning    |
+| 30 Minutes | Planning/Design   |
 | 10 Minutes | Discussion  |
-|**Day 2-9** |             |
+
+###Day 2
+|**Duration** |  **Description**           |
+|---|---|
 | 5 Minutes  | Day Plan    | 
 | 10 Minutes | Review      |
 | 30 Minutes | Project Work|
@@ -39,9 +43,7 @@ Students will be able to...
     	* Create the diagonal checkers 
     	* Connect the functions together
     	* wrap up and game over check is correct
-4. Opportunities for more
-    1. Students can create a variable size board
-    2. The checker can actually all be done using one function taking in the start x and y and the movement of the x and y
+
 4. **Discussion**
 	* talk to students about questions, and confusion. Make sure to look at their plans and that they have outlined the project in a way that makes sense. Ask them to talk about which part will be the hardest or take the longest time. 
 5. **Day Plan**
@@ -49,5 +51,11 @@ Students will be able to...
 6. **Review**
 	* From what you saw yesterday, go over anything the class is struggling with. Cover concepts or reviewing things students are struggling with
 	 
+
+###Accommodation/Differentiation
+Students can create a variable size board
+
+The checker can actually all be done using one function taking in the start x and y and the movement of the x and y. 
+
 [Project Spec - Tic-Tac-Toe]: project.md
   
