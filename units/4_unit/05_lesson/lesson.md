@@ -36,7 +36,7 @@ Students will be able to...
 	* What was most helpful in debugging?
 
 ###Accommodation/Differentiation
-
+Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
 
 [Quiz]: quiz.md
 [Lab]: lab.md
