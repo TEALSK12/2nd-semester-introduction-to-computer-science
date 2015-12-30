@@ -51,7 +51,7 @@ Students will be able to...
 	* Take time to go over questions and confusion relating to project requirements. 
 	* Make sure to look over individual student project plans and check that they have outlined the project in a way that makes sense. 
 5. **Day Plan**
-	* At the start of class instead of a Do Now, have the student refer to their original project plan, write down what they hope to accomplish that day, and assess their schedule to see if they are on track.
+	* At the start of Days 2-9, have each student refer to their original project plan, write down what they hope to accomplish that day, and assess their schedule to see if they are on track.
 6. **Review**
 	* Go over any parts of the program that the majority of the class is struggling with. Provide scaffolding and tips to students that are not on track for completion.
 	 
