@@ -26,11 +26,11 @@ Students will be able to...
 1. **Quiz**
     * Have students start working on the Quiz.
 2. **Lesson**
-	* Talk about how to read code in a loop (you can use something of your choice or the [Coding Example])
+	* Talk about how to read code in a loop (you can use something of your choice or the provided [Coding Example])
 	* Go over debugging practices for loops. 
-		* print statements, using the item to show where error is
-		* altering input to make sure body of loop is working correctly
-		* making sure lists don't go out of bounds/past the end of the list
+		* Use print statements throughout the code to show where error is.
+		* Alter input to make sure body of loop is working correctly.
+		* Make sure lists don't go out of bounds/past the end of the list.
 3. **Lab**
 	* This lab will have students read code and look for errors by reading through the code not at the computer		* After reading through the code they can practice debugging practices mentioned
 4. **Debrief**
