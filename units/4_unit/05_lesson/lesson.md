@@ -7,7 +7,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Quiz]
-* [Lab]
+* [Lab] - Debugging Practice
 * [Coding Example]
 * Read through the quiz, lesson, and lab so that you are familiar with the requirements and can assist students
 * Go through the quiz and create an answer key & scoring rubric
