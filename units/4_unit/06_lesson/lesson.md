@@ -57,9 +57,11 @@ Students will be able to...
 	 
 
 ###Accommodation/Differentiation
-Students can create a variable size board
+Students can create a variable sized board.
 
-The checker can actually be done using one function taking in the start x and y and the movement of the x and y. 
+The checkers can actually be done using one function taking in the start x and y and the movement of the x and y. 
+
+
 
 [Project Spec - Tic-Tac-Toe]: project.md
   
