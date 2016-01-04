@@ -30,7 +30,7 @@ Students will be able to...
   * Distribute the project spec to all students and walk them through the goals and requirements of the project. 
   * Show a demo of a completed project.
   * Go over specific design considerations from the project spec: 
-    * Draw out a game board using nested lists. Have students call out moves and practice going through a game.
+    * Draw out a game board using lists and a variable saving the current floor. Have students call out moves and practice going through a game. (Note using lists of lists ended up being too much info to cover here. If you think the students are ready it would make more sense design wise)
     * Introduce the concept of global variables and how they will be useful here.
     * Identify the importance of the "User Pocket" and how to use a list along with `append` and `remove` for this information.
 2. **Design**

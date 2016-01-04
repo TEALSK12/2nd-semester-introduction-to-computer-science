@@ -13,7 +13,7 @@ This game will take place in a three story dungeon. The user will have to traver
 * monsters: guard rooms. Users can use a sword to defeat the monster. if they have no sword they can run away. Sword and monsters disappear after fighting. 
 * boss monster requires a sword and a magic stone to defeat it
 ### Implementation details 
-* there should be a representation of the game using nested lists
+* there should be a representation of the game using lists
 * a list to keep track of the user's items, at the beggining of the game it's empty 
 * 3 different monsters placed throughout the game which require a sword to win
 * a boss monster which requires magic stones and a sword to defeat
@@ -22,7 +22,7 @@ This game will take place in a three story dungeon. The user will have to traver
 
 ### Design Considerations
 #### Game Board
-The game board is the basis of the game. It will be helpful to design a nested list to represent the terrain. 
+The game board is the basis of the game. The following is a way to think of the game board as a set of three lists. 
 ``` 
 floor_1 = ['nothing', 'nothing', 'stairs up']
 floor_2 = ['nothing', 'nothing', 'stairs up']
@@ -62,7 +62,7 @@ if user_input == "down":
 | Prize is blocked by boss monster                                | 5   |
 | **Sub total**                                                   | 50  |
 | **Technical Correctness   **                                    |     |
-| Correctly use nested lists                                      | 15  |
+| Correctly use of lists                                          | 15  |
 | Correctly appends items to list of users pocket                 | 15  |
 | Correctly uses if statements to check items in a users pockets  | 15  |
 | Correctly using `or` statements and `and` statements            | 15  |
@@ -70,4 +70,5 @@ if user_input == "down":
 | **Total**                                                       | 110 |
 
 ##Extra Credit
-Add the command `run`, which allows a player to run away from a fight with a monster. This should work 40% of the time. (Hint: Research the random library)
+* Add the command `run`, which allows a player to run away from a fight with a monster. This should work 40% of the time. (Hint: Research the random library)
+* Implement the board using nested lists (each item of the list is a list)
