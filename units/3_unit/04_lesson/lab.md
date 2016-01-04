@@ -1,7 +1,7 @@
 # Lab 3.04 - Aliasing & Scope
 
 ##Aliasing 
-* Will updating b affect a?   
+* Will updating b affect a? Explain why or why not? 
     
     ```python
         a = [1, 2, 4]
@@ -9,7 +9,7 @@
       ```
     <br>
     
-* What will the list print out after this code is run?
+* Predict what `my_list` list will print out when this code is run. If you are not sure check the code by copying and running it. 
     
      ```python
      # input: a list of ints
@@ -26,7 +26,7 @@
     <br>
     
 ##Scope
-* Draw the stack diagram for the following:
+* Draw a stack diagram for the following:
     
     ```python
 	var_1 = "kittens"
@@ -50,3 +50,19 @@
      ```
     <br>
      
+* Describe what is wrong with the following code. Then write out how to fix it. If you are unsure copy and run the code and fix it. 
+
+```python
+var_1 = 'cat'
+var_2 = 'dog'
+
+def print_out_my_favorite(favorite_pet): 
+    if favorite_pet == var_1:
+        print("My favorite pet is the cat.")
+    if favorite_pet == var_2: 
+        print("My favorite pet is the dog.")
+
+print_out_my_favorite(var_1)
+```
+
+

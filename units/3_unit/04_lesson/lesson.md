@@ -4,7 +4,8 @@
 Students will be able to... 
 * Define and identify: **scope, aliasing, stack trace**
 * Understand that changing a list in a function updates the list outside of the function
-* Understand that updating variables in a function does not affect the variable outside of the function. 
+* Understand that updating variables in a function does not affect the variable outside of the function
+* Understand global variables
 * Draw a simple stack trace
 
 ##Materials/Preparation
@@ -29,7 +30,8 @@ Students will be able to...
     * Discuss what students observed in the Do Now and take time, if needed, to go over questions about concepts that students find challenging. 
     * Explain the concept of **aliasing**. You can draw on the board a diagram of the variable pointing to a list. Note that when passing the location of a list you are not passing the actual value, so the list can be changed. 
     * **Scope** of functions
-        * Explain to students that variables in functions are the arguments and the ones you define in the function. Variables from outside the function can be used, but they can't be set.  
+        * Explain to students that variables in functions are the arguments and the ones you define in the function. To use variables from outside the function you must put the phrase `global name_of_variable`. 
+        * Global variables: variables used in many different functions. 
    	    * Demonstrate how to draw the Stack Diagrams shown in the course book (found in section 3.4) and explain how they show the scope of variables.
    	    * Point out the error messages that will occur if you use a variable out of it's scope.
     * Debugging
