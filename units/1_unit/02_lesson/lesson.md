@@ -33,7 +33,7 @@ Students will be able to...
 		* Make sure all the students are able to do this and then give out the lab worksheet.
 3. **Lab Part 1** 
 	* Give students time to work on section 1, then pause to ask questions. 	
-	    *	What does the // do? How is that different from %?
+	    *	What does the // do? How is that different from /? And how are those different from %?
 		*	What’s the difference between 3.0 and 3?
 		*	**Floats**: a data type, number with a decimal point.
 		*  **Integers**: a data type, number without a decimal point.
