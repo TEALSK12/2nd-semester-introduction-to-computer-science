@@ -9,7 +9,7 @@ Students will be able to...
 * Know how to store a value into a variable
 
 ##Materials/Preparation
-* [Do Now] - Project on screen
+* [Do Now] 
 * [Lab] - Printing & Variables
 * Associated Reading - section 1.2 of Book
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students.
