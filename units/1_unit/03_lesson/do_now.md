@@ -1,5 +1,5 @@
 ## Do Now
-Open and save a new file called 'my_file.py' in the IDE. Run a program by typing `python3 my_file.py` into the terminal. Practice typing the following expressions and  running. Write down what you tried and what happened.
+Open and save a new file called `my_file.py` in the IDE. Run a program by typing `python3 my_file.py` into the terminal. Practice typing the following expressions and running the code. 
  
 `2 * 3 * 5`
 <br>
