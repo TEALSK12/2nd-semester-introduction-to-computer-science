@@ -31,7 +31,7 @@
     *  Pass out and the project specification and walk students through all the requirements and potential challenges.
     *  Emphasize that prompts must ask for the correct noun-verb combinations.
     *  Encourage students to look at the grading rubric on page two repeatedly throughout the project to ensure they are meeting all the requirements.
-    *  Demo a sample project [solution](project.py) for students to see how a completed program should function.
+    *  Demo a sample project [solution](project_file.py) for students to see how a completed program should function.
     * Identify the sub problems of Mad Libs
         * Have students list what variables, inputs, and print statements they will need  
 2.  **Project Work**
