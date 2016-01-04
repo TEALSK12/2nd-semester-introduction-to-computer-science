@@ -50,5 +50,5 @@
 ###Accommodation/Differentiation
 Ask students to research casting. Have them add, subtract, or multiply values as part of the story. 
 
-[Mad Libs - Example Code]: project.py
+[Mad Libs - Example Code]: project_file.py
 [Project Spec - Mad Libs]: project.md
