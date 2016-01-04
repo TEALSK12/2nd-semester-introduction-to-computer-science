@@ -15,7 +15,7 @@ The phases of the project will be:
     2. _Pitching_ - choosing a few ideas and developing a short description of what the project will entail
     3. _Review_ - getting feedback from your peers and instructors on your pitches and choosing one
     4. _Scenario Definition_ - listing out the features the project will need and what they will look like
-    5. _Wireframing_ - drawing simple sketches of what the various "screens" in your program will look like
+    5. _Flow Chart_ - drawing simple flow chart of what the various interactions in your program will look like
     6. _Specification_ - fleshing out all the specifics of how the project will work
     7. _Scheduling_ - listing the programming tasks necessary to complete your project and estimating how long each will take
     8. _Development_ - writing the code for your project by following the spec and schedule created in the previous steps
@@ -57,7 +57,7 @@ At least three times during the project period, and at least once each week, you
 |Brainstorming| 2 points|
 |Project Pitches    |6 points|
 |Feature List   |4 points|
-|Wireframes/Sketches    |4 points|
+|Flow Chart    |4 points|
 |Project Organizer (Specification)  |8 points|
 |Implementation Plan    |8 points|
 |Spec and plan are updated throughout project   |8 points|
