@@ -65,4 +65,9 @@ def print_out_my_favorite(favorite_pet):
 print_out_my_favorite(var_1)
 ```
 
+* Write a program that has a global variable, my_num. Create three functions that update my_num: 
+    1. add2: this function adds 2 to my_num
+    2. multiply_num: this function takes in a parameter, multiplier, and multiplies my_num by that parameter
+    3. add2_and_multiply: this function takes in a parameter, multiplier, and calls both add2 and multiply_num. 
+
 
