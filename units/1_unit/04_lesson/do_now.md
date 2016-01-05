@@ -2,10 +2,10 @@
 Type in the following code into a file and save: 
 
 ```python
-a = input(“What is your name? ”)
-# a = “cats and dogs”
+a = input("What is your name? ")
+# a = "cats and dogs"
 # meow
-print(“Hello there, ” + a)
+print("Hello there, " + a)
 ```
 
 1. Read through the code and write down what you expect the printed results to be?
@@ -27,8 +27,8 @@ Convert the following to Python code:
 Copy the following code into your editor. 
 
 ```python
-a = “this sentence should go second”
-b = “this sentence should go first.”  
+a = "this sentence should go second"
+b = "this sentence should go first."  
 c = a 
 a = b 
 # your code starts here

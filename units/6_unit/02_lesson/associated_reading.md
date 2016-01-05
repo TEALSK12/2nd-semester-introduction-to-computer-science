@@ -9,7 +9,7 @@ To add items to the dictionary, you can use square brackets:
 >>> eng2sp['one'] = 'uno'
 ```
 
-This line creates an item that maps from the key ’one’ to the value 'uno'. If we print the dictionary again, we see a key-value pair with a colon between the key and value:
+This line creates an item that maps from the key ‘one’ to the value 'uno'. If we print the dictionary again, we see a key-value pair with a colon between the key and value:
 
 ```
 >>> print(eng2sp)
@@ -54,4 +54,4 @@ Here’s how it works:
 {'a': 1, 'b': 1, 'o': 2, 'n': 1, 's': 2, 'r': 2, 'u': 2, 't': 1}
 ```
 
-The histogram indicates that the letters ’a’ and 'b' appear once; 'o' appears twice, and so on.
+The histogram indicates that the letters ‘a’ and ‘b’ appear once; ‘o’ appears twice, and so on.

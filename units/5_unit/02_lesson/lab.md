@@ -8,7 +8,7 @@ a.	“0”
 b.	“+”
 
 
-c.	“-“
+c.	“-”
 
 
 2. Create a new EarSketch project using the following requirements. Include your name and a project description at the top of the file.
