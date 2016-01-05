@@ -23,3 +23,5 @@ Section B
 No intro or outro
 
 
+#### Copyright Note
+The above is taken from the earsketch teaching resources. 

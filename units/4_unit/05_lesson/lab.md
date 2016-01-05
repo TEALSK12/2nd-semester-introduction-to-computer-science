@@ -5,7 +5,7 @@
     ```python
     def my_looping_function(list): 
 	    for i in range(1, len(list)+1): 
-		    print list[i]
+		    print(list[i])
 		
     basic_list = [1, 2, 3, 4, 5, 6]
     my_looping_function(basic_list)
@@ -24,7 +24,7 @@ Write down any bugs that you see in this program.
 		    value = a_list[a]
 		    for j in range(0, i): 
 		    	value += j 
-		    print value	
+		    print(value)
 
     basic_list = [1, 2, 3, 4]
     my_nested_looping_function(basic_list)

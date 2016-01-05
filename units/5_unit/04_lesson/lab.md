@@ -13,3 +13,7 @@ Create a new EarSketch project using the following requirements. Include your na
 
 	* Use comments to outline and describe your code
 
+
+
+#### Copyright Note
+The above is taken from the earsketch teaching resources. 

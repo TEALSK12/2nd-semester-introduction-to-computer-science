@@ -305,8 +305,8 @@ This flexibility can be useful, but there are some subtleties to it that might b
 In order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly. Conditional statements give us this ability. The simplest form is the if statement:
 ```
 if x > 0:
-    print 'x is positive'
-```
+    print('x is positive')
+    ```
 
 The boolean expression after if is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.
 if statements have the same structure as function definitions: a header followed by an indented body. Statements like this are called compound statements.
@@ -321,9 +321,9 @@ if x < 0:
 A second form of the if statement is alternative execution, in which there are two possibilities and the condition determines which one gets executed. The syntax looks like this:
 ```
 if x%2 == 0:
-    print 'x is even'
+    print('x is even')
 else:
-    print 'x is odd'
+    print('x is odd')
 ```
 If the remainder when x is divided by 2 is 0, then we know that x is even, and the program displays a message to that effect. If the condition is false, the second set of statements is executed. Since the condition must be true or false, exactly one of the alternatives will be executed. The alternatives are called branches, because they are branches in the flow of execution.
 
@@ -332,11 +332,11 @@ If the remainder when x is divided by 2 is 0, then we know that x is even, and t
 Sometimes there are more than two possibilities and we need more than two branches. One way to express a computation like that is a chained conditional:
 ```
 if x < y:
-    print 'x is less than y'
+    print('x is less than y')
 elif x > y:
-    print 'x is greater than y'
+    print('x is greater than y')
 else:
-    print 'x and y are equal'
+    print('x and y are equal')
 ```
 
 elif is an abbreviation of “else if.” Again, exactly one branch will be executed. There is no limit on the number of elif statements. If there is an else clause, it has to be at the end, but there doesn’t have to be one.
@@ -355,12 +355,12 @@ Each condition is checked in order. If the first is false, the next is checked, 
 One conditional can also be nested within another. We could have written the trichotomy example like this:
 ```
 if x == y:
-    print 'x and y are equal'
+    print('x and y are equal')
 else:
     if x < y:
-        print 'x is less than y'
+        print('x is less than y')
     else:
-        print 'x is greater than y'
+        print('x is greater than y')
 ```
 The outer conditional contains two branches. The first branch contains a simple statement. The second branch contains another if statement, which has two branches of its own. Those two branches are both simple statements, although they could have been conditional statements as well.
 Although the indentation of the statements makes the structure apparent, nested conditionals become difficult to read very quickly. In general, it is a good idea to avoid them when you can.
@@ -369,13 +369,13 @@ Logical operators often provide a way to simplify nested conditional statements.
 ```
 if 0 < x:
     if x < 10:
-        print 'x is a positive single-digit number.'
+        print('x is a positive single-digit number.')
 ```
-The print statement is executed only if we make it past both conditionals, so we can get the same effect with the and operator:
+The print(statement is executed only if we make it past both conditionals, so we can get the same effect with the and operator:)
 
 ```
 if 0 < x and x < 10:
-    print 'x is a positive single-digit number.'
+    print('x is a positive single-digit number.')
 ```
 
 ## 2.4
@@ -401,7 +401,7 @@ As you might expect, you can assign list values to variables:
 >>> cheeses = ['Cheddar', 'Edam', 'Gouda']
 >>> numbers = [17, 123]
 >>> empty = []
->>> print cheeses, numbers, empty
+>>> print(cheeses, numbers, empty)
 ['Cheddar', 'Edam', 'Gouda'] [17, 123] []
 ```
 
@@ -409,7 +409,7 @@ As you might expect, you can assign list values to variables:
 
 The syntax for accessing the elements of a list is the same as for accessing the characters of a string—the bracket operator. The expression inside the brackets specifies the index. Remember that the indices start at 0:
 ```
->>> print cheeses[0]
+>>> print(cheeses[0])
 Cheddar
 ```
 
@@ -417,7 +417,7 @@ Unlike strings, lists are mutable. When the bracket operator appears on the left
 ```
 >>> numbers = [17, 123]
 >>> numbers[1] = 5
->>> print numbers
+>>> print(numbers)
 [17, 5]
 ```
 
@@ -442,7 +442,7 @@ The + operator concatenates lists:
 >>> a = [1, 2, 3]
 >>> b = [4, 5, 6]
 >>> c = a + b
->>> print c
+>>> print(c)
 [1, 2, 3, 4, 5, 6]
 ```
 
@@ -476,7 +476,7 @@ A slice operator on the left side of an assignment can update multiple elements:
 ```
 >>> t = ['a', 'b', 'c', 'd', 'e', 'f']
 >>> t[1:3] = ['x', 'y']
->>> print t
+>>> print(t)
 ['a', 'x', 'y', 'd', 'e', 'f']
 ```
 
@@ -486,7 +486,7 @@ Python provides methods that operate on lists. For example, append adds a new el
 ```
 >>> t = ['a', 'b', 'c']
 >>> t.append('d')
->>> print t
+>>> print(t)
 ['a', 'b', 'c', 'd']
 ```
 
@@ -496,9 +496,9 @@ There are several ways to delete elements from a list. If you know the index of 
 ```
 >>> t = ['a', 'b', 'c']
 >>> x = t.pop(1)
->>> print t
+>>> print(t)
 ['a', 'c']
->>> print x
+>>> print(x)
 b
 ```
 
@@ -508,7 +508,7 @@ If you know the element you want to remove you can use remove:
 ```
 >>> t = ['a', 'b', 'c']
 >>> t.remove('b')
->>> print t
+>>> print(t)
 ['a', 'c']
 ```
 
@@ -529,9 +529,9 @@ Computers are often used to automate repetitive tasks. Repeating identical or si
 Here is an example countdown snippet that uses a while statement:
 ```
 while n > 0:
-    print n
+    print(n)
     n = n-1
-print 'Blastoff!'
+print('Blastoff!')
 ```
 You can almost read the while statement as if it were English. It means, “While n is greater than 0, display the value of n and then reduce the value of n by 1. When you get to 0, display the word Blastoff!”
 More formally, here is the flow of execution for a while statement:
@@ -613,7 +613,7 @@ Before we can use the module, we have to import it:
 ```
 >>> import math
 This statement creates a module object named math. If you print the module object, you get some information about it:
->>> print math
+>>> print(math)
 <module 'math' (built-in)>
 ```
 
@@ -676,8 +676,8 @@ Here is an example:
 
 ```
 def print_lyrics():
-    print "I'm a lumberjack, and I'm okay."
-    print "I sleep all night and I work all day."
+    print("I'm a lumberjack, and I'm okay.")
+    print("I sleep all night and I work all day.")
 ```
 def is a keyword that indicates that this is a function definition. The name of the function is `print_lyrics`. The rules for function names are the same as for variable names: letters, numbers and some punctuation marks are legal, but the first character can’t be a number. You can’t use a keyword as the name of a function, and you should avoid having a variable and a function with the same name.
 The empty parentheses after the name indicate that this function doesn’t take any arguments.
@@ -690,15 +690,15 @@ If you type a function definition in interactive mode, the interpreter prints el
 
 ```
 >>> def print_lyrics():
-...     print "I'm a lumberjack, and I'm okay."
-...     print "I sleep all night and I work all day."
+...     print("I'm a lumberjack, and I'm okay.")
+...     print("I sleep all night and I work all day.")
 ...
 ```
 To end the function, you have to enter an empty line (this is not necessary in a script).
 Defining a function creates a variable with the same name.
 
 ```
->>> print print_lyrics
+>>> print(print_lyrics)
 <function print_lyrics at 0xb7e99e9c>
 >>> type(print_lyrics)
 <type 'function'>
@@ -730,8 +730,8 @@ Pulling together the code fragments from the previous section, the whole program
 
 ```
 def print_lyrics():
-    print "I'm a lumberjack, and I'm okay."
-    print "I sleep all night and I work all day."
+    print("I'm a lumberjack, and I'm okay.")
+    print("I sleep all night and I work all day.")
 
 def repeat_lyrics():
     print_lyrics()
@@ -772,8 +772,8 @@ Inside the function, the arguments are assigned to variables called parameters. 
 
 ```
 def print_twice(bruce):
-    print bruce
-    print bruce
+    print(bruce)
+    print(bruce)
 ```
 
 This function assigns the argument to a parameter named bruce. When the function is called, it prints the value of the parameter (whatever it is) twice.
@@ -861,7 +861,7 @@ def absolute_value(x):
 This function is incorrect because if x happens to be 0, neither condition is true, and the function ends without hitting a return statement. If the flow of execution gets to the end of a function, the return value is None, which is not the absolute value of 0.
 
 ```
->>> print absolute_value(0)
+>>> print(absolute_value(0))
 None
 ```
 By the way, Python provides a built-in function called abs that computes absolute values.
@@ -890,10 +890,10 @@ This function takes two arguments, concatenates them, and prints the result twic
 Bing tiddle tiddle bang.
 Bing tiddle tiddle bang.
 ```
-When cat_twice terminates, the variable cat is destroyed. If we try to print it, we get an exception:
+When cat_twice terminates, the variable cat is destroyed. If we try to print(it, we get an exception:)
 
 ```
->>> print cat
+>>> print(cat)
 NameError: name 'cat' is not defined
 ```
 Parameters are also local. For example, outside print_twice, there is no such thing as bruce.
@@ -966,7 +966,7 @@ If the aliased object is mutable, changes made with one alias affect the other:
 
 ```
 >>> b[0] = 17
->>> print a
+>>> print(a)
 [17, 2, 3]
 ```
 
@@ -982,7 +982,7 @@ def delete_head(t):
 Here’s how it is used:
 >>> letters = ['a', 'b', 'c']
 >>> delete_head(letters)
->>> print letters
+>>> print(letters)
 ['b', 'c']
 ```
 The parameter t and the variable letters are aliases for the same object. The stack diagram looks like the following:
@@ -995,13 +995,13 @@ It is important to distinguish between operations that modify lists and operatio
 ```
 >>> t1 = [1, 2]
 >>> t2 = t1.append(3)
->>> print t1
+>>> print(t1)
 [1, 2, 3]
->>> print t2
+>>> print(t2)
 None
 
 >>> t3 = t1 + [4]
->>> print t3
+>>> print(t3)
 [1, 2, 3, 4]
 ```
 
@@ -1021,7 +1021,7 @@ def tail(t):
 This function leaves the original list unmodified. Here’s how it is used:
 >>> letters = ['a', 'b', 'c']
 >>> rest = tail(letters)
->>> print rest
+>>> print(rest)
 ['b', 'c']
 ```
 
@@ -1032,14 +1032,14 @@ The most common way to traverse the elements of a list is with a for loop. The s
 
 ```
 for cheese in cheeses:
-    print cheese
+    print(cheese)
 ```
 
 This works well if you only need to read the elements of the list.
 A for loop over an empty list never executes the body:
 
 for x in []:
-    print 'This never happens.'
+    print('This never happens.')
 
 Although a list can contain another list, the nested list still counts as a single element. The length of this list is four:
 ['spam', 1, ['Brie', 'Roquefort', 'Pol le Veq'], [1, 2, 3]]
@@ -1052,7 +1052,7 @@ A lot of computations involve processing a string one character at a time. Often
 index = 0
 while index < len(fruit):
     letter = fruit[index]
-    print letter
+    print(letter)
     index = index + 1
 ```
 
@@ -1065,7 +1065,7 @@ Another way to write a traversal is with a for loop:
 
 ```
 for char in fruit:
-    print char
+    print(char)
 ```
 
 Each time through the loop, the next character in the string is assigned to the variable char. The loop continues until no characters are left.
@@ -1077,7 +1077,7 @@ prefixes = 'JKLMNOPQ'
 suffix = 'ack'
 
 for letter in prefixes:
-    print letter + suffix
+    print(letter + suffix)
 The output is:
 Jack
 Kack
@@ -1104,7 +1104,7 @@ count = 0
 for letter in word:
     if letter == 'a':
         count = count + 1
-print count
+print(count)
 ```
 
 This program demonstrates another pattern of computation called a counter. The variable count is initialized to 0 and then incremented each time an a is found. When the loop exits, count contains the result—the total number of a’s.
@@ -1163,7 +1163,7 @@ For debugging this kind of error, my first move is to print the values of the in
 
 ```
     while j > 0:
-        print i, j        # print here
+        print (i, j)        # print here
 
         if word1[i] != word2[j]:
             return False
@@ -1215,7 +1215,7 @@ The function dict creates a new dictionary with no items. Because dict is the na
 
 ```
 >>> eng2sp = dict()
->>> print eng2sp
+>>> print(eng2sp)
 {}
 ```
 
@@ -1230,7 +1230,7 @@ You can create a new dictionary with three items:
 But if you print eng2sp, you might be surprised:
 
 ```
->>> print eng2sp
+>>> print(eng2sp)
 {'one': 'uno', 'three': 'tres', 'two': 'dos'}
 ```
 

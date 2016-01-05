@@ -14,5 +14,5 @@ class Pokemon(object):
 		self.health_points -= attack_power
 
 	def growl(self):
-		print "Growl"
+		print("Growl")
 

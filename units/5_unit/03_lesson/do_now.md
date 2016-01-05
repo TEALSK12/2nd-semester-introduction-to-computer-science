@@ -1,3 +1,3 @@
 # Do Now 5.03
 
-1. Re skim Unit 1 Part 2. Write down the key terms. 
+1. Re skim [Unit 3](http://earsketch.gatech.edu/category/unit-3) Write down the key terms. 
