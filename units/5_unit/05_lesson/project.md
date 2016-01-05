@@ -13,7 +13,7 @@ We have worked in class to practice creating sections of songs. We will use that
 * Each verse should consist of at least 8 measures
 * The chorus should consist of at least 8 measures
 * The bridge should consist of 2-8 measures
-* The song should have a flow and underlying themes that recur
+* The song should have a flow and underlying themes that recur via the use of variables
 
 ### Implementation Details
 * Use of for loop for creating tracks
@@ -41,3 +41,9 @@ We have worked in class to practice creating sections of songs. We will use that
 | Keeps track of measure using return statements | 15  |
 | **Sub total**                                                   | 45  |
 | **Total**                                                       | 70 |
+
+
+
+
+#### Copyright Note
+The above is adapted from the earsketch teaching resources. 

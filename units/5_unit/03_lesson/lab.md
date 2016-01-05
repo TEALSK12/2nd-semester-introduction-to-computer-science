@@ -17,3 +17,7 @@
 		* The other track should use a for loop to repeat a rhythm for every other measure in the song (e.g. 1, 3, 5, 7, 9, 11….)
 
 
+
+#### Copyright Note
+The above is taken from the earsketch teaching resources. 
+
