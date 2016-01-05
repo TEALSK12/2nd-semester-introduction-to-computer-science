@@ -46,7 +46,7 @@ Students will be able to...
 
 
 ###Accommodation/Differentiation
-As an extension activity, ask students to research the deal function and the functions associated with it.
+As an extension activity, ask students to research the shuffle function and the functions associated with it.
   
 
 [Do Now]:do_now.md
