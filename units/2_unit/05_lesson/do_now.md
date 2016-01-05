@@ -34,7 +34,3 @@ Type the following into the terminal. What happens?
  print(a_list[6])
 ```
 
-What type do you think the following is? 
-```
-unknown = ['a', 'b', 11, ['look', 'wow', 'cool']]
-```
