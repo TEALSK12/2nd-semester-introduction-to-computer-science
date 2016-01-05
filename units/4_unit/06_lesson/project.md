@@ -1,6 +1,6 @@
 # Project 4: Tic-Tac-Toe
 
-Using Python, students will create a complete Tic-Tac-Toe game. This project has two parts: 
+Using Python, students will create a Tic-Tac-Toe game. This project has two parts: 
 1. Designing the game so that two users can play Tic-Tac-Toe against one another.
 2. Creating a Tic-Tac-Toe checker which will check the board to see if Xs or Os have won the game. 
 
