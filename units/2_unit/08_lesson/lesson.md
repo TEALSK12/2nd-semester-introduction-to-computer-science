@@ -48,4 +48,4 @@ Advanced students can also be paired as tutors/helpers with struggling students.
     
   
 [Project Spec - Text Monster]: project.md
-[Text Monster Game - Example Code]: project_file.html
+[Text Monster Game - Example Code]: project_file.py
