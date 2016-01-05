@@ -36,7 +36,7 @@ But that’s not a problem because the elements of a dictionary are never indexe
 'dos'
 ```
 
-The key ’two’ always maps to the value 'dos' so the order of the items doesn’t matter.
+The key ‘two’ always maps to the value 'dos' so the order of the items doesn’t matter.
 If the key isn’t in the dictionary, you get an exception:
 
 ```

@@ -5,11 +5,11 @@ Practice typing out some statements in the editor part of the IDE, then hit "Run
 
 | Expression | Expected Output | Did anything unexpected happen? |
 |------------|-----------------|--------|
-|`print(“1”)`|                 |        |
+|`print("1")`|                 |        |
 |`print(1)`|                   |        |
 |`print(1 + 2)`|               |        |
-|`print(“1” + “2”)`|           |        |
-|`print(“this” + “ “ + “is” + “ “ + “a” + “ “ + “sentence” + “.”)`|              |   |        |
+|`print("1" + "2")`|           |        |
+|`print("this" + " " + "is" + " " + "a" + " " + "sentence" + ".")`|              |   |        |
 
 
 ## Part 2 - Variables Practice
