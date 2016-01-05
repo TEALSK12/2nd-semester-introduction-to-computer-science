@@ -1,6 +1,6 @@
 # Do Now 5.01 
 
-1. Skim the 'Getting Started with Programming'
+1. Skim the [Unit 1](http://earsketch.gatech.edu/category/unit-1)
 2. Copy the following code from the reading above into the EarSketch Editor: 
 
 ```
