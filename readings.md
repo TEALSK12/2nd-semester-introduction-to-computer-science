@@ -1,3 +1,5 @@
+Associated Readings adapted from [**Think Python - How To Think Like A Computer Scientist**](http://www.greenteapress.com/thinkpython/thinkpython.pdf) by Allen Downey
+
 # Unit 1
 ## 1.1
 ### Values and Types
