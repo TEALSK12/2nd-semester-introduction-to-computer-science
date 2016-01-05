@@ -1,11 +1,19 @@
 # Lab 5.03: Earsketch Control Flow
 
-1. Single Track Song. Create a song that uses the following: 
-	* Using at least 1 loop of `fitMedia`, `makeBeat()`, and `setEffect`
-	* Use a conditional statement to add some variance to your for loop. 
-2. Create a multi-track song with the following: 
-	* Using at least 1 loop of `fitMedia`, `makeBeat()`, and `setEffect`
-	* Use a conditional statement to add some variance to your for loop. 
-	* play around with `makeBeat()` to construct a few different beat strings. 
-	* make a list of the beat strings and use these in the song as well. 
+1.	Write a for loop that repeats the given rhythm every other measure from measure 1 to 8 (e.g. 1, 3, 5, etc.) on track 1.
+* Audio loop constant: HIPHOP_STOMP_BEAT_001
+* Rhythm: “0---0-0-00000+++”
+
+2. Create an EarSketch script using the following requirements. Include your name and a description in comments at the top of the file.
+
+	* Create a project with 4 tracks that is at least 16 measures in length
+
+	* 2 tracks should be music tracks, containing fitmedia() function calls
+
+	* The remaining two tracks should contain makeBeat() function calls
+
+		* One track should use a for loop to repeat a rhythm (beat string) for every measure in the song
+
+		* The other track should use a for loop to repeat a rhythm for every other measure in the song (e.g. 1, 3, 5, 7, 9, 11….)
+
 

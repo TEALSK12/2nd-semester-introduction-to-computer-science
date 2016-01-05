@@ -7,7 +7,9 @@ We have worked in class to practice creating sections of songs. We will use that
 
 ### Behavior
 * The song will have pattern (verse, chorus, verse2, chorus, bridge, chorus)
+* Create 4 different variables that will hold your choice of audio constants
 * The verses should contain some of the same forms, but be independent. 
+* The project should have at least 4 tracks, and each track should use a different/unique sound file (different constant)
 * Each verse should consist of at least 8 measures
 * The chorus should consist of at least 8 measures
 * The bridge should consist of 2-8 measures
