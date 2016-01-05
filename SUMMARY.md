@@ -152,4 +152,5 @@
        * [File](units/7_unit/05_lesson/project_file.py)
 * [Unit 8](units/8_unit/unit8.md)
    * [Project]((units/8_unit/project.md)
+* [Associated Readings](readings.md)
 
