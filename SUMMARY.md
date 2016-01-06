@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Curriculum Map](curriculum_map.md)
-* [Summary](.)
+* [Summary](SUMMARY.md)
 * [Unit 1](units/1_unit/unit_1.md)
    * [Lesson 1.01: Set Up](units/1_unit/01_lesson/lesson.md)
        * [IDE Sign Up](units/1_unit/01_lesson/python_online_editor_sign_up.md)
@@ -80,6 +80,7 @@
        * [Lab 4.05](units/4_unit/05_lesson/lab.md)
    * [Lesson 4.06: Tic-Tac-Toe](units/4_unit/06_lesson/lesson.md)
        * [Project: Tic-Tac-Toe](units/4_unit/06_lesson/project.md)
+       * [File](units/4_unit/06_lesson/project_file.py)
 * [Unit 5](units/5_unit/unit5.md)
    * [Lesson 5.01: Earsketch Intro](units/5_unit/01_lesson/lesson.md)
        * [Do Now 5.01](units/5_unit/01_lesson/do_now.md)
