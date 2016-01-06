@@ -35,12 +35,12 @@
 * User picks a number.
 * Print prize associated with the door user picked. 
 
-3) Create a quiz to help you choose which college you should got to! The program should ask the user a question and list five possible answers. If the student chooses the first answer, add 1 point to `School[0]`. If they choose the second answer add 1 point to `School[1]`. And so on. At the end print out the schools and the scores for each school. 
+3) Create a quiz to help you choose which college you should got to (or another topic of your choide. See Example Below)! The program should ask the user a question and list five possible answers. If the student chooses the first answer, add 1 point to `School[0]`. If they choose the second answer add 1 point to `School[1]`. And so on. At the end print out the schools and the scores for each school. 
 * Create a list of 5 options of colleges.
 * Create a different list of five 0s, representing the user's votes so far.
 * Create 4 questions. Each question should have five different answers. Each answer corresponds to the specific school option.
 * At the end print off the 5 different schools and the score the user got for each of those schools. 
-
+* Example: [Buzzfeed's What Should your college majro actually be Quiz](http://www.buzzfeed.com/mattbellassai/what-should-your-college-major-actually-be#.kjaWpyrAwn)
 ###Bonus!
 Research nested lists and work through the following: 
 
