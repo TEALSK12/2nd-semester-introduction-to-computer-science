@@ -11,7 +11,7 @@ Open up the terminal. Type the following code using interactive mode.
 while True: 
     print('a')
     ```
-What happens when you run this code? 
+What happens when you run this code?
 <br><br>
 
 Try using other Boolean expressions instead of `True` (e.g. `4 > 5` and `9 != 2`), and explore what happens.
