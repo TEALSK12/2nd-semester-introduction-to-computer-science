@@ -67,6 +67,7 @@ def print_out_my_favorite(favorite_pet):
     var_1 = "cats"
 
 print_out_my_favorite(var_1)
+print(var_2)
 ```
 
 * Write a program that has a global variable, `my_num`. Create three functions that update `my_num`: 
