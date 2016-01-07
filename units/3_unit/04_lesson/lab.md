@@ -63,7 +63,7 @@ def print_out_my_favorite(favorite_pet):
         print("My favorite pet is the cat.")
     if favorite_pet == var_2: 
         print("My favorite pet is the dog.")
-    var_1 = "cats"
+    var_2 = "cat"
 
 print_out_my_favorite(var_1)
 print(var_2)
