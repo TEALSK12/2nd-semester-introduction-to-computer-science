@@ -18,8 +18,8 @@
      	if len(a_list) > 5: 
      		a_list[3] = "yo"
      		b = a_list[4]
-     		c = a 
-     	return c
+            c = b
+            c = 100
      my_list = [1, 2, 3, 4, 5]
      update_list(my_list)
      ```
@@ -52,17 +52,19 @@
     <br>
     <br>
     
-* Describe what is wrong with the following code, then write out how to fix it. If you are unsure copy and run the code and fix it. 
+* Write down what thing(s) are wrong with the following code, then write out how to fix it. If you are unsure copy and run the code and fix it. 
 
 ```python
 var_1 = 'cat'
 var_2 = 'dog'
 
 def print_out_my_favorite(favorite_pet): 
+    var_2 = "cat"
     if favorite_pet == var_1:
         print("My favorite pet is the cat.")
     if favorite_pet == var_2: 
         print("My favorite pet is the dog.")
+    var_1 = "cats"
 
 print_out_my_favorite(var_1)
 ```
