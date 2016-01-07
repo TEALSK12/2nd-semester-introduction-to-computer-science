@@ -52,7 +52,7 @@
     <br>
     <br>
     
-* Write down what is wrong with the following code, then write out how to fix it. If you are unsure copy and run the code and fix it. 
+* Write down what (if anything) is wrong with the following code. If there was an issue write out how to fix it. If you are unsure copy and run the code and fix it. 
 
 1. ```python
 var_1 = 'cat'
@@ -83,7 +83,19 @@ def print_out_my_favorite(favorite_pet):
 print_out_my_favorite(var_1)
 print(var_1 + " " + var_2)
 ```
+3. ```python
+var_1 = 'cat'
+var_2 = 'dog'
 
+def print_out_my_favorite(favorite_pet): 
+    if favorite_pet == var_1:
+        print("My favorite pet is the cat.")
+    if favorite_pet == var_2: 
+        print("My favorite pet is the dog.")
+
+print_out_my_favorite(var_1)
+print(var_2)
+```
 * Write a program that has a global variable, `my_num`. Create three functions that update `my_num`: 
     1. `add2`: this function adds 2 to `my_num`
     2. `multiply_num`: this function takes in a parameter, `multiplier`, and multiplies `my_num` by that parameter
