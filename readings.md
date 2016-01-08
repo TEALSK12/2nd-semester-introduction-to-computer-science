@@ -287,7 +287,9 @@ Although these operations are probably familiar to you, the Python symbols are d
 
 There are three logical operators: `and`, `or`, and `not`. The semantics (meaning) of these operators is similar to their meaning in English. For example, `x > 0` and `x < 10` is true only if x is greater than 0 and less than 10.
 
-n*2 == 4 or n * 10 == 100 is true if either of the conditions is true, that is, if the number is 2 or 10.
+`n * 2 == 4 or n * 10 == 100` is true if either of the conditions is true, that is, if the number is 2 or 10.
+
+The `or` expression is true whenever one of the operands is true and the `and` expression is false whenever one of the operands is false.
 
 Finally, the not operator negates a boolean expression, so `not (x > y)` is true if `x > y` is false, that is, if `x` is less than or equal to `y`.
 
