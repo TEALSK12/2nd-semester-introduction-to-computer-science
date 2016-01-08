@@ -51,8 +51,8 @@ Operators are special symbols that represent computations like addition and mult
 The operators +, -, *, / and ** perform addition, subtraction, multiplication, division and exponentiation, as in the following examples:
 
 20+32   hour-1   hour*60+minute   minute/60   5**2   (5+9)*(15-7)
-In some other languages, ^ is used for exponentiation, but in Python it is a bitwise operator called XOR. I won’t cover bitwise operators in this book, but you can read about them at http://wiki.Python.org/moin/BitwiseOperators.
-In Python 2, the division operator might not do what you expect:
+In some other languages, ^ is used for exponentiation, but in Python it is a bitwise operator called XOR. We won’t cover bitwise operators in this book, but you can read about them at http://wiki.Python.org/moin/BitwiseOperators. Exponentiation in Python3 is **.
+In Python 3, the division operator might not do what you expect:
 
 ```
 >>> minute = 59
