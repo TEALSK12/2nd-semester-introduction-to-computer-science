@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to...
 
-* Define and identify: **Digital Audio Workstation**, **sound tab**, **fitMedia()**, **setTempo()**
+* Define and identify: **Digital Audio Workstation (DAW)**, **sound tab**, `fitMedia()`, `setTempo()`
 * Playing beats using the functions
 * Loop through items in a list
 * Be aware of the scope of variables during iteration 
