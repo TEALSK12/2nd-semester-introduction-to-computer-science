@@ -10,12 +10,12 @@ Create a basic EarSketch project using the following requirements:
 
 * Set the tempo of the project to 140 BPM.
 
-* Make 4 different variables that will hold the following constants.
+* Make 4 different variables that will hold the following constants:
+    * DUBSTEP_BASS_WOBBLE_007
+    * DUBSTEP_PAD_003
+    * DUBSTEP_DRUMLOOP_MAIN_005
+    * DUBSTEP_LEAD_004
 
-* DUBSTEP_BASS_WOBBLE_007
-* DUBSTEP_PAD_003
-* DUBSTEP_DRUMLOOP_MAIN_005
-* DUBSTEP_LEAD_004
 
 * Make at least 4 tracks using the fitMedia() function. Each track should contain a different audio loop from the other tracks.
 
