@@ -4,7 +4,7 @@
 Students will be able to...
 
 * Define and identify: **Digital Audio Workstation (DAW)**, **sound tab**, `fitMedia()`, `setTempo()`
-* Playing beats using the functions
+* Play beats using the functions above
 * Loop through items in a list
 * Be aware of the scope of variables during iteration 
 
