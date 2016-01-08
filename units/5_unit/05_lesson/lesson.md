@@ -9,6 +9,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab]
+* [Solution]
 *  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -40,3 +41,4 @@ Students will be able to...
 
 [Do Now]: do_now.md
 [Lab]: lab.md
+[Solution]:https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=uy4L%2bNXevDtadDc79%2fKcxpSIua1iFXrI238ItmXd6WM%3d&docid=2_0ec2049bea79d42df809149d675bae951

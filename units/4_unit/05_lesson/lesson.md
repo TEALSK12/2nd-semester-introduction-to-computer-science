@@ -41,6 +41,6 @@ Students will be able to...
 ###Accommodation/Differentiation
 Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
 
-[Quiz]: quiz.md
+[Quiz]: https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=AulMaqrLY04T157Xh207genFiq5X%2fyyX%2finz3NS6%2fkQ%3d&docid=2_057a2060b7066463d9b2f0a20db43dfa1
 [Lab]: lab.md
 [Coding Example]: longer_coding_sample.py

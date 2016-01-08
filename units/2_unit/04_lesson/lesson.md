@@ -9,6 +9,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab] - Game Show
+* [Solution]
 * Associated Reading - section 2.3 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -55,3 +56,4 @@ If students are moving quickly, this lesson can move onto lists.
 
 [Do Now]:do_now.md
 [Lab]:lab.md
+[Solution]:https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=f7d%2fgf2GofFnhvyYbsI16jHchRVneTWHsP1Cm4PJgmE%3d&docid=2_055d33956721142c7b243f160229da407

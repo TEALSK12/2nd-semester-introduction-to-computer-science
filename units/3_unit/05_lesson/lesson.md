@@ -8,6 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Project Spec - Oregon Trail]
+* [Solution]
 * [Oregon Trail - Example Code] 
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit. 
@@ -52,4 +53,4 @@ The planning phase of this project will be essential, especially for students wh
     
 [Project Spec - Oregon Trail]:project.md 
 [Oregon Trail - Example Code]:oregon_trail.py
-  
+[Solution]:https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=m3pejyUtoi09xnOwpsZMEfDWDe3d8gpv2OxoeiRz6Xo%3d&docid=2_010f7b13b38d44a37bca10100517c18cb

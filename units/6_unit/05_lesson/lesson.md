@@ -8,7 +8,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Project]
-* [Project File]
+* [Solution]
 *  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -49,4 +49,4 @@ Students will be able to...
 
 [Do Now]: do_now.md
 [Project]: project.md
-[Project File]: project_file.py
+[Solution]: https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=SiDRR21t2U39M2qgdbGF3EfZq%2b4rIerR8fMwx9R6auI%3d&docid=2_0d7ca9312244a4b87a7c05420d2723d99
