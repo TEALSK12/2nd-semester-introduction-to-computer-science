@@ -23,7 +23,6 @@ Create a basic EarSketch project using the following requirements:
 
 * Define and use at least 4 variables using 4 different constants from the EarSketch Audio Loop Browser.
 
-
 * The project should have a total length of 12 measures.
 
 * Make sure to include descriptive comments throughout your script.
