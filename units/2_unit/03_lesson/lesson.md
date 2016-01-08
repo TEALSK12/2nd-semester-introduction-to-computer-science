@@ -32,6 +32,7 @@ Students will be able to...
     * == builds a boolean expression and is a way to compare two values
   * Remind students of boolean expressions in Snap! 
     ![Snap boolean Expressions](snap_boolean_expressions.png)
+    ![Snap boolean Expressions =](snap_boolean_expressions_equals.png)
     * Ask the students to recall what `and`, `or` and `not` did.
   * Give students additional time to finish completing part 2 of the Do Now, if needed. 
   * Have a student write up the expression they used to update the `can_get_license` code.
