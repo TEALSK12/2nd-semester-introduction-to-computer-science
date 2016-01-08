@@ -18,8 +18,8 @@ Students will be able to...
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
-| 10 Minutes | Lesson      |
-| 35 Minutes | Lab         |
+| 15 Minutes | Lesson      |
+| 30 Minutes | Lab         |
 | 5 Minutes | Debrief     |
 
 ## Instructor's Notes
