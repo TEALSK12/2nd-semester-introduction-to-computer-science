@@ -24,9 +24,9 @@ Students will be able to...
     * Students should take 5 minutes to follow the instructions on the Do Now in order to create/manipulate a user-defined function.  
 2. **Lesson**
     * Ask students to brainstorm why, in general, a function might be useful in programming.
-        * **Abstraction**: managing the complexity of a program.
+        * **Abstraction**: managing the complexity of a program by removing details and pushing them down to a lower level
         * Less repeated code.
-        * Consolidation of understanding.
+        * Breaking the problem up into smaller pieces and solving each piece
     * Demonstrate to students how you create a function using *def*, calling out the syntax and where arguments would go.
         * Ask students how they would call your example function.
     * Have students practice making a function that takes two arguments, adds them together, and returns the sum. 
