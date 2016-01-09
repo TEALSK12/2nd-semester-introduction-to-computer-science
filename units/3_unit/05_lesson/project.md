@@ -24,7 +24,7 @@ We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (20
 * Create functions for all options a player can take
 * Use globals to keep track of player health, food pounds, miles to go, current day, current month
 * Create a function add_day which updates the day 
-* Use global to keep track of which months have 31 days and use this in the add_day function
+* Use global list to keep track of which months have 31 days and use this in the add_day function (i.e.: MONTHS_WITH_31_DAYS = [1, 3, 5, 7, 8, 10, 12])
 * Create a function update_days which uses a while loop to call add_day function
 
 ## Grading 
@@ -36,7 +36,7 @@ We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (20
 | Game ends if food runs out, days run out, or health runs out    | 10  |
 | Days roll over correctly	                                      | 10  | 
 | Food decreases every day                                        | 5  | 
-| Helth decreases randomly	                                      | 5   | 
+| Health decreases randomly	                                      | 5   | 
 | **Sub total**                                                   | 50  |
 | **Technical Correctness   **                                    |     |
 | Correctly use functions and contracts                           | 20  |
@@ -48,3 +48,6 @@ We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (20
 | **Total**                                                       | 100 |
 
 
+## Extra Credit
+1.  Make the rate of food consumption be a function of activity. So if a player hunts for a turn they take up more food, but if they rest they take up less food. 
+2. Create a random event that occurs randomly once a month, like a river crossing or a dysentery, that will take up a range of 1-10 food, 1-10 days and 0-1 health. 
