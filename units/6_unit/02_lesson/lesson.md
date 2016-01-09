@@ -11,6 +11,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab]
+* [Solution]
 * Associated Reading - section 5.2 of Book
 *  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -44,3 +45,4 @@ Students will be able to...
 
 [Do Now]: do_now.md
 [Lab]: lab.md
+[Solution]: https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=uOYwneLNGVJjRu%2fk2JsP0ZuCRIyzXEX2SPeZwCKclWM%3d&docid=2_0ae84824a589048e4921e40ecea3ddf41
