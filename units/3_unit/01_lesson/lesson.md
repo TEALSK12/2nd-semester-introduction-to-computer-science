@@ -28,7 +28,9 @@ Students will be able to...
 2. **Lesson**
     * Build Your Own Blocks vs Functions
  	    * Ask students to recall how they built custom blocks in Snap! ![Snap Custom Block](https://i.ytimg.com/vi/Bbl2fh3igQ4/maxresdefault.jpg)
- 	    * **Function**: a named sequence of statements that performs a computation. When you define a function, you specify the name and the sequence of statements. Later, you can “**call**” the function by name. 
+ 	    * **Function**:  a named sequence of statements. You can use functions to perform complex calculations, graphical operations, and various other purposes. When you define a function, you specify the name and the sequence of statements. Later, you can “**call**” the function by name. 
+        * In SNAP! functions are blocks
+        * A function definition is like a contract: you tell the programmer what elements the function expects (name and type of arguments) and the function will perform its purpose. It is good practice to use a comment to specify the purpose and contract of a function, including the type of value it returns, if it returns a value
         * Explain that we have already gotten used to **calling** functions like `type()` and `print()`.
     * Ask students how they would create a random number generator. 
         * Sounds hard! Luckily someone has already done that: the random library (essentially a bunch of code written by someone else) which has many associated functions. 
