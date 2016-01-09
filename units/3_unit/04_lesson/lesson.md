@@ -32,7 +32,9 @@ Students will be able to...
     * **Scope** of functions
         * Explain to students that variables in functions are the arguments and the ones you define in the function. To use variables from outside the function you must put the phrase `global name_of_variable`. 
         * Global variables: variables used in many different functions. 
-   	    * Demonstrate how to draw the Stack Diagrams shown in the course book (found in section 3.4) and explain how they show the scope of variables.
+        * NOTE: We use the 'ALL CAPS' convention for global variables
+            * Discuss that programming languages frequently have conventions like camelCase for function names, ALL_CAPS for globals, and underscore_separated for variables. It helps make code more readable, but isn't essential to functionality (in most cases)
+   	    * Demonstrate how to draw the Stack Diagrams shown in the course book (found in section 3.4) and explain how they show the scope of variables as they related to functions.
    	    * Point out the error messages that will occur if you use a variable out of it's scope.
     * Debugging
         * Help students follow their program to understand how the code is working
