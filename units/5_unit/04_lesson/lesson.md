@@ -1,17 +1,17 @@
-#Lesson 5.04: EarSketch User Defined Functions
+#Lesson 5.04: EarSketch User-Defined Functions
 
 ##Learning Objectives
 Students will be able to...
 
-* Define and Identify: **abstraction**, **section**, **A-B-A form**
-* Using user defined functions to create songs with complicated form
+* Define and identify: **abstraction**, **section**, **A-B-A form**
+* Create and apply user-defined functions to create songs with complicated form
 
 
 ##Materials/Preparation
 * [Do Now]
 * [Lab]
 * Associated Reading in EarSketch
-*  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
+*  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 | **Duration**   | **Description** |
