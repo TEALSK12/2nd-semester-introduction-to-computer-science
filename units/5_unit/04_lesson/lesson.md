@@ -24,7 +24,8 @@ Students will be able to...
 ## Instructor's Notes
 
 1. **Do Now**
-    * Display the Do Now on the board
+    * Students should be given time to read unit 4 of the EarSketch documentation.
+    * Students are expected to write down key terms as they read.
 2. **Lesson**
 	* Ask what phrases the students wrote down or remembered from the reading. 
 		* **Section**: generally refers to several measures of music (often 2, 4, 8, or 16 measures) that sound like a single musical unit
