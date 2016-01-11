@@ -2,16 +2,9 @@
 
 
 1.	Beat strings are made up of combinations of three different characters. Explain the rhythmic meaning of each of the characters:
-
-a.	“0”
-
-
-b.	“+”
-
-
-c.	“-”
-
-
+    * "0”
+    * “+”
+    * “-”
 2. Create a new EarSketch project using the following requirements. Include your name and a project description at the top of the file.
     * This project should have 4 tracks and be 12 measures in length. Each track should use a different/unique audio sample.
     * Create 4 variables that hold audio loop constants.
