@@ -19,8 +19,8 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
-| 10 Minutes | Debrief     |
+| 35 Minutes | Lab         |
+| 5 Minutes | Debrief     |
 
 ## Instructor's Notes
 
@@ -35,11 +35,11 @@ Students will be able to...
 		* `setEffect()`: add an effect to a track. Takes parameters: track number, effect name, effect parameter, effect value
 		* `makeBeat()`: instead of composing at the measure-level, we can work at the note-level. Takes parameters: clip name, track number, measure number, beat string
 3. **Lab**
-	* Follow the EarSketch instructions below to use the `makeBeat()` function
-	* Create a simple song with 2 uses of fitMedia, 2 uses of makeBeat and 1 use of effect. 
-	* Students can use looping and if statements if they would like 
+	* Follow the EarSketch instructions in the lab to use the `makeBeat()` function
+	* Create a simple song with 2 uses of `fitMedia()`, 2 uses of `makeBeat()` and 1 use of an effect. 
+	* Students can use looping and if statements as an extension. 
 4. **Debrief**
-	* Talk about new functions, questions about data types and using strings.
+	* Talk about the new functions learned today, and go over any questions about data types and using strings.
 
 
 
