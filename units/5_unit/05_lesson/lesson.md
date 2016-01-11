@@ -2,13 +2,12 @@
 
 ##Learning Objectives
 Students will be able to...
-* Create song with multiple parts
+* Create a complete song in EarSketch with multiple parts
 * Utilize EarSketch's features and functions
 
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab]
 * [Example Solution]
 *  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
