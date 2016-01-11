@@ -37,14 +37,19 @@ Students will be able to...
 		* **Code Editor**: A text editor with numbered lines. Type your code here, press "Run", and it will turn into music in the DAW. 
 		* **Console**
 		* `setTempo()`: comes with a default argument of 120, but let's change it to 100. This sets the tempo of our project to 100 beats per minute. As you can see, the name of a function tells you what it does.
-		* `fitMedia()`: to add sound to the DAW. fitMedia() requires four arguments: clip name; track number; starting measure; ending measure. In other words, you tell it the name of the audio clip you want to add to the DAW, which track to put it on, and which measures to put it between. For now, just type in fitMedia() without any arguments.
+		* `fitMedia()`: to add sound to the DAW. fitMedia() requires four arguments: clip name; track number; starting measure; ending measure. In other words, you tell it the name of the audio clip you want to add to the DAW, which track to put it on, and which measures to put it between. For now, just type in `fitMedia()` without any arguments.
 3. **Lab**
-	* Practice updating the songs 
+	* Practice updating songs by entering different arguments into the `fitMedia()` function. 
 4. **Debrief**
-	* Talk about any of the phrases or issues the students had. Did they find it easy to understand the code when they read it.
+	* Talk about any of the phrases or issues the students had. 
+	* Take time to review the key terms and functions introduced today
 	* Have students read the next part(s) of the guide in EarSketch documentation. 
 
+###Accommodation/Differentiation
 
+Students that are moving quickly can read additional documentation on the EarSketch website in order to move ahead and expand their skills and understanding.
+
+Some students may need reminders about certain music terminology (tempo, measure, beat, etc)
 
 [Do Now]: do_now.md
 [Lab]: lab.md
