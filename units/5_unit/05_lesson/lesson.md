@@ -43,6 +43,7 @@ Students will be able to...
 	* Have students finalize which song they will be creating and write down the parts/structure of that song. 
 	* Take time to check that each student has thought through the entirety of their chosen song before moving forward to working on the project. 
 
+###Accommodation/Differentiation
 
 
 [Do Now]: do_now.md
