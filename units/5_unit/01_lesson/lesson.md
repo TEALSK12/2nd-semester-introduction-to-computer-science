@@ -25,7 +25,8 @@ Students will be able to...
 ## Instructor's Notes
 
 1. **Do Now**
-    * Display the Do Now on the board
+    * Display the Do Now on the board.
+    * Students are introduced to EarSketch and the 
 2. **Lesson**
 	* Ask what phrases the students wrote down or remembered from the reading. 
 		* **DAW**: The main tool for producing music on a computer is the Digital Audio Workstation, or DAW. A DAW is a piece of computer software for recording, editing, and playing digital audio files. Audio files store information that the computer uses to play back music. In the context of a DAW, these audio files are called clips. The DAW allows you to edit and combine multiple clips simultaneously on a musical timeline, and to see and hear how they line up over time. It also makes it easy to synchronize clips with each other. DAWs are used in both professional recording studios and in home laptop-based studios. Two popular DAWs are Pro Tools and Logic Pro.
