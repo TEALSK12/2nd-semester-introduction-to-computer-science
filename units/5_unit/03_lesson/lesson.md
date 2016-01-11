@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to...
 
-* Define and Identify: **modulo**
+* Define and identify: **modulo**
 * Use looping concepts in music making via EarSketch
 * Use control structures to create music
 * Review looping and controls structures
