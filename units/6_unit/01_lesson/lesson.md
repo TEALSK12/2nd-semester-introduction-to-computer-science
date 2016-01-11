@@ -4,7 +4,7 @@
 Students will be able to...
 
 * Define and identify: **dictionary**, **key**, **value**
-* Create dictionaries of key, value pairs
+* Create dictionaries of key-value pairs
 * Access and update items from dictionaries
 
 ##Materials/Preparation
