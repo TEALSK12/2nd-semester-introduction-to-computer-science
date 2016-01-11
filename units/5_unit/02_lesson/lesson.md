@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to...
 
-* Define and identify: **rhythm**, **beat**, **tempo**, **measures**, **setEffect()**, **makeBeat()**
+* Define and identify: **rhythm**, **beat**, **tempo**, **measures**, `setEffect()`, `makeBeat()`
 * Play beats using the functions
 * Loop through items in a list
 * Be aware of the scope of variables during iteration 
