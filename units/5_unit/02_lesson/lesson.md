@@ -41,6 +41,7 @@ Students will be able to...
 4. **Debrief**
 	* Talk about the new functions learned today, and go over any questions about data types and using strings.
 
+###Accommodation/Differentiation
 
 
 [Do Now]: do_now.md
