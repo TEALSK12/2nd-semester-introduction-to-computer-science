@@ -11,6 +11,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab] - EarSketch Music
+* [EarSketch Editor]
 * Associated Reading in EarSketch
 *  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -49,3 +50,4 @@ Students will likely bring a wide range of background knowledge around music and
 
 [Do Now]: do_now.md
 [Lab]: lab.md
+[EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
