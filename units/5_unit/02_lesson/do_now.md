@@ -1,3 +1,3 @@
 # Do Now: 5.02
 
-1. Re-skim [unit 2](http://earsketch.gatech.edu/category/unit-2) and write down key terms.  
+1. Begin reading EarSketch documentation in [unit 2](http://earsketch.gatech.edu/category/unit-2) and write down key terms.  
