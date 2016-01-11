@@ -1,7 +1,7 @@
 # Do Now 5.01 
 
 1. Skim the EarSketch documentation in [Unit 1](http://earsketch.gatech.edu/category/unit-1)
-2. Copy the following code from the reading above into the EarSketch Editor: 
+2. Copy the following code from the reading above into the [EarSketch Editor]: 
 
 ```python
 # python code
@@ -28,3 +28,5 @@ finish()
 ```
 
 What inputs does `fitMedia` take? Press the run button and describe what happened. 
+
+[EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
