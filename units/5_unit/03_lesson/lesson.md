@@ -39,7 +39,7 @@ Students will be able to...
 	* Talk about any of the common issues that students had with loops and control flow. 
 
 ###Accommodation/Differentiation
-
+Students that are moving quickly can read additional documentation on the EarSketch website in order to move ahead and expand their skills and understanding.
 
 [Do Now]: do_now.md
 [Lab]: lab.md
