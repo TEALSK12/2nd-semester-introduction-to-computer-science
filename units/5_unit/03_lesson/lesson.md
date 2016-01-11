@@ -36,8 +36,9 @@ Students will be able to...
 	* Students practice using looping to make a song a single track. Make sure that students use if statements and the modulo operator.
 	* Ask the students to practice using looping, effects, and control flow structures while using 2-3 different tracks.
 4. **Debrief**
-	* Talk about any of the issues that students had. Did they find it easy to understand the code when they read it.
+	* Talk about any of the common issues that students had with loops and control flow. 
 
+###Accommodation/Differentiation
 
 
 [Do Now]: do_now.md
