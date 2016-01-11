@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to...
 
-* Define and Identify: **dictionary**, **key**, **value**
+* Define and identify: **dictionary**, **key**, **value**
 * Create dictionaries of key, value pairs
 * Access and update items from dictionaries
 
