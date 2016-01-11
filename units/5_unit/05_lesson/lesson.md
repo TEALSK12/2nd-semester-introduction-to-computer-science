@@ -9,7 +9,8 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Example Solution]
-*  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
+*  Read through the do now and lesson so that you are familiar with the requirements and can assist students
+*  Practice creating your own EarSketch song(s) to demonstrate to students and to better understand the challenges they may face in the project
 
 ## Pacing Guide
 ###Day 1
