@@ -40,6 +40,7 @@ Students will be able to...
 4. **Debrief**
 	* Talk about any of the phrases or issues the students had. Did they find it easy to understand the code when they read it.
 
+###Accommodation/Differentiation
 
 
 [Do Now]: do_now.md
