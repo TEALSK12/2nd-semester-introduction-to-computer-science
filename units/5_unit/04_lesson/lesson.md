@@ -36,12 +36,12 @@ Students will be able to...
 	* Ask students about returning the measure number. Go over the concept of passing around the measure number and make sure students understand how it would be helpful. (Since it allows you to change how long/short sections are without updating every function)
 3. **Lab**	
 	* Demo a song with **A-B-A Form**: [https://www.youtube.com/watch?v=PSZxmZmBfnU](https://www.youtube.com/watch?v=PSZxmZmBfnU)
-	* Students create their own song with the form AABA. 
+	* Students create their own song with the form ABABAB. 
 4. **Debrief**
 	* Talk about any of the phrases or issues the students had. Did they find it easy to understand the code when they read it.
 
 ###Accommodation/Differentiation
-
+Students that are moving quickly could explore and create alternative song forms (ex. AABA).
 
 [Do Now]: do_now.md
 [Lab]: lab.md
