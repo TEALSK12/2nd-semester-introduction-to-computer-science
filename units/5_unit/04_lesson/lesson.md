@@ -38,7 +38,8 @@ Students will be able to...
 	* Demo a song with **A-B-A Form**: [https://www.youtube.com/watch?v=PSZxmZmBfnU](https://www.youtube.com/watch?v=PSZxmZmBfnU)
 	* Students create their own song with the form ABABAB. 
 4. **Debrief**
-	* Talk about any of the phrases or issues the students had. Did they find it easy to understand the code when they read it.
+	* Talk about any of the phrases or issues the students had. 
+	* If time allows, give students the opportunity to demo their songs for the class.
 
 ###Accommodation/Differentiation
 Students that are moving quickly could explore and create alternative song forms (ex. AABA).
