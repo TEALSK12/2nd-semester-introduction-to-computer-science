@@ -44,7 +44,7 @@ Students will be able to...
 	* Take time to check that each student has thought through the entirety of their chosen song before moving forward to working on the project. 
 
 ###Accommodation/Differentiation
-Certain students that have a limited music background may need additional assistance during the planning phase of the project. Students may need additional examples demonstrating the difference between a verse, chorus and bridge.
+Certain students that have a limited music background may need additional assistance during the planning phase of the project. Students may need additional examples demonstrating the difference between a verse, chorus, and bridge.
 
 [Do Now]: do_now.md
 [Lab]: lab.md
