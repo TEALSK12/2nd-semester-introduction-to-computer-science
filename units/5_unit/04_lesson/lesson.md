@@ -27,8 +27,8 @@ Students will be able to...
     * Students should be given time to read unit 4 of the EarSketch documentation.
     * Students are expected to write down key terms as they read.
 2. **Lesson**
-	* Ask what phrases the students wrote down or remembered from the reading. 
-		* **Section**: generally refers to several measures of music (often 2, 4, 8, or 16 measures) that sound like a single musical unit
+	* Ask what terminology and concepts the students wrote down or remembered from the reading. 
+		* **Section**: generally refers to several measures of music (often 2, 4, 8, or 16 measures) that sound like a single musical unit.
 		* **A-B-A Form**: a song divided into three sections:
 			* Section A: measures 1-4.
 			* Section B: measures 5-7. Features contrasting sounds to Section A.
