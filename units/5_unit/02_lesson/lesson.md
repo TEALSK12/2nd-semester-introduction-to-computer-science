@@ -38,12 +38,14 @@ Students will be able to...
 3. **Lab**
 	* Follow the EarSketch instructions in the lab to use the `makeBeat()` function
 	* Create a simple song with 2 uses of `fitMedia()`, 2 uses of `makeBeat()` and 1 use of an effect. 
-	* Students can use looping and if statements as an extension. 
+	 
 4. **Debrief**
 	* Talk about the new functions learned today, and go over any questions about data types and using strings.
 
 ###Accommodation/Differentiation
+Students can use looping and if statements to their song as an extension activity to make their songs more complex.
 
+Students will likely bring a wide range of background knowledge around music and the related terminology. Offer additional support to those students that are less familiar with the terms being introduced in this lesson.
 
 [Do Now]: do_now.md
 [Lab]: lab.md
