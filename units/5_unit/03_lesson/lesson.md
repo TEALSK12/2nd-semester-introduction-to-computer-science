@@ -12,6 +12,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab] - EarSketch Control Flow
+* [EarSketch Editor]
 * Associated Reading in EarSketch
 *  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -43,3 +44,4 @@ Students that are moving quickly can read additional documentation on the EarSke
 
 [Do Now]: do_now.md
 [Lab]: lab.md
+[EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
