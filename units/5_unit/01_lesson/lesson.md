@@ -54,3 +54,4 @@ Some students may need reminders about certain music terminology (tempo, measure
 
 [Do Now]: do_now.md
 [Lab]: lab.md
+[EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
