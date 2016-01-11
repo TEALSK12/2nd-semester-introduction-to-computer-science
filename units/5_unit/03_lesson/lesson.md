@@ -6,7 +6,7 @@ Students will be able to...
 * Define and identify: **modulo**
 * Use looping concepts in music making via EarSketch
 * Use control structures to create music
-* Review looping and controls structures
+* Review looping and control structures
 
 
 ##Materials/Preparation
