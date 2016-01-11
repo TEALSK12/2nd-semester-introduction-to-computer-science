@@ -33,13 +33,15 @@ Students will be able to...
 
 1. **Do Now**
     * Display the Do Now on the board
-    * For Days 2-5, the Do Now is writing down issues they had with the project from the day before and what they plan on doing today and how that fits into their schedule. 
+    * For Days 2-5, the Do Now is time for students to write down issues they had with the project from the day before and what they plan on doing to fix those issues. 
+    * Students should take time create a timeline for when certain tasks will be completed.
 2. **Project Overview**
 	* Review the terminology, topics, and skills that students have learned from this unit. Talk about any questions or things the students are struggling with.
 	* Discuss the parts of the song mentioned in the Do Now (chorus, bridge, and verses) and how they fit into building a song.
 	* Demo a final song for the students to see a finished product.
 3. **Project Planning**	
-	* Have students write down the parts of the song they will need. Also have them write down the forms they will need for each song and the general structure of each part. 
+	* Have students finalize which song they will be creating and write down the parts/structure of that song. 
+	* Take time to check that each student has thought through the entirety of their chosen song before moving forward to working on the project. 
 
 
 
