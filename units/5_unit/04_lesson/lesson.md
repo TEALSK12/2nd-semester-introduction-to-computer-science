@@ -10,6 +10,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab]
+* [EarSketch Editor]
 * Associated Reading in EarSketch
 *  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -46,3 +47,4 @@ Students that are moving quickly could explore and create alternative song forms
 
 [Do Now]: do_now.md
 [Lab]: lab.md
+[EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
