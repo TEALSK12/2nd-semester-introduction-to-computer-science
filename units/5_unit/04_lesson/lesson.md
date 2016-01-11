@@ -35,8 +35,8 @@ Students will be able to...
 			* Section A (repeated): measures 7-10.
 	* Ask students about returning the measure number. Go over the concept of passing around the measure number and make sure students understand how it would be helpful. (Since it allows you to change how long/short sections are without updating every function)
 3. **Lab**	
-	* Show the song with a form [https://www.youtube.com/watch?v=PSZxmZmBfnU](https://www.youtube.com/watch?v=PSZxmZmBfnU)
-	* Asks students to make their own song with the form AABA. Have them create a song with that format
+	* Demo a song with **A-B-A Form**: [https://www.youtube.com/watch?v=PSZxmZmBfnU](https://www.youtube.com/watch?v=PSZxmZmBfnU)
+	* Students create their own song with the form AABA. 
 4. **Debrief**
 	* Talk about any of the phrases or issues the students had. Did they find it easy to understand the code when they read it.
 
