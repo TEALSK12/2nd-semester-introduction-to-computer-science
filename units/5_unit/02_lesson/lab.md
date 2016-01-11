@@ -1,6 +1,6 @@
 # Lab 5.02: EarSketch Music 
 
-## 
+
 1.	Beat strings are made up of combinations of three different characters. Explain the rhythmic meaning of each of the characters:
 a.	“0”
 
