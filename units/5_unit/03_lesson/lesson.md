@@ -29,14 +29,14 @@ Students will be able to...
     * Students should be given time to read unit 3 of the EarSketch documentation.
     * Students are expected to write down key terms as they read.
 2. **Lesson**
-	* Ask what phrases and key terms the students wrote down or remembered from the reading. 
+	* Ask the students to highlight what phrases and key terms the students wrote down or remembered from the reading. 
 		* Review looping in Python. Look at the examples given in the EarSketch documentation and play them for the class.  
-		* Review if statements and control flow. As with looping go over examples (starting at section "Conditional Statements in Loops"). Focus on the modulo operator, but it is an operator that returns the remainder of the division
+		* Review if statements and control flow. As with looping go over examples (starting at section "Conditional Statements in Loops"). Focus on the **modulo** operator, reminding students that it is an operator that returns the remainder after division.
 3. **Lab**
-	* Asks the student to practice using looping to make a song a single track. Have them use if statements and modulo operator
-	* Ask the students to practice using looping and effects and control flow structures while using 2-3 different tracks
+	* Students practice using looping to make a song a single track. Make sure that students use if statements and the modulo operator.
+	* Ask the students to practice using looping, effects, and control flow structures while using 2-3 different tracks.
 4. **Debrief**
-	* Talk about any of the phrases or issues the students had. Did they find it easy to understand the code when they read it.
+	* Talk about any of the issues that students had. Did they find it easy to understand the code when they read it.
 
 
 
