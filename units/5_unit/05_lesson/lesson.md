@@ -20,11 +20,11 @@ Students will be able to...
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Project Overview      |
 | 15 Minutes | Project Planning         |
-| 15 Minutes | Start Working     |
+| 25 Minutes | Begin Project     |
 ###Days 2-5
 | **Duration**   | **Description**             |
 |---|---|
-| 5 Minutes  | Day Planning      |
+| 5 Minutes  | Do Now      |
 | 10 Minutes | Topic Review      |
 | 35 Minutes | Project Work      |
 | 5 Minutes  | Debrief     |
@@ -33,11 +33,11 @@ Students will be able to...
 
 1. **Do Now**
     * Display the Do Now on the board
-    * For project days, Do Now is writing down issues they had with the project from the day before and what they plan on doing today and how that fits into their schedule. 
+    * For Days 2-5, the Do Now is writing down issues they had with the project from the day before and what they plan on doing today and how that fits into their schedule. 
 2. **Project Overview**
-	* Review the subjects from the unit. Talk about any questions or things the students are struggling with
-	* Discuss the parts of the song mentioned in the Do Now(chorus, bridge, and verses) and how they fit into building a song
-	* Demo a final song. 
+	* Review the terminology, topics, and skills that students have learned from this unit. Talk about any questions or things the students are struggling with.
+	* Discuss the parts of the song mentioned in the Do Now (chorus, bridge, and verses) and how they fit into building a song.
+	* Demo a final song for the students to see a finished product.
 3. **Project Planning**	
 	* Have students write down the parts of the song they will need. Also have them write down the forms they will need for each song and the general structure of each part. 
 
