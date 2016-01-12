@@ -7,6 +7,7 @@ Students will be able to...
 * Distinguish between an integer, float, and string
 
 ##Materials/Preparation
+* [Cloud 9 Cheat Sheet]
 * [Lab] - Using the Interpreter
 * Associated Reading - section 1.1 of Book
 * Ensure all students are able to log into the system
@@ -30,6 +31,7 @@ Students will be able to...
 		* The **console** is a place where you can interact with a program. It can also be called a shell or a terminal.
 		* The **interpreter** runs Python code.
 	* To run the Python interpreter, type `python3` into the terminal. 
+		* Go over the short cut/commands (ctrl-k, ctrl-c, ctrl-d) for the terminal that are listed on the [Cloud 9 Cheat Sheet]
 		* Make sure all the students are able to do this and then give out the lab worksheet.
 3. **Lab Part 1** 
 	* Give students time to work on section 1, then pause to ask questions. 	
@@ -65,5 +67,5 @@ Students will be able to...
 If students are moving quickly, have students practice higher order-of-operations problems. You can also have them practice assigning values to variables. 
   
 
-
 [Lab]:lab.md
+[Cloud 9 Cheat Sheet]: ../cloud_9_cheat_sheet.md

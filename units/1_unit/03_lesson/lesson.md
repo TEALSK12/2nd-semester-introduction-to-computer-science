@@ -65,5 +65,5 @@ If students are moving quickly, ask students to come up with a way to print two 
   
 
 [Lab]:lab.md
-[Cloud 9 Cheat Sheet]: cloud_9_cheat_sheet.md
+[Cloud 9 Cheat Sheet]: ../cloud_9_cheat_sheet.md
 [Do Now]:do_now.md
