@@ -3,33 +3,32 @@
 ## Part 1
 The goal of this lab is to practice using and accessing items from lists of lists. 
 
-You will be given a nested list, `schedule`, where the first list represents morning activities, the second list represents afternoon activities, and the third list represents evening activities. 
-
-This program will allow the user to ask or update what activities you do in the morning, afternoon, or evening. The user can request you `print all` the activities at that time, or request a specific activity.
+You have a few errands to run and have created a few shopping list to help you remember what to buy. You stored your notes in a nested list, `shopping_cart`. 
+This program will allow the user to ask for a specific item by it's index or update what items are in the cart. The user can request you `print all` the items in a specific shopping list.
 
 ###Schedule 
 
 ```python
-schedule = [
-['brush teeth', 'eat', 'check email'],
-['eat', 'do work', 'check instagram'],
-['eat', 'watch youtube', 'brush teeth']
+shopping_cart = [
+['tooth paste', 'q-tips', 'milk'],
+['milk', 'candy', 'apples'],
+['planner', 'pencils', 'q-tips']
 ]
 ```
 
 ### User Inputs
 * `update`
-	* The program will ask which time (morning, afternoon, evening) the user wants to update and will also request which position it should update.
+	* The program will ask which shopping list the user wants to update and will also request which position it should update.
 * `print` 
-	*  The program will ask which time (morning, afternoon, evening) the user wants to print from and afterwards will request which position it should print.
+	*  The program will ask which shopping list the user wants to print from and afterwards will request which position it should print.
 * `print all`
-	* The program will ask which time (morning, afternoon, evening) the user wants to print and will print all of the activities associated with that time. 	
+	* The program will ask which shopping list the user wants to print and will print all of the activities associated with that shopping list. 	
 	
 ###Functions
-* `update_activity`
-    * Takes in an integer representing the index of the time, an integer representing the index of the activity to update, and a string representing the new activity to add to that time.
+* `update_list`
+    * Takes in an integer representing the index of the shopping list, an integer representing the index of the item to update, and a string representing the new item to add to that shopping list.
 * `print_all`
-    * Takes an int representing the index of the time to print.
+    * Takes an int representing the index of the shopping list to print.
 
 
 * Feel free to add more functions as you see fit
@@ -38,29 +37,29 @@ schedule = [
 
 ```
 >>>What would you like to do? print all
-Which time would you like to print? evening
-eat dinner, watch youtube, brush teeth
+Which shopping list would you like to print? 1
+tooth paste, q-tips, gum
 ```
 
 
 ## Part 2 
 
-In this part of the lab you will go through your schedule program and perform a few different calculations. 
+In this part of the lab you will go through your shopping list program and perform a few different calculations. 
 
-1. Create a function, `all_in_one`, that will put all the activities into a single list using a for loop. 
-2. Create a function, `count_meals`, which will go through all items of the list and keep a count of how many times `'eat'` occurs. 
-3. In order to make the schedule more rigorous, write a function, `study_more`, that adds `'study'` to each of the lists. 
-4. Dentists recommend we floss our teeth twice daily. Write a function `dentists_agree`, that will go through every element of schedule and update `'brush teeth'` to be `'brush and floss teeth'`.
+1. Create a function, `all_in_one`, that will put all the shopping lists into a single list using a for loop. 
+2. Create a function, `count_q_tips`, which will go through all items of the list and keep a count of how many times `'q_tips'` occurs. 
+3. In order to make the shopping lists more calcium rich, write a function, `drink_more_milk`, that adds `'milk'` to each of the lists (unless it's already there). 
+4. You can't have milk without cookies. Write a function `if_you_give_a_moose_a_cookie`, that will go through every element of schedule and update `'milk'` to be `'milk and cookies'`.
 
 ###Bonus! 
-Write a function to reverse the order of the lists and activities in `schedule`. 
+Write a function to reverse the order of the lists and items in `shopping_cart`. 
 
 The list should look like the following when printed: 
 
 ```python
 schedule = [
-['brush teeth', 'watch youtube', 'eat'],
-['check instagram', 'do work', 'check instagram'],
-['check email', 'eat', 'brush teeth']
+['q-tips', 'pencils', 'planner'],
+['apples', 'candy', 'milk'],
+['milk', 'q-tips', 'toothe paste']
 ]
 ```
