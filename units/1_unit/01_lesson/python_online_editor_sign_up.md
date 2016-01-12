@@ -34,6 +34,15 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 
 You can ignore the other parts for now!
 
+## Running Python Set Up
+Cloud9 Python defaults to Python 2.7.6. It can be changed to use Python 3.4.3 by doing the following:
+
+1. Right mouse click on the Run button at the top of the Cloud9 Python window
+2. Select Manage... from the pull down that appears
+3. On the Project Settings window that appears, scroll down to Language Support
+4. On the scroll list that appears to the right of the heading Python Version:, select the Python 3 entry
+5. Exit the Preferences Tab on the line right below top line starting with Cloud9 and containing the Run button.
+
 ## Running Python 
 1. In the bottom half of the screen there should be a tab called "bash"
 	1. If there is not a tab called "bash", click the plus button and choose "new terminal"
@@ -41,3 +50,4 @@ You can ignore the other parts for now!
 2. To run the interactive shell: type `python3` into the prompt
 ![Interactive shell](running_python3_photo.png) 
 3. To run a file: type `python3 [filename]`, but instead of `[filename]` use the name of the file you are trying to run
+
