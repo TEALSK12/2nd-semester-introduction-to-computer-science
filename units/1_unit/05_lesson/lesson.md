@@ -29,6 +29,11 @@ Students will be able to...
 		* Remind students that when reading through code we go line by line, as if we are the interpreter. 
 		* Run the code, display the stack trace, and have students analyze the error message reported.
 		* Explain that, much like in Snap, **debugging** is the process of tracking and fixing errors in your code.
+	* Indentation Errors: 
+		* Errors the students are most likely to have seen
+			* "IndentationError: unindent does not match any outer indentation level"
+		* Ask student why these errors are caused and how they find/fix this type of error? Suggest using the tab key to indent and the shift-tab to remove an indent as ways to avoid the error.
+		* Present an additional tool by running: `python3 -m tabnanny input.py` where input.py is the python source file having the unident error. The output will help you find the error.
 	* Direct students to work through and complete this web tutorial on [debugging]
 
 ###Accomodation/Differentiation
