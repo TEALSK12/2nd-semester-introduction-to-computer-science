@@ -34,7 +34,7 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 
 You can ignore the other parts for now!
 
-## Running Python Set Up
+## Running Python3 via Run Button Set Up
 Cloud9 Python defaults to Python 2.7.6. It can be changed to use Python 3.4.3 by doing the following:
 
 1. Right mouse click on the Run button at the top of the Cloud9 Python window
