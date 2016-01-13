@@ -27,7 +27,8 @@ Using Python, students will create a Tic-Tac-Toe game. This project has two part
 | **Functional Correctness (Behavior)**                                |     |
 | --------------------------------------------------------------- |-----|
 | Program prompts user for name | 2   |
-| Program marks board where user requested| 10|
+| Program marks board where user requested| 5|
+| Program prints a readable board after user's turn| 5|
 | Program won't overwrite value on board | 5   |
 | Program reports who won or if there was a tie             | 15  |
 | Program ends after win, loss, or tie       | 3  |
