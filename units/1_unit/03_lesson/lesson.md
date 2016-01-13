@@ -42,6 +42,11 @@ Hello World
 Hello World
 	```
 	* Have students work on Part 1 of the lab for 10 Minutes
+	* 
+## SNAP Flashback – Hello World
+
+![](HelloWorld-Code.png)
+
 3. **Variables Lesson/Lab Part 2**
 	* **Variable**: a name that refers to a value
 	* An assignment statement creates new variables and gives them values: 
