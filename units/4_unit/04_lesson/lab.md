@@ -41,7 +41,6 @@ Which shopping list would you like to print? 1
 tooth paste, q-tips, gum
 ```
 
-
 ## Part 2 
 
 In this part of the lab you will go through your shopping list program and perform a few different calculations. 

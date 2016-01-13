@@ -84,3 +84,10 @@ For each of the following problems, you will write a function that will draw the
     1 2 
     1
     ```
+3. Write a function that will print the following triangle. 
+
+    ```   
+       *
+      ***
+    ******
+    ```

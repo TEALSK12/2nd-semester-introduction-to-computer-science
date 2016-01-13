@@ -59,6 +59,8 @@ If students need extra time for lab there is another day in the schedule for tha
 
 This topic is often confusing for students new to the concept, so build in time for frequent individual checks for understanding.
 
+The bonus problems for the lab are a bit harder and should allow students who are moving fast to work on something a bit trickier. 
+
 [Do Now]: do_now.md
 [Lab]: lab.md
 [loop diagram]: http://etutorials.org/shared/images/tutorials/tutorial_169/F05um02.jpg
