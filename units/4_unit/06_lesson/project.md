@@ -18,7 +18,8 @@ Using Python, students will create a Tic-Tac-Toe game. This project has two part
 
 ### Implementation Details
 * Use variables to store the user names for personalized prompts.
-* Create a game board represented as a list of lists, size 3 by 3.
+* Create a game board represented as a list of lists, size 3 by 3. 
+***Note: This is a change from our earlier implementations of Tic-Tac-Toe. Why do you think this might be better?***
 * Check for a winner horizontally, vertically, and on both diagonals.
 * Cannot allow a user to overwrite a spot on the board.
 
