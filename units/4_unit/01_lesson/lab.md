@@ -34,3 +34,7 @@ Ths sntnc hs n vwls
 Use a counter (variable you define outside of a loop to keep track of a value inside a loop) to create a function `count_vowels`. 
 
 `count_vowels` takes in a string and returns an int representing the number of vowels in the string. 
+
+## SNAP Challenge – 10 Cats Drinking Milk from a Saucer
+•	Create the following program in Python.
+![](NestedLoops - NumOfCats - Code.png)
