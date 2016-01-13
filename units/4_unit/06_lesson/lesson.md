@@ -7,7 +7,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Project Spec - Tic-Tac-Toe]
-* [Solution]
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the handout, lesson, and project so that you are familiar with the requirements and can assist students
 * Try creating your own variation on the Tic-Tac-Toe game so you are familiar with the potential challenges and bugs your students will hit
 
@@ -67,4 +67,4 @@ The planning phase of this project will be essential, especially for students wh
 
 
 [Project Spec - Tic-Tac-Toe]: project.md
-[Solution]:https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=KWzxAXc3TniwxzLYkCDA57zuhFzNLwFEZAKb6tDG4lo%3d&docid=2_00e14d4c563884dae95984a14a0802cc2
+[TEALS Dashboard]:www.tealsk12.org/dashboard

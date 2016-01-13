@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Project]
-* [Solution]
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -50,4 +50,4 @@ Students will be able to...
 
   
 [Project]:lab.md
-[Solution]:https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=s5f0zOcVtkKJlPZTZ5MFHO%2bzlRk%2bglJ5X%2f1%2b4jufFiw%3d&docid=2_025e5e972717e426e92cf35f7bf9a6be3
+[TEALS Dashboard]:www.tealsk12.org/dashboard

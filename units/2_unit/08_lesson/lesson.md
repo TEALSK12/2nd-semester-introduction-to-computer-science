@@ -6,7 +6,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Project Spec - Text Monster]
-* [Solution]
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Text Monster Game - Example Code]
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
@@ -50,4 +50,4 @@ Advanced students can also be paired as tutors/helpers with struggling students.
   
 [Project Spec - Text Monster]: project.md
 [Text Monster Game - Example Code]: project_file.py
-[Solution]: https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=fNKJHe8QKAAjGHNYVfnl65hH%2bu3qbKAL%2bV%2bMykL21KM%3d&docid=2_05086c0870d29474e84c3aaa8506147c0
+[TEALS Dashboard]:www.tealsk12.org/dashboard

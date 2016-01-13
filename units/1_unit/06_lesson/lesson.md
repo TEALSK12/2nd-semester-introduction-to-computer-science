@@ -6,7 +6,7 @@
 
 ## Materials/Preparation
 * [Project Spec - Mad Libs]
-* [Solution]
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Mad Libs - Example Code]
 * Practice running the example code
 * Read through the project specifications so that you can completely communicate the requirements of the project 
@@ -53,4 +53,4 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 
 [Mad Libs - Example Code]: project_file.py
 [Project Spec - Mad Libs]: project.md
-[Solution]: https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=DfsLgxkCIJopWroEnezjtGoElDS7mAzSNj1UiVqWwzE%3d&docid=2_079a3eef04c4b4c3f9f40ce6737d20a7c
+[TEALS Dashboard]:www.tealsk12.org/dashboard

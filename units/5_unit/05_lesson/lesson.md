@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Example Solution]
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [EarSketch Editor]
 *  Read through the do now and lesson so that you are familiar with the requirements and can assist students
 *  Practice creating your own EarSketch song(s) to demonstrate to students and to better understand the challenges they may face in the project
@@ -48,5 +48,5 @@ Certain students that have a limited music background may need additional assist
 
 [Do Now]: do_now.md
 [Lab]: lab.md
-[Example Solution]:https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=uy4L%2bNXevDtadDc79%2fKcxpSIua1iFXrI238ItmXd6WM%3d&docid=2_0ec2049bea79d42df809149d675bae951
+[TEALS Dashboard]:www.tealsk12.org/dashboard
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/

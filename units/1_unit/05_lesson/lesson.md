@@ -7,7 +7,7 @@ Students will be able to...
 * Analyze and respond to error messages
 
 ##Materials/Preparation
-* [Quiz]
+* Quiz (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Associated Reading - section 1.3 of Book
 * Take the quiz and create a scoring rubric
 * Look through [debugging] web tutorial and example [code] to prepare students for analyzing and responding to errors
@@ -39,6 +39,6 @@ Students will be able to...
 ###Accomodation/Differentiation
 Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
 
-[Quiz]:https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=6IDCHUpcKu8NT0OXNgXFWk9XCqS87qcVrZJQGU2bifw%3d&docid=2_003d5ce8e84a34b1ca1a01ce88542680a
+[TEALS Dashboard]:www.tealsk12.org/dashboard
 [debugging]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html
 [code]:code.py
