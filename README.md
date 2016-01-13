@@ -8,7 +8,8 @@ This curriculum is intended for use by TEALS classrooms teaching Introduction to
 
 Please help us complete it by contributing feedback and suggestions via the [GitHub repository](https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles) that contains the source files for this gitbook: https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles
 
-
+# Curriculum Orientation
+Check out this 1-hour Orientation to the Curriculum video: https://www.youtube.com/watch?v=UHgA_7x6-Qo
 
 # Issues
 
