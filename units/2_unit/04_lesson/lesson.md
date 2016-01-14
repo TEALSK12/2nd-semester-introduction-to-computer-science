@@ -52,8 +52,8 @@ Students will be able to...
 
 ###Accommodation/Differentiation
 
-* Convert the following SNAP Vending Machine into Python.
-
+* Convert and finish the following SNAP Vending Machine program in Python.
+![](Lesson 2.04 Conditionals - Vending Machine.png)
 
 
 If students are moving quickly, this lesson can move onto lists. 
