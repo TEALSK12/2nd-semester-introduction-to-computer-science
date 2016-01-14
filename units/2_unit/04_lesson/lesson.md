@@ -52,6 +52,10 @@ Students will be able to...
 
 ###Accommodation/Differentiation
 
+* Convert the following SNAP Vending Machine into Python.
+
+
+
 If students are moving quickly, this lesson can move onto lists. 
 
 [Do Now]:do_now.md
