@@ -48,6 +48,8 @@ Students will be able to...
 
 ###Accommodation/Differentiation
 If students are moving quickly, use this opportunity to go over truth tables (or ask them to research De Morgan's Law) 
+* Convert the following SNAP Truth Table program into Python.
+![](Lesson 2.03 Truth Table.png)
   
 [Do Now]:do_now.md
 [Lab]:lab.md
