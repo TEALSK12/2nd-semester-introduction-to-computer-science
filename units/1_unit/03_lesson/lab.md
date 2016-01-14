@@ -12,6 +12,10 @@ Practice typing out some statements in the editor part of the IDE, then hit "Run
 |`print("this" + " " + "is" + " " + "a" + " " + "sentence" + ".")`|              |   |        |
 
 
+## SNAP Flashback - Print Comparison
+![](lab1.03 - code.png)
+![](lab1.03 - image.png)
+
 ## Part 2 - Variables Practice
 
 1. Type and run the following code. 
