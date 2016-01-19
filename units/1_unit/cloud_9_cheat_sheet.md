@@ -1,7 +1,7 @@
 # Terminal and Cloud 9 Cheat Sheet 
 
 ## Terminal Shortcuts
-* Use ctrl-l to clear the terminal screen 
+* Use ctrl-k to clear the terminal screen (cmd-k on Mac)
 * Use ctrl-c to stop a program running in the terminal
 * Use ctrl-d (or type exit) to close out of the interactive python shell
 
