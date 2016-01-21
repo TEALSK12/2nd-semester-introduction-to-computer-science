@@ -10,7 +10,7 @@ Students will be able to...
 * [Do Now]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [EarSketch Editor]
-*  Read through the do now and lesson so that you are familiar with the requirements and can assist students
+*  Read through the do now and project spec so that you are familiar with the requirements and can assist students
 *  Practice creating your own EarSketch song(s) to demonstrate to students and to better understand the challenges they may face in the project
 
 ## Pacing Guide
