@@ -28,7 +28,7 @@ Students will be able to...
 
 1. **Do Now**
     * Students should be given time to read unit 3 of the EarSketch documentation.
-    * Students are expected to write down key terms as they read.
+    * Students should answer the questions included in the do now and be prepared to discuss them as a class.
 2. **Lesson**
 	* Ask the students to highlight what phrases and key terms the students wrote down or remembered from the reading. 
 		* Review looping in Python. Look at the examples given in the EarSketch documentation and play them for the class.  
