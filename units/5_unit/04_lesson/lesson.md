@@ -28,7 +28,8 @@ Students will be able to...
     * Students should be given time to read unit 4 of the EarSketch documentation.
     * Students should answer the questions included in the do now and be prepared to discuss them as a class.
 2. **Lesson**
-	* Ask what terminology and concepts the students wrote down or remembered from the reading. 
+	* Call on students to discuss the answers to the questions from the Do Now.
+	* Recap the following key concepts from the reading:
 		* **Section**: generally refers to several measures of music (often 2, 4, 8, or 16 measures) that sound like a single musical unit.
 		* **A-B-A Form**: a song divided into three sections:
 			* Section A: measures 1-4.
