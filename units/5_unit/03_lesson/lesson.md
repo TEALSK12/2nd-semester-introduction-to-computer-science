@@ -4,9 +4,9 @@
 Students will be able to...
 
 * Define and identify: **modulo**
+* Review looping and control structures
 * Use looping concepts in music making via EarSketch
 * Use control structures to create music
-* Review looping and control structures
 
 
 ##Materials/Preparation
@@ -14,7 +14,7 @@ Students will be able to...
 * [Lab] - EarSketch Control Flow
 * [EarSketch Editor]
 * Associated Reading in EarSketch
-*  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 | **Duration**   | **Description** |
