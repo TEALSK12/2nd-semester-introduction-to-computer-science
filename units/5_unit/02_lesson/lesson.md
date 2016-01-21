@@ -27,7 +27,7 @@ Students will be able to...
 
 1. **Do Now**
     * Students should be given time to read unit 2 of the EarSketch documentation.
-    * Students are expected to write down key terms as they read.
+    * Students should answer the questions included in the do now and be prepared to discuss them as a class.
 2. **Lesson**
 	* Ask what phrases and terminology the students wrote down or remembered from the reading. 
 		* **Rhythm**: describing how the music moves through time.
