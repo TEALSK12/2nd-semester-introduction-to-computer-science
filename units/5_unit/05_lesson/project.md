@@ -25,7 +25,7 @@ Using Python and EarSketch you will create a complete song consisting of 2 verse
 
 ## Grading 
 ### Scheme/Rubric
-| Functional Correctness(Behavior)                                |     |
+| **Functional Correctness(Behavior)**                                |     |
 | --------------------------------------------------------------- |-----|
 | Song Runs and Plays | 5   |
 | Recognizable Chorus vs Verse | 10|
