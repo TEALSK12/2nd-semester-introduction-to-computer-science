@@ -10,6 +10,7 @@
     * Create 4 variables that hold audio loop constants.
     * Create 1 variable that holds a beat string.
     * On one track, use the makeBeat() function with your beat string. Your beat string rhythm should repeat for all 12 measures of the project.
+    * Use the `setEffect()` function for at least one track.
     * Make sure to use comments that outline and describe your code.
 
 
