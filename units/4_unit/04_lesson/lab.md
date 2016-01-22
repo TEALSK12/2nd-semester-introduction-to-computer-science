@@ -65,7 +65,5 @@ schedule = [
 
 ###Tip
 last item can be gotten by `my_list[-1]`
-
 second to last element: `my_list[-2]`
-
 third to last element: `my_list[-3]`
