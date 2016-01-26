@@ -1,4 +1,4 @@
-# Do Now: 5.04
+# Do Now 5.04
 
 1. Begin reading section 3.3 of the EarSketch documentation in [Unit 3](http://earsketch.gatech.edu/category/unit-3).
 2. Answer the following questions, based on the reading:
