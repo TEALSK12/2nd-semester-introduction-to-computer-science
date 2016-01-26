@@ -8,7 +8,7 @@
    * [Lesson 1.02: Interactive Mode](units/1_unit/02_lesson/lesson.md)
        * [Lab](units/1_unit/02_lesson/lab.md)
    * [Lesson 1.03: Script Mode and Variables](units/1_unit/03_lesson/lesson.md)
-       * [Do Now](units/1_unit/03_lesson/do_now.md)
+       * [Do Now 1.03](units/1_unit/03_lesson/do_now.md)
        * [Lab](units/1_unit/03_lesson/lab.md)
    * [Lesson 1.04: Variables Input](units/1_unit/04_lesson/lesson.md)
        * [Lab 1.04](units/1_unit/04_lesson/lab.md)
