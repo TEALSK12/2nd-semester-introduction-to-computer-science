@@ -1,4 +1,4 @@
-# Do Now: 5.05
+# Do Now 5.05
 
 1. Write down 2-3 songs that have a structure that you could emulate in EarSketch. 
 2. For one of those songs write down the different musical parts of the song, in order. This most likely will include verses, the chorus, and the bridge. 
