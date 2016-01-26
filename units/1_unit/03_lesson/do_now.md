@@ -1,4 +1,4 @@
-## Do Now
+## Do Now 1.03
 Open and save a new file called `my_file.py` in the IDE. Run a program by typing `python3 my_file.py` into the terminal. See the instructions below for how to open, save, and run a file in Cloud9.
 
 Practice typing the following expressions in the editor and running the code. 
