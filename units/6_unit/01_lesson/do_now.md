@@ -2,7 +2,7 @@
 
 1.Type and run the following code: 
 
-```
+```python
 my_dictionary = {
 	'cat': 'a domestic feline', 
 	'dog': 'a domestic canine', 
@@ -13,7 +13,7 @@ print(my_dictionary)
 print(my_dictionary['dog'])
 print(my_dictionary.get('dog'))
 ```
-Write down what goes printed out. What type is my_dictionary? 
+Write down what was printed out. What type is my_dictionary? 
 
 2.Write a line of code that will print the definition of 'chair'. 
 
