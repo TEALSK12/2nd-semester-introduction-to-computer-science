@@ -1,4 +1,4 @@
-# Do Now: Looping through Dictionaries 
+# Do Now 6.04 
 
 1.Type and run the following code in the interpreter
 
