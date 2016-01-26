@@ -46,6 +46,7 @@ Students will be able to...
 
 ###Accommodation/Differentiation
 
-If any students are struggling with today's lesson, be prepared to offer additional examples of key-value pairs. For example, you could have a dictionary of days of the week (keys) where each day has an activity associated with it (values). 
+If any students are struggling with today's lesson, be prepared to offer additional examples of the utility of having key-value pairs. 
+
 [Do Now]: do_now.md
 [Lab]: lab.md
