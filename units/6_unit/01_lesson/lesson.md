@@ -25,10 +25,11 @@ Students will be able to...
 
 1. **Do Now**
     * Display the Do Now on the board.
-    * 
+    * Students will copy and edit code involving creating a dictionary and accessing items from that dictionary.
 2. **Lesson**
-	* Ask the students what type they think my_dictionary is. Did anyone run the type() function? 
-		* my_dictionary is a dict or a collection of key,value pairs. You use the key to look up the value in the dictionary. What are the keys in this example ('cat', 'dog', 'chair', 'car')? What are the values? Keys and values can be of any type. The syntax is key : value, key: value, ... surrounded by curly brackets. 
+	* Ask the students what type they think `my_dictionary` is. 
+	    * Did anyone run the `type()` function to find out? 
+		* `my_dictionary` is a dict or a collection of **key-value** pairs. You use the key to look up the value in the dictionary. What are the keys in this example ('cat', 'dog', 'chair', 'car')? What are the values? Keys and values can be of any type. The syntax is key : value, key: value, ... surrounded by curly brackets. 
 	* Ask the students what `my_dictionary['dog']` did? What does this syntax remind them of (lists)?
 		* To get the value of a key in the dictionary you use the square brackets.
 		* This is very easy for the computer to do.
