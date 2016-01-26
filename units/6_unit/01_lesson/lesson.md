@@ -34,8 +34,7 @@ Students will be able to...
         * Keys and values can be of any type. The syntax is: `{key : value, key : value, ...}` 
 	* Ask the students what `my_dictionary['dog']` did, and if this syntax reminds them of anything (lists!).
 		* To get the value associated with a key in a dictionary you use square brackets.
-		* This is very easy for the computer to do.
-		* Can also use `my_dictionary.get` which will return None if the value isn't there. 
+		* You can also use `my_dictionary.get` which will return `None` if the value isn't there. 
 		* Note: Can pass in a second argument to `get` which act as the default
 	* How would you get the value for `chair` or `car`.
 	* What happened when you ran `my_dictionary['kittens']`? 
