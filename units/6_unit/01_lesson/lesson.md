@@ -24,6 +24,7 @@ Students will be able to...
 ## Instructor's Notes
 
 1. **Do Now**
+    * Display the Do Now on the board.
     * 
 2. **Lesson**
 	* Ask the students what type they think my_dictionary is. Did anyone run the type() function? 
