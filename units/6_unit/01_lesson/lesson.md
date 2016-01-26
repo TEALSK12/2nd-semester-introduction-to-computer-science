@@ -1,4 +1,4 @@
-#Lesson: Dictionaries Intro
+#Lesson 6.01: Introduction to Dictionaries
 
 ##Learning Objectives
 Students will be able to...
@@ -11,7 +11,7 @@ Students will be able to...
 * [Do Now]
 * [Lab]
 * Associated Reading - section 5.1 of Book
-*  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
+*  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 | **Duration**   | **Description** |
