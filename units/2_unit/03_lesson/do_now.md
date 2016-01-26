@@ -1,4 +1,4 @@
-#Do Now: 2.03
+#Do Now 2.03
 
 ##Part 1
 Open up the terminal. Type each line of the following code into the interactive editor: 
