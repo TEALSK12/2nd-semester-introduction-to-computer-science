@@ -29,7 +29,10 @@ Students will be able to...
 2. **Lesson**
 	* Ask the students what type they think `my_dictionary` is. 
 	    * Did anyone run the `type()` function to find out? 
-		* `my_dictionary` is a dict or a collection of **key-value** pairs. You use the key to look up the value in the dictionary. What are the keys in this example ('cat', 'dog', 'chair', 'car')? What are the values? Keys and values can be of any type. The syntax is key : value, key: value, ... surrounded by curly brackets. 
+		* `my_dictionary` is a **dictionary** or a collection of **key-value** pairs. You use the key to look up the value in the dictionary. 
+		    * Ask: what are the keys in the example from the Do Now? What are the associated values? 
+        * Keys and values can be of any type. The syntax is:
+        * {key : value, key : value, ...} 
 	* Ask the students what `my_dictionary['dog']` did? What does this syntax remind them of (lists)?
 		* To get the value of a key in the dictionary you use the square brackets.
 		* This is very easy for the computer to do.
