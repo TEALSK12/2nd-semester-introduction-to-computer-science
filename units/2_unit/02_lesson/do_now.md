@@ -1,4 +1,4 @@
-#Do Now: 2.02
+#Do Now 2.02
 
 Open up the terminal. Type the following code. 
 ```python
