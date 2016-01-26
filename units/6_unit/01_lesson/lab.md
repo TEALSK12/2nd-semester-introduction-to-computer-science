@@ -1,4 +1,4 @@
-# Lab 6.01 - Dictionaries
+# Lab 6.01 - Dictionaries & Memes
 
 Write a dictionary that gives context to 'internet memes'.  Write a program, `dictionary_lab.py`, that prompts a user for what word they want to look up. If the word is in the dictionary, then you will print out the definition. If the word is not in the dictionary the program will print out that the word is not defined. 
 	
