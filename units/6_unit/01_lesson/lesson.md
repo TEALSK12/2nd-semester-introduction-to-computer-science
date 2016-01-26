@@ -24,7 +24,7 @@ Students will be able to...
 ## Instructor's Notes
 
 1. **Do Now**
-    * Display the Do Now on the board
+    * 
 2. **Lesson**
 	* Ask the students what type they think my_dictionary is. Did anyone run the type() function? 
 		* my_dictionary is a dict or a collection of key,value pairs. You use the key to look up the value in the dictionary. What are the keys in this example ('cat', 'dog', 'chair', 'car')? What are the values? Keys and values can be of any type. The syntax is key : value, key: value, ... surrounded by curly brackets. 
