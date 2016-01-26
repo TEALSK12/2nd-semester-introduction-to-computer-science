@@ -1,4 +1,4 @@
-# Do Now: Dictionaries 01 
+# Do Now 6.01 
 
 1. Type and run the following code: 
 
