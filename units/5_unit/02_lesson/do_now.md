@@ -1,4 +1,4 @@
-# Do Now: 5.02
+# Do Now 5.02
 
 1. Begin reading EarSketch documentation in [Unit 2](http://earsketch.gatech.edu/category/unit-2).
 2. Answer the following questions, based on the reading:
