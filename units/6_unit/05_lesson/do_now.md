@@ -1,4 +1,4 @@
-#Do Now
+#Do Now 6.05
 
 1. Write down your ranking of these concepts from easiest to hardest: 
 	1. Creating Dictionaries
