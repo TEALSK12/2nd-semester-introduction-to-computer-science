@@ -48,5 +48,7 @@ Students will be able to...
 
 If any students are struggling with today's lesson, be prepared to offer additional examples of the usefulness of having key-value pairs. 
 
+Students that are moving quickly through the lab should work on the bonus and research how to add new key/value pairs to a dictionary.
+
 [Do Now]: do_now.md
 [Lab]: lab.md
