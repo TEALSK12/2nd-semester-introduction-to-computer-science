@@ -1,4 +1,4 @@
-#Do Now: 3.02
+#Do Now 3.02
 
 Open up the terminal. Type the following code. 
 
