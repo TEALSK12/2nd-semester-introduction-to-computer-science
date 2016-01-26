@@ -35,7 +35,7 @@ Students will be able to...
 	* Ask the students what `my_dictionary['dog']` did, and if this syntax reminds them of anything (lists!).
 		* To get the value associated with a key in a dictionary you use square brackets.
 		* You can also use `my_dictionary.get()`, which will return `None` if the value isn't there. 
-		    * *Note*: You can pass in a second argument to `get` which acts as the default.
+		    * *Note*: You can pass in a second argument to `get` which takes the place of the `None` default.
 	* How would you get the value for `chair` or `car`.
 	* What happened when you ran `my_dictionary['kittens']`? 
 		* This error is common. It means there is no value in the dictionary. You can use `my_dictionary.get` with the if statement
