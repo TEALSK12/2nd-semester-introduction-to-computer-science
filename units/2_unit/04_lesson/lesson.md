@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - Game Show
+* [Lab - Game Show]
 * [Solution]
 * Associated Reading - section 2.3 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -51,7 +51,7 @@ Students will be able to...
     * Check student progress and completion of the lab, wrap up by taking any final questions.
 
 ###Accommodation/Differentiation
-
+Use the following as an extension activity for students that are moving quickly:
 * Convert and finish the following SNAP Vending Machine program in Python.
 ![](Lesson 2.04 Conditionals - Vending Machine.png)
 
@@ -59,5 +59,5 @@ Students will be able to...
 If students are moving quickly, this lesson can move onto lists. 
 
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Game Show]:lab.md
 [Solution]:https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=f7d%2fgf2GofFnhvyYbsI16jHchRVneTWHsP1Cm4PJgmE%3d&docid=2_055d33956721142c7b243f160229da407
