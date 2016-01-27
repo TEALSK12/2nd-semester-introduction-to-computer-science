@@ -10,7 +10,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - EarSketch Music
+* [Lab - EarSketch Music]
 * [EarSketch Editor]
 * Associated Reading in EarSketch
 *  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -50,5 +50,5 @@ Students can use looping and if statements to their song as an extension activit
 Students will likely bring a wide range of background knowledge around music and the related terminology. Offer additional support to those students that are less familiar with the terms being introduced in this lesson.
 
 [Do Now]: do_now.md
-[Lab]: lab.md
+[Lab - EarSketch Music]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
