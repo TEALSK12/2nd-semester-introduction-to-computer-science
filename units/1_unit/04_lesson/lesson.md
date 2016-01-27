@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now] 
-* [Lab] - Magic Genie
+* [Lab - Magic Genie]
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -60,4 +60,4 @@ Advanced students that are finished early can be paired with students who are st
 Identify students that may potentially struggle on the quiz and find individual time with them to emphasize key concepts during the magic genie lab. 
 
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Magic Genie]:lab.md
