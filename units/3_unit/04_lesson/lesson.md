@@ -10,7 +10,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - Aliasing & Scope
+* [Lab - Aliasing & Scope]
 * Associated Reading - section 3.4 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
@@ -50,4 +50,4 @@ Students will be able to...
 If students are moving quickly, they can look ahead at the project spec or research the game Oregon Trail for context.
 
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Aliasing & Scope]:lab.md
