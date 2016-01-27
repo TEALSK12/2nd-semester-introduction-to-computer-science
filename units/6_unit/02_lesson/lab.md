@@ -1,4 +1,4 @@
-# Lab: Dictionaries 02
+# Lab 6.02 - Word Counter
 
 In this lab we will implement a word frequency algorithm. It will tell you how many of each word you had in an essay. 
 
