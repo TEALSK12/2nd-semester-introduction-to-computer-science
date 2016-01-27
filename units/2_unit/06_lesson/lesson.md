@@ -48,4 +48,4 @@ There is also an opportunity for a quiz after the game loop lesson and before th
   
 
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Tic-Tac-Toe]:lab.md
