@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab]
+* [Lab - Dictionaries Storing Lists]
 * Associated Reading - section 5.3 of Book
 *  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -39,4 +39,4 @@ Students will be able to...
 
 
 [Do Now]: do_now.md
-[Lab]: lab.md
+[Lab - Dictionaries Storing Lists]: lab.md
