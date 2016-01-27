@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Cloud 9 Cheat Sheet]
-* [Lab] - Using the Interpreter
+* [Lab - Using the Interpreter]
 * Associated Reading - section 1.1 of Book
 * Ensure all students are able to log into the system
 * Go through the lab so that you are familiar with the requirements/results and can assist students
@@ -67,5 +67,5 @@ Students will be able to...
 If students are moving quickly, have students practice higher order-of-operations problems. You can also have them practice assigning values to variables. 
   
 
-[Lab]:lab.md
+[Lab - Using the Interpreter]:lab.md
 [Cloud 9 Cheat Sheet]: ../cloud_9_cheat_sheet.md
