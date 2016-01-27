@@ -7,7 +7,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Project Spec] - Guess Who
+* [Project Spec - Guess Who]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 *  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -48,5 +48,5 @@ Students will be able to...
 
 
 [Do Now]: do_now.md
-[Project Spec]: project.md
+[Project Spec - Guess Who]: project.md
 [TEALS Dashboard]:www.tealsk12.org/dashboard
