@@ -10,7 +10,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - de_vowel
+* [Lab - de_vowel]
 * Associated Reading - section 4.1 of Book
 *  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -50,4 +50,4 @@ If there is time, go over the bonus question. Explain how a counter is a frequen
 
 
 [Do Now]: do_now.md
-[Lab]: lab.md
+[Lab - de_vowel]: lab.md
