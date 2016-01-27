@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - Casting
+* [Lab - Casting]
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -52,4 +52,4 @@ If students are moving quickly, it is possible to introduce the concepts of bool
   
 
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Casting]:lab.md
