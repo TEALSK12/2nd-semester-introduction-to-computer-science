@@ -7,7 +7,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - Tic-Tac-Toe Revisited
+* [Lab - Tic-Tac-Toe Revisited]
 * Associated Reading - section 2.7 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -38,4 +38,4 @@ Students will be able to...
 If there is extra time, have students start reading through the project specs and thinking about how they will apply what they have learned this unit to complete the project.
   
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Tic-Tac-Toe Revisited]:lab.md
