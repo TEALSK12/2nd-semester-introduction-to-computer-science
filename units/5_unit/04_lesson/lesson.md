@@ -9,7 +9,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab]
+* [Lab - User-Defined Functions]
 * [EarSketch Editor]
 * Associated Reading in EarSketch
 *  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -47,5 +47,5 @@ Students will be able to...
 Students that are moving quickly could explore and create alternative song forms (ex. AABA).
 
 [Do Now]: do_now.md
-[Lab]: lab.md
+[Lab - User-Defined Functions]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
