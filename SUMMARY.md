@@ -84,7 +84,7 @@
    * [Lesson 5.03: Earsketch Control Flow](units/5_unit/03_lesson/lesson.md)
        * [Do Now 5.03](units/5_unit/03_lesson/do_now.md)
        * [Lab 5.03](units/5_unit/03_lesson/lab.md)
-   * [Lesson 5.04: EarSketch User Defined Functions](units/5_unit/04_lesson/lesson.md)
+   * [Lesson 5.04: EarSketch User-Defined Functions](units/5_unit/04_lesson/lesson.md)
        * [Do Now 5.04](units/5_unit/04_lesson/do_now.md)
        * [Lab 5.04](units/5_unit/04_lesson/lab.md)
    * [Lesson 5.05: EarSketch Project](units/5_unit/05_lesson/lesson.md)
