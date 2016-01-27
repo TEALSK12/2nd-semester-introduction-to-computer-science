@@ -1,4 +1,4 @@
-#Lesson: Dictionaries Methods
+#Lesson 6.02: Dictionaries Methods
 
 ##Learning Objectives
 Students will be able to...
