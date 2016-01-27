@@ -1,4 +1,4 @@
-# Lab: Dictionaries Looping
+# Lab 6.05: Dictionaries Looping
 
 In this lab we will use our code from the word count lab to create a program that will return the top 5 most used words in a document. 
 
