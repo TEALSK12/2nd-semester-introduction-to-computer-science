@@ -7,7 +7,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - War (Card Game)
+* [Lab - War (Card Game)]
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 * Note that this lesson may take two days.
 
@@ -50,4 +50,4 @@ As an extension activity, ask students to research the shuffle function and the 
   
 
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - War (Card Game)]:lab.md
