@@ -3,15 +3,17 @@
 1. Type and run the following code: 
 
     ```python
-    my_dictionary = {
-	    'cat': 'a domestic feline', 
-	    'dog': 'a domestic canine', 
-	    'chair': 'furniture piece for sitting', 
-	    'car': 'automobile'
-	    }
-    print(my_dictionary)
-    print(my_dictionary['dog'])
-    print(my_dictionary.get('dog'))
+my_dictionary = {
+    'cat': 'a domestic feline', 
+    'dog': 'a domestic canine', 
+    'chair': 'furniture piece for sitting', 
+    'car': 'automobile'
+    }
+print(my_dictionary)
+print(my_dictionary['dog'])
+print(my_dictionary.get('dog'))
+print(my_dictionary.has_key('monkey'))
+print(my_dictionary.has_key('chair'))
     ```
 Write down what was printed out. What type is `my_dictionary`? 
 <br><br><br>
