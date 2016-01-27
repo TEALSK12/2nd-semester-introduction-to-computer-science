@@ -40,7 +40,7 @@
 * Create a different list of five 0s, representing the user's votes so far.
 * Create 4 questions. Each question should have five different answers. Each answer corresponds to the specific school option.
 * At the end print off the 5 different schools and the score the user got for each of those schools. 
-* Example: [Buzzfeed's What Should your college majro actually be Quiz](http://www.buzzfeed.com/mattbellassai/what-should-your-college-major-actually-be#.kjaWpyrAwn)
+* Example: [Buzzfeed's What Should your college major actually be Quiz](http://www.buzzfeed.com/mattbellassai/what-should-your-college-major-actually-be#.kjaWpyrAwn)
 ###Bonus!
 Research nested lists and work through the following: 
 
