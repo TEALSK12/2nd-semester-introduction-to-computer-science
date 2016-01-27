@@ -1,4 +1,4 @@
-# Lab: Dictionaries Storing Lists
+# Lab 6.03: Dictionaries Storing Lists
 
 In this lab we will create a dictionary to do list. Each key in the dictionary will be a day of the week. The values will a be a list of items. 
 
