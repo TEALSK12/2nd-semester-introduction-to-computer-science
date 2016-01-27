@@ -9,7 +9,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab]
+* [Lab - College Chooser]
 * [Solution]
 * Associated Reading - section 2.4 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -54,5 +54,5 @@ Students will be able to...
 If students are moving quickly, you can introduce the topic of nested lists. Start off with a simple nested list like `['a', 'b', 'c', [1, 2, 3]]`. Ask the students to guess the length. Ask the students to guess how they would access the item '1' from that list! 
   
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - College Chooser]:lab.md
 [Solution]:https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=bCRyeLxnclakDO0IxKj4RgBHpx%2f2Feis19og6u62xFc%3d&docid=2_050596f1c1f6841778e09ef9fa37420c6
