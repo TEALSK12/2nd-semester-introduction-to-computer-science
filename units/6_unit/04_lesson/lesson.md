@@ -1,4 +1,4 @@
-#Lesson: Dictionaries Looping
+#Lesson 6.04: Dictionaries Looping
 
 ##Learning Objectives
 Students will be able to...
