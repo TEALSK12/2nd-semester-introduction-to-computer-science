@@ -42,10 +42,10 @@ Hello World
 Hello World
 	```
 	* Have students work on Part 1 of the lab for 10 Minutes
-	* 
-## SNAP Flashback – Hello World
+	 
+    ###SNAP Flashback – Hello World
 
-![](HelloWorld-Code.png)
+    ![](HelloWorld-Code.png)
 
 3. **Variables Lesson/Lab Part 2**
 	* **Variable**: a name that refers to a value
