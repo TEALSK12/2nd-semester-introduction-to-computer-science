@@ -48,5 +48,5 @@ Students will be able to...
 
 
 [Do Now]: do_now.md
-[Project]: project.md
+[Project Spec]: project.md
 [TEALS Dashboard]:www.tealsk12.org/dashboard
