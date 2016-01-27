@@ -9,7 +9,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - Magic 8-Ball
+* [Lab - Magic 8-Ball]
 * Associated Reading - section 3.1 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
@@ -57,4 +57,4 @@ If students are moving quickly, find another library to import from (see **bonus
 
 
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Magic 8-Ball]:lab.md
