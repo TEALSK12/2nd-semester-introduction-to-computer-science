@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - Can I or Can't I?
+* [Lab - Can I or Can't I?]
 * Associated Reading - section 2.2 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
@@ -52,4 +52,4 @@ If students are moving quickly, use this opportunity to go over truth tables (or
 ![](Lesson 2.03 Truth Table.png)
   
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Can I or Can't I?]:lab.md
