@@ -9,7 +9,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - Nested For Loops
+* [Lab - Nested For Loops]
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -62,5 +62,5 @@ This topic is often confusing for students new to the concept, so build in time 
 The bonus problems for the lab are a bit harder and should allow students who are moving fast to work on something a bit trickier. 
 
 [Do Now]: do_now.md
-[Lab]: lab.md
+[Lab - Nested For Loops]: lab.md
 [loop diagram]: http://etutorials.org/shared/images/tutorials/tutorial_169/F05um02.jpg
