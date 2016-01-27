@@ -7,7 +7,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab] - Daily Schedule
+* [Lab - Daily Schedule]
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 
@@ -64,5 +64,5 @@ Students may struggle with the concept of nested lists. Be prepared to have addi
 * Ex. What if you keep a weekly to-do list? The days of the week would be the first list, and then each item that you hope to accomplish under each day is the list within the list.
 
 [Do Now]: do_now.md
-[Lab]: lab.md
+[Lab - Daily Schedule]: lab.md
 [loop diagram]: http://etutorials.org/shared/images/tutorials/tutorial_169/F05um02.jpg
