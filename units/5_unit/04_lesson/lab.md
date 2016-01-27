@@ -1,4 +1,4 @@
-# Lab 5.04
+# Lab 5.04: User-Defined Functions
 
 Create a new EarSketch project that meets the requirements below. Include your name and project description at the top of the file.
 * Create two functions. Both functions should use `fitMedia()` and `makeBeat()` at least once.
