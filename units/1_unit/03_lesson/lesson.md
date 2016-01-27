@@ -11,7 +11,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now] 
 * [Cloud 9 Cheat Sheet]
-* [Lab] - Printing & Variables
+* [Lab - Printing & Variables]
 * Associated Reading - section 1.2 of Book
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students.
 
@@ -69,6 +69,6 @@ If students are moving quickly, ask students to come up with a way to print two 
 
   
 
-[Lab]:lab.md
+[Lab - Printing & Variables]:lab.md
 [Cloud 9 Cheat Sheet]: ../cloud_9_cheat_sheet.md
 [Do Now]:do_now.md
