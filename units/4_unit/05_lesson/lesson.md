@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * Quiz (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-* [Lab] - Debugging Practice
+* [Lab - Debugging Practice]
 * [Coding Example]
 * Read through the quiz, lesson, and lab so that you are familiar with the requirements and can assist students
 * Go through the quiz and create an answer key & scoring rubric
@@ -42,5 +42,5 @@ Students will be able to...
 Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
 
 [TEALS Dashboard]:www.tealsk12.org/dashboard
-[Lab]: lab.md
+[Lab - Debugging Practice]: lab.md
 [Coding Example]: longer_coding_sample.py
