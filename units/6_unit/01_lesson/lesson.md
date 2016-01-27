@@ -38,7 +38,7 @@ Students will be able to...
 		    * *Note*: You can pass in a second argument to `get` which takes the place of the `None` default.
 	* Ask how students would get the value for `chair` or `car`.
 	* Discuss what happened when students ran `my_dictionary['kittens']`? 
-		* Explain that this error is common and means that there is no value in the dictionary. You can use `my_dictionary.get` with the if statement to avoid this error.
+		* Explain that this error is common and means that there is no value in the dictionary. You can use `my_dictionary.has_key()` with an if statement to avoid this error.
 3. **Lab**	
 	* Students will create a dictionary translating common internet phrases into their meanings.
 4. **Debrief**
