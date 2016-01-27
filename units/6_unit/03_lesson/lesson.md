@@ -1,4 +1,4 @@
-#Lesson: Dictionaries of Lists
+#Lesson 6.03: Dictionaries of Lists
 
 ##Learning Objectives
 Students will be able to...
