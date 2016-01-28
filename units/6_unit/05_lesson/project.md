@@ -1,4 +1,4 @@
-# Project: Guess Who
+# Project 6: Guess Who
 
 In Guess Who, you’ll be building a text version of the classic board game. Dictionaries will be the key to this project. [
 http://www.miniplay.gr/?view=game&gid=76](http://www.miniplay.gr/?view=game&gid=76)
