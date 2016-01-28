@@ -33,7 +33,7 @@ Students will be able to...
 		* Discuss that the order of the list is not exactly what was expected. 
 		    * Unlike lists, dictionaries have no guaranteed order.
 3. **Lab**	
-	* Students will rewrite their word count lab to return the top 5 most used words 
+	* Students will rewrite their word count lab (Lab 6.02) to return the top 5 most frequently occurring words.
 4. **Debrief**
 	* Take a moment to discuss any common areas of confusion or challenge that came up during the lab. 
 	* Talk about how `in` works for dictionaries for the bonus.
