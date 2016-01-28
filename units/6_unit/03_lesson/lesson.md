@@ -39,7 +39,7 @@ Students will be able to...
 	* Talk about how `in` works for dictionaries, specifically for the bonus.
 
 ###Accommodation/Differentiation
-Students that are moving quickly should work on the bonus activity in the lab. They can also be paired with students that are struggling, as this lab requires pulling together a variety of concepts and skills (looping, conditionals, lists, and dictionaries).
+Students that are moving quickly should work on the bonus activity in the lab. They can also be paired with students that are struggling (with close monitoring, as needed), as this lab requires pulling together a variety of concepts and skills: looping, conditionals, lists, and dictionaries.
 
 [Do Now]: do_now.md
 [Lab - Dictionaries Storing Lists]: lab.md
