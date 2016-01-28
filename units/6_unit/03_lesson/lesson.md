@@ -17,8 +17,8 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
-| 10 Minutes | Debrief     |
+| 35 Minutes | Lab         |
+| 5 Minutes | Debrief     |
 
 ## Instructor's Notes
 
@@ -33,10 +33,11 @@ Students will be able to...
 3. **Lab**	
 	* Students will create a weekly to do list. The user can add items to the to do list. 
 4. **Debrief**
-	* Talk about any confusion the students had. 
-	* Talk about how `in` works for dictionaries for the bonus
+	* Discuss any confusion or problem areas the students faced. 
+	* Talk about how `in` works for dictionaries, specifically for the bonus.
 
-
+###Accommodation/Differentiation
+Students that are moving quickly should work on the bonus activity in the lab. They can also be paired with students that are struggling, as this lab requires pulling together 
 
 [Do Now]: do_now.md
 [Lab - Dictionaries Storing Lists]: lab.md
