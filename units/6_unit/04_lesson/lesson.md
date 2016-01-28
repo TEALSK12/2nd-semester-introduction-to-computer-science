@@ -35,7 +35,7 @@ Students will be able to...
 3. **Lab**	
 	* Students will rewrite their word count lab to return the top 5 most used words 
 4. **Debrief**
-	* Talk about any confusion the students had. 
+	* Take a moment to discuss any common areas of confusion or challenge that came up during the lab. 
 	* Talk about how `in` works for dictionaries for the bonus.
 
 ###Accommodation/Differentiation
