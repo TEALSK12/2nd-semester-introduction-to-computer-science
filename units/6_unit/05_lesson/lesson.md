@@ -3,15 +3,16 @@
 ##Learning Objectives
 Students will be able to...
 
-* Use dictionaries to play guess who
+* Use dictionaries to play the game [Guess Who]
 
 ##Materials/Preparation
 * [Do Now]
 * [Project Spec - Guess Who]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-*  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
+*  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
+###Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
@@ -24,7 +25,7 @@ Students will be able to...
 | 35 Minutes | Project Work        |
 | 5 Minutes | Wrap up     |
 ## Instructor's Notes
-1. **Intro Day** 
+1. **Day 1** 
 	1. **Do Now**
 	    * Display the do now on the board. 
 	2. **Review**
@@ -35,7 +36,7 @@ Students will be able to...
 		* Have the students design the variables, functions, dictionaries, lists, and structure they need
 		* Have them write out the steps in pseudo code and how long each section will take them
 		* Have the students write out a plan /outline for how they will spend time over next few days
-2. **Project Days**
+2. **Days 2-7**
 	1. ** Planning/Questions **
 		* Have students write down what they want to do that day and any questions they have from yesterday
 	2. **Review** 
@@ -50,3 +51,4 @@ Students will be able to...
 [Do Now]: do_now.md
 [Project Spec - Guess Who]: project.md
 [TEALS Dashboard]:www.tealsk12.org/dashboard
+[Guess Who]:https://en.wikipedia.org/wiki/Guess_Who%3F
