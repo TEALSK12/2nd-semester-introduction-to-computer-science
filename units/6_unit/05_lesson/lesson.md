@@ -25,7 +25,7 @@ Students will be able to...
 |**Duration**|**Description**|
 |--|--|
 | 5 Minutes  | Planning/Questions      |
-| 10 Minutes | Review of Questions      |
+| 10 Minutes | Review (if necessary)      |
 | 35 Minutes | Project Work        |
 | 5 Minutes | Wrap up     |
 ## Instructor's Notes
@@ -45,13 +45,13 @@ Students will be able to...
 		* Any students that finish their plan and have it checked should begin project work.
 2. **Days 2-7**
 	* ** Planning/Questions **
-		* Have students write down what they want to do that day and any questions they have from yesterday
-	2. **Review** 
-		* if necessary, review any concepts or struggles the class was having
+		* Have students write down what they want to accomplish that day and any questions they have from the previous class.
+	2. **Review (if necessary)** 
+		* Go over any concepts or challenges that students are having.
 	3. **Project Work** 
-		* students work on their projects indecently
+		* Students work independently to complete their projects and meet their daily goals.
 	4. **Wrap Up**
-		* have the students write down what they struggled on or had a hard time doing. 
+		* Have the students write down what they struggled on or had a hard time doing. 
 
 
 
