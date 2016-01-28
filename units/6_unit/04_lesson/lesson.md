@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to...
 
-* Loop through dictionaries 
+* Use loops to traverse lists contained in a dictionary 
 
 ##Materials/Preparation
 * [Do Now]
