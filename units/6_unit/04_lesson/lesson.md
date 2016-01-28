@@ -41,5 +41,7 @@ Students will be able to...
 ###Accommodation/Differentiation
 Students that are moving quickly can explore sorting additionally in the bonus activity.
 
+Some students may need a second class period to complete this lab. 
+
 [Do Now]: do_now.md
 [Lab - Dictionaries Looping]: lab.md
