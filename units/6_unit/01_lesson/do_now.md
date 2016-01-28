@@ -12,8 +12,8 @@ my_dictionary = {
 print(my_dictionary)
 print(my_dictionary['dog'])
 print(my_dictionary.get('dog'))
-print(my_dictionary.has_key('monkey'))
-print(my_dictionary.has_key('chair'))
+print('cat' in my_dictionary)
+print('monkey' in my_dictionary)
     ```
 Write down what was printed out. What type is `my_dictionary`? 
 <br><br><br>
