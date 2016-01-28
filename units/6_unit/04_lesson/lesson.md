@@ -39,7 +39,7 @@ Students will be able to...
 	* Talk about how `in` works for dictionaries for the bonus.
 
 ###Accommodation/Differentiation
-
+Students that are moving quickly can explore sorting additionally in the bonus activity.
 
 [Do Now]: do_now.md
 [Lab - Dictionaries Looping]: lab.md
