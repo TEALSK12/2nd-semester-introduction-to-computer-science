@@ -27,7 +27,7 @@ Students will be able to...
 
 1. **Do Now**
     * Display the Do Now on the board.
-    * Students type code that edits dictionaries by either adding or removing key:value pairs.
+    * Students type code that edits dictionaries by modifying, adding, or removing key:value pairs.
 2. **Lesson**
 	* Ask the students about part 1 of Do Now
 		* Describe that you can update a value in a dictionary by setting it like how you would set a list. 
