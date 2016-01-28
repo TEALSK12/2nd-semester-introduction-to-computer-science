@@ -1,4 +1,4 @@
-[# Project: Pokemon
+# Project 7: Pokemon
 
 In this project we will be creating a basic implementation of Pokemon, and then create a game for them to battle.
 
