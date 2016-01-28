@@ -37,7 +37,7 @@ example_paragraph_lower = example_paragraph.lower()
 
 example_paragraph_lower_no_punctuation = example_paragraph_lower.replace(".", "")
 
-example_word_list = example_paragraph_lower.split(" ")
+example_word_list = example_paragraph_lower_no_punctuation.split(" ")
 
 ```
  
