@@ -12,6 +12,6 @@ my_dictionary = {
 }
 print(my_dictionary.keys())
     ```
-Write down what `keys()` does. What type does `keys()` return? 
+Write down what `keys()` does. What type does `keys()` return? <br><br><br>
 
-2. Write down how you might use a for loop to go through the values of my_dictionary. Try your solution using the interpreter. 
+2. Write down how you might use a `for` loop to go through the values of `my_dictionary`. Try your solution using the interpreter. 
