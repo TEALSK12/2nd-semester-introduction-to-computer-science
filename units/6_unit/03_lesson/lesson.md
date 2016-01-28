@@ -27,7 +27,7 @@ Students will be able to...
     * Students will explore how to use dictionaries containing lists, as well as how to add values to those lists.
 2. **Lesson**
 	* Discuss part 1 of the Do Now.
-		* What type is `list_dictionaries`? 
+		* Go over the type of `list_dictionaries`. 
 		    * It is still a dictionary type which goes from string to list. Dictionaries can also go from numbers to lists or numbers to strings, or any other combination. 
 	* Discuss part 2 of the Do Now. 
 		* How do you update a value within a dictionary. Have to first get the item. If it doesn't exist set it to empty. If it does exist append a value to the end. 
