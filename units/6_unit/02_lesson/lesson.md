@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to...
 
-* Define and identify: **pop**, **defualt value**
+* Define and identify: **pop**, **default value**
 * Update values in a dictionary
 * Add values to a dictionary
 * Remove values from a dictionary 
