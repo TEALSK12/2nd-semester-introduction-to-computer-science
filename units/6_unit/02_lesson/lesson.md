@@ -29,13 +29,13 @@ Students will be able to...
     * Display the Do Now on the board.
     * Students type code that edits dictionaries by modifying, adding, or removing key:value pairs.
 2. **Lesson**
-	* Discuss part 1 of Do Now
-		* Describe that you can update a value in a dictionary by setting it like how you would set a list. 
-	* Ask students about part 2 of Do Now
-		* Can add values to the dictionary by using the same syntax.
-		* How would you check if a value was in a dictionary before adding it? 
-	* Ask students about part 3 of the Do Now? 
-		* What does pop do? What does the second argument do. 
+	* Discuss part 1 of the Do Now.
+		* Describe that you can update a value in a dictionary in a similar way to how you would update a value in a list.
+	* Discuss part 2 of the Do Now.
+		* Note that you can add values to a dictionary by using the same syntax.
+		* Review: How might you check if a value was in a dictionary before adding it? 
+	* Discuss part 3 of the Do Now 
+		* What does `pop` do? What does the second argument do?
 			* Second argument is the default value. This is the value that will be returned if the first argument is not in the dictionary. 
 3. **Lab**	
 	* Students will create a word count algorithm that will count the number of words in a list of words. 
