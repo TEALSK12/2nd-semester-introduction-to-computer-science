@@ -45,7 +45,6 @@ Students will be able to...
 ###Accommodation/Differentiation
 Some students may need to be explicitly reminded of the `in` keyword to check if a certain key is in their dictionary.
 
-Students moving quickly could extend this lab to 
 
 
 [Do Now]: do_now.md
