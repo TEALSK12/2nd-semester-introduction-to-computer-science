@@ -73,7 +73,7 @@
    * [Lesson 4.05: Debugging and Quiz](units/4_unit/05_lesson/lesson.md)
        * [Lab 4.05](units/4_unit/05_lesson/lab.md)
    * [Lesson 4.06: Tic-Tac-Toe](units/4_unit/06_lesson/lesson.md)
-       * [Project: Tic-Tac-Toe](units/4_unit/06_lesson/project.md)
+       * [Project 4: Tic-Tac-Toe](units/4_unit/06_lesson/project.md)
 * [Unit 5](units/5_unit/unit5.md)
    * [Lesson 5.01: Earsketch Intro](units/5_unit/01_lesson/lesson.md)
        * [Do Now 5.01](units/5_unit/01_lesson/do_now.md)
