@@ -1,4 +1,4 @@
-# Project: Song
+# Project 5: EarSketch Song
 
 
 ## Overview
