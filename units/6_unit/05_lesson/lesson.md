@@ -45,7 +45,7 @@ Students will be able to...
 		* Any students that finish their plan and have it checked should begin project work.
 2. **Days 2-7**
 	* ** Planning/Questions **
-		* Have students write down what they want to accomplish that day and any questions they have from the previous class.
+		* Have the students write down what they want to accomplish that day and any questions they have from the previous class.
 	2. **Review (if necessary)** 
 		* Go over any concepts or challenges that students are having.
 	3. **Project Work** 
