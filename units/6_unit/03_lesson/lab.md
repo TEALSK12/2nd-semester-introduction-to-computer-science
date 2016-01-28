@@ -25,6 +25,6 @@ What would you like to do.
 ```
 
 ## Bonus!
-It's a bit tedious to have to type in three different lines to add an item to a to-do list. Use `split` to allow the user to input `add Friday watch tv and relax`. 
+It's a bit tedious for the user to have to type in three different lines to add an item to a to-do list. Use `split` to allow the user to input `add Friday watch tv and relax`. 
 
 Create a variation of the program that doesn't allow any duplicates across any of the days. Make sure when you add a to-do item that it doesn't exist in the to-do lists of any of the days before adding. 
