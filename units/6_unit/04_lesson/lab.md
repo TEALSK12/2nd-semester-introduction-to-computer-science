@@ -1,8 +1,8 @@
 # Lab 6.04 - Dictionaries Looping
 
-In this lab we will use our code from the word count lab to create a program that will return the top 5 most used words in a document. 
+In this lab we will use our code from the word count lab (Lab 6.02) to create a program that will return the top 5 most used words in a document. 
 
-The program, most_frequent_lab.py, will print out the top 5 most used words in a paragraph. It should print out the word and the number of times used. 
+The program, `most_frequent_lab.py`, will print out the top 5 most used words in a paragraph. It should print out the word and the number of times used. 
 
 1. Take your old lab code and turn it into a function that takes in a list of words and returns a dictionary of word frequencies
 2. Write a function, find_max_value, that will loop through the dictionary and keep track of the top value in that dictionary and return the key of the max value 
