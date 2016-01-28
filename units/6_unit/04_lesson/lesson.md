@@ -36,8 +36,9 @@ Students will be able to...
 	* Students will rewrite their word count lab to return the top 5 most used words 
 4. **Debrief**
 	* Talk about any confusion the students had. 
-	* Talk about how `in` works for dictionaries for the bonus
+	* Talk about how `in` works for dictionaries for the bonus.
 
+###Accommodation/Differentiation
 
 
 [Do Now]: do_now.md
