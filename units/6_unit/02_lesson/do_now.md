@@ -2,7 +2,7 @@
 
 1.Type and run the following code in the interpreter: 
 
-```
+```python
 my_dictionary = {
 'kittens': 'cute animals'
 }
@@ -14,7 +14,7 @@ Write down what the 2nd line does.
 
 2.Type and run the following code in the interpreter: 
 
-```
+```python
 my_dictionary = {}
 my_dictionary['puppies'] = 'baby dogs'
 print(my_dictionary)
@@ -23,13 +23,13 @@ Write down what the second line does.
 
 3.Type and run the following code in the interpreter: 
 
-```
+```python
 my_dictionary = {
 'kittens': 'cute animals',
 'puppies': 'baby dogs'
 }
 my_dictionary.pop('kittens')
-print(my_dicionary)
+print(my_dictionary)
 my_dictionary.pop('bunnies')
 my_dictionary.pop('bunnies', None)
 ```
