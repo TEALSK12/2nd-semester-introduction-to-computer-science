@@ -35,12 +35,14 @@ Students will be able to...
 		* Note that you can add values to a dictionary by using the same syntax.
 		* Review: How might you check if a value was in a dictionary before adding it? 
 	* Discuss part 3 of the Do Now 
-		* What does `pop` do? What does the second argument do?
-			* Second argument is the default value. This is the value that will be returned if the first argument is not in the dictionary. 
+		* Review what **pop** does, as well as what the second argument does.
+			* The second argument in `pop` is described as the **default value**. This is the value that will be returned if the first argument is not in the dictionary. 
 3. **Lab**	
 	* Students will create a word count algorithm that will count the number of words in a list of words. 
 4. **Debrief**
-	* Talk about any confusion the students had. Discuss what dictionaries might be useful for. 
+	* Talk about any confusion the students had. Discuss additional ideas of how dictionaries might be useful. 
+
+###Accommodation/Differentiation
 
 
 
