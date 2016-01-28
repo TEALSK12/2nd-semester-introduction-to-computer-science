@@ -53,6 +53,8 @@ Students will be able to...
 	4. **Wrap Up**
 		* Discuss common issues that students were having, provide suggestions for how to overcome those challenges.
 
+###Accommodation/Differentiation
+
 
 
 [Do Now]: do_now.md
