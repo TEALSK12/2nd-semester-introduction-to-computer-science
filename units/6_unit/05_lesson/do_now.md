@@ -1,7 +1,7 @@
 #Do Now 6.05
 
 1. Write down your ranking of these concepts from easiest to hardest: 
-	1. Creating Dictionaries
+	1. Creating dictionaries
 	2. Adding items to dictionaries
 	3. Updating items in dictionaries
 	4. Looping through items in a dictionary
