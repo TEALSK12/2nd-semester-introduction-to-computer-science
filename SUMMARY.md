@@ -120,7 +120,7 @@
        * [Do Now 7.04](units/7_unit/04_lesson/do_now.md)
        * [Lab 7.04](units/7_unit/04_lesson/lab.md)
    * [Lesson 7.05: Pokemon](units/7_unit/05_lesson/lesson.md)
-       * [Project: Pokemon](units/7_unit/05_lesson/project.md)
+       * [Project 7: Pokemon](units/7_unit/05_lesson/project.md)
 * [Unit 8](units/8_unit/unit8.md)
    * [Lesson 8.01: Creating Classes](units/8_unit/01_lesson/lesson.md)
        * [Do Now 8.01](units/8_unit/01_lesson/do_now.md)
