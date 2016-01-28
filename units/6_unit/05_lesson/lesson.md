@@ -19,7 +19,10 @@ Students will be able to...
 | 10 Minutes | Review      |
 | 10 Minutes | Project Overview        |
 | 30 Minutes | Project Planning     |
-| ** Day 2-7 ** |             |
+
+###Days 2-7              
+|**Duration**|**Description**|
+|--|--|
 | 5 Minutes  | Planning/Questions      |
 | 10 Minutes | Review of Questions      |
 | 35 Minutes | Project Work        |
