@@ -13,20 +13,21 @@ Students will be able to...
 * [Lab - Word Counter]
 * [Solution]
 * Associated Reading - section 5.2 of Book
-*  Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
+*  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
-| 10 Minutes | Debrief     |
+| 35 Minutes | Lab         |
+| 5 Minutes | Debrief     |
 
 ## Instructor's Notes
 
 1. **Do Now**
-    * Display the Do Now on the board
+    * Display the Do Now on the board.
+    * Students type code that edits dictionaries by either adding or removing key:value pairs.
 2. **Lesson**
 	* Ask the students about part 1 of Do Now
 		* Describe that you can update a value in a dictionary by setting it like how you would set a list. 
