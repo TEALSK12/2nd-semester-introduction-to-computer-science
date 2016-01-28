@@ -22,9 +22,10 @@ Students will be able to...
 ## Instructor's Notes
 
 1. **Do Now**
-    * Display the Do Now on the board
+    * Display the Do Now on the board.
+    * Students will learn the `.keys()` method and 
 2. **Lesson**
-	* Ask the students about part 1 of Do Now
+	* Discuss part 1 of the Do Now.
 		* What type is returned. How can lists be used with a for loop. 
 	* Asks students about part 2 of the Do Now. 
 		* Ask students to write their solution no the board. 
