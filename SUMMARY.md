@@ -89,7 +89,7 @@
        * [Lab 5.04](units/5_unit/04_lesson/lab.md)
    * [Lesson 5.05: EarSketch Project](units/5_unit/05_lesson/lesson.md)
        * [Do Now 5.05](units/5_unit/05_lesson/do_now.md)
-       * [Project: Song](units/5_unit/05_lesson/project.md)
+       * [Project 5: EarSketch Song](units/5_unit/05_lesson/project.md)
 * [Unit 6](units/6_unit/unit6.md)
    * [Lesson 6.01: Introduction to Dictionaries](units/6_unit/01_lesson/lesson.md)
        * [Do Now 6.01](units/6_unit/01_lesson/do_now.md)
