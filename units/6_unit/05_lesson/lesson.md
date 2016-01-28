@@ -51,7 +51,7 @@ Students will be able to...
 	3. **Project Work** 
 		* Students work independently to complete their projects and meet their daily goals.
 	4. **Wrap Up**
-		* Have the students write down what they struggled on or had a hard time doing. 
+		* Discuss common issues that students were having, provide suggestions for how to overcome those challenges.
 
 
 
