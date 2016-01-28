@@ -9,7 +9,8 @@ Students will be able to...
 * [Do Now]
 * [Project Spec - Guess Who]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-*  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+*  Read through the do now, and project spec so that you are familiar with the requirements and can assist students.
+*  C
 
 ## Pacing Guide
 ###Day 1
@@ -30,11 +31,13 @@ Students will be able to...
 ## Instructor's Notes
 1. **Day 1** 
 	1. **Do Now**
-	    * Display the do now on the board. 
+	    * Display the Do Now on the board. 
+	    * Students should take a few moments to rank which topics they found most difficult during this unit.
 	2. **Review**
-		* Review the concepts students found most challenging. 
+		* Take time to review the concepts students found most challenging during this unit. 
 	3. **Project Overview**	
-		* Go over the project with the students 
+		* Go over the project spec details with the students.
+		* Demo a completed project.
 	4. **Planning**
 		* Have the students design the variables, functions, dictionaries, lists, and structure they need
 		* Have them write out the steps in pseudo code and how long each section will take them
