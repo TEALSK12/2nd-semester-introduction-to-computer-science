@@ -43,7 +43,7 @@ Students will be able to...
 	* Talk about any confusion the students had. Discuss additional ideas of how dictionaries might be useful. 
 
 ###Accommodation/Differentiation
-The word count lab 
+The word count lab will likely present some 
 
 
 [Do Now]: do_now.md
