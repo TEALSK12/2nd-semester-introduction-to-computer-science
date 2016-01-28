@@ -21,7 +21,7 @@ get
 What day? 
 Friday
 You have to practice clarinet. 
-What would you like to do. 
+What would you like to do? 
 ```
 
 ## Bonus!
