@@ -1,6 +1,6 @@
 # Do Now 6.03
 
-1. Type and run the following code in the interpreter. 
+1. Type and run the following code in the interpreter: 
 
     ```python
 list_dictionaries = {
