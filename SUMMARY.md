@@ -56,7 +56,7 @@
        * [Do Now 3.04](units/3_unit/04_lesson/do_now.md)
        * [Lab 3.04](units/3_unit/04_lesson/lab.md)
    * [Lesson 3.05: Oregon Trail](units/3_unit/05_lesson/lesson.md)
-       * [Project Spec](units/3_unit/05_lesson/project.md)
+       * [Project 3: Oregon Trail](units/3_unit/05_lesson/project.md)
 * [Unit 4](units/4_unit/unit4.md)
    * [Lesson 4.01: Looping Basics](units/4_unit/01_lesson/lesson.md)
        * [Do Now 4.01](units/4_unit/01_lesson/do_now.md)
