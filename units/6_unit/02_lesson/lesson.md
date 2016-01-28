@@ -43,7 +43,9 @@ Students will be able to...
 	* Talk about any confusion the students had. Discuss additional ideas of how dictionaries might be useful. 
 
 ###Accommodation/Differentiation
-The word count lab will likely present some 
+Some students may need to be explicitly reminded of the `in` keyword to check if a certain key is in their dictionary.
+
+Students moving quickly could extend this lab to 
 
 
 [Do Now]: do_now.md
