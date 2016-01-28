@@ -1,15 +1,14 @@
 # Do Now 6.03
 
-1.Type and run the following code in the interpreter. 
+1. Type and run the following code in the interpreter. 
 
-```
+    ```python
 list_dictionaries = {
 	'cat': [1, 3, 4],
 	'is': [1, 2, 3, 4]
 }
 print(list_dictionaries['cat'])
-```
+    ```
+Write down what type `list_dictionaries` is, what type the keys are, and what type the values are. <br><br><br>
 
-Write down what type list_dictionaries is, what type the key is, and what type the value is. 
-
-2.Write code so that the value of 'is' becomes `[1, 2, 3, 4, 5]`
+2. Write code so that the value of 'is' becomes `[1, 2, 3, 4, 5]`
