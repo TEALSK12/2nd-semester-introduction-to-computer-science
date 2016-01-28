@@ -28,7 +28,7 @@ Students will be able to...
 2. **Lesson**
 	* Discuss part 1 of the Do Now.
 		* Go over the type of `list_dictionaries`. 
-		    * It is still a dictionary type which goes from string to list. Dictionaries can also go from numbers to lists or numbers to strings, or any other combination. 
+		    * It is still a dictionary type which goes from string (key) to list (value). Dictionaries can also go from numbers to lists or numbers to strings, or any other combination. 
 	* Discuss part 2 of the Do Now. 
 		* How do you update a value within a dictionary. Have to first get the item. If it doesn't exist set it to empty. If it does exist append a value to the end. 
 		* Have students practice adding and removing values from a dictionary that goes from strings to lists. 
