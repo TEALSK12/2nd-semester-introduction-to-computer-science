@@ -35,7 +35,7 @@ Ariana Grande decides to go to Times Square instead. What a beautiful day in New
 
 example_paragraph_lower = example_paragraph.lower()
 
-example_paragraph_lower_no_punction = example_paragraph_lower.replace(".", "")
+example_paragraph_lower_no_punctuation = example_paragraph_lower.replace(".", "")
 
 example_word_list = example_paragraph_lower.split(" ")
 
