@@ -34,11 +34,21 @@ Students will be able to...
         * Keys and values can be of any type. The syntax is: `{key : value, key : value, ...}` 
 	* Ask the students what `my_dictionary['dog']` did, and if this syntax reminds them of anything (lists!).
 		* To get the value associated with a key in a dictionary you use square brackets.
-		* You can also use `my_dictionary.get()`, which will return `None` if the value isn't there. 
+		* You can also use `my_dictionary.get()`, which will return `None` if the key isn't there. 
 		    * *Note*: You can pass in a second argument to `get` which takes the place of the `None` default.
 	* Ask how students would get the value for `chair` or `car`.
 	* Discuss what happened when students ran `my_dictionary['kittens']`? 
-		* Explain that this error is common and means that there is no value in the dictionary. To avoid this error, use the `in` keyword with an if statement.
+		* Explain that this error is common and means that there is no value in the dictionary. To avoid this error, use the `in` keyword with an `if` statement. If a certain key is `in` a specified dictionary, it will return `true`. Otherwise it will return `false`.
+		    * Example:
+		    ```python
+		    my_dictionary = {'a': 1, 'b': 2, 'c': 3}
+
+            if 'a' in my_dictionary:
+                print("It's there!")
+            else:
+                print("It's missing!")
+
+		    ```
 3. **Lab**	
 	* Students will create a dictionary translating common internet phrases into their meanings.
 4. **Debrief**
