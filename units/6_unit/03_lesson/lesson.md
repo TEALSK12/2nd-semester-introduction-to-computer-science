@@ -33,7 +33,7 @@ Students will be able to...
 		* Review how you update a value within a dictionary, as well as how to append and remove items from lists. 
 		* Have students continue practicing adding and removing values from `list_dictionaries`.  
 3. **Lab**	
-	* Students will create a weekly to do list. The user can add items to the to do list. 
+	* Students will create a dictionary representing a weekly to-do list. The user can add items to the to-do list or have the program print what items must be done on a certain day.
 4. **Debrief**
 	* Discuss any confusion or problem areas the students faced. 
 	* Talk about how `in` works for dictionaries, specifically for the bonus.
