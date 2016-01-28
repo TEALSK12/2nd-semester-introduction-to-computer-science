@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to...
 
-* Use dictionaries to play the game [Guess Who]
+* Use dictionaries to create the game [Guess Who]
 
 ##Materials/Preparation
 * [Do Now]
