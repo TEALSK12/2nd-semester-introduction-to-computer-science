@@ -30,7 +30,7 @@ Students will be able to...
 | 5 Minutes | Wrap up     |
 ## Instructor's Notes
 1. **Day 1** 
-	1. **Do Now**
+	* **Do Now**
 	    * Display the Do Now on the board. 
 	    * Students should take a few moments to rank which topics they found most difficult during this unit.
 	2. **Review**
@@ -39,11 +39,12 @@ Students will be able to...
 		* Go over the project spec details with the students.
 		* Demo a completed project.
 	4. **Planning**
-		* Have the students design the variables, functions, dictionaries, lists, and structure they need
-		* Have them write out the steps in pseudo code and how long each section will take them
-		* Have the students write out a plan /outline for how they will spend time over next few days
+		* Have the students design the variables, functions, dictionaries, lists, and structure they need.
+		* Students should write out the steps in pseudo code and how long each section will take them.
+		* Have the students write out a plan /outline for how they will spend time over next few days.
+		* Any students that finish their plan and have it checked should begin project work.
 2. **Days 2-7**
-	1. ** Planning/Questions **
+	* ** Planning/Questions **
 		* Have students write down what they want to do that day and any questions they have from yesterday
 	2. **Review** 
 		* if necessary, review any concepts or struggles the class was having
