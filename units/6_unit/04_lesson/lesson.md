@@ -23,15 +23,15 @@ Students will be able to...
 
 1. **Do Now**
     * Display the Do Now on the board.
-    * Students will learn the `.keys()` method and 
+    * Students apply the `.keys()` method and investigate the type produced.
 2. **Lesson**
 	* Discuss part 1 of the Do Now.
-		* What type is returned. How can lists be used with a for loop. 
-	* Asks students about part 2 of the Do Now. 
-		* Ask students to write their solution no the board. 
-		* Disucss that it is possible to do just `for key in my_dictionary...`, but this behind the scenes is similar to calling the keys function. 
+		* Ask students what type was returned.  
+	* Discuss part 2 of the Do Now. 
+		* Ask for a small number of students to write their solution on the board. 
+		* Discuss that it is possible to do just `for key in my_dictionary:`, but behind the scenes this is similar to calling the `.keys()` function. 
 		* Discuss that the order is not exactly what was expected. 
-		* Unlike lists dictionaries have no guaranteed order 
+		    * Unlike lists, dictionaries have no guaranteed order.
 3. **Lab**	
 	* Students will rewrite their word count lab to return the top 5 most used words 
 4. **Debrief**
