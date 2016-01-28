@@ -2,7 +2,7 @@
 
 In this lab we will implement a word frequency algorithm. It will tell you how many of each word you had in an essay. 
 
-At the top of the document save a variable with a long paragraph (example below). In order to turn this paragraph into a list of lower case words we will use the `split(" ")` and `lower()` functions. There is code at the bottom of this page that will do this for you. Feel free to read more about `split()` in the Python documentation, but it's not critical to this lab. 
+At the top of the document save a variable with a long paragraph (example below). In order to turn this paragraph into a **list** of lower case words we will use the `split(" ")` and `lower()` functions. There is code at the bottom of this page that will do this for you. Feel free to read more about `split()` in the Python documentation, but it's not critical to this lab. 
 
 For each word in the document, count the number of times it occurs. Consider the following phrase: 'Cats are cool. Baby cats are called kittens. Cats make great pets.' The word 'cats' appears 3 times. The word 'are' appears 2 times. 
 
@@ -22,7 +22,7 @@ What word would you like to know the frequency of? dogs
 'dogs' does not occur
 ```
 
-### `split` and `lower`
+### `split`, `replace`, and `lower`
 
 This is the code to lower case the letters in the paragraph, remove the periods, and split them into individual words. 
 
