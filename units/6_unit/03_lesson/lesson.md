@@ -4,7 +4,7 @@
 Students will be able to...
 
 * Create dictionaries with keys and values of different types
-* Update list values in a dictionary
+* Update, append, or remove list values in a dictionary
 
 ##Materials/Preparation
 * [Do Now]
