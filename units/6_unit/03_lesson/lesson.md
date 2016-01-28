@@ -3,7 +3,7 @@
 ##Learning Objectives
 Students will be able to...
 
-* Create dictionaries with keys of different types and values of different types
+* Create dictionaries with keys and values of different types
 * Update list values in a dictionary
 
 ##Materials/Preparation
