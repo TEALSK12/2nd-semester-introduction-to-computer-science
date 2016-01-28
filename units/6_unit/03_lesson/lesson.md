@@ -23,7 +23,8 @@ Students will be able to...
 ## Instructor's Notes
 
 1. **Do Now**
-    * Display the Do Now on the board
+    * Display the Do Now on the board.
+    * Students will 
 2. **Lesson**
 	* Ask the students about part 1 of Do Now
 		* What type is list_dictionaries. It is still a dictionary type which goes from string to list. Dictionaries can also go from numbers to lists or numbers to strings any combination. 
