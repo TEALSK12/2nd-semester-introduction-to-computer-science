@@ -22,7 +22,7 @@ When the game begins, a character should be randomly selected. The player can as
 | **Functional Correctness(Behavior)**                                |     |
 | --------------------------------------------------------------- |-----|
 | List command | 5   |
-| name/gender/age/height/hair | 10|
+| gender/age/height/hair | 10|
 | guess command | 5   |
 | help command            | 3  |
 | quit command       | 2  |
