@@ -53,7 +53,9 @@ Students will be able to...
 		* Discuss common issues that students were having each day, provide suggestions for how to overcome those challenges.
 
 ###Accommodation/Differentiation
+Some students may need a refresher on using a `while` loop to control whether the game is over or not. 
 
+Some students may also need additional assistance or scaffolding for how to randomly choose a character from the dictionary.
 
 
 [Do Now]: do_now.md
