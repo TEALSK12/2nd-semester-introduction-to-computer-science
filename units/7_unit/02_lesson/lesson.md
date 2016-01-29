@@ -44,4 +44,4 @@ Students will be able to...
 
   
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Pet Class]:lab.md
