@@ -50,7 +50,7 @@ Students will be able to...
 	3. **Project Work** 
 		* Students work independently to complete their projects and meet their daily goals.
 	4. **Wrap Up**
-		* Discuss common issues that students were having, provide suggestions for how to overcome those challenges.
+		* Discuss common issues that students were having each day, provide suggestions for how to overcome those challenges.
 
 ###Accommodation/Differentiation
 
