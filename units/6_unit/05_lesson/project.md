@@ -5,7 +5,7 @@ In Guess Who, you’ll be building a text version of the classic board game. Dic
 ## Overview
 The game should store information on at least 5 different characters. Each character should have a name, gender, age, height, and hair color.
 
-When the game begins, a character should be randomly selected. The player can ask for 2 pieces of information about the random character, and then has to make a guess as to who was picked.
+When the game begins, a character should be randomly selected by the computer. The player can ask for 2 pieces of information about the random character, and then has to make a guess as to who was picked.
 
 ### Behavior/Commands
 * list: list out all the character's names
