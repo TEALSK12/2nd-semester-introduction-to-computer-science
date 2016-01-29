@@ -19,10 +19,10 @@ When the game begins, a character should be randomly selected. The player can as
 
 ## Grading 
 ### Scheme/Rubric
-| Functional Correctness(Behavior)                                |     |
+| **Functional Correctness(Behavior)**                                |     |
 | --------------------------------------------------------------- |-----|
 | List command | 5   |
-| gender|age|height|hair | 10|
+| name/gender/age/height/hair | 10|
 | guess command | 5   |
 | help command            | 3  |
 | quit command       | 2  |
