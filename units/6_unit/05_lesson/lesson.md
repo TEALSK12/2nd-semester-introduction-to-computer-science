@@ -39,8 +39,7 @@ Students will be able to...
 		* Go over the project spec details with the students.
 		* Demo a completed project.
 	4. **Planning**
-		* Have the students design the variables, functions, dictionaries, lists, and structure they need.
-		* Students should write out the steps in pseudo code and how long each section will take them.
+		* Have the students design the variables, functions, dictionaries, lists, and structure they need, using pseudo code to help them visualize.
 		* Have the students write out a plan /outline for how they will spend time over next few days.
 		* Any students that finish their plan and have it checked should begin project work.
 2. **Days 2-7**
