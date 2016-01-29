@@ -1,9 +1,9 @@
 # Example 
 1. Read the following code: 
 
-```
+```python
 class Pet(object): 
-	"""Represents a pet"""
+#Represents a pet
 	
 my_pet_1 = Pet() 
 my_pet_1.type = 'cat'
