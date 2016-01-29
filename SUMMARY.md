@@ -110,7 +110,7 @@
    * [Lesson 7.01: User-Defined Types (Classes)](units/7_unit/01_lesson/lesson.md)
        * [Do Now 7.01](units/7_unit/01_lesson/do_now.md)
        * [Lab 7.01](units/7_unit/01_lesson/lab.md)
-   * [Lesson 7.02: User Defined Types p. 2](units/7_unit/02_lesson/lesson.md)
+   * [Lesson 7.02: User-Defined Types, part 2](units/7_unit/02_lesson/lesson.md)
        * [Do Now 7.02](units/7_unit/02_lesson/do_now.md)
        * [Lab 7.02](units/7_unit/02_lesson/lab.md)
    * [Lesson 7.03: Methods](units/7_unit/03_lesson/lesson.md)
