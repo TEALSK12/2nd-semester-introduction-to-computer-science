@@ -9,7 +9,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab]
+* [Lab - Pet Class]
 * Associated Reading - section 6.2 of Book
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
