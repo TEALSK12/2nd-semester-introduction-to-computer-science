@@ -19,15 +19,6 @@ When the game begins, a character should be randomly selected. The player can as
 
 ### Example Output
 ```
-What would you like to do? gender                       
-Female                                                                  
-What would you like to do? height                                          
-5'7
-What would you like to do? guess linda                                     
-You won!  
-```
-
-```
 What would you like to do? list                                            
 lisa                                                                       
 linda                                                                      
@@ -41,6 +32,16 @@ Brown
 What would you like to do? guess liv                    
 You lost...  
 ```
+
+```
+What would you like to do? gender                       
+Female                                                                  
+What would you like to do? height                                          
+5'7
+What would you like to do? guess linda                                     
+You won!  
+```
+
 ## Grading 
 ### Scheme/Rubric
 | **Functional Correctness(Behavior)**                                |     |
