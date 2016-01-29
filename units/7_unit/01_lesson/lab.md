@@ -12,6 +12,6 @@ You can use this tool to see what different colors are:[http://www.rapidtables.c
 ## Lab
 
 1. Create a class, `Color`. 
-2. Instantiate a few colors.
-3. Add attributes of r, g, b to those instances.
+2. Instantiate at least 3 colors.
+3. Add attributes of r, g, and b to those instances.
 4. Create a function, `add_color`, which takes in two colors and returns a color that is the average of the two reds, greens, and blues.
