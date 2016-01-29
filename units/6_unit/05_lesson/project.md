@@ -19,12 +19,12 @@ When the game begins, a character should be randomly selected. The player can as
 
 ### Example Output
 ```
-What would you like to do? list                                            
-lisa                                                                       
-linda                                                                      
-bill      
-mike
-liv
+What would you like to do? list
+mike: ['Male', '15', "6'1", 'Blonde']
+liv: ['Female', '25', "5'11", 'Blonde']
+lisa: ['Female', '15', "5'10", 'Red']
+linda: ['Female', '25', "5'7", 'Brown']
+bill: ['Male', '20', "5'5", 'Brown']
 What would you like to do? age
 20   
 What would you like to do? hair             
