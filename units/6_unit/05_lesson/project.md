@@ -8,7 +8,7 @@ The game should store information on at least 5 characters. Each character shoul
 When the game begins, a character should be randomly selected. The player can ask for 2 pieces of information, and then has to make a guess who was picked.
 
 ### Behavior
-* list: list out all the characters and their information 
+* list: list out all the character's names
 * gender/age/height/hair: asks for a piece of information
 * guess <name>: guess a character
 * help: displays all commands
