@@ -1,4 +1,4 @@
-# Lesson: User Defined Types
+# Lesson 7.01: User-Defined Types
 
 ##Learning Objectives
 Students will be able to... 
