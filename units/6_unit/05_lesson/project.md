@@ -3,11 +3,11 @@
 In Guess Who, you’ll be building a text version of the classic board game. Dictionaries will be the key to this project. [Play a Sample Game.](http://www.miniplay.gr/?view=game&gid=76)
 
 ## Overview
-The game should store information on at least 5 characters. Each character should have a name, gender, age, height, and hair color.
+The game should store information on at least 5 different characters. Each character should have a name, gender, age, height, and hair color.
 
-When the game begins, a character should be randomly selected. The player can ask for 2 pieces of information, and then has to make a guess who was picked.
+When the game begins, a character should be randomly selected. The player can ask for 2 pieces of information about the random character, and then has to make a guess as to who was picked.
 
-### Behavior
+### Behavior/Commands
 * list: list out all the character's names
 * gender/age/height/hair: asks for a piece of information
 * guess <name>: guess a character
