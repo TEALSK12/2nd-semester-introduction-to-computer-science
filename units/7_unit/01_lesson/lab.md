@@ -1,4 +1,4 @@
-# Lab 7.01: Creating Classes
+# Lab 7.01: Create a Color Class
 
 In this lab we will create a class that will represent colors and build a function to combine two colors. 
 
