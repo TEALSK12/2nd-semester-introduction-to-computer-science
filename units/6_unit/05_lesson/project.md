@@ -9,13 +9,13 @@ When the game begins, a character should be randomly selected. The player can as
 
 ### Behavior
 * list: list out all the characters and their information 
-* gender|age|height|hair: asks for a piece of information 
+* gender/age/height/hair: asks for a piece of information 
 * guess <name>: guess a character
 * help: displays all commands
 * quit: exits the game
 
 ### Implementation Details
-* To store and access the information you’ll need to use dictionaries. They’ll allow quick and direct access.
+* To store and access the information you’ll need to use dictionaries, which will allow for quick and direct access.
 
 ## Grading 
 ### Scheme/Rubric
