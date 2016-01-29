@@ -5,7 +5,7 @@ Students will be able to...
 * Define and identify: **class**, **instance**, **object**, **attributes**
 * Create a class and instantiate 
 * Add attributes to an instance
-* Use attributes and class
+* Use attributes 
 
 ##Materials/Preparation
 * [Do Now]
