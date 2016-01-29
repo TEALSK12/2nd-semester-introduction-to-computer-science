@@ -1,4 +1,4 @@
-# Lesson 7.02: User Defined-Types, Part 2
+# Lesson 7.02: User-Defined Types, Part 2
 
 ##Learning Objectives
 Students will be able to... 
