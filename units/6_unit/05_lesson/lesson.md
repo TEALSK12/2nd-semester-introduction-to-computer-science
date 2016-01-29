@@ -9,7 +9,7 @@ Students will be able to...
 * [Do Now]
 * [Project Spec - Guess Who]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-*  Read through the do now, and project spec so that you are familiar with the requirements and can assist students.
+*  Read through the do now and project spec so that you are familiar with the requirements and can assist students.
 * Try creating your own variation on the Guess Who game so you are familiar with the potential challenges and bugs your students will hit
 
 ## Pacing Guide
