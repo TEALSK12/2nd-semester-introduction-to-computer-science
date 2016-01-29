@@ -1,4 +1,4 @@
-# Lab
+# Lab 7.02 - Pet Class
 
 In this lab we will build off of our pet class. To create a Pet class that will keep track of the type of animal, color, food, noise and name of a given animal. We will utilize classes. 
 
