@@ -10,7 +10,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Example]
-* [Lab]
+* [Lab - Create a Color Class]
 * Associated Reading - section 6.1 of Book
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -56,5 +56,5 @@ For students that are quickly picking up the concepts, have them create their ow
 
   
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Create a Color Class]:lab.md
 [Example]:example.md
