@@ -29,7 +29,7 @@ Students will be able to...
 2. **Lesson**
 	* Discuss the Do Now:
 		* Ask the students what data type they thought would be helpful. They probably noticed that this was going to be difficult to do concisely without some other data type.
-		* Acknowledge that we need something that says "I am type Pet, which has three different attributes". 
+		* Acknowledge that we need something that says "I am type Pet, which has three different qualities or attributes". 
 	* **Class**: a user-defined type. 
 		* On board write syntax for creating a class: `class Pet(object):`
 		* **Object** : the basis of object-oriented programming (OOP). Objects correspond to a real world thing that has certain attributes associated with it.
@@ -44,11 +44,15 @@ Students will be able to...
 			* **Attribute**: values assigned to an instance.
 	* Note that you can also create functions that take in classes and use their attributes.
 3. **Lab**	
-	* Students will create RGB colors using class.
-	* Create a function to merge two colors.  
-	* Check up their colors on a rgb website 
+	* Students will create RGB colors using a `Color` class.
+	* They will then create a function to merge two colors.  
+	* They can check their colors on the linked RGB website in the lab.
 4. **Debrief**
-	* Talk about any of the phrases or issues the students had. Did they find it easy to understand the code when they read it.
+
+###Accommodation/Differentiation
+Given the big leap taken today with much new terminology and challenging concepts, it's quite possible students will need additional class time to digest the information and finish the lab. 
+
+For students that are quickly picking up the concepts, have them create their own unique class or have them help explain to struggling students with their own examples what a class, object, instance, or attribute is. 
 
   
 [Do Now]:do_now.md
