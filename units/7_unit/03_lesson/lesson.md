@@ -9,7 +9,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab]
+* [Lab - Kangaroo Class]
 * Associated Reading - section 6.3 of Book
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -43,4 +43,4 @@ Students will be able to...
 
   
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Kangaroo Class]:lab.md
