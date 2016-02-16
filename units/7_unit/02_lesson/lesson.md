@@ -29,10 +29,10 @@ Students will be able to...
 2. **Lesson**
 	* Discuss the Do Now.
 		* Ask students what the name of the class is. 
-		* Ask students where the object is instantiated. 
+		* Ask students where the Pet object is instantiated. 
 		* **`__init__`**: 
-			* Ask students what they think the `__init__`  does 
-			* `__init__` is a special function that is called when the class is first initialized. 
+			* Ask students what they think the `__init__`  does. 
+			    * `__init__` is a special function that is called when the class is first initialized. 
 			* If there is a print statement added to the `__init__` method, when would it get printed? 
 		* **`self`**: 
 			* Ask students what they think `self` is. What does `self.name` do and how does that relate to what `my_pet.name` does? 
