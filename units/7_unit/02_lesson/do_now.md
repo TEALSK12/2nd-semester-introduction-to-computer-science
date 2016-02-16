@@ -2,7 +2,7 @@
 
 1. Type and run the following code: 
 
-```
+```python
 class Pet(object): 
 	def __init__(self, name): 
 		self.name = name
