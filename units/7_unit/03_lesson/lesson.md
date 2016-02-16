@@ -43,6 +43,9 @@ Students will be able to...
 4. **Debrief**
 	* Go over students' questions. Ask what an instance is versus an object vs a class. Ask difference between method and attribute.
 
-  
+###Accommodation/Differentiation
+
+Students that are moving quickly should work on the bonus assignment in the lab or work with partner that is struggling. 
+
 [Do Now]:do_now.md
 [Lab - Kangaroo Class]:lab.md
