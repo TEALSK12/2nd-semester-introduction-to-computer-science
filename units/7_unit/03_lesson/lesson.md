@@ -27,9 +27,11 @@ Students will be able to...
     * Display the Do Now on the board.
 2. **Lesson**
 	* Discuss Do Now
-		* **method**: functions inside a class. First argument is always self. What is a method we have seen? (init)
-		* Ask students how they would distinguish between the two time variable
-		* **`__string__`**: Need a method called `__str__`. This will get called when you print an object. It returns a string
+		* **method**: a function inside of a class. 
+		* The first argument is always self. 
+		* Ask: what is a method we have already seen and used? (`init`)
+		* Ask students how they would distinguish between the two time variables
+		* **`__str__`**: Need a method called `__str__`. This will get called when you print an object. It returns a string
 			* Have the students practice writing `__str__` for time for 5 minutes
 			* Have a student write up their string method on the board. 
 		* **`__add__`**: add is another method that gets called when the plus sign is used. Takes in another time object and returns a time object that is the sum of both 
