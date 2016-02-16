@@ -4,7 +4,7 @@
 Students will be able to... 
 * Define and identify: **self**, **`__init__`**
 * Create a class with an init method
-* Understand and use the self 
+* Understand and use the `self` argument 
 * Instantiate a class with an argument
 
 ##Materials/Preparation
@@ -18,8 +18,8 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
-| 10 Minutes | Discussion  |
+| 35 Minutes | Lab         |
+| 5 Minutes | Debrief  |
 
 ## Instructor's Note
 
