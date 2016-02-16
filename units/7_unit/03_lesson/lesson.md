@@ -39,7 +39,7 @@ Students will be able to...
 			* Work together with students to come up with the add time algorithm.
 3. **Lab**	
 	* Have students finish up the time adding method
-	* Have students work on manga too lab from book
+	* Have students work on kanga roo lab from book
 4. **Debrief**
 	* Go over students' questions. Ask what an instance is versus an object vs a class. Ask difference between method and attribute.
 
