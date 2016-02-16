@@ -27,9 +27,9 @@ Students will be able to...
     * Display the Do Now on the board.
     * Students use the `__init__` method and explore how to initialize new objects with one or more arguments. 
 2. **Lesson**
-	* Discuss the Do Now
-		* Ask the students what the name of the class is. (Pet)
-		* Ask the students where the code is instantiated. 
+	* Discuss the Do Now.
+		* Ask students what the name of the class is. 
+		* Ask students where the code is instantiated. 
 		* **`__init__`**: 
 			* Ask students what they think the `__init__`  does 
 			* `__init__` is a special function that is called when the class is first initialized. 
