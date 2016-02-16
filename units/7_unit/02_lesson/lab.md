@@ -3,7 +3,7 @@
 In this lab we will create a Pet class that will keep track of the type of animal, color, food, noise and name of a given animal.
 
 1. Create a class called Pet that has the following attributes: 
-	* Type (i.e. dog, cat, fish)
+	* Animal (i.e. dog, cat, fish)
 	* Color (i.e. spotted, black, tabby, white)
 	* Food (i.e. kibbles, tuna, fish flakes)
 	* Noise (i.e. meow, woof, bark)
