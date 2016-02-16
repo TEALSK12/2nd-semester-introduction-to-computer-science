@@ -42,7 +42,7 @@ Students will be able to...
 	* Next students write a function that will take a list of pets and print out their name and the food they like to eat.
 4. **Debrief**
 	* Review the two key concepts introduced today (`self` and `__init__`)
-	* Check for student understanding and completion
+	* Check for student understanding and completion of the lab. 
 
   
 [Do Now]:do_now.md
