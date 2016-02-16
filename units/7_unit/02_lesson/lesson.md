@@ -46,7 +46,7 @@ Students will be able to...
 
 ###Accommodation/Differentiation
 
-As with the previous lesson, be prepared for some students to struggle with the new vocabulary and concepts being introduced. Reinforce the use of vocabulary such as **instantiate**, **object**, **attribute**, 
+As with the previous lesson, be prepared for some students to struggle with the new vocabulary and concepts being introduced. Reinforce the use of vocabulary such as **instantiate**, **object**, and **attribute** so that students are consistently exposed to how to use these terms.  
   
 [Do Now]:do_now.md
 [Lab - Pet Class]:lab.md
