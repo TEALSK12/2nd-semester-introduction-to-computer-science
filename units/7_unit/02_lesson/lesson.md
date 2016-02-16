@@ -29,7 +29,7 @@ Students will be able to...
 2. **Lesson**
 	* Discuss the Do Now.
 		* Ask students what the name of the class is. 
-		* Ask students where the code is instantiated. 
+		* Ask students where the object is instantiated. 
 		* **`__init__`**: 
 			* Ask students what they think the `__init__`  does 
 			* `__init__` is a special function that is called when the class is first initialized. 
