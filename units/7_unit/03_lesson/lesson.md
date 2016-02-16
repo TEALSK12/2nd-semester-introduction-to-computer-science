@@ -45,7 +45,7 @@ Students will be able to...
 
 ###Accommodation/Differentiation
 
-Students that are moving quickly should work on the bonus assignment in the lab or work with partner that is struggling. 
+Students that are moving quickly should work on the bonus assignment in the lab or assist a partner that is struggling. 
 
 [Do Now]:do_now.md
 [Lab - Kangaroo Class]:lab.md
