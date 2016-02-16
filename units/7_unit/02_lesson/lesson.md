@@ -25,6 +25,7 @@ Students will be able to...
 
 1. **Do Now**
     * Display the Do Now on the board.
+    * Students use the `__init__` method and explore how to initialize new objects with one or more arguments. 
 2. **Lesson**
 	* Discuss Do Now
 		* Ask the students what the name of the class is. (Pet)
