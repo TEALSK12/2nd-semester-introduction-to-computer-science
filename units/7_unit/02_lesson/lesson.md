@@ -5,7 +5,7 @@ Students will be able to...
 * Define and identify: **self**, **`__init__`**
 * Create a class with an init method
 * Understand and use the `self` argument 
-* Instantiate a class with an argument
+* Instantiate a class with arguments
 
 ##Materials/Preparation
 * [Do Now]
