@@ -11,4 +11,7 @@ my_pet = Pet("Peter")
 print(my_pet.name)
 ```
 
-Write down at least three things you notice.
+What is the purpose of the `__init__` method?
+
+<br><br>
+What if you wanted to initialize all pet objects with a name and a color? How would you modify the code to create a pet object with a name of "Peter" and a color of "brown"?
