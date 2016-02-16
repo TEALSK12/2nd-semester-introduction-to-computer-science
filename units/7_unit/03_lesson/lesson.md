@@ -35,8 +35,8 @@ Students will be able to...
 			* Have the students practice writing `__str__` for time for 5 minutes
 			* Have a student write up their string method on the board. 
 		* **`__add__`**: add is another method that gets called when the plus sign is used. Takes in another time object and returns a time object that is the sum of both 
-			* overwriting add is called **operator overloading** because you are re-writing the code used to make the + work  
-			* work together with students to come up with the add time algorithm
+			* Overwriting add is called **operator overloading** because you are re-writing the code used to make the + work.
+			* Work together with students to come up with the add time algorithm.
 3. **Lab**	
 	* Have students finish up the time adding method
 	* Have students work on manga too lab from book
