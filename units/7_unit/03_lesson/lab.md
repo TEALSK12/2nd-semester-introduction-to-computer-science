@@ -1,4 +1,4 @@
-# Lab
+# Lab 7.03 - Kangaroo Class
 
 1. Finish writing the `__add__` method for the time class. 
 
