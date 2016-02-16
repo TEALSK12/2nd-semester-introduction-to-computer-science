@@ -1,8 +1,8 @@
-# Do Now
+# Do Now 7.03
 
 1.Type and run the following code. 
 
-```
+```python
 class Time(object): 
 	def __init__(self, hour, minute, second): 
 		self.hour = hour
