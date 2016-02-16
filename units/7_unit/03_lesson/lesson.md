@@ -3,8 +3,8 @@
 ##Learning Objectives
 Students will be able to... 
 * Define and identify: **method**, **`__str__`**, **`__add__`**, **operator overloading**
-* Create a class with an init method
-* Understand and use the self 
+* Create a class with an `__init__` method
+* Understand and use the `self` argument
 * Instantiate a class with an argument
 
 ##Materials/Preparation
