@@ -25,6 +25,8 @@ Students will be able to...
 
 1. **Do Now**
     * Display the Do Now on the board.
+    * Students will find that when they try to print the two different Time objects, it produces output that's not particularly useful or readable.
+    * Students will also discover that adding objects doesn't work...yet!
 2. **Lesson**
 	* Discuss Do Now
 		* **method**: a function inside of a class. 
