@@ -43,7 +43,8 @@ Students will be able to...
 	* Have students finish up the time adding method.
 	* Have students work on kanga roo lab.
 4. **Debrief**
-	* Go over students' questions. Ask what an instance is versus an object vs a class. Ask difference between method and attribute.
+	* Go over students' questions and demonstrate some students' successfully completed labs. 
+	* Review what methods are generally, and what specific methods were used in today's lab.
 
 ###Accommodation/Differentiation
 
