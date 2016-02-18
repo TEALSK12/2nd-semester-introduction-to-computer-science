@@ -34,14 +34,14 @@ Students will be able to...
 		* Ask students what method we have already seen and used previously. (`init`)
 		* Ask students how they would distinguish between the two time variables.
 		* **`__str__`**: Need a method called `__str__`. This will get called when you print an object, and it returns a string that is easy to read and understand.
-			* Have the students practice writing `__str__` for time for 5 minutes
+			* Have the students practice writing `__str__` for the `Time` class for 5 minutes.
 			* Have a student write up their string method on the board. 
-		* **`__add__`**: add is another method that gets called when the plus sign is used. Takes in another time object and returns a time object that is the sum of both. 
+		* **`__add__`**: add is another method that gets called when the plus sign is used. It takes in another two time objects and returns a time object that is the sum of both. 
 			* Overwriting add is called **operator overloading** because you are re-writing the code used to make the + work.
 			* Work together with students to come up with the add time algorithm.
 3. **Lab**	
-	* Have students finish up the time adding method
-	* Have students work on kanga roo lab from book
+	* Have students finish up the time adding method.
+	* Have students work on kanga roo lab.
 4. **Debrief**
 	* Go over students' questions. Ask what an instance is versus an object vs a class. Ask difference between method and attribute.
 
