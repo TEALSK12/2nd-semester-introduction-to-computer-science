@@ -28,12 +28,12 @@ Students will be able to...
     * Students will find that when they try to print the two different Time objects, it produces output that's not particularly useful or readable.
     * Students will also discover that adding objects doesn't work...yet!
 2. **Lesson**
-	* Discuss Do Now
+	* Discuss the Do Now.
 		* **method**: a function inside of a class. 
-		* The first argument is always self. 
-		* Ask: what is a method we have already seen and used? (`init`)
-		* Ask students how they would distinguish between the two time variables
-		* **`__str__`**: Need a method called `__str__`. This will get called when you print an object. It returns a string
+		* The first argument is always `self`. 
+		* Ask students what method we have already seen and used previously. (`init`)
+		* Ask students how they would distinguish between the two time variables.
+		* **`__str__`**: Need a method called `__str__`. This will get called when you print an object, and it returns a string that is easy to read and understand.
 			* Have the students practice writing `__str__` for time for 5 minutes
 			* Have a student write up their string method on the board. 
 		* **`__add__`**: add is another method that gets called when the plus sign is used. Takes in another time object and returns a time object that is the sum of both. 
