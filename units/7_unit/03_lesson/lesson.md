@@ -1,4 +1,4 @@
-# Lesson: Methods
+# Lesson 7.03: Methods
 
 ##Learning Objectives
 Students will be able to... 
