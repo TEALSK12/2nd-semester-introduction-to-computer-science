@@ -6,7 +6,7 @@ Students will be able to...
   * Explain the importance of wireframing when designing an application
 
 ## Materials/Preparation
-* [Final Project Plan Organizer](final_project_plan_organizer.docx) handout
+* [Final Project Plan Organizer](../final_project_plan_organizer.docx) handout
 
 ## Pacing Guide
 | Duration  | Description                                   |
