@@ -25,7 +25,7 @@ Students will be able to...
 2. ** Introduce Project and Review Design ** 
     1. Talk about how far students have come this semester
         * Ask students to think back to the start of the semester and remember how little they knew about Python programming.
-        * Maybe show a lab or assignment from early on and remind them that, not that long ago, this was challenging, whereas it now seems nearly trival (hopefully).
+        * Maybe show a lab or assignment from early on and remind them that, not that long ago, this was challenging, whereas it now seems nearly trivial (hopefully).
     2. Explain that, for their final project, the students will get to design and build a program of their own choosing.
         * Point out that this will involve more than just writing code-- there will be planning, design, scheduling, and other project management tasks
         * Emphasize that students will be graded on not only the program they produce, but the process they used to design, plan, and implement it
