@@ -29,13 +29,13 @@ Students will be able to...
     * Explain that defining scenarios helps a programmer focus on what features are actually necessary to enable the key user interactions for their application
     * Instruct students to write down at least **3** scenarios for their project describing, from start to finish, interactions a user might have with their program to accomplish a specific goal
         * The scenarios should have a moderate level of detail in the description of the user interaction (e.g. "print a board," "input their name," etc.) but should not include any design or implementation details.
-        * Since this semester is text based a scenario would more likely be: text-based user flows (interstacions with the console)
+        * Since this semester is text based a scenario would more likely be: text-based user flows (interactions with the console)
     * Once students have written their scenarios, they should review them and develop a list of the necessary features to enable each scenario
         * Again, there should be minimal technical detail in these descriptions, instead focusing on details of the user experience.  The feature lists should should be more about _requirements_ than implementation.
 3. ** Flow Chart ** 
-    * Flow Chart: the different paths a user can take through a program. At each step write down what options the user has and what scenarios that can lead to. Similar to the wire frame of last semester (wireframes typicall deal with screens, so a flow chart is a good alternative)
+    * Flow Chart: the different paths a user can take through a program. At each step write down what options the user has and what scenarios that can lead to. Similar to the wire frame of last semester (wireframes typically deal with screens, so a flow chart is a good alternative)
     * Flow Charts do not include any details (such as specific text), but instead provide a broad impression of what an application will be like to aid in design and planning
-    * Students will complete page 1 of the organizer by writting out the important interactions of their program. 
+    * Students will complete page 1 of the organizer by writing out the important interactions of their program. 
         * Encourage students to reference their feature lists to ensure they include _all_ necessary interactions for their project, including simple things like a intro interaction, help interaction, or exit ("game over").
 4. Debrief
     * As class ends, ensure students retain their work as they will use it to construct a detailed specification and implementation plan tomorrow.
