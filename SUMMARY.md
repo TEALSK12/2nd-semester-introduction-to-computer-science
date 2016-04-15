@@ -124,6 +124,7 @@
 * [Unit 8](units/8_unit/unit8.md)
    * [Lesson 8.01: Final Project Brainstorming and Evaluating](units/8_unit/01_lesson/lesson.md)
        * [Do Now 8.01](units/8_unit/01_lesson/do_now.md)
+       * [Project 8: Final Project](units/8_unit/project.md) 
    * [Lesson 8.02: Defining Requirements](units/8_unit/02_lesson/lesson.md)
        * [Do Now 8.02](units/8_unit/02_lesson/do_now.md)
    * [Lesson 8.03: Building a Plan](units/8_unit/03_lesson/lesson.md)
