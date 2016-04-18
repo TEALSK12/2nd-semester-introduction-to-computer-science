@@ -1,16 +1,16 @@
 # Lab 3.03 - War (Card Game)
 
-1) Create a program that lets a user play the card game ['War'](http://www.pagat.com/war/war.html). 
+1) Create a program that lets a user play the card game ['War'](http://www.pagat.com/war/war.html).
 
-Your game should: 
+Your game should:
 
 * Start with a given shuffled deck variable (shuffle function comes from python's random library, more details below)
 * Ask for player1 and player2's names.
 * Have a function `player_turn`, with the contract shown below:
 
 ```python
-#player_turn: takes in a player name, player_name, and draws/removes a card from the deck, prints "user drew card x", and returns the value 
-#input: player_name, string 
+#player_turn: takes in a player name, player_name, and draws/removes a card from the deck, prints "user drew card x", and returns the value
+#input: player_name, string
 #output: string
 ```
 * Have a function `compare_scores` that takes in the two strings representing the cards drawn and compares the card values. Make sure to write the contract for `compare_scores`!
@@ -22,16 +22,16 @@ Your game should:
 
 ### Deck Shuffling
 
-While seemingly simple-- shuffling a deck is a somewhat comoplicatd problem. Luckily, Python's random library has a built in shuffle algorithm. Feel free to read the documentation, but we have provided a simple wrapper function that will return to you a shuffled deck of cards. 
+While seemingly simple-- shuffling a deck is a somewhat complicated problem. Luckily, Python's random library has a built in shuffle algorithm. Feel free to read the documentation, but we have provided a simple wrapper function that will return to you a shuffled deck of cards.
 
-```python 
+```python
 
-import random 
+import random
 
 # shuffled_deck: will returna shuffled deck to the user
-#input: 
+#input:
 #output: a list representing a shuffled deck
-def shuffled_deck(): 
+def shuffled_deck():
 	basic_deck = range(2, 15) * 4
 	random.shuffle(basic_deck)
 	return basic_deck
