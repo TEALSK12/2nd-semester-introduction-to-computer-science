@@ -21,7 +21,7 @@ Students will be able to...
 | 35 Minutes | Lab         |
 | 5 Minutes | Debrief  |
 
-## Instructor's Note
+## Instructor's Notes
 
 1. **Do Now**
     * Display the Do Now on the board.
