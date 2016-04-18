@@ -10,7 +10,7 @@
 Test your code by creating two Kangaroo objects, assigning them to variables named `kanga` and `roo`, and then adding `roo` to the contents of `kanga`’s pouch
 
 ## Extra Credit: 
-If you have extra time, research `isinstance` function to write a method, `is_friend` that will take in another pet and return `True` if the two pets are friends, and `false` if they are not. 
+Return to your Pet class from Lab 7.02. Research the `isinstance` function to write a method, `is_friend` that will take in another pet and return `True` if the two pets are friends, and `false` if they are not. 
 
 ###Rules
 * If they are both dogs they are friends. 
