@@ -1,7 +1,7 @@
 *.tmp
 
 # Word temporary
-~$*.doc*
+#~$*.doc*
 
 # Excel temporary
 ~$*.xls*
