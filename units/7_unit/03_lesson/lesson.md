@@ -19,7 +19,7 @@ Students will be able to...
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
 | 35 Minutes | Lab         |
-| 5 Minutes | Discussion  |
+| 5 Minutes | Debrief  |
 
 ## Instructor's Notes
 
@@ -44,7 +44,7 @@ Students will be able to...
 	* Have students work on kanga roo lab.
 4. **Debrief**
 	* Go over students' questions and demonstrate some students' successfully completed labs. 
-	* Review what methods are generally, and what specific methods were used in today's lab.
+	* Review what a method is, as well as what specific methods were used in today's lab.
 
 ###Accommodation/Differentiation
 
