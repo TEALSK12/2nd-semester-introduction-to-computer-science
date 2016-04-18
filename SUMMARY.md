@@ -131,7 +131,7 @@
        * [Do Now 8.03](units/8_unit/03_lesson/do_now.md)
    * [Lesson 8.04: Project Implementation](units/8_unit/04_lesson/lesson.md)
        * [Do Now 8.04](units/8_unit/04_lesson/do_now.md)
-   * [Final Project Development Plan](units/8_unit/final_project_development_plan.docx)
-   * [Final Project Plan Organizer](units/8_unit/final_project_plan_organizer.docx)
+   * [Final Project Development Plan](units/8_unit/final_project_development_plan.docx) 
+   * [Final Project Plan Organizer](units/8_unit/final_project_plan_organizer.docx) 
 * [Associated Readings](readings.md)
 
