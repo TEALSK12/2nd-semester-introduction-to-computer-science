@@ -21,7 +21,7 @@ Students will be able to...
 | 30 Minutes | Lab         |
 | 10 Minutes | Discussion  |
 
-## Instructor's Note
+## Instructor's Notes
 
 1. **Do Now**
     * Display the Do Now on the board.
