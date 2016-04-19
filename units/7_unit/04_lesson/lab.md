@@ -1,11 +1,12 @@
-# Lab 7.04 - 
+# Lab 7.04 - Pokemon Classes 
 
-Given the example class [example], practice using inheritance to make specific child classes for different types of pets. 
+Given the following [example], practice using inheritance to make specific child classes for different types of Pokemon. 
 
 To check what type a class is you can use `isinstance` which takes in an object, a class and returns a boolean if the object is the type of the inputted class. 
-```
+```python
 my_pet = Pet()
-isinstance(my_pet, Pet)
+isinstance(my_pet, Pet) # returns true
+isinstance(my_pet, Dog) # returns false
 ```
 
 1. Water Type
