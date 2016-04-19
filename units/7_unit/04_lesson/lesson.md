@@ -9,7 +9,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now]
-* [Lab]
+* [Lab - Pokemon Child Classes]
 * Associated Reading - section 6.4 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -38,9 +38,10 @@ Students will be able to...
 			* Child classes can also overwrite their parent classes. Have the students practice overwriting `make_noise` in the `Dog` class so that the dog will print out `bark bark`
 3. **Lab**	
 	* Given a generic Pokemon class, create three child classes that represent different types of Pokemon.
+	* Students may need clarification that about how to use `isinstance` and how to manipulate the `defend` method to meet the requirements of each child class.
 4. **Debrief**
 	* Go over students' questions. Ask what questions the students have and review instance, class, methods, init, str, etc
 
-  
+###  
 [Do Now]:do_now.md
-[Lab]:lab.md
+[Lab - Pokemon Child Classes]:lab.md
