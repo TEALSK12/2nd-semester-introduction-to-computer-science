@@ -11,7 +11,7 @@ Students will be able to...
 * [Do Now]
 * [Lab]
 * Associated Reading - section 6.4 of Book
-* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 | **Duration**   | **Description** |
@@ -24,7 +24,8 @@ Students will be able to...
 ## Instructor's Notes
 
 1. **Do Now**
-    * Display the Do Now on the board.
+    * Display the Do Now on the board
+    * Students 
 2. **Lesson**
 	* Discuss Do Now
 		* **inheritance**: what is different between the Dog declaration than the Pet declaration? What does the class think it means to have Pet instead of Object. What happens when you initialize Pet, and what about Dog? 
