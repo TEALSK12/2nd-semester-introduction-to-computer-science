@@ -3,11 +3,11 @@
 ##Learning Objectives
 Students will be able to... 
 
-* Understand and apply the principle of **class design**
-* Apply what was learned regarding classes, methods, and inheritance to create an implmentation of Pokemon
+* Engage in **class design** before beginning coding
+* Apply what was learned with respect to **classes**, **methods**, and** inheritance** to create an implementation of Pokemon
 
 ##Materials/Preparation
-* [Project Spec]
+* [Project Spec - Pokemon]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -36,14 +36,14 @@ Students will be able to...
     		* If you find yourself creating many classes with similar methods, use inheritance! 
     		* Figure out the actual structure without writing code and use that to create your classes
     3. **Project Overview**	
-    	* Pokemon project spec
+    	* Go over the Pokemon project spec
     	* Review the major aspects and requirements of the game
     4. **Project Planning**
     	* Have students write down the classes and methods they need to create
-    	* Have them outline what they will do each day
+    	* Students should then outline what they will do each day in order to complete the project on time
 2. **Days 2-7**
 	1. ** Planning/Questions **
-		* Have students write down what they want to do that day and any questions they have from yesterday
+		* Have students review and update what they want to accomplish that day and any questions they have from the previous day.
 	2. **Review** 
 		* if necessary, review any concepts or struggles the class was having
 	3. **Project Work** 
@@ -52,5 +52,5 @@ Students will be able to...
 		* have the students write down what they struggled on or had a hard time doing. 
 
   
-[Project Spec]:lab.md
+[Project Spec - Pokemon]:lab.md
 [TEALS Dashboard]:www.tealsk12.org/dashboard
