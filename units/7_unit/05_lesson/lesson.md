@@ -1,13 +1,13 @@
-# Lesson: User Defined Types p. 2
+# Lesson 7.05: Pokemon Project
 
 ##Learning Objectives
 Students will be able to... 
 
-* Project and Class Design
-* Create an implementation of Pokemon
+* Understand and apply the principle of **class design**
+* Apply what was learned regarding classes, methods, and inheritance to create an implmentation of Pokemon
 
 ##Materials/Preparation
-* [Project]
+* [Project Spec]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -16,7 +16,7 @@ Students will be able to...
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Project Handout      |
-| 10 Minutes | Lesson      |
+| 5 Minutes | Mini-Lesson      |
 | 15 Minutes | Project Overview         
 | 25 Minutes | Project Planning  |
 ###Days 2-7
@@ -31,13 +31,13 @@ Students will be able to...
 1. **Day 1**
     1. **Project Handout**
         * Hand out the project spec and have students read through it. 
-    2. **Lesson**
+    2. **Mini-Lesson**
     	* Discuss **Class Design**
     		* If you find yourself creating many classes with similar methods, use inheritance! 
     		* Figure out the actual structure without writing code and use that to create your classes
     3. **Project Overview**	
-    	* Pokemon game spec
-    	* Talk about major aspects of the game
+    	* Pokemon project spec
+    	* Review the major aspects and requirements of the game
     4. **Project Planning**
     	* Have students write down the classes and methods they need to create
     	* Have them outline what they will do each day
@@ -52,5 +52,5 @@ Students will be able to...
 		* have the students write down what they struggled on or had a hard time doing. 
 
   
-[Project]:lab.md
+[Project Spec]:lab.md
 [TEALS Dashboard]:www.tealsk12.org/dashboard
