@@ -12,7 +12,7 @@ Students will be able to...
 * [Example]
 * [Lab - Create a Color Class]
 * Associated Reading - section 6.1 of Book
-* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
 | **Duration**   | **Description** |
