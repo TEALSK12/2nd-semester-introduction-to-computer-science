@@ -16,17 +16,17 @@ Students will be able to...
 | ---------- | ----------- |
 | 5 Minutes  | Project Handout      |
 | 10 Minutes | Lesson      |
-| 15 Minutes | Project OverView         
+| 15 Minutes | Project Overview         
 | 25 Minutes | Project Planning  |
 | ** Day 2-7 ** |             |
 | 5 Minutes  | Planning/Questions      |
 | 10 Minutes | Review of Questions      |
 | 35 Minutes | Project Work        |
 | 5 Minutes | Wrap up     |
-## Instructor's Note
+## Instructor's Notes
 
 1. **Intro Day**
-    1. **Project Hand Out**
+    1. **Project Handout**
         * Hand out the project spec and have students read through it. 
     2. **Lesson**
     	* Discuss Class Design
