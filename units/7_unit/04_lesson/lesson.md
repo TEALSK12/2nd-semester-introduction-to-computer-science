@@ -38,11 +38,11 @@ Students will be able to...
 			* Child classes can also overwrite their parent classes. Have the students practice overwriting `make_noise` in the `Dog` class so that the dog will print out `bark bark`
 3. **Lab**	
 	* Given a generic Pokemon class, create three child classes that represent different types of Pokemon.
-	* Students may need clarification that about how to use `isinstance` and how to manipulate the `defend` method to meet the requirements of each child class.
+	* Consider demonstrating the creation of one of the child classes before having students start the lab independently.
 4. **Debrief**
 	* Go over students' questions. Ask what questions the students have and review instance, class, methods, init, str, etc
 
 ###Accomodation/Differentiation
-
+In the Pokemon lab, students may need clarification regarding how to use `isinstance` and how to manipulate the `defend` method to meet the requirements of each child class. Consider demonstrating the creation of one child class for all students before having students work on the lab. 
 [Do Now]:do_now.md
 [Lab - Pokemon Child Classes]:lab.md
