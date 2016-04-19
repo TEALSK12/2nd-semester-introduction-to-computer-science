@@ -27,17 +27,17 @@ Students will be able to...
     * Display the Do Now on the board.
     * Students will explore an example of a new `Dog` class inheriting the methods of the `Pet` class 
 2. **Lesson**
-	* Discuss the Do Now
+	* Discuss the Do Now.
 		* **Inheritance**: when you create a new class that is a subclass of the original (ex. the `Dog` class "inherits" the properties/methods of the `Pet` class.) 
 		* Ask students: what is the difference between the `Dog` declaration and the `Pet` declaration? 
         * Discuss the error and what was missing in the original code. 
         * When a class inherits from another class, the class it inherits FROM is called the **parent class** and the class that inherits is called the **child class**. 
 		* Ask: in the example from the do now, which is the child and which is the parent?
-			* Child classes also gain access to all methods of Parent class
+			* Child classes gain access to all the methods of the parent class
 				* What does `dog1.make_nosie()` print out? 
-			* Child classes can also overwrite their parent classes. Have the students practice overwriting make_noise so that the dog will print out `bark bark`
+			* Child classes can also overwrite their parent classes. Have the students practice overwriting `make_noise` in the `Dog` class so that the dog will print out `bark bark`
 3. **Lab**	
-	* Given a generic Pokemon class, create a few child classes that represent different types
+	* Given a generic Pokemon class, create a few child classes that represent different types of Pokemon.
 4. **Debrief**
 	* Go over students' questions. Ask what questions the students have and review instance, class, methods, init, str, etc
 
