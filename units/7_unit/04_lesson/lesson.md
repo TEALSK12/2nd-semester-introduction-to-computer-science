@@ -5,7 +5,7 @@ Students will be able to...
 
 * Define and identify: **inheritance**,  **parent class**, **child class**
 * Create a class that inherits from anther class
-* Overwrite methods of parent class in child class 
+* Overwrite methods of parent class in a child class 
 
 ##Materials/Preparation
 * [Do Now]
