@@ -19,13 +19,13 @@ Students will be able to...
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
 | 30 Minutes | Lab         |
-| 10 Minutes | Discussion  |
+| 5 Minutes | Debrief  |
 
 ## Instructor's Notes
 
 1. **Do Now**
-    * Display the Do Now on the board
-    * Students 
+    * Display the Do Now on the board.
+    * Students will explore an example of a new `Dog` class inheriting the methods of the `Pet` class 
 2. **Lesson**
 	* Discuss Do Now
 		* **inheritance**: what is different between the Dog declaration than the Pet declaration? What does the class think it means to have Pet instead of Object. What happens when you initialize Pet, and what about Dog? 
