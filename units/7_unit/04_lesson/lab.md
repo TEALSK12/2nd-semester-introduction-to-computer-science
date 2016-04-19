@@ -1,4 +1,4 @@
-# Lab 
+# Lab 7.04 - 
 
 Given the example class [example], practice using inheritance to make specific child classes for different types of pets. 
 
