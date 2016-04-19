@@ -12,25 +12,28 @@ Students will be able to...
 * Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
+###Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Project Handout      |
 | 10 Minutes | Lesson      |
 | 15 Minutes | Project Overview         
 | 25 Minutes | Project Planning  |
-| ** Day 2-7 ** |             |
+###Days 2-7
+| **Duration**|**Description**      |
+|--|--|
 | 5 Minutes  | Planning/Questions      |
-| 10 Minutes | Review of Questions      |
+| 10 Minutes | Review      |
 | 35 Minutes | Project Work        |
 | 5 Minutes | Wrap up     |
 ## Instructor's Notes
 
-1. **Intro Day**
+1. **Day 1**
     1. **Project Handout**
         * Hand out the project spec and have students read through it. 
     2. **Lesson**
-    	* Discuss Class Design
-    		* If you find yourself creating many classes with similar methods using inheritance 
+    	* Discuss **Class Design**
+    		* If you find yourself creating many classes with similar methods, use inheritance! 
     		* Figure out the actual structure without writing code and use that to create your classes
     3. **Project Overview**	
     	* Pokemon game spec
@@ -38,7 +41,7 @@ Students will be able to...
     4. **Project Planning**
     	* Have students write down the classes and methods they need to create
     	* Have them outline what they will do each day
-2. **Project Days**
+2. **Days 2-7**
 	1. ** Planning/Questions **
 		* Have students write down what they want to do that day and any questions they have from yesterday
 	2. **Review** 
