@@ -42,6 +42,7 @@ Students will be able to...
 4. **Debrief**
 	* Go over students' questions. Ask what questions the students have and review instance, class, methods, init, str, etc
 
-###  
+###Accomodation/Differentiation
+
 [Do Now]:do_now.md
 [Lab - Pokemon Child Classes]:lab.md
