@@ -2,7 +2,7 @@
 
 Type and run the following code: 
 
-```
+```python
 class Pet(object): 
 	def __init__(self, name): 
 		self.name = name
@@ -20,6 +20,6 @@ dog1 = Dog()
 dog1.make_noise()
 ```
 
-1. Write down what happens when you run this code is run? 
+1. What is output when you run this code?
 2. Try re-writing the code to make this work properly
-3. Write down what happens when you call method make_noise. 
+3. What happens when you call method `make_noise`?
