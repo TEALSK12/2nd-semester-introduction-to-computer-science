@@ -37,7 +37,7 @@ Students will be able to...
 				* What does `dog1.make_nosie()` print out? 
 			* Child classes can also overwrite their parent classes. Have the students practice overwriting `make_noise` in the `Dog` class so that the dog will print out `bark bark`
 3. **Lab**	
-	* Given a generic Pokemon class, create a few child classes that represent different types of Pokemon.
+	* Given a generic Pokemon class, create three child classes that represent different types of Pokemon.
 4. **Debrief**
 	* Go over students' questions. Ask what questions the students have and review instance, class, methods, init, str, etc
 
