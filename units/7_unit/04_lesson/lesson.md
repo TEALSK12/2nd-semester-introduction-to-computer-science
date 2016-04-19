@@ -28,7 +28,7 @@ Students will be able to...
     * Students will explore an example of a new `Dog` class inheriting the methods of the `Pet` class 
 2. **Lesson**
 	* Discuss Do Now
-		* **Inheritance**: when you create a new class that is a subtype of the original (ex. the `Dog` class "inherits" the qualities/methods of the `Pet` class. 
+		* **Inheritance**: when you create a new class that is a sub-type of the original (ex. the `Dog` class "inherits" the methods of the `Pet` class.) 
 		* what is different between the Dog declaration than the Pet declaration? What does the class think it means to have Pet instead of Object. What happens when you initialize Pet, and what about Dog? 
 			* What is missing from the do now? When a class inherits from another class the class it inherits from is called the **parent class** and the class that inherits is called the **child class**. 
 			* In the do now which is the child and which is the parent. 
