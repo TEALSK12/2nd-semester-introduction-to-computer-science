@@ -14,7 +14,7 @@ Given the following [example], practice using inheritance to create specific chi
 	* When attacking a fire type the effect is less effective
 	* When growl is called should print out "Cheep Cheep"
 
-Note: To check what type an object is you can use `isinstance` which takes in an object, a class and returns a boolean if the object is the type of the inputted class. 
+**Note**: In order to check what type an object is you can use `isinstance` which takes in an object, a class and returns a boolean if the object is the type of the inputted class. 
 
 ###Example
 ```python
