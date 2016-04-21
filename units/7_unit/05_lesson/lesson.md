@@ -9,7 +9,8 @@ Students will be able to...
 ##Materials/Preparation
 * [Project Spec - Pokemon]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-* Read through the handout, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the project spec so that you are familiar with the requirements and can assist students
+* Try creating your own project so that you can 
 
 ## Pacing Guide
 ###Day 1
@@ -18,7 +19,7 @@ Students will be able to...
 | 5 Minutes  | Project Handout      |
 | 5 Minutes | Mini-Lesson      |
 | 15 Minutes | Project Overview         
-| 25 Minutes | Project Planning  |
+| 30 Minutes | Project Planning  |
 ###Days 2-7
 | **Duration**|**Description**      |
 |--|--|
@@ -30,7 +31,8 @@ Students will be able to...
 
 1. **Day 1**
     1. **Project Handout**
-        * Hand out the project spec and have students read through it. 
+        * Hand out the project spec and have students read through it.
+        * Demo a completed project to show user experience. 
     2. **Mini-Lesson**
     	* Discuss **Class Design**
     		* If you find yourself creating many classes with similar methods, use inheritance! 
