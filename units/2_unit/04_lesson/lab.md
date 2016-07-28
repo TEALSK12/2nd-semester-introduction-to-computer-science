@@ -4,7 +4,7 @@
 
 ```python
     a = 100
-    difficulty_level= 7
+    b = 7
     if a > 85 and b > 7:
         print("Stellar Grade")
     elif a <= 85 and b <= 7: 
