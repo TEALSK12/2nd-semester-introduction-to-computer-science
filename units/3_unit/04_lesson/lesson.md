@@ -1,4 +1,4 @@
-# Lesson 3.04: Debuging and Scope
+# Lesson 3.04: Debugging and Scope
 
 ##Learning Objectives
 Students will be able to... 
