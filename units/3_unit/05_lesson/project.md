@@ -41,8 +41,8 @@ We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (20
 | **Technical Correctness   **                                    |     |
 | Correctly use functions and contracts                           | 20  |
 | Correctly use imported random function                          | 5  |
-| Correctly use global varaiables                                 | 5  |
-| Correctly use and update varaiables                             | 5  |
+| Correctly use global variables                                  | 5  |
+| Correctly use and update variables                              | 5  |
 | Correctly add_days and update_days functions                    | 15  |
 | **Sub total**                                                   | 50  |
 | **Total**                                                       | 100 |
