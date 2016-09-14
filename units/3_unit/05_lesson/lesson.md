@@ -8,7 +8,7 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Project Spec - Oregon Trail]
-* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard](https://www.tealsk12.org/dashboard/))
 * [Oregon Trail - Example Code] 
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit. 
