@@ -11,6 +11,7 @@ Write down what the range function does.
 <br>
 
 2. Use the `range` and `len` functions to make a for loop that loops through `a`.
+
 ```python
 a = ['apples', 'oranges', 'pears', 'grapes']
 ```
