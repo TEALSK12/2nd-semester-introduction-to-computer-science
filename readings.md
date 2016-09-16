@@ -1332,7 +1332,7 @@ Here’s how it works:
 
 ```
 >>> h = histogram('brontosaurus')
->>> print h
+>>> print(h)
 {'a': 1, 'b': 1, 'o': 2, 'n': 1, 's': 2, 'r': 2, 'u': 2, 't': 1}
 ```
 
@@ -1363,10 +1363,10 @@ Here is an example:
 
 ```
 >>> hist = histogram('parrot')
->>> print hist
+>>> print(hist)
 {'a': 1, 'p': 1, 'r': 2, 't': 1, 'o': 1}
 >>> inverse = invert_dict(hist)
->>> print inverse
+>>> print(inverse)
 {1: ['a', 'p', 't', 'o'], 2: ['r']}
 ```
 
@@ -1446,7 +1446,7 @@ The body is a docstring that explains what the class is for. You can define vari
 Defining a class named Point creates a class object.
 
 ```
->>> print Point
+>>> print(Point)
 <class '__main__.Point'>
 ```
 
@@ -1455,7 +1455,7 @@ The class object is like a factory for creating objects. To create a Point, you 
 
 ```
 >>> blank = Point()
->>> print blank
+>>> print(blank)
 <__main__.Point instance at 0xb7e9d3ac>
 ```
 
@@ -1477,10 +1477,10 @@ As a noun, “AT-trib-ute” is pronounced with emphasis on the first syllable, 
 You can read the value of an attribute using the same syntax:
 
 ```
->>> print blank.y
+>>> print(blank.y)
 4.0
 >>> x = blank.x
->>> print x
+>>> print(x)
 3.0
 ```
 
@@ -1488,10 +1488,10 @@ The expression blank.x means, “Go to the object blank refers to and get the va
 You can use dot notation as part of any expression. For example:
 
 ```
->>> print '(%g, %g)' % (blank.x, blank.y)
-(3.0, 4.0)
+>>> print('(%g, %g)' % (blank.x, blank.y)
+(3.0, 4.0))
 >>> distance = math.sqrt(blank.x**2 + blank.y**2)
->>> print distance
+>>> print(distance)
 5.0
 ```
 
@@ -1499,7 +1499,7 @@ You can pass an instance as an argument in the usual way. For example:
 
 ```
 def print_point(p):
-    print '(%g, %g)' % (p.x, p.y)
+    print('(%g, %g)' % (p.x, p.y))
 ```
 
 print_point takes a point as an argument and displays it in mathematical notation. To invoke it, you can pass blank as an argument:
@@ -1587,14 +1587,14 @@ def grow_rectangle(rect, dwidth, dheight):
 Here is an example that demonstrates the effect:
 
 ```
->>> print box.width
+>>> print(box.width)
 100.0
->>> print box.height
+>>> print(box.height)
 200.0
 >>> grow_rectangle(box, 50, 100)
->>> print box.width
+>>> print(box.width)
 150.0
->>> print box.height
+>>> print(box.height)
 300.0
 ```
 
@@ -1651,12 +1651,12 @@ If you are not sure whether an object has a particular attribute, you can use th
 Another way to access the attributes of an object is through the special attribute __dict__, which is a dictionary that maps attribute names (as strings) and values:
 
 >>> p = Point(3, 4)
->>> print p.__dict__
+>>> print(p.__dict__)
 {'y': 4, 'x': 3}
 For purposes of debugging, you might find it useful to keep this function handy:
 def print_attributes(obj):
     for attr in obj.__dict__:
-        print attr, getattr(obj, attr)
+        print(attr, getattr(obj, attr))
 print_attributes traverses the items in the object’s dictionary and prints each attribute name and its corresponding value.
 The built-in function getattr takes an object and an attribute name (as a string) and returns the attribute’s value.
 
