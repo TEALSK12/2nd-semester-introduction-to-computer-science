@@ -35,7 +35,7 @@
     >>> a = 100
     >>> b = "science"
     >>> c = True
-    >>> not c and a > 75 and b == science 
+    >>> not c and a > 75 and b == "science" 
 ```
 | **Predicted Output** | **Actual Output** |
 | --- | --- |
