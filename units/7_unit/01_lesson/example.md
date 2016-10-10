@@ -2,6 +2,7 @@
 1. Read the following code: 
 
 ```python
+
 class Pet(object): 
     """Represents a pet"""
 
