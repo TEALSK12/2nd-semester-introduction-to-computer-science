@@ -1,4 +1,4 @@
-# Lab 4.04 - Daily Schedule
+# Lab 4.04 - Shopping List
 
 ## Part 1
 The goal of this lab is to practice using and accessing items from lists of lists. 
@@ -18,7 +18,7 @@ shopping_cart = [
 
 ### User Inputs
 * `update`
-	* The program will ask which shopping list the user wants to update and will also request which position it should update.
+	* The program will ask which shopping list the user wants to update, which position it should update, and the new value to update.
 * `print` 
 	*  The program will ask which shopping list the user wants to print from and afterwards will request which position it should print.
 * `print all`
@@ -27,8 +27,8 @@ shopping_cart = [
 ###Functions
 * `update_list`
     * Takes in an integer representing the index of the shopping list, an integer representing the index of the item to update, and a string representing the new item to add to that shopping list.
-* `print_all`
-    * Takes an int representing the index of the shopping list to print.
+* `print_list`
+    * Takes an int representing the index of the shopping list to print or "all" to print all shopping lists.
 
 
 * Feel free to add more functions as you see fit
