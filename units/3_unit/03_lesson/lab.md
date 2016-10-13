@@ -17,7 +17,9 @@ Your game should:
 * For simplicty Jacks will be represented as 11, Queens will be represented as 12, Kings will be represented as 13, and Aces will be represented as 14
 * For simplicty the suit does not matter
 * Include a while loop that keeps the game running until there are no cards in the deck.
+* If there is a tie, there is "war".  Take the next two cards an whoever wins that gets all four cards (including the previous tied cards).  If there is another tie, continue taking the next two cards until there a winner.  The winner takes all the "war" cards.
 * Keep track of the score.
+* Player who won the most number of cards wins.
 * Declare the name of the winner and final score at the end of the game.
 
 ### Deck Shuffling
