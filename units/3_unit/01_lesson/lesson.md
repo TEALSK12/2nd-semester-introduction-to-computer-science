@@ -46,7 +46,10 @@ Students will be able to...
     * Contract
         * Functions have a contract: you write down the name, purpose, arguments with their type, and the return type expected.
             * Ask students what the contract of `randint` is.
-                * `randint`, generate a pseudo-random integer N such that a <= N <= b, 2 values of type integer: a and b, with an integer returned 
+                * Name: `randint`
+                * Purpose: generate a pseudo-random integer N such that a <= N <= b
+                * Inputs: 2 values of type integer: a and b
+                * Returns: integer
             * Since `randint` is written by someone else there is a place where that contract is written out - **Documentation**. Have students begin the lab, which will instruct them to find the Python documentation for the random library.
  
 3. **Lab**
