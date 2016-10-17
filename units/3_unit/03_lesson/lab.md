@@ -9,9 +9,10 @@ Your game should:
 * Have a function `player_turn`, with the contract shown below:
 
 ```python
-#player_turn: takes in a player name, player_name, and draws/removes a card from the deck, prints "user drew card x", and returns the value
-#input: player_name, string
-#output: string
+# name: player_turn
+# purpose: takes in a player name, player_name, and draws/removes a card from the deck, prints "user drew card x", and returns the value
+# input: player_name, string
+# returns: string
 ```
 * Have a function `compare_scores` that takes in the two strings representing the cards drawn and compares the card values. Make sure to write the contract for `compare_scores`!
 * For simplicty Jacks will be represented as 11, Queens will be represented as 12, Kings will be represented as 13, and Aces will be represented as 14
