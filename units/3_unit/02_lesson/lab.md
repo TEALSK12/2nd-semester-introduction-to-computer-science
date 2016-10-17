@@ -3,8 +3,10 @@
 1) Create a function, `birthday_song`, that prints out the happy birthday song to whatever name is input as an argument. The contract should be: 
 
 ```python
-#Input: name, string 
-#birthday_song prints out a personalized birthday song.  
+# Name: birthday_song
+# Purpose: birthday_song prints out a personalized birthday song
+# Input: name, string 
+# Returns: none
 def birthday_song(name): 
 	#your code goes here 
 ```
