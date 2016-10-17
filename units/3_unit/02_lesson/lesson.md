@@ -31,7 +31,11 @@ Students will be able to...
         * Ask students how they would call your example function.
     * Have students practice making a function that takes two arguments, adds them together, and returns the sum. 
     * Introduce the concept of a function contract using `#`, which adds a comment (non-executed line of code)
-        * The function contract should explain what the function will do, what arguments it takes in, and the types of those arguments
+        * The function contract should 
+            * specify the name
+            * explain the purpose
+            * list what arguments it takes in and the types of those arguments
+            * specify the return type
 3. **Lab**
     * Practice making a function that will take in a name as an argument and output the 'happy birthday song' to that name. 
     * Create a function that randomly selects 5 cards from a deck of cards (repeating allowed).
