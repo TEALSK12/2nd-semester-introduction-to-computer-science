@@ -20,6 +20,6 @@ dog1 = Dog()
 dog1.make_noise()
 ```
 
-1. What is output when you run this code?
+1. What is the output when you run this code?
 2. Rewrite the code to resolve the error and make this work properly
 3. What happens when you call method `make_noise`?
