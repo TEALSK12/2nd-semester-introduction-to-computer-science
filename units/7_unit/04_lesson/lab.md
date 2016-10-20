@@ -25,4 +25,4 @@ isinstance(my_pet, Dog) # returns false
 
 
 	
-[example]: example.py
+[example]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/7_unit/04_lesson/example.py
