@@ -50,4 +50,4 @@ Advanced students can also be paired as tutors/helpers with struggling students.
   
 [Project Spec - Text Monster]: project.md
 [Text Monster Game - Example Code]: project_file.py
-[TEALS Dashboard]:www.tealsk12.org/dashboard
+[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
