@@ -11,7 +11,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab - Word Counter]
-* [Solution]
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Associated Reading - section 5.2 of Book
 *  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -49,4 +49,4 @@ Some students may need to be explicitly reminded of the `in` keyword to check if
 
 [Do Now]: do_now.md
 [Lab - Word Counter]: lab.md
-[Solution]: https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=uOYwneLNGVJjRu%2fk2JsP0ZuCRIyzXEX2SPeZwCKclWM%3d&docid=2_0ae84824a589048e4921e40ecea3ddf41
+[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
