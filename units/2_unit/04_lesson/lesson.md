@@ -9,7 +9,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab - Game Show]
-* [Solution]
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Associated Reading - section 2.3 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -60,4 +60,4 @@ If students are moving quickly, this lesson can move onto lists.
 
 [Do Now]:do_now.md
 [Lab - Game Show]:lab.md
-[Solution]:https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=f7d%2fgf2GofFnhvyYbsI16jHchRVneTWHsP1Cm4PJgmE%3d&docid=2_055d33956721142c7b243f160229da407
+[TEALS Dashboard]:http://www.tealsk12.org/dashboard
