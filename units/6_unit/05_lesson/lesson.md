@@ -60,5 +60,6 @@ Some students may also need additional assistance or scaffolding for how to rand
 
 [Do Now]: do_now.md
 [Project Spec - Guess Who]: project.md
-[TEALS Dashboard]:www.tealsk12.org/dashboard
+[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
+
 [Guess Who]:https://en.wikipedia.org/wiki/Guess_Who%3F
