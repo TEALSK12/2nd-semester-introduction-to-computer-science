@@ -56,4 +56,4 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 
 [Mad Libs - Example Code]: project_file.py
 [Project Spec - Mad Libs]: project.md
-[TEALS Dashboard]:www.tealsk12.org/dashboard
+[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
