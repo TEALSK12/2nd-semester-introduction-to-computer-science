@@ -35,7 +35,7 @@ import random
 #input:
 #output: a list representing a shuffled deck
 def shuffled_deck():
-	basic_deck = range(2, 15) * 4
+	basic_deck = list(range(2, 15)) * 4
 	random.shuffle(basic_deck)
 	return basic_deck
 ```
