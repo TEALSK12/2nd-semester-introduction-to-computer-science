@@ -50,5 +50,5 @@ Certain students that have a limited music background may need additional assist
 
 [Do Now]: do_now.md
 [Lab]: lab.md
-[TEALS Dashboard]:www.tealsk12.org/dashboard
+[TEALS Dashboard]: http:/www.tealsk12.org/dashboard
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
