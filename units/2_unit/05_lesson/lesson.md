@@ -10,7 +10,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab - College Chooser]
-* [Solution]
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Associated Reading - section 2.4 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -55,4 +55,4 @@ If students are moving quickly, you can introduce the topic of nested lists. Sta
   
 [Do Now]:do_now.md
 [Lab - College Chooser]:lab.md
-[Solution]:https://teals.sharepoint.com/curriculum/_layouts/15/guestaccess.aspx?guestaccesstoken=bCRyeLxnclakDO0IxKj4RgBHpx%2f2Feis19og6u62xFc%3d&docid=2_050596f1c1f6841778e09ef9fa37420c6
+[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
