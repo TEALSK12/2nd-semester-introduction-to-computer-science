@@ -55,4 +55,5 @@ Students will be able to...
 
   
 [Project Spec - Pokemon]:lab.md
-[TEALS Dashboard]:www.tealsk12.org/dashboard
+[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
+
