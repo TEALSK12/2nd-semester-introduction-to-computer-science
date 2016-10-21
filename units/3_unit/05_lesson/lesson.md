@@ -52,4 +52,4 @@ The planning phase of this project will be essential, especially for students wh
     
 [Project Spec - Oregon Trail]:project.md 
 [Oregon Trail - Example Code]:oregon_trail.py
-[TEALS Dashboard]:www.tealsk12.org/dashboard
+[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
