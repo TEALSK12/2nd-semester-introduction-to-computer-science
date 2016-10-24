@@ -143,4 +143,4 @@ Implement the following
 | **Sub total**                                                   | 50  |
 | **Total**                                                       | 85 |
 
-[starter_code]:starter_code.py
+[starter_code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/7_unit/05_lesson/starter_code.py
