@@ -54,6 +54,6 @@ Students will be able to...
 		* have the students write down what they struggled on or had a hard time doing. 
 
   
-[Project Spec - Pokemon]:lab.md
+[Project Spec - Pokemon]:project.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 
