@@ -41,6 +41,6 @@ Students will be able to...
 ###Accommodation/Differentiation
 Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
 
-[TEALS Dashboard]:www.tealsk12.org/dashboard
+[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [Lab - Debugging Practice]: lab.md
-[Coding Example]: longer_coding_sample.py
+[Coding Example]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/4_unit/05_lesson/longer_coding_sample.py
