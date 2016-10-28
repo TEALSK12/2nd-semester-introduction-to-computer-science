@@ -2,10 +2,15 @@
 
 1. Finish writing the `__add__` method for the time class from the Do Now. 
 
-2. This exercise is a cautionary tale about one of the most common, and difficult to find, errors in Python. Write a definition for a class named Kangaroo with the following methods:
+2. Write a definition for a class named Kangaroo with the following methods:
 	1. An `__init__` method that initializes an attribute named `pouch_contents` to an empty list.
 	2. A method named `put_in_pouch` that takes an object of any type and adds it to `pouch_contents`.
 	3. A `__str__` method that returns a string representation of the Kangaroo object and the contents of the pouch.
+
+This exercise is a cautionary tale about one of the most common, and difficult to find, errors in Python:
+	TypeError: Can't convert 'list' object to str implicitly
+
+Use the `str()` function to convert the list object to a string.
 
 Test your code by creating two Kangaroo objects, assigning them to variables named `kanga` and `roo`, and then adding `roo` to the contents of `kanga`’s pouch
 
