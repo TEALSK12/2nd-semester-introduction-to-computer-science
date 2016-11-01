@@ -8,7 +8,7 @@ Students will be able to...
 
 
 ## Materials/Preparation
-* Students should each have their [Final Project Plan Organizer](../final_project_plan_organizer.docx) and [Final Project Development Plan](../final_project_development_plan.docx)
+* Students should each have their [Final Project Plan Organizer] and [Final Project Development Plan]
 
 ## Pacing Guide
 
@@ -50,3 +50,6 @@ Students will be able to...
 
 
 ## Accommodation/Differentiation
+
+[Final Project Plan Organizer]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_plan_organizer.docx
+[Final Project Development Plan]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_development_plan.docx
