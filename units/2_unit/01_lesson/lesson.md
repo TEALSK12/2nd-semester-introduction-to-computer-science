@@ -14,6 +14,9 @@ Students will be able to...
 * 8.5" x 11" printer paper, each page has a large number (2^n) written on it (1, 2, 4, 8, 16, 32, ...)
 * Read through the do now and lesson so that you are familiar with the requirements and can assist students as needed
 
+##Additional Resources
+* [CS Unplugged Binary Numbers]
+
 ## Pacing Guide
 | **Duration**   | **Description** |
 | ---------- | ----------- |
@@ -49,3 +52,4 @@ Students will be able to...
 
 
 [Do Now]:do_now.md
+[CS Unplugged Binary Numbers]:http://csunplugged.org/binary-numbers/
