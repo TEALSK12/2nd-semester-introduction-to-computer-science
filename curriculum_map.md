@@ -14,13 +14,13 @@
 ## Unit 2:
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
-| 2.01: Binary Day | Define and identify: binary. Describe different representations of data. Represent decimal numbers in binary. | |
+| 2.01: Binary Day | Define and identify: binary. Describe different representations of data. Represent decimal numbers in binary. | N/A |
 | 2.02: Data Types & Casting | Define and identify: type, string, casting, floating point number (float), integer. Describe different representations of data in Python. Convert from one data type to another data type. | Casting |
 | 2.03: Booleans & Expressions | Define and identify: boolean, expression, composition, True, False. Evaluate a boolean expression. Compose boolean expressions using and, or, not, <, >, and ==. | Can I or Can't I? |
 | 2.04: Conditionals | Define and identify: if, else, elif, conditionals, flow of control. Create chaining if statements. Understand how conditional statements alter the flow of control of a program. | Game Show |
 | 2.05: Lists | Define and identify: list, item, index, integer. Be able to access items from a list using the index. Create lists of different types. Use the length function. | College Chooser |
 | 2.06: Lists 2 | Define and identify: slice, append, pop, remove. Slice a list. Add and remove elements from a list | Tic-Tac-Toe |
-| 2.06b: Lists Recap | Define and identify: index, slice, append, pop, remove. Apply list conditionals to determine if an element is in a list. | |
+| 2.06b: Lists Recap | Define and identify: index, slice, append, pop, remove. Apply list conditionals to determine if an element is in a list. | N/A |
 | 2.07: Game Loop | Define and identify: while loop. Use a while loop to simulate game play. | Tic-Tac-Toe Revisited |
 | 2.08: Text Game | Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game. | Zork - Text Monster Game |
 
