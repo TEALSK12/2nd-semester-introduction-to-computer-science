@@ -11,6 +11,7 @@ Students will be able to...
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard](https://www.tealsk12.org/dashboard/))
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit. 
+* Review [4 Steps to Solve Any CS Problem]
 
 ## Pacing Guide
 ####Day 1
@@ -53,3 +54,4 @@ The planning phase of this project will be essential, especially for students wh
 [Project Spec - Oregon Trail]:project.md 
 [Oregon Trail - Example Code]:oregon_trail.py
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
+[4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
