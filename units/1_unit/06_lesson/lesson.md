@@ -10,6 +10,7 @@
 * [Mad Libs - Example Code]
 * Practice running the example code
 * Read through the project specifications so that you can completely communicate the requirements of the project 
+* Review [4 Steps to Solve Any CS Problem]
 
 ## Pacing Guide
 | **Duration**   |     **Description**    |
@@ -57,3 +58,4 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 [Mad Libs - Example Code]: project_file.py
 [Project Spec - Mad Libs]: project.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
+[4 Steps to Solve Any CS Problem]:https://teals-introcs.gitbooks.io/2nd-semesterintroduction-to-computer-science-principles/content/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
