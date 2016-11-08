@@ -36,6 +36,7 @@ Students will be able to...
  	* Demo the Tic-Tac-Toe game.
 	* Go over all of the game rules and program requirements.
 3. **Planning/Design**
+    * Have students write down the 4 Steps to Solve Any CS Problem from memory.
     * Have students draw out game play and consider the overall design. 
         * How will they represent the board? 
         * How will they have users input their spots? 
