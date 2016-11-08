@@ -9,6 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 * Students should each have their [Final Project Plan Organizer] and [Final Project Development Plan]
+* Review [4 Steps to Solve Any CS Problem]
 
 ## Pacing Guide
 
@@ -53,3 +54,4 @@ Students will be able to...
 
 [Final Project Plan Organizer]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_plan_organizer.docx
 [Final Project Development Plan]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_development_plan.docx
+[4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
