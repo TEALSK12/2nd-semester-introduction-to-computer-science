@@ -30,10 +30,12 @@ Students will be able to...
 | 5 Minutes | Debrief    |
 
 ## Instructor's Notes
-1. **Project Overview**
+1. **4 Steps to Solve Any CS Problem**
+    * Remind students of the [4 Steps to Solve Any CS Problem]
+2. **Project Overview**
     * Demo the Oregon Trail finished project.
     * Give out the project spec and go over game rules.
-2. **Planning**
+3. **Planning**
     * Have students draw out the game play. 
         * Students should plan to create functions for each user interaction by figuring out where the repeated code will be. 
         * Students should list out which variables they will need.
