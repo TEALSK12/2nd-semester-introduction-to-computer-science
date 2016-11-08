@@ -11,6 +11,7 @@ Students will be able to...
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the project spec so that you are familiar with the requirements and can assist students
 * Try creating your own project so that you can 
+* Review [4 Steps to Solve Any CS Problem]
 
 ## Pacing Guide
 ###Day 1
@@ -56,4 +57,4 @@ Students will be able to...
   
 [Project Spec - Pokemon]:project.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
-
+[4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
