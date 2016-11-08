@@ -12,6 +12,7 @@ Students will be able to...
 * [EarSketch Editor]
 *  Read through the do now and project spec so that you are familiar with the requirements and can assist students
 *  Practice creating your own EarSketch song(s) to demonstrate to students and to better understand the challenges they may face in the project
+* Review [4 Steps to Solve Any CS Problem]
 
 ## Pacing Guide
 ###Day 1
@@ -52,3 +53,4 @@ Certain students that have a limited music background may need additional assist
 [Lab]: lab.md
 [TEALS Dashboard]: http:/www.tealsk12.org/dashboard
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
+[4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
