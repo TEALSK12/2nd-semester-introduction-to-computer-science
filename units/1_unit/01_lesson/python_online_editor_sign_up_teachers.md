@@ -2,11 +2,7 @@
 We will be using the online IDE [cloud9](https://c9.io) to write Python code this semester.  Below are instructions for how to sign up for an account, as well as how to collect and review student work. 
 
 ## Sign Up Instructions
-1. Go to [https://c9.io/web/sign-up/free](https://c9.io/web/sign-up/free)
-2. Create an account
-![Initial Sign Up Photo](sign_up_screen_phto.png)
-3. Verify your email address
-4. Click the link to go to your dashboard
+1. Follow instructions to create teacher Cloud9 account and sign up for school plan: [Sign Up Guide Teachers].
 
 ## Student Work Turn-in Procedure
 There are two different ways for students to submit their work: 
@@ -18,3 +14,5 @@ There are two different ways for students to submit their work:
 
 ## Revision History
 If you are concerned about students working on assignments outside of allocated time, this link shows how to check the revision history on a file saved in cloud9: [https://docs.c9.io/docs/file-revision-history](https://docs.c9.io/docs/file-revision-history)
+
+[Sign Up Guide Teachers]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/Cloud9_Teacher.docx
