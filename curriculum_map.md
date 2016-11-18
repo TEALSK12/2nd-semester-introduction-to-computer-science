@@ -24,7 +24,7 @@
 | 2.07: Game Loop | Define and identify: while loop. Use a while loop to simulate game play. | Tic-Tac-Toe Revisited |
 | 2.08: Text Game | Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game. | Zork - Text Monster Game |
 
-## Unit 3: Variables and Customization
+## Unit 3: 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 3.01: Built In Functions | Define and identify: function, arguments, calling, importing, returning. Call the built-in randint function, using arguments. Utilize code other people have written in the Python documentation. Understand the difference between printing and returning. | Magic 8-Ball |
@@ -33,7 +33,7 @@
 | 3.04: Debugging and Scope | Define and identify: scope, aliasing, stack trace. Understand that changing a list in a function updates the list outside of the function. Understand that updating variables in a function does not affect the variable outside of the function. Understand global variables. Draw a simple stack trace. | Aliasing & Scope |
 | 3.05: Oregon Trail | Use project planning skills to complete a longer-term project. Create functions to organize a project. Apply skills learned in units 1-3 to create a functioning program. | Oregon Trail |
 
-## Unit 4: Lists
+## Unit 4: 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 4.01: Looping Basics | Define and identify: for loop, item, iteration, scope. Recall looping in Snap! and reapply the concept in Python. Loop through (traverse) the items in a list. Be aware of the scope of variables during iteration. | de_vowel |
@@ -43,7 +43,7 @@
 | 4.05: Debugging and Quiz | Read and understand longer programs involving loops. Demonstrate their knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. | Debugging Practice |
 | 4.06: Tic-Tac-Toe | Use project planning skills to complete a larger project. Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game. | Tic-Tac-Toe |
 
-## Unit 5: Cloning
+## Unit 5: 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 5.01: Earsketch Intro | Define and identify: Digital Audio Workstation (DAW), sound tab, fitMedia(), setTempo(). Play beats using the above functions. Loop through items in a list. Be aware of the scope of variables during iteration. | Intro to EarSketch |
@@ -53,7 +53,7 @@
 | 5.05: EarSketch Project | Create a complete song in EarSketch with multiple parts. Utilize EarSketch's features and functions. | EarSketch Song |
 
 
-## Unit 6: Final Project
+## Unit 6: 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 6.01: Introduction to Dictionaries | Define and identify: dictionary, key, value. Create dictionaries of key-value pairs. Access and update items from dictionaries. | Dictionaries & Memes |
@@ -62,7 +62,7 @@
 | 6.04: Dictionaries Looping | Use loops to traverse through key/value pairs in a dictionary | Dictionaries Looping |
 | 6.05: Guess Who | Use dictionaries to create the game Guess Who | Guess Who |
 
-## Unit 6: Final Project
+## Unit 6: 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 7.01: User-Defined Types | Define and identify: class, instance, object, attributes. Create a class and instantiate. dd attributes to an instance. Manipulate instances and attributes through a function. | Create a Color Class |
