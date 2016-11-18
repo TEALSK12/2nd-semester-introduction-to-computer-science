@@ -62,7 +62,7 @@
 | 6.04: Dictionaries Looping | Use loops to traverse through key/value pairs in a dictionary | Dictionaries Looping |
 | 6.05: Guess Who | Use dictionaries to create the game Guess Who | Guess Who |
 
-## Unit 6: 
+## Unit 7: 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 7.01: User-Defined Types | Define and identify: class, instance, object, attributes. Create a class and instantiate. dd attributes to an instance. Manipulate instances and attributes through a function. | Create a Color Class |
@@ -71,7 +71,7 @@
 | 7.04: Inheritance | Define and identify: inheritance, parent class, child class. Create a class that inherits from anther class. Overwrite methods of parent class in a child class. | Pokemon Child Classes |
 | 7.05: Pokemon | Engage in class design before beginning coding. Apply what was learned with respect to classes, methods, and inheritance to create an implementation of Pokemon. | Pokemon |
 
-## Unit 6: Final Project
+## Unit 8: Final Project
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 8.01: Final Project Brainstorming and Evaluating | Recall project planning basics from last semester. Identify factors to use when choosing between project ideas. Rank a group of proposed project ideas using the identified factors. | N/A |
