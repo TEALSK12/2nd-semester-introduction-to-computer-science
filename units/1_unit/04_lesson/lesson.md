@@ -53,7 +53,22 @@ Students will be able to...
 				type(n)
 				<class 'int'>
 			```
+		*	Because Python 3 is strongly typed, concatinating strings and numbers requires casting.  Demonstrate by typing the following:
 		
+			```python
+				n = int(input())
+				9
+				print ("You entered " + n)
+				TypeError: Can't convert 'int' object to str implicitly
+			```
+		*	Cast the integer to a strong byDemonstrate by typeing the following:
+		
+			```python
+				n = int(input())
+				9
+				print ("You entered " + str(n))
+				You entered 9
+			```	
 	*	Swapping Variables Discussion
 		*	Provide students with additional time to work on this portion of the Do Now worksheet. 
 		*	Discuss student results.
