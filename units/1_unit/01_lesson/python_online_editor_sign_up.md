@@ -22,21 +22,22 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 9. Student should have access to shared team workspace: 
 ![team workspace photo](cloud9_student_workspace.png)
 
-10. Click the plus sign to Create a new workspace
-11. In “Workspace name” field enter “mypythonworkspace”
-12. Give it a description of “This is my example workspace”
-13. Make your workspace private
-14. Select “Python” Template button  
-15. Click "Create workspace" at the bottom of the page
+## Creating a New Workspace
+1. Click the plus sign to Create a new workspace
+2. In “Workspace name” field enter “mypythonworkspace”
+3. Give it a description of “This is my example workspace”
+4. Make your workspace private
+5. Select “Python” Template button  
+6. Click "Create workspace" at the bottom of the page
 ![Filled in workspace photo](cloud9_student_new_workspace.png)
 
-16. This will take a few seconds to set you up, but it will look like this: 
+7. This will take a few seconds to set you up, but it will look like this: 
 ![Cloud9 empty workspace photo](new_workspace_photo.png)
 
-17. From the top panel select window, pick share (third choice from the top)
+8. From the top panel select window, pick share (third choice from the top)
 ![Cloud9 window to share](window_to_share_photo.png)
 
-18. Enter your teachers' username or email in the "Invite People" section - this shares your workspace with your teachers and allows them to add comments. 
+9. Enter your teachers' username or email in the "Invite People" section - this shares your workspace with your teachers and allows them to add comments. 
 ![Cloud9 Share options photo](share_workspace.png)
 
 ## Creating a New File
