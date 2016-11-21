@@ -3,22 +3,40 @@ We will be using the online IDE [cloud9](https://c9.io) to write python code thi
 
 ## Sign Up Instructions
 
-1. Go to [https://c9.io/web/sign-up/free](https://c9.io/web/sign-up/free)
-2. Create account
-![Initial Sign Up Photo](sign_up_screen_phto.png)
-3. Verify your email address
-4. Click the link to go to your dashboard
-5. Click the plus sign to Create a new workspace
-![New Workspace Photo](create_workspace_photo.png)
-6. Name your workspace according to your teacher's instructions and give your workspace a description
-7. Make your workspace private
-8. Click "Create workspace" at the bottom of the page
-![Filled in workspace photo](create_new_workspace_photo.png)
-9. This will take a few seconds to set you up, but it will look like this: 
+1. Open up your email and find an email from Cloud 9 to sign up
+2. Click the sign up button. 
+3. Enter your Name in the box provided
+![Initial Sign Up Photo](cloud9_student_login.png)
+
+4. Create a username FirstnameLastName (All in lowercase)
+![Username Photo](cloud9_student_username.png)
+
+5. Select that you are a Student Developer
+6. Select that you will use Cloud9 for Course work
+![About Photo](cloud9_student_about.png)
+
+7. Confirm account details on the next page (Just click next)
+8. Confirm that you are not a robot
+![robot photo](cloud9_student_robot.png)
+
+9. Student should have access to shared team workspace: 
+![team workspace photo](cloud9_student_workspace.png)
+
+10. Click the plus sign to Create a new workspace
+11. In “Workspace name” field enter “mypythonworkspace”
+12. Give it a description of “This is my example workspace”
+13. Make your workspace private
+14. Select “Python” Template button  
+15. Click "Create workspace" at the bottom of the page
+![Filled in workspace photo](cloud9_student_new_workspace.png)
+
+16. This will take a few seconds to set you up, but it will look like this: 
 ![Cloud9 empty workspace photo](new_workspace_photo.png)
-10. From the top panel select window, pick share (third choice from the top)
+
+17. From the top panel select window, pick share (third choice from the top)
 ![Cloud9 window to share](window_to_share_photo.png)
-11. Enter your teachers' username or email in the "Invite People" section - this shares your workspace with your teachers and allows them to add comments. 
+
+18. Enter your teachers' username or email in the "Invite People" section - this shares your workspace with your teachers and allows them to add comments. 
 ![Cloud9 Share options photo](share_workspace.png)
 
 ## Creating a New File
