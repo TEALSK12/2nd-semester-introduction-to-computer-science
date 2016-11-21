@@ -37,6 +37,23 @@ Students will be able to...
 			* Ask students to take 3 minutes to convert this to Python.
 			* Call some students up to write their answers on the board.
 			* Practice changing the argument to input function in class. (ex. How would you have the computer ask what month the students were born in?)
+		*	Python 3 is strongly typed.  'input' returns a string. Demonstate by typing in the following:
+
+			```python
+				n = input()
+				9
+				type(n)
+				<class 'str'>
+			```
+		*	Demonstate casting string to int by typing in the following:
+
+			```python
+				n = int(input())
+				9
+				type(n)
+				<class 'int'>
+			```
+		
 	*	Swapping Variables Discussion
 		*	Provide students with additional time to work on this portion of the Do Now worksheet. 
 		*	Discuss student results.
