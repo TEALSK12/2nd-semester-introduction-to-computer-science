@@ -28,7 +28,7 @@ Students will be able to...
   * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions.
 2.  ** Check-in **
     - Point out how many days remain and have students check their implementation plan to ensure they do not have more work than time remaining.
-        - If they do, they will need to create a tenatative cut list in case they don't catch up.
+        - If they do, they will need to create a tentative cut list in case they don't catch up.
         -   Using previous days exit tickets, questions from students, instructor awareness of trouble points in the project, and/or any other resources to determine what needs covering
     -   Use this time as an opportunity to remind students of previous labs or activities that may be applicable to their project, and/or how far along they should be by the end of the day
 
