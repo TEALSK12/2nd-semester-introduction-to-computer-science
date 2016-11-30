@@ -27,7 +27,7 @@ Students will be able to...
 ## Instructor's Notes
 
 1. **Do Now**
-    * Hand out syllabus for students to begin reading.
+    * Hand out syllabus for students to begin reading [Sign Up Guide pdf].
 2. **Syllabus**
 	* Guide students through the syllabus, pausing for questions as needed.
     * Make sure to note the overarching goals for the course: create functioning Python programs, learn to use basic data types, and learn to use a text-based language.
@@ -55,3 +55,4 @@ Students will be able to...
 [Python Code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/hello_world.py
 [Sign Up Guide]:python_online_editor_sign_up.md
 [Sign Up Guide Teachers]:python_online_editor_sign_up_teachers.md
+[Sign Up Guide pdf]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/Cloud9_Student.pdf
