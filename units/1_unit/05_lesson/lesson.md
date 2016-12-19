@@ -10,7 +10,7 @@ Students will be able to...
 * Quiz (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Associated Reading - section 1.3 of Book
 * Take the quiz and create a scoring rubric
-* Look through [debugging] web tutorial and example [code] to prepare students for analyzing and responding to errors
+* Look through [http://tinyurl.com/TEALS-Python-Errors] web tutorial and example [code] to prepare students for analyzing and responding to errors
 
 ## Pacing Guide
 | **Duration**   |     **Description**    |
@@ -40,5 +40,5 @@ Students will be able to...
 Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
 
 [TEALS Dashboard]:www.tealsk12.org/dashboard
-[debugging]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html
+[http://tinyurl.com/TEALS-Python-Errors]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html
 [code]:code.py
