@@ -7,7 +7,6 @@
 ## Materials/Preparation
 * [Project Spec - Mad Libs]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-* [Mad Libs - Example Code]
 * Practice running the example code
 * Read through the project specifications so that you can completely communicate the requirements of the project 
 * Review [4 Steps to Solve Any CS Problem]
