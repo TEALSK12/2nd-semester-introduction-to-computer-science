@@ -12,7 +12,7 @@ Students will be able to...
 * [Do Now]
 * [Lab - Word Counter]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-* Associated Reading - section 5.2 of Book
+* Associated Reading - section 6.2 of Book
 *  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
