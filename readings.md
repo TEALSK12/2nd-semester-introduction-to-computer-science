@@ -1203,9 +1203,9 @@ I took a little license by arranging the variables in the frame and adding dotte
 ####Exercise
 Starting with this diagram, execute the program on paper, changing the values of i and j during each iteration. Find and fix the second error in this function.
 
-# Unit 5
+# Unit 6
 
-## 5.1
+## 6.1
 ### Dictionaries
 
 A dictionary is like a list, but more general. In a list, the indices have to be integers; in a dictionary they can be (almost) any type.
@@ -1280,7 +1280,7 @@ True
 False
 ```
 
-## 5.2
+## 6.2
 
 To add items to the dictionary, you can use square brackets:
 
@@ -1338,7 +1338,7 @@ Here’s how it works:
 
 The histogram indicates that the letters ’a’ and 'b' appear once; 'o' appears twice, and so on.
 
-## 5.3
+## 6.3
 
 ###Dictionaries and lists
 
@@ -1390,7 +1390,7 @@ That’s why the keys have to be hashable, and why mutable types like lists aren
 
 Since lists and dictionaries are mutable, they can’t be used as keys, but they can be used as values.
 
-## 5.4
+## 6.4
 
 ###Looping and dictionaries
 
@@ -1418,8 +1418,8 @@ Again, the keys are in no particular order.
 
 Dictionaries have a method called keys that returns the keys of the dictionary, in no particular order, as a list.
 
-# Unit 6
-## 6.1
+# Unit 7
+## 7.1
 ### User-defined types
 
 We have used many of Python’s built-in types; now we are going to define a new type. As an example, we will create a type called Point that represents a point in two-dimensional space.
@@ -1604,7 +1604,7 @@ Inside the function, rect is an alias for box, so if the function modifies rect,
 Exercise 1
 Write a function named move_rectangle that takes a Rectangle and two numbers named dx and dy. It should change the location of the rectangle by adding dx to the x coordinate of corner and adding dy to the y coordinate of corner.
 
-## 6.2
+## 7.2
 
 ### The init method
 
@@ -1660,7 +1660,7 @@ def print_attributes(obj):
 print_attributes traverses the items in the object’s dictionary and prints each attribute name and its corresponding value.
 The built-in function getattr takes an object and an attribute name (as a string) and returns the attribute’s value.
 
-## 6.3
+## 7.3
 
 ### Printing objects
 
@@ -1828,7 +1828,7 @@ Changing the behavior of an operator so that it works with user-defined types is
 #### Exercise
 Write an add method for the Point class.
 
-## 6.4
+## 7.4
 
 ### Inheritance
 The language feature most often associated with object-oriented programming is inheritance. Inheritance is the ability to define a new class that is a modified version of an existing class.
@@ -1901,9 +1901,9 @@ There are several kinds of relationship between classes:
 Objects in one class might contain references to objects in another class. For example, each Rectangle contains a reference to a Point, and each Deck contains references to many Cards. This kind of relationship is called HAS-A, as in, “a Rectangle has a Point.”
 One class might inherit from another. This relationship is called IS-A, as in, “a Hand is a kind of a Deck.”
 One class might depend on another in the sense that changes in one class would require changes in the other.
-A class diagram is a graphical representation of these relationships. For example, Figure 6.1 shows the relationships between Card, Deck and Hand.
+A class diagram is a graphical representation of these relationships. For example, Figure 7.1 shows the relationships between Card, Deck and Hand.
 !(Class Diagram)[http://www.greenteapress.com/thinkpython/html/thinkpython026.png]
-Figure 6.1: Class diagram.
+Figure 7.1: Class diagram.
 The arrow with a hollow triangle head represents an IS-A relationship; in this case it indicates that Hand inherits from Deck.
 The standard arrow head represents a HAS-A relationship; in this case a Deck has references to Card objects.
 
