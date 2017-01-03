@@ -11,7 +11,7 @@ Students will be able to...
 * [Do Now]
 * [Example]
 * [Lab - Create a Color Class]
-* Associated Reading - section 6.1 of Book
+* Associated Reading - section 7.1 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
