@@ -15,8 +15,8 @@ Your game should:
 # returns: string
 ```
 * Have a function `compare_scores` that takes in the two strings representing the cards drawn and compares the card values. Make sure to write the contract for `compare_scores`!
-* For simplicty Jacks will be represented as 11, Queens will be represented as 12, Kings will be represented as 13, and Aces will be represented as 14
-* For simplicty the suit does not matter
+* For simplicity Jacks will be represented as 11, Queens will be represented as 12, Kings will be represented as 13, and Aces will be represented as 14
+* For simplicity the suit does not matter
 * Include a while loop that keeps the game running until there are no cards in the deck.
 * If there is a tie, there is "war".  Take the next two cards an whoever wins that gets all four cards (including the previous tied cards).  If there is another tie, continue taking the next two cards until there a winner.  The winner takes all the "war" cards.
 * Keep track of the score.
