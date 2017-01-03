@@ -61,7 +61,7 @@ print("Zero is", 44-44)
 <br>
 Can you find a different solution?
 <br>
-Here are what the results, but not the source code, will look like. 
+Here are what the results, but not the source code, will look like. (Note: answers may have trailing zeros if floating point arithmetic is used which is fine, i.e. 1 may be displayed as 1.0)
 <br>
 ```
 Zero is 0
