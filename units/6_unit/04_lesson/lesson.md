@@ -8,7 +8,7 @@ Students will be able to...
 ##Materials/Preparation
 * [Do Now]
 * [Lab - Dictionaries Looping]
-* Associated Reading - section 5.4 of Book
+* Associated Reading - section 6.4 of Book
 *  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
