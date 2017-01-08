@@ -713,11 +713,17 @@ The syntax for calling the new function is the same as for built-in functions:
 >>> print_lyrics()
 I'm a lumberjack, and I'm okay.
 I sleep all night and I work all day.
+```
+
 Once you have defined a function, you can use it inside another function. For example, to repeat the previous refrain, we could write a function called repeat_lyrics:
+```
 def repeat_lyrics():
     print_lyrics()
     print_lyrics()
+
+```
 And then call repeat_lyrics:
+```
 >>> repeat_lyrics()
 I'm a lumberjack, and I'm okay.
 I sleep all night and I work all day.
