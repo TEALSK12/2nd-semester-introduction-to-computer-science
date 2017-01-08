@@ -39,6 +39,6 @@ Students will be able to...
 ###Accomodation/Differentiation
 Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
 
-[TEALS Dashboard]:www.tealsk12.org/dashboard
+[TEALS Dashboard]:http://www.tealsk12.org/dashboard
 [http://tinyurl.com/TEALS-Python-Errors]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html
 [code]:code.py
