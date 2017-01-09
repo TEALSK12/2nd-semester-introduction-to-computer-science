@@ -18,4 +18,4 @@ Magic 8-ball response examples:
 * outlook is not good
 
 ###Bonus!
-Research the math library and create a program that finds the length of a right triangle given two sides
+Research the math library and create a program that finds the length of the hypotenuse of a right triangle given two sides.
