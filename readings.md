@@ -1102,7 +1102,11 @@ suffix = 'ack'
 
 for letter in prefixes:
     print(letter + suffix)
+```
+
 The output is:
+
+```
 Jack
 Kack
 Lack
