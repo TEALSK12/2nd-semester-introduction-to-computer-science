@@ -981,7 +981,10 @@ When you pass a list to a function, the function gets a reference to the list. I
 ```
 def delete_head(t):
     del t[0]
+```
+
 Here’s how it is used:
+```
 >>> letters = ['a', 'b', 'c']
 >>> delete_head(letters)
 >>> print(letters)
