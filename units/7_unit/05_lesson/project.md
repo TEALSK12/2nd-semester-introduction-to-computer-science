@@ -133,7 +133,7 @@ Implement the following
 | Player can choose pokemon to battle  | 5   |
 | Stats, Move, and  All stats print properly           | 10  |
 | Attack command decreases HP properly      | 10 |
-| **Sub total**                                                   | 35  |
+| **Sub total**                                                   | 45  |
 | **Technical Correctness   **                                    |     |
 | Correct use of classes                                  | 10  |
 | Correct use of inheritance                                  | 10  |
