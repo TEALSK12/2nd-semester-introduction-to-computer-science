@@ -915,7 +915,6 @@ To keep track of which variables can be used where, it is sometimes useful to dr
 
 Each function is represented by a frame. A frame is a box with the name of a function beside it and the parameters and variables of the function inside it. The stack diagram for the previous example looks like this:
 ![Stack](http://www.cs.swarthmore.edu/courses/cs21book/build/_images/stack.png)
-
 Stack diagram
 The order of the stack shows the flow of execution. print\_twice was called by cat\_twice, and cat\_twice was called by \_\_main\_\_, which is a special name for the topmost function. When you create a variable outside of any function, it belongs to \_\_main\_\_.
 
