@@ -901,13 +901,13 @@ This function takes two arguments, concatenates them, and prints the result twic
 Bing tiddle tiddle bang.
 Bing tiddle tiddle bang.
 ```
-When cat_twice terminates, the variable cat is destroyed. If we try to print(it, we get an exception:)
+When cat\_twice terminates, the variable cat is destroyed. If we try to print it, we get an exception:
 
 ```
 >>> print(cat)
 NameError: name 'cat' is not defined
 ```
-Parameters are also local. For example, outside print_twice, there is no such thing as bruce.
+Parameters are also local. For example, outside print\_twice, there is no such thing as bruce.
 
 ###Stack diagrams
 To keep track of which variables can be used where, it is sometimes useful to draw a stack diagram. Like state diagrams, stack diagrams show the value of each variable, but they also show the function to which each variable belongs.
@@ -916,7 +916,7 @@ Each function is represented by a frame. A frame is a box with the name of a fun
 ![Stack](http://www.cs.swarthmore.edu/courses/cs21book/build/_images/stack.png)
 
 Stack diagram
-The order of the stack shows the flow of execution. print_twice was called by cat_twice, and cat_twice was called by __main__, which is a special name for the topmost function. When you create a variable outside of any function, it belongs to __main__.
+The order of the stack shows the flow of execution. print\_twice was called by cat\_twice, and cat\_twice was called by \_\_main\_\_, which is a special name for the topmost function. When you create a variable outside of any function, it belongs to \_\_main\_\_.
 
 Each parameter refers to the same value as its corresponding argument. So, part1 has the same value as chant1, part2 has the same value as chant2, and param has the same value as cat.
 
@@ -939,7 +939,7 @@ chant2 = "Dona eis requim."
 cat_twice(chant1, chant2)
 ```
 
-We’ve added the statement, print(cat) inside the print_twice function, but cat is not defined there. Running this script will produce an error message like this:
+We’ve added the statement, print(cat) inside the print\_twice function, but cat is not defined there. Running this script will produce an error message like this:
 
 ```
 Traceback (innermost last):
@@ -985,7 +985,7 @@ Although this behavior can be useful, it is error-prone. In general, it is safer
 
 #List arguments
 
-When you pass a list to a function, the function gets a reference to the list. If the function modifies a list parameter, the caller sees the change. For example, delete_head removes the first element from a list:
+When you pass a list to a function, the function gets a reference to the list. If the function modifies a list parameter, the caller sees the change. For example, delete\_head removes the first element from a list:
 
 ```
 def delete_head(t):
