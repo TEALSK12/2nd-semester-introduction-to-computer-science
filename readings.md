@@ -1806,9 +1806,9 @@ TypeError: increment() takes exactly 2 arguments (3 given)
 
 The error message is initially confusing, because there are only two arguments in parentheses. But the subject is also considered an argument, so all together that’s three.
 
-###  The __str__ method
+###  The \_\_str\_\_ method
 
-__str__ is a special method, like __init__, that is supposed to return a string representation of an object.
+\_\_str\_\_ is a special method, like \_\_init\_\_, that is supposed to return a string representation of an object.
 
 For example, here is a str method for Time objects:
 
@@ -1827,14 +1827,14 @@ When you print an object, Python invokes the str method:
 09:45:00
 ```
 
-When I write a new class, I almost always start by writing __init__, which makes it easier to instantiate objects, and __str__, which is useful for debugging.
+When I write a new class, I almost always start by writing \_\_init\_\_, which makes it easier to instantiate objects, and \_\_str\_\_, which is useful for debugging.
 
 ####Exercise
 Write a str method for the Point class. Create a Point object and print it.
 
 ### Operator overloading
 
-By defining other special methods, you can specify the behavior of operators on user-defined types. For example, if you define a method named __add__ for the Time class, you can use the + operator on Time objects.
+By defining other special methods, you can specify the behavior of operators on user-defined types. For example, if you define a method named \_\_add\_\_ for the Time class, you can use the + operator on Time objects.
 
 Here is what the definition might look like:
 
@@ -1855,8 +1855,8 @@ And here is how you could use it:
 11:20:00
 ```
 
-When you apply the + operator to Time objects, Python invokes __add__. When you print the result, Python invokes __str__. So there is quite a lot happening behind the scenes!
-Changing the behavior of an operator so that it works with user-defined types is called operator overloading. For every operator in Python there is a corresponding special method, like __add__. For more details, see http://docs.python.org/2/reference/datamodel.html#specialnames.
+When you apply the + operator to Time objects, Python invokes \_\_add\_\_. When you print the result, Python invokes \_\_str\_\_. So there is quite a lot happening behind the scenes!
+Changing the behavior of an operator so that it works with user-defined types is called operator overloading. For every operator in Python there is a corresponding special method, like \_\_add\_\_. For more details, see http://docs.python.org/2/reference/datamodel.html#specialnames.
 
 #### Exercise
 Write an add method for the Point class.
@@ -1881,8 +1881,8 @@ class Hand(Deck):
     """Represents a hand of playing cards."""
 ```
 
-This definition indicates that Hand inherits from Deck; that means we can use methods like pop_card and add_card for Hands as well as Decks.
-Hand also inherits __init__ from Deck, but it doesn’t really do what we want: instead of populating the hand with 52 new cards, the init method for Hands should initialize cards with an empty list.
+This definition indicates that Hand inherits from Deck; that means we can use methods like pop\_card and add\_card for Hands as well as Decks.
+Hand also inherits \_\_init\_\_ from Deck, but it doesn’t really do what we want: instead of populating the hand with 52 new cards, the init method for Hands should initialize cards with an empty list.
 
 If we provide an init method in the Hand class, it overrides the one in the Deck class:
 
@@ -1900,7 +1900,7 @@ So when you create a Hand, Python invokes this init method:
 new hand
 ```
 
-But the other methods are inherited from Deck, so we can use pop_card and add_card to deal a card:
+But the other methods are inherited from Deck, so we can use pop\_card and add\_card to deal a card:
 
 ```
 >>> deck = Deck()
@@ -1910,7 +1910,7 @@ But the other methods are inherited from Deck, so we can use pop_card and add_ca
 King of Spades
 ```
 
-A natural next step is to encapsulate this code in a method called move_cards:
+A natural next step is to encapsulate this code in a method called move\_cards:
 
 ```
 #inside class Deck:
@@ -1920,8 +1920,8 @@ A natural next step is to encapsulate this code in a method called move_cards:
             hand.add_card(self.pop_card())
 ```
 
-move_cards takes two arguments, a Hand object and the number of cards to deal. It modifies both self and hand, and returns None.
-In some games, cards are moved from one hand to another, or from a hand back to the deck. You can use move_cards for any of these operations: self can be either a Deck or a Hand, and hand, despite the name, can also be a Deck.
+move\_cards takes two arguments, a Hand object and the number of cards to deal. It modifies both self and hand, and returns None.
+In some games, cards are moved from one hand to another, or from a hand back to the deck. You can use move\_cards for any of these operations: self can be either a Deck or a Hand, and hand, despite the name, can also be a Deck.
 
 ### Class diagrams
 
@@ -1940,7 +1940,7 @@ Figure 7.1: Class diagram.
 The arrow with a hollow triangle head represents an IS-A relationship; in this case it indicates that Hand inherits from Deck.
 The standard arrow head represents a HAS-A relationship; in this case a Deck has references to Card objects.
 
-The star (*) near the arrow head is a multiplicity; it indicates how many Cards a Deck has. A multiplicity can be a simple number, like 52, a range, like 5..7 or a star, which indicates that a Deck can have any number of Cards.
+The star (\*) near the arrow head is a multiplicity; it indicates how many Cards a Deck has. A multiplicity can be a simple number, like 52, a range, like 5..7 or a star, which indicates that a Deck can have any number of Cards.
 
 A more detailed diagram might show that a Deck actually contains a list of Cards, but built-in types like list and dict are usually not included in class diagrams.
 
@@ -1968,7 +1968,7 @@ Here’s an example:
 ```
 
 So the shuffle method for this Hand is the one in Deck.
-find_defining_class uses the mro method to get the list of class objects (types) that will be searched for methods. “MRO” stands for “method resolution order.”
+find\_defining\_class uses the mro method to get the list of class objects (types) that will be searched for methods. “MRO” stands for “method resolution order.”
 
 Here’s a program design suggestion: whenever you override a method, the interface of the new method should be the same as the old. It should take the same parameters, return the same type, and obey the same preconditions and postconditions. If you obey this rule, you will find that any function designed to work with an instance of a superclass, like a Deck, will also work with instances of subclasses like a Hand or PokerHand.
 
