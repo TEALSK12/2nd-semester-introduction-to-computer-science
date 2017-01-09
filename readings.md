@@ -1674,15 +1674,22 @@ It is legal to add attributes to objects at any point in the execution of a prog
 
 If you are not sure whether an object has a particular attribute, you can use the built-in function hasattr (see Section 15.7).
 
-Another way to access the attributes of an object is through the special attribute __dict__, which is a dictionary that maps attribute names (as strings) and values:
+Another way to access the attributes of an object is through the special attribute \_\_dict\_\_, which is a dictionary that maps attribute names (as strings) and values:
 
+```
 >>> p = Point(3, 4)
 >>> print(p.__dict__)
 {'y': 4, 'x': 3}
+```
+
 For purposes of debugging, you might find it useful to keep this function handy:
+
+```
 def print_attributes(obj):
     for attr in obj.__dict__:
         print(attr, getattr(obj, attr))
+```
+
 print_attributes traverses the items in the object’s dictionary and prints each attribute name and its corresponding value.
 The built-in function getattr takes an object and an attribute name (as a string) and returns the attribute’s value.
 
