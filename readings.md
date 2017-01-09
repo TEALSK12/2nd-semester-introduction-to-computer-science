@@ -1125,7 +1125,7 @@ As mentioned, the most common way to traverse the elements of a list is with a f
 for i in range(len(numbers)):
     numbers[i] = numbers[i] * 2
 ```
-This loop traverses the list and updates each element. `len` returns the number of elements in the list. range returns a list of indices from 0 to n−1, where n is the length of the list. Each time through the loop i gets the index of the next element. The assignment statement in the body uses i to read the old value of the element and to assign the new value.
+This loop traverses the list and updates each element. `len` returns the number of elements in the list. `range` returns a list of indices from 0 to n−1, where n is the length of the list. Each time through the loop i gets the index of the next element. The assignment statement in the body uses i to read the old value of the element and to assign the new value.
 
 ### Debugging
 
