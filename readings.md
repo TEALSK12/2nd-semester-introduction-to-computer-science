@@ -97,6 +97,7 @@ This example makes three assignments. The first assigns a string to a new variab
 A common way to represent variables on paper is to write the name with an arrow pointing to the variable’s value. This kind of figure is called a state diagram because it shows what state each of the variables is in (think of it as the variable’s state of mind). Figure 2.1 shows the result of the previous example.
 
 ![State diagram](http://www.greenteapress.com/thinkpython/html/thinkpython003.png)
+
 The type of a variable is the type of the value it refers to.
 
 ```
