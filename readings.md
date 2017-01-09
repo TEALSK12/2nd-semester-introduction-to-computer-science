@@ -1033,7 +1033,11 @@ An alternative is to write a function that creates and returns a new list. For e
 ```
 def tail(t):
     return t[1:]
+```
+
 This function leaves the original list unmodified. Here’s how it is used:
+
+```
 >>> letters = ['a', 'b', 'c']
 >>> rest = tail(letters)
 >>> print(rest)
