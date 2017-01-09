@@ -10,9 +10,9 @@ Your game should:
 
 ```python
 # name: player_turn
-# purpose: takes in a player name, player_name, and draws/removes a card from the deck, prints "user drew card x", and returns the value
-# input: player_name, string
-# returns: string
+# purpose: takes in a player name and draws/removes a card from the deck, prints "user drew card x", and returns the value
+# input: player_name as string
+# returns: integer
 ```
 * Have a function `compare_scores` that takes in the two strings representing the cards drawn and compares the card values. Make sure to write the contract for `compare_scores`!
 * For simplicity Jacks will be represented as 11, Queens will be represented as 12, Kings will be represented as 13, and Aces will be represented as 14
@@ -31,7 +31,7 @@ While seemingly simple-- shuffling a deck is a somewhat complicated problem. Luc
 
 import random
 
-# shuffled_deck: will returna shuffled deck to the user
+# shuffled_deck: will return a shuffled deck to the user
 #input:
 #output: a list representing a shuffled deck
 def shuffled_deck():
