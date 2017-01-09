@@ -53,10 +53,10 @@ At least three times during the project period, and at least once each week, you
 
 ## Grading Scheme/Rubric
 |Design Phases| |
-|--|--|
+|---|---|
 |Brainstorming| 2 points|
 |Project Pitches    |6 points|
-|Feature List   |4 points|
+|Scenario Definition   |4 points|
 |Flow Chart    |4 points|
 |Project Organizer (Specification)  |8 points|
 |Implementation Plan    |8 points|
