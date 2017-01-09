@@ -1264,7 +1264,7 @@ Dictionaries have a method called get that takes a key and a default value. If t
 0
 ```
 
-The `len`` function works on dictionaries; it returns the number of key-value pairs:
+The `len` function works on dictionaries; it returns the number of key-value pairs:
 
 ```
 >>> len(eng2sp)
