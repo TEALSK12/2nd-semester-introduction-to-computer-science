@@ -89,5 +89,5 @@ For each of the following problems, you will write a function that will draw the
     ```   
        *
       ***
-    ******
+     *****
     ```
