@@ -25,12 +25,12 @@ Students will be able to...
     * If time allows, ask one or two students to share their feature list and/or flow chart and discuss with the class.
         * Ensure that students have an understanding of the proper level of detail at this point.
 2. ** Spec writing ** 
-    * Using the details from their pitch, their feature lists, their flow charts, and the feedback they've received, students should fill out the rest of the [plan organizer](../final_project_plan_organizer.docx).
+    * Using the details from their pitch, their feature lists, their flow charts, and the feedback they've received, students should fill out the rest of the [Final Project Plan Organizer].
         * It is **VITAL** at this stage that students be as detailed and thorough as they can.  Any missing information will complicate the process later when they realize what was left out.  Encourage students to take their time and make sure they hit everything.
         * While this process is happening, instructors should circulate through the class and check-in with student.  Verify that they have a complete, well-thought out idea that is feasible to complete in the available time.  
             * If you have concerns about a student's ability to complete the proposed project, help them scope down by removing or simplifying features.
 3. Implementation plan
-    * Students should use the details built in their plan organizer to list the tasks necessary on their [Final Project Development Plan](../final_project_development_plan.docx).
+    * Students should use the details built in their plan organizer to list the tasks necessary on their [Final Project Development Plan].
         * Emphasize to students that tasks should be at a very low level of granularity (hence the time requirement being specified in minutes).  If a single task has a time estimate of more than a few hours, the student should try to break the task into smaller pieces.
         * Ensure that students do not skip "trivial" or "simple" tasks (such as building a script they have written before) or non-coding tasks (such as developing graphics) in their pla.
 4. Debrief
@@ -38,3 +38,6 @@ Students will be able to...
     * Ideally, anytime there is a question about the requirements or scope of the project, the spec should have the answer.  If not, it's a new idea and the spec needs to be updated acordingly.
 
 ## Accommodation/Differentiation
+
+[Final Project Plan Organizer]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_plan_organizer.docx
+[Final Project Development Plan]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_development_plan.docx
