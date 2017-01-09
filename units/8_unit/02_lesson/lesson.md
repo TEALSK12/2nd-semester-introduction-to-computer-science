@@ -6,7 +6,7 @@ Students will be able to...
   * Explain the importance of wireframing when designing an application
 
 ## Materials/Preparation
-* [Final Project Plan Organizer](../final_project_plan_organizer.docx) handout
+* [Final Project Plan Organizer] handout
 
 ## Pacing Guide
 | Duration  | Description                                   |
@@ -22,7 +22,7 @@ Students will be able to...
   * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 2. ** Review Pitches ** 
     * If desired, give students a few minutes to rework their pitches or get more feedback from a classmate or instructor.
-    * Ask students to choose which idea they want to pursue, and write it down on the top of their [Final Project Plan Organizer](../final_project_plan_organizer.docx).
+    * Ask students to choose which idea they want to pursue, and write it down on the top of their [Final Project Plan Organizer].
 3. ** Defining Scenarios ** 
     * Defining the term "scenario" for students:
         * _scenario: a description of a set of interactions and/or tasks that describe a start-to-finish example of how a user might want to use the application_
@@ -42,3 +42,5 @@ Students will be able to...
 
 ## Accommodation/Differentiation
           
+[Final Project Plan Organizer]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_plan_organizer.docx
+[Final Project Development Plan]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_development_plan.docx
