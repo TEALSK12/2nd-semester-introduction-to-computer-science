@@ -1,6 +1,10 @@
 # 2nd-semester-introduction-to-computer-science-principles
 A 2nd semester follow-up to the TEALS Intro CS course
 
+# License
+This curriculum is licensed under the Creative Commons Attribution Non-Commercial Share-alike License (http://creativecommons.org/licenses/by-nc-sa/4.0/), which means you may share and adapt this material for non-commercial uses as long as you attribute its original source, and retain these same licensing terms.
+
+# About this curriculum
 Welcome to the TEALS Intro to Computer Science Part 2 Curriculum.
 This curriculum is intended for use by TEALS classrooms teaching Introduction to Computer Science in a yearlong format. We expect that students have completed the content from the [1st semester course](https://www.gitbook.com/book/teals-introcs/introduction-to-computer-science-principles/details) prior to this curriculum.
 
