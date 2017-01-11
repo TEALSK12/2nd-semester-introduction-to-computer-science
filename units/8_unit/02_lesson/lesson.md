@@ -3,7 +3,7 @@
 ## Learning Objectives
 Students will be able to...
   * Define key scenarios for a project and the features required to implement each scenario
-  * Explain the importance of wireframing when designing an application
+  * Explain the importance of flow charting when designing an application
 
 ## Materials/Preparation
 * [Final Project Plan Organizer] handout
