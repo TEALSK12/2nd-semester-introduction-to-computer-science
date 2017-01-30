@@ -30,9 +30,15 @@ Students will be able to...
     * Discuss what students observed in the Do Now and take time, if needed, to go over questions about concepts that students find challenging. 
     * Explain the concept of **aliasing**. You can draw on the board a diagram of the variable pointing to a list. Note that when passing the location of a list you are not passing the actual value, so the list can be changed. 
     * **Scope** of functions
-        * Explain to students that variables in functions are the arguments and the ones you define in the function. To use variables from outside the function you must put the phrase `global name_of_variable`. 
-        * Global variables: variables used in many different functions. 
-        * NOTE: We use the 'ALL CAPS' convention for global variables
+        * Explain to students that variable scope is the part of a program where a variable is accessible
+        * A variable which is defined in the main body of a file is called a global variable. 
+        * Global variables: variables defined outside of a function and used in many different functions. 
+        * To use global variables defined outside the function you must declare the varaible with the phrase `global name_of_variable`.
+        * Any variable created inside of a function is a local variable.
+        * Variables in functions include the function parameters, the variables defined in the function and variables declared as global. 
+        * Local variables of functions can't be accessed from outside when the function call has finished.
+        * Explain global variables are often used for constants.
+        * NOTE: We use the 'ALL CAPS' convention for global variables.
             * Discuss that programming languages frequently have conventions like camelCase for function names, ALL_CAPS for globals, and underscore_separated for variables. It helps make code more readable, but isn't essential to functionality (in most cases)
    	    * Demonstrate how to draw the Stack Diagrams shown in the course book (found in section 3.4) and explain how they show the scope of variables as they related to functions.
    	    * Point out the error messages that will occur if you use a variable out of it's scope.
