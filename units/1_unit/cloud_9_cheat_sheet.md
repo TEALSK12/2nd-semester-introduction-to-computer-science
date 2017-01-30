@@ -3,7 +3,7 @@
 ## Terminal Shortcuts
 * Use ctrl-k to clear the terminal screen (cmd-k on Mac)
 * Use ctrl-c to stop a program running in the terminal
-* Use ctrl-d (or type exit) to close out of the interactive python shell
+* Use ctrl-d (or type exit()) to close out of the interactive python shell
 
 ## Cloud 9 Shortcuts
 * Use ctrl-s to save a file
