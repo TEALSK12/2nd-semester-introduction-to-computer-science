@@ -22,14 +22,15 @@ shopping_cart = [
 * `print` 
 	*  The program will ask which shopping list the user wants to print from and afterwards will request which position it should print.
 * `print all`
-	* The program will ask which shopping list the user wants to print and will print all of the activities associated with that shopping list. 	
+	* The program will ask which shopping list the user wants to print and will print all of the items associated with that shopping list. 	
 	
 ###Functions
 * `update_list`
     * Takes in an integer representing the index of the shopping list, an integer representing the index of the item to update, and a string representing the new item to add to that shopping list.
+* `print_item`
+    * Takes an int representing the index of the shopping list followed by an int representing the index of the item to print.
 * `print_list`
-    * Takes an int representing the index of the shopping list to print or "all" to print all shopping lists.
-
+    * Takes an int representing the index of the shopping list to print.
 
 * Feel free to add more functions as you see fit
 
