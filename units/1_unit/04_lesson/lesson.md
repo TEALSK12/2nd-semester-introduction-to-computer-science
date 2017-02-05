@@ -61,7 +61,7 @@ Students will be able to...
 				print ("You entered " + n)
 				TypeError: Can't convert 'int' object to str implicitly
 			```
-		*	Cast the integer to a strong byDemonstrate by typeing the following:
+		*	Cast the integer to a string. Demonstrate by typing the following:
 		
 			```python
 				n = int(input())
