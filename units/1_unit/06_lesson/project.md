@@ -23,10 +23,18 @@ It was a beautiful day in New York City. Our hero Ariana Grande was on a walk fr
 ```
 
 ### Implementation Details
+Plan out your story on pencil and paper first, before you start implementing the program.
+* Create your story
+* Select the missing words
+* Determine each words part of speech
+* Create introduction
+* Create questions
+* Divide story into print statements
+
 As mentioned above the program must request words from the user. The following **must** be included in the program: 
 * 10 different words inputted
 * Variable names should correspond to the part of speech requested and part of the story they belong to (e.g. `noun1`, `verb2`, etc)
-* You may only use 3 print statements.
+* You may only use 3 print statements to tell your story
 
 ## Grading 
 ### Scheme/Rubric
