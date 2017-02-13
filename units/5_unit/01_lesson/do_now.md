@@ -4,7 +4,7 @@
 EarSketch, created by Georgia Tech, is an online tool that allows you to learn Python and music technology side by side. By applying concepts already covered in this curriculum such as functions, loops, and conditionals, you will be able to use the EarSketch IDE to create unique and entertaining beats and songs!
 
 
-1. Skim the EarSketch documentation in [Unit 1](http://earsketch.gatech.edu/category/unit-1)
+1. Skim the EarSketch documentation in [Unit 1], located in the right panel of the [EarSketch Editor].
 3. Copy the following code from the reading above into the [EarSketch Editor]: 
 
 ```python
