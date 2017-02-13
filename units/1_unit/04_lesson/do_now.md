@@ -29,8 +29,6 @@ Copy the following code into your editor.
 ```python
 a = "this sentence should go second"
 b = "this sentence should go first."  
-c = a 
-a = b 
 # your code starts here
 
 # your code ends here
