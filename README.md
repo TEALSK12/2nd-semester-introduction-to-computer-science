@@ -18,6 +18,14 @@ Python is an evolving language. Python 3 is major upgrade to the language, relea
 
 **This class will use Python 3.**
 
+For those knowledgable with Python 2, the following is a list of differences from Python 3 relevant to the 2nd semester intro course.
+
+| | Python 2 | Python 3 |
+| ------ | ---------- | --- |
+| Printing to console | print 3.14 | print (3.14) |
+| User input | raw_input()/input() | input () |
+| Integer arithmetic | 3/2 evaluates to 1 | 3/2 evaluates to 1.5 |
+| Not equal to | <> | != |
 
 # Issues
 
