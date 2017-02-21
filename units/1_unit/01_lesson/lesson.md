@@ -47,7 +47,12 @@ Students will be able to...
 4. **Students Create Accounts & Submit Work**
 	* Hand out the IDE [Sign Up Guide]. This explains to students how to sign up for the IDE, step-by-step. Make sure to update this with your account information so that the students share their accounts/work with the correct names.
 	* Have students write their username and password on the paper and/or take a photo on their phones so that they remember for future classes.
-	* Display [Python Code] and have students copy the code into a `hello_world.py` file and 'turn in' by submitting to you online. If you would like to have a class-wide convention for file name saving make sure to update it in the [Sign Up Guide]. 
+	* Hello World exercise
+		* Display [Python Code].  
+		* Have students create a a new file in Cloud9 by clicking "File" -> "New File"
+		* Save file as "hello_world.py" by clicking "File" -> "Save" and naming the file "hello_world.py"
+		* Have students copy the code into the `hello_world.py` file
+		* Have students 'turn in' their work by submitting online to Learning Management System(LMS). If you would like to have a class-wide convention for file name saving make sure to update it in the [Sign Up Guide]. 
 	* If students finish early, encourage them to explore the interface and to try creating a program that prints their name.
 
 
