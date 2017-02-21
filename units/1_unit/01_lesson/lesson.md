@@ -51,7 +51,7 @@ Students will be able to...
 		* Display [Python Code].  
 		* Have students create a a new file in Cloud9 by clicking "File" -> "New File"
 		* Save file as "hello_world.py" by clicking "File" -> "Save" and naming the file "hello_world.py"
-		* Have students copy the code into the `hello_world.py` file
+		* Have students type in the displayed code into the blank `hello_world.py` file
 		* Have students 'turn in' their work by submitting online to Learning Management System(LMS). If you would like to have a class-wide convention for file name saving make sure to update it in the [Sign Up Guide]. 
 	* If students finish early, encourage them to explore the interface and to try creating a program that prints their name.
 
