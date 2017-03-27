@@ -23,6 +23,175 @@ Your game should:
 * Player who won the most number of cards wins.
 * Declare the name of the winner and final score at the end of the game.
 
+## Sample Output
+Player 1's name: Pat  
+Player 2's name: Sam  
+
+
+Pat drew card 8  
+Sam drew card 9  
+Sam has high card  
+Pat: 0  
+Sam: 2  
+
+Pat drew card 9  
+Sam drew card 8  
+Pat has high card  
+Pat: 2  
+Sam: 2 
+
+Pat drew card 7  
+Sam drew card 7  
+War  
+Pat: 2  
+Sam: 2  
+
+Pat drew card 5  
+Sam drew card 6  
+Sam has high card  
+Sam wins war of 4 cards  
+Pat: 2  
+Sam: 6  
+
+Pat drew card 13  
+Sam drew card 14  
+Sam has high card  
+Pat: 2  
+Sam: 8  
+
+Pat drew card 6  
+Sam drew card 12  
+Sam has high card  
+Pat: 2  
+Sam: 10  
+
+Pat drew card 4  
+Sam drew card 8  
+Sam has high card  
+Pat: 2  
+Sam: 12  
+
+Pat drew card 12  
+Sam drew card 2  
+Pat has high card  
+Pat: 4 
+Sam: 12  
+
+Pat drew card 7  
+Sam drew card 13  
+Sam has high card  
+Pat: 4  
+Sam: 14  
+
+Pat drew card 10  
+Sam drew card 6  
+Pat has high card  
+Pat: 6  
+Sam: 14  
+
+Pat drew card 9  
+Sam drew card 7  
+Pat has high card   
+Pat: 8  
+Sam: 14  
+
+Pat drew card 4  
+Sam drew card 13  
+Sam has high card  
+Pat: 8  
+Sam: 16  
+
+Pat drew card 3  
+Sam drew card 3  
+War  
+Pat: 8  
+Sam: 16  
+
+Pat drew card 11  
+Sam drew card 3  
+Pat has high card  
+Pat wins war of 4 cards  
+Pat: 12  
+Sam: 16  
+
+Pat drew card 4  
+Sam drew card 10  
+Sam has high card   
+Pat: 12  
+Sam: 18  
+
+Pat drew card 12  
+Sam drew card 11  
+Pat has high card  
+Pat: 14  
+Sam: 18  
+
+Pat drew card 4  
+Sam drew card 11  
+Sam has high card   
+Pat: 14  
+Sam: 20  
+
+Pat drew card 8  
+Sam drew card 5  
+Pat has high card  
+Pat: 16  
+Sam: 20  
+
+Pat drew card 12  
+Sam drew card 9  
+Pat has high card  
+Pat: 18  
+Sam: 20  
+
+Pat drew card 5  
+Sam drew card 6  
+Sam has high card  
+Pat: 18  
+Sam: 22  
+
+Pat drew card 10  
+Sam drew card 13  
+Sam has high card  
+Pat: 18  
+Sam: 24  
+
+Pat drew card 2  
+Sam drew card 2  
+War  
+Pat: 18  
+Sam: 24  
+
+Pat drew card 14  
+Sam drew card 14  
+War  
+Pat: 18  
+Sam: 24  
+
+Pat drew card 2  
+Sam drew card 5  
+Sam has high card  
+Sam wins war of 6 cards  
+Pat: 18  
+Sam: 30  
+
+Pat drew card 11  
+Sam drew card 14  
+Sam has high card  
+Pat: 18  
+Sam: 32  
+
+Pat drew card 10  
+Sam drew card 3  
+Pat has high card  
+Pat: 20  
+Sam: 32  
+
+Final Score  
+Pat: 20  
+Sam: 32  
+Winner: Sam  
+
 ### Deck Shuffling
 
 While seemingly simple-- shuffling a deck is a somewhat complicated problem. Luckily, Python's random library has a built in shuffle algorithm. Feel free to read the documentation, but we have provided a simple wrapper function that will return to you a shuffled deck of cards.
