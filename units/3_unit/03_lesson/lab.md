@@ -11,10 +11,10 @@ Your game should:
 ```python
 # name: player_turn
 # purpose: takes in a player name and draws/removes a card from the deck, prints "user drew card x", and returns the value
-# input: player_name as string
+# input: player_name as string, deck as list
 # returns: integer
 ```
-* Have a function `compare_scores` that takes in the two strings representing the cards drawn and compares the card values. Make sure to write the contract for `compare_scores`!
+* Have a function `compare_scores` that takes in the two integers representing the cards drawn and compares the card values. Make sure to write the contract for `compare_scores`!
 * For simplicity Jacks will be represented as 11, Queens will be represented as 12, Kings will be represented as 13, and Aces will be represented as 14
 * For simplicity the suit does not matter
 * Include a while loop that keeps the game running until there are no cards in the deck.
