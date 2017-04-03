@@ -1,6 +1,6 @@
 # Do Now 5.02
 
-1. Begin reading the following lessons in the EarSketch documentation in [Unit 1 and Unit 2](http://earsketch.gatech.edu/category/unit-1).
+1. Begin reading the following lessons in the EarSketch documentation in Unit 1 and Unit 2.
 
 * 1.2.1 Rhythm: https://earsketch.gatech.edu/earsketch2/?curriculum=1-2-0
 * 1.4.1 Using Effect in EarSketch - setEffect(): https://earsketch.gatech.edu/earsketch2/?curriculum=1-4-0
