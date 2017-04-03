@@ -6,11 +6,11 @@ EarSketch, created by Georgia Tech, is an online tool that allows you to learn P
 
 1. Skim the following lessons in the EarSketch documentation in [Unit 1], located in the right panel of the [EarSketch Editor].
 
-* 1.1.2 Tools of the Trade: DAWs and APIs : https://earsketch.gatech.edu/earsketch2/?curriculum=1-1-1
-* 1.1.3 The EarSketch Workspace: https://earsketch.gatech.edu/earsketch2/?curriculum=1-1-2
-* 1.1.6 The DAW in Details: https://earsketch.gatech.edu/earsketch2/?curriculum=1-1-5
-* 1.1.9 Creating a New Script: https://earsketch.gatech.edu/earsketch2/?curriculum=1-1-8
-* 1.1.10 Compising in EarSketch - fitMedia(): https://earsketch.gatech.edu/earsketch2/?curriculum=1-1-9
+* 1.1.2 [Tools of the Trade: DAWs and APIs](https://earsketch.gatech.edu/earsketch2/?curriculum=1-1-1)
+* 1.1.3 [The EarSketch Workspace](https://earsketch.gatech.edu/earsketch2/?curriculum=1-1-2)
+* 1.1.6 [The DAW in Details](https://earsketch.gatech.edu/earsketch2/?curriculum=1-1-5)
+* 1.1.9 [Creating a New Script](https://earsketch.gatech.edu/earsketch2/?curriculum=1-1-8)
+* 1.1.10 [Compising in EarSketch - fitMedia()](https://earsketch.gatech.edu/earsketch2/?curriculum=1-1-9)
 
 2. Copy the following code from the reading above into the [EarSketch Editor]: 
 
