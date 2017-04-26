@@ -1,4 +1,4 @@
-# 2nd Semester Introduction to Computer Science Principles Curriculum Map
+# 2nd Semester Introduction to Computer Science Curriculum Map
 
 ## Unit 1:
 | Lesson | Objectives | Lab |
