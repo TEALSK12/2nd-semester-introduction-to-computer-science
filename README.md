@@ -1,4 +1,4 @@
-# 2nd-semester-introduction-to-computer-science-principles
+# 2nd-semester-introduction-to-computer-science
 A 2nd semester follow-up to the TEALS Intro CS course
 
 # License
