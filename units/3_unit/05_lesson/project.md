@@ -25,7 +25,7 @@ We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (20
 * Use globals to keep track of player health, food pounds, miles to go, current day, current month
 * Create a function add_day which updates the day 
 * Use global list to keep track of which months have 31 days and use this in the add_day function (i.e.: MONTHS_WITH_31_DAYS = [1, 3, 5, 7, 8, 10, 12])
-* Create a function update_days which uses a while loop to call add_day function
+* Create a function select_action which uses a while loop to call add_day function
 
 ## Grading 
 ### Scheme/Rubric
@@ -43,7 +43,7 @@ We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (20
 | Correctly use imported random function                          | 5  |
 | Correctly use global variables                                  | 5  |
 | Correctly use and update variables                              | 5  |
-| Correctly add_days and update_days functions                    | 15  |
+| Correctly add_days and select_action functions                  | 15  |
 | **Sub total**                                                   | 50  |
 | **Total**                                                       | 100 |
 
