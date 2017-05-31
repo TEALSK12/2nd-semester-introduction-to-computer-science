@@ -1873,7 +1873,7 @@ For example, here is a str method for Time objects:
 # inside class Time:
 
     def __str__(self):
-        return 	    print(str(time.hour) + ":" + str(time.minute) + ":" + str(time.second))
+        return str(time.hour) + ":" + str(time.minute) + ":" + str(time.second)
 ```
 
 When you print an object, Python invokes the str method:
