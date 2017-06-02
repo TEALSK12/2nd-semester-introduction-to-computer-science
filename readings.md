@@ -1806,7 +1806,7 @@ By convention, the first parameter of a method is called self, so it would be mo
 ```
 class Time(object):
     def print_time(self):
-    	print(str(time.hour) + ":" + str(time.minute) + ":" + str(time.second))
+    	print(str(self.hour) + ":" + str(self.minute) + ":" + str(self.second))
 ```
 
 The reason for this convention is an implicit metaphor:
