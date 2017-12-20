@@ -23,11 +23,11 @@ Write down the result. Explain what `print` does. Try printing out 3 different v
 
 ## How to open, save, and run a file 
 1. Open
-![Open A file](new_file_photo.png)
+![Open a project](trinket_new.png)
+
 2. Save
-    * Save how you would on a Word, or by going to File->Save
+![Save a project](donow103_save.png)
+
 3. Run 
-![Run Python 3](running_file_python3.png)
-    * If there is not a terminal open: 
-    ![New Terminal](new_terminal_photo.png)
+![Run Python 3](donow103_run.png)
 
