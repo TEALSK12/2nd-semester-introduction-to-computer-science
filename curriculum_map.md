@@ -3,7 +3,7 @@
 ## Unit 1:
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
-| 1.01: Set Up | Define and identify: IDE, Python; Identify the key concepts that will be covered in the course. Set up and log into an account for the course's online IDE, Cloud9. Save and turn in a file via the Cloud9 IDE. | N/A |
+| 1.01: Set Up | Define and identify: IDE, Python; Identify the key concepts that will be covered in the course. Set up and log into an account for the course's online IDE. Save and turn in a file via the online IDE. | N/A |
 | 1.02: Interactive Mode | Define and identify: interpreter, string, integer, float, value, errors, console, expression. Use the Python interpreter to evaluate simple math expressions. Distinguish between an integer, float, and string. | Using the Interpreter |
 | 1.03: Script Mode and Variables | Define and identify: script, print, run, output, variable. Write a simple script and run it in the IDE. Print values out to the console (both composed values and from variables). Compare script mode vs interactive mode. Know how to store a value into a variable. | Printing & Variables |
 | 1.04: Variables Input | Define and identify: comments, storing, mutability, variable assignment, input. Assign and swap variables. Store user input into a variable. | Magic Genie |
