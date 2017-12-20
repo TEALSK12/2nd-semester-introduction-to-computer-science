@@ -1,7 +1,7 @@
 # Do Now 2.06
 
 ## Part 1
-Open up the terminal. Type the following code using interactive mode:
+Open up the console. Type the following code using interactive mode:
 ```
  >>> a = [123, 'First Item', 456, 'Second Item']
  >>> b = a[0:2]
