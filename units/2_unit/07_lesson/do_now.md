@@ -5,7 +5,7 @@ How would you print out something 10 times? What about 100? What about 1,000? Ca
 <br>
 <br>
 
-Open up the terminal. Type the following code using interactive mode. 
+Open up the console. Type the following code using interactive mode. 
 
 ```python
 while True: 
