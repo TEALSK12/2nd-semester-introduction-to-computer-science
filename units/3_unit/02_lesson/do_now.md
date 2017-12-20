@@ -1,6 +1,6 @@
-#Do Now 3.02
+# Do Now 3.02
 
-Open up the terminal. Type the following code. 
+Open up the console. Type the following code. 
 
 ```python
 def my_function(): 
