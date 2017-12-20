@@ -5,14 +5,14 @@ Students will be able to...
 
 * Define and identify: **IDE**, **Python**
 * Identify the key concepts that will be covered in the course
-* Set up and log into an account for the course's online IDE, Cloud9
-* Save and turn in a file via the Cloud9 IDE
+* Set up and log into an account for the course's online IDE
+* Save and turn in a file via the online IDE
 
 ##Materials/Preparation
 * Update the collaboration policy, IDE information, grading percentages, and general syllabus based on your preferences and your school's requirements
-* Create an account on Cloud9 and update the student Sign Up Guide with your username
+* Create an account on online IDE and update the student Sign Up Guide with your username
 * Update the student Sign Up Guide with file naming and turn-in conventions for your course
-* [Sign Up Guide]: the IDE guide for students
+* [Sign Up Guide], [Sign Up Guide pdf]: the IDE guide for students 
 * [Sign Up Guide Teachers]: the IDE guide for teachers
 * [Python Code]: code to display and have students submit online
 
@@ -41,7 +41,7 @@ Students will be able to...
 	* IDE
 		* **I**ntegrated **D**evelopment **E**nvironment 
 		* An **IDE** is an application that allows you to create, edit, save, and run programs.
-		    * Point out that for this course we will be using an online IDE called Cloud9.
+		    * Point out that for this course we will be using an online IDE.
 		* Note that with Python, we can't use drag and drop blocks anymore - it is a language that must be typed into an IDE. 
 		* Talk to students about the different areas and parts of the IDE, use the [Python Code] to demo once more how it looks/works.
 4. **Students Create Accounts & Submit Work**
@@ -49,8 +49,8 @@ Students will be able to...
 	* Have students write their username and password on the paper and/or take a photo on their phones so that they remember for future classes.
 	* Hello World exercise
 		* Display [Python Code].  
-		* Have students create a a new file in Cloud9 by clicking "File" -> "New File"
-		* Save file as "hello_world.py" by clicking "File" -> "Save" and naming the file "hello_world.py"
+		* Have students create a a new Python file
+		* Save file as "hello_world.py"
 		* Have students type in the displayed code into the blank `hello_world.py` file
 		* Have students 'turn in' their work by submitting online to Learning Management System(LMS). If you would like to have a class-wide convention for file name saving make sure to update it in the [Sign Up Guide]. 
 	* If students finish early, encourage them to explore the interface and to try creating a program that prints their name.
@@ -58,6 +58,6 @@ Students will be able to...
 
 
 [Python Code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/hello_world.py
-[Sign Up Guide]:python_online_editor_sign_up.md
+[Sign Up Guide]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/Trinket_Student.docx
 [Sign Up Guide Teachers]:python_online_editor_sign_up_teachers.md
-[Sign Up Guide pdf]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/Cloud9_Student.pdf
+[Sign Up Guide pdf]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/Trinket_Student.pdf
