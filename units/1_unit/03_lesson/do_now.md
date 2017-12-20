@@ -1,5 +1,5 @@
 ## Do Now 1.03
-Open and save a new file called `my_file.py` in the IDE. Run a program by typing `python3 my_file.py` into the terminal. See the instructions below for how to open, save, and run a file in Cloud9.
+Open and save a new project called `DoNow103` in the IDE. Run a program by clicking the ">" Run button. See the instructions below for how to open, save, and run a file in the online IDE.
 
 Practice typing the following expressions in the editor and running the code. 
  
