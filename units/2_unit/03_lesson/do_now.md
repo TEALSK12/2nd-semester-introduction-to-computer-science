@@ -1,7 +1,7 @@
-#Do Now 2.03
+# Do Now 2.03
 
-##Part 1
-Open up the terminal. Type each line of the following code into the interactive editor: 
+## Part 1
+Open up the console. Type each line of the following code into the interactive editor: 
 ```
  >>> 5 < 3
  >>> 5 > 3
@@ -31,7 +31,7 @@ What data type do you think `my_favorite_animal == user_favorite_animal` is?
 <br>
 
 ## Part 2
-Open up the terminal. Type the following code into the interactive editor. 
+Open up the console. Type the following code into the interactive editor. 
  ```
  >>> months_with_driving_permit = 6
  >>> age = 16
