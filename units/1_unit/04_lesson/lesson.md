@@ -31,7 +31,7 @@ Students will be able to...
 		    *	What did the string between the parentheses do? 
 		    *	What would changing that string do? (it changes the prompt given to the user) 
 		* Define **input**: user data given to the app. 
-		* Explain that in Python `input` lets a program take input from the terminal and use it in the code. Recall using input from snap.
+		* Explain that in Python `input` lets a program take input from the console and use it in the code. Recall using input from snap.
 		* Display on the screen: ![Snap Input](snap_input.png)
 			* Ask students what things from Python they will need to create this program. 
 			* Ask students to take 3 minutes to convert this to Python.
@@ -84,7 +84,7 @@ Students will be able to...
 		*	Were there any error messages? What do they mean?
 	    *	Did anyone use more than one variable? 
 	* Let students know about 
-		*	Review concepts so far: **variables, interpreter, terminal, string, integer, float, run, output, variable swapping**
+		*	Review concepts so far: **variables, interpreter, console, string, integer, float, run, output, variable swapping**
 
 ### Accomodation/Differentiation
 Advanced students that are finished early can be paired with students who are struggling. Be careful to give clear guidance about how to effectively help another student, especially emphasizing that helping *never* involves using someone else's keyboard/mouse.
