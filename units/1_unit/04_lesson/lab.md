@@ -12,7 +12,7 @@ Create a genie program. Save the file as `magic_genie.py`.
 
 ## SNAP Flashback – Magic Genie
 
-![](GenieProgram - Code.png)
+![](GenieProgram%20-%20Code.png)
 
 ### Hint!
 Remember to add spaces you can combine `" "`  to the end of your string using the `+` operator. So `print("hello" + " " + "student")` would print `hello student`
