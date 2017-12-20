@@ -1,6 +1,6 @@
 # Lesson Plan 1.03: Script Mode and Variables
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **script**, **print**, **run**, **output**, **variable**
 * Write a simple script and run it in the IDE
@@ -8,7 +8,7 @@ Students will be able to...
 * Compare script mode vs interactive mode
 * Know how to store a value into a variable
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now] 
 * [Lab - Printing & Variables]
 * Associated Reading - section 1.2 of Book
@@ -67,7 +67,7 @@ Students will be able to...
 	* Talk about the difference between interactive and script mode. Discuss why you might want to use the interpreted mode: sometimes it can be faster to debug a single line and make sure it works!
 	* Talk about differences between SNAP! and Python for declaring variables.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 If students are moving quickly, ask students to come up with a way to print two lines with only one print statement. Allow for students to Google the `\n` character. 
 
   
