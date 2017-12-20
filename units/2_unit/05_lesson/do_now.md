@@ -1,6 +1,6 @@
-#Do Now 2.05
+# Do Now 2.05
 
-Open up the terminal. Type the following code. 
+Open up the console. Type the following code. 
 ```
  a_list = ['a', 'b', 'c', 'd', 'e']
  print(len(a_list))
@@ -22,7 +22,7 @@ Brainstorm how you would print the first element from `a_list`?
 <br>
 <br>
 
-Type the following into the terminal. What happens? 
+Type the following into the console. What happens? 
 ```
  a_list = ['a', 'b', 'c', 'd', 'e']
  print(a_list[0])
