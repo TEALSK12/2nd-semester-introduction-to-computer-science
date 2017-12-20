@@ -1,12 +1,12 @@
 # Lesson Plan 1.04: Variables and User Input
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **comments**, **storing**, **mutability**, **variable assignment**,** input**
 * Assign and swap variables
 * Store user input into a variable
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now] 
 * [Lab - Magic Genie]
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students
@@ -86,7 +86,7 @@ Students will be able to...
 	* Let students know about 
 		*	Review concepts so far: **variables, interpreter, terminal, string, integer, float, run, output, variable swapping**
 
-###Accomodation/Differentiation
+### Accomodation/Differentiation
 Advanced students that are finished early can be paired with students who are struggling. Be careful to give clear guidance about how to effectively help another student, especially emphasizing that helping *never* involves using someone else's keyboard/mouse.
 
 Identify students that may potentially struggle on the quiz and find individual time with them to emphasize key concepts during the magic genie lab. 
