@@ -22,12 +22,12 @@ Write down the result. Explain what `print` does. Try printing out 3 different v
 
 
 ## How to open, save, and run a file 
-1. Open
+1. Open a Python 3 project:
 ![Open a project](trinket_new.png)
 
-2. Save
+2. Save DoNow103 project
 ![Save a project](donow103_save.png)
 
-3. Run 
+3. Run the program
 ![Run Python 3](donow103_run.png)
 
