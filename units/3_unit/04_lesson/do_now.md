@@ -12,7 +12,7 @@ Rank the following from easiest to hardest:
 
 We will have a quiz next class covering all of the above topics. Is there any topic you would like to focus on and cover more of? <br><br>
 
-Type the following into the terminal and run the program: 
+Type the following into the console: 
 
 ```python
 my_list = ['a', 'b', 'c', 'd']
