@@ -29,7 +29,7 @@ Students will be able to...
 	* The part on right half of the screen is called a **console**:
 		* The **console** is a place where you can interact with a program.
 		* The **interpreter** runs Python code.
-	* To run the Python interpreter, type code into the terminal and hit "Enter", the code executes immediately. 
+	* To run the Python interpreter, type code into the console and hit "Enter", the code executes immediately. 
 		* Make sure all the students are able to do this and then give out the lab worksheet.
 3. **Lab Part 1** 
 	* Give students time to work on section 1, then pause to ask questions. 	
