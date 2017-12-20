@@ -1,6 +1,6 @@
 #Do Now 2.02
 
-Open up the terminal. Type the following code. 
+Open up the console. Type the following code. 
 ```python
  x_stage1 = 123
  y_stage1 = 456
