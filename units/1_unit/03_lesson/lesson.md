@@ -10,7 +10,6 @@ Students will be able to...
 
 ##Materials/Preparation
 * [Do Now] 
-* [Cloud 9 Cheat Sheet]
 * [Lab - Printing & Variables]
 * Associated Reading - section 1.2 of Book
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students.
@@ -29,17 +28,16 @@ Students will be able to...
 2. **Printing Lesson/Lab Part 1**
 	*	Explain that the file is the center section of the screen. Sometimes this is called a **script**.
 		* Reminder questions: how do you save/run a file? What happened when you ran the file from the do now?
-		* Highlight that there are many shortucts used in programming that make interactions with terminal and files easier. We have listed a few on the [Cloud 9 Cheat Sheet]
 		* Explain the purpose of the `print` statement, which will print whatever is in between the parentheses to the console.
 			* Explain to students that this what appears on the console is called **output**
 		* Talk to students about reading a program and the order in which the computer executes statements. 
 	* Ask students how they would print the following:
-	```
-Hello World
-Hello World
-Hello World
-Hello World
-Hello World
+	```python
+	Hello World
+	Hello World
+	Hello World
+	Hello World
+	Hello World
 	```
 	* Have students work on Part 1 of the lab for 10 Minutes
 	 
@@ -75,5 +73,4 @@ If students are moving quickly, ask students to come up with a way to print two 
   
 
 [Lab - Printing & Variables]:lab.md
-[Cloud 9 Cheat Sheet]: ../cloud_9_cheat_sheet.md
 [Do Now]:do_now.md
