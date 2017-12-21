@@ -1,6 +1,6 @@
-#Do Now 3.03
+# Do Now 3.03
 
-Open up the terminal. Paste the following code into the editor:
+Open up the console. Paste the following code into the editor:
 
 ```python
 import random

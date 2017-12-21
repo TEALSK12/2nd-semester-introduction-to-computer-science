@@ -1,12 +1,12 @@
 # Lesson Plan 1.05: Quiz & Debugging
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 * Demonstrate their understanding of key concepts covered up to this point
 * Define and identify: **debugging, syntax errors**
 * Analyze and respond to error messages
 
-##Materials/Preparation
+## Materials/Preparation
 * Quiz (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Associated Reading - section 1.3 of Book
 * Take the quiz and create a scoring rubric
@@ -33,12 +33,12 @@ Students will be able to...
 		* Errors the students are most likely to have seen
 			* "IndentationError: unindent does not match any outer indentation level"
 		* Ask student why these errors are caused and how they find/fix this type of error? Suggest using the tab key to indent and the shift-tab to remove an indent as ways to avoid the error.
-		* Present an additional tool by running: `python3 -m tabnanny input.py` where input.py is the python source file having the unident error. The output will help you find the error.
 	* Direct students to work through and complete this web tutorial on [debugging]
 
-###Accomodation/Differentiation
+### Accomodation/Differentiation
 Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
 
 [TEALS Dashboard]:http://www.tealsk12.org/dashboard
 [http://tinyurl.com/TEALS-Python-Errors]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html
+[debugging]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/toctree.html
 [code]:code.py

@@ -1,5 +1,5 @@
 ## Do Now 1.03
-Open and save a new file called `my_file.py` in the IDE. Run a program by typing `python3 my_file.py` into the terminal. See the instructions below for how to open, save, and run a file in Cloud9.
+Open and save a new project called `DoNow103` in the IDE. Run a program by clicking the ">" Run button. See the instructions below for how to open, save, and run a file in the online IDE.
 
 Practice typing the following expressions in the editor and running the code. 
  
@@ -22,12 +22,12 @@ Write down the result. Explain what `print` does. Try printing out 3 different v
 
 
 ## How to open, save, and run a file 
-1. Open
-![Open A file](new_file_photo.png)
-2. Save
-    * Save how you would on a Word, or by going to File->Save
-3. Run 
-![Run Python 3](running_file_python3.png)
-    * If there is not a terminal open: 
-    ![New Terminal](new_terminal_photo.png)
+1. Open a Python 3 project:
+![Open a project](trinket_new.png)
+
+2. Save DoNow103 project
+![Save a project](donow103_save.png)
+
+3. Run the program
+![Run Python 3](donow103_run.png)
 

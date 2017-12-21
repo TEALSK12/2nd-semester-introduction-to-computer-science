@@ -1,6 +1,6 @@
 # Lesson Plan 1.03: Script Mode and Variables
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **script**, **print**, **run**, **output**, **variable**
 * Write a simple script and run it in the IDE
@@ -8,9 +8,8 @@ Students will be able to...
 * Compare script mode vs interactive mode
 * Know how to store a value into a variable
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now] 
-* [Cloud 9 Cheat Sheet]
 * [Lab - Printing & Variables]
 * Associated Reading - section 1.2 of Book
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students.
@@ -29,17 +28,16 @@ Students will be able to...
 2. **Printing Lesson/Lab Part 1**
 	*	Explain that the file is the center section of the screen. Sometimes this is called a **script**.
 		* Reminder questions: how do you save/run a file? What happened when you ran the file from the do now?
-		* Highlight that there are many shortucts used in programming that make interactions with terminal and files easier. We have listed a few on the [Cloud 9 Cheat Sheet]
 		* Explain the purpose of the `print` statement, which will print whatever is in between the parentheses to the console.
 			* Explain to students that this what appears on the console is called **output**
 		* Talk to students about reading a program and the order in which the computer executes statements. 
 	* Ask students how they would print the following:
-	```
-Hello World
-Hello World
-Hello World
-Hello World
-Hello World
+	```python
+	Hello World
+	Hello World
+	Hello World
+	Hello World
+	Hello World
 	```
 	* Have students work on Part 1 of the lab for 10 Minutes
 	 
@@ -69,11 +67,10 @@ Hello World
 	* Talk about the difference between interactive and script mode. Discuss why you might want to use the interpreted mode: sometimes it can be faster to debug a single line and make sure it works!
 	* Talk about differences between SNAP! and Python for declaring variables.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 If students are moving quickly, ask students to come up with a way to print two lines with only one print statement. Allow for students to Google the `\n` character. 
 
   
 
 [Lab - Printing & Variables]:lab.md
-[Cloud 9 Cheat Sheet]: ../cloud_9_cheat_sheet.md
 [Do Now]:do_now.md

@@ -7,7 +7,6 @@ Students will be able to...
 * Distinguish between an integer, float, and string
 
 ##Materials/Preparation
-* [Cloud 9 Cheat Sheet]
 * [Lab - Using the Interpreter]
 * Associated Reading - section 1.1 of Book
 * Ensure all students are able to log into the system
@@ -24,14 +23,13 @@ Students will be able to...
 
 ## Instructor's Notes
 1. **Do Now**
-	* Display a photo of the Cloud9 IDE and asks students to identify the three key parts (file tree, terminal, editor) of the IDE.
+	* Display the online IDE and asks students to identify the key parts (menu bar items [run, console, +], code panel, console panel) of the IDE.
 	* After going over the three parts of the IDE have students check that they can still log into their IDE account.
 2. **Lesson** 
-	* The part on bottom half of the screen is called a **console**:
-		* The **console** is a place where you can interact with a program. It can also be called a shell or a terminal.
+	* The part on right half of the screen is called a **console**:
+		* The **console** is a place where you can interact with a program.
 		* The **interpreter** runs Python code.
-	* To run the Python interpreter, type `python3` into the terminal. 
-		* Go over the short cut/commands (ctrl-k, ctrl-c, ctrl-d) for the terminal that are listed on the [Cloud 9 Cheat Sheet]
+	* To run the Python interpreter, type code into the console and hit "Enter", the code executes immediately. 
 		* Make sure all the students are able to do this and then give out the lab worksheet.
 3. **Lab Part 1** 
 	* Give students time to work on section 1, then pause to ask questions. 	
