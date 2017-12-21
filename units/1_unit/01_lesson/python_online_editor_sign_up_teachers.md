@@ -6,9 +6,7 @@ We will be using the online IDE [Trinket](https://trinket.io) to write Python co
 
 ## Student Work Turn-in Procedure
 There are two different ways for students to submit their work: 
-1. Have students share their project link with teachers/TAs. This only needs to happen once, and it then gives teachers read/write access to the students' files moving forward.
-   
-    * Once students have shared their workspaces with you, their work can be found in the "Shared With Me" section
+1. Have students share their project link with teachers/TAs. This only needs to happen once.
     
 2. Have students download their file and upload it to the school's Learning Management System (or however students normally hand in electronic files at the particular school)
 
