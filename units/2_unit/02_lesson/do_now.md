@@ -12,7 +12,7 @@ Open up the console. Type the following code.
  
 ```
 
-What type are the variables `x_stage1` and `x_stage2`? 
+What type are the variables `x_stage1` and `y_stage1`? 
 <br>
 <br>
 <br>
