@@ -200,9 +200,10 @@ While seemingly simple-- shuffling a deck is a somewhat complicated problem. Luc
 
 import random
 
-# shuffled_deck: will return a shuffled deck to the user
-#input:
-#output: a list representing a shuffled deck
+# name: shuffled_deck
+# purpose: will return a shuffled deck to the user
+# input:
+# returns: a list representing a shuffled deck
 def shuffled_deck():
 	basic_deck = list(range(2, 15)) * 4
 	random.shuffle(basic_deck)
