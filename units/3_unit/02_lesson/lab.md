@@ -14,9 +14,10 @@ def birthday_song(name):
 2) Create a function that randomly picks 5 cards from a deck. The cards can repeat. Instead of creating a string for each card it might be useful to have two lists and pick randomly from both the lists. Write out the contract for this function:
 
 ```python
-number = ['A', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K']
+number = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K']
 suit = ['Spades', 'Clubs', 'Diamonds', 'Hearts']
 ```
 
 ###Bonus!
-Practice passing in lists as an argument to a function. What is different about passing in a list as an argument? Read in the associated reading about list aliasing and write down what is happening in this case.
+Practice passing in lists as an argument to a function. What is different about passing in a list as an argument?
+Read about list aliasing in section 3.4 of the associated reading, and write down what is happening in this case.
