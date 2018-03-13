@@ -19,4 +19,5 @@ suit = ['Spades', 'Clubs', 'Diamonds', 'Hearts']
 ```
 
 ###Bonus!
-Practice passing in lists as an argument to a function. What is different about passing in a list as an argument? Read in the associated reading about list aliasing and write down what is happening in this case.
+Practice passing in lists as an argument to a function. What is different about passing in a list as an argument?
+Read about list aliasing in section 3.4 of the associated reading, and write down what is happening in this case.
