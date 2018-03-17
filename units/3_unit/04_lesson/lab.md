@@ -108,3 +108,11 @@ print(var_2)
     1. `add2`: this function adds 2 to `my_num`
     2. `multiply_num`: this function takes in a parameter, `multiplier`, and multiplies `my_num` by that parameter
     3. `add2_and_multiply`: this function takes in a parameter, `multiplier`, and calls `add2`, then calls `multiply_num`.
+  
+  Complete the program by writing code in the main part of the program that:
+    1. sets `my_num` to some initial value you choose
+    2. prints `my_num`
+    3. calls `add2_and_multiply()` with some argument you choose
+    4. prints the final value of `my_num`
+
+  Confirm that the printed values match what you expected.
