@@ -37,7 +37,7 @@
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 4.01: Looping Basics | Define and identify: for loop, item, iteration, scope. Recall looping in Snap! and reapply the concept in Python. Loop through (traverse) the items in a list. Be aware of the scope of variables during iteration. | de_vowel |
-| 4.02: For Loops, Nested Loops | Define and identify: range. Use the range and len function to to update lists via for loops. | Getting Loopy |
+| 4.02: For Loops | Define and identify: range. Use the range and len function to to update lists via for loops. | Getting Loopy |
 | 4.03: Nested For Loops | Define and identify: nested for loops, stack trace. Use nested for loops via a function and a for loop. Use nested for loops via two loops nested. Use a stack trace to understand and demonstrate the flow of nested for loops. | Nested For Loops |
 | 4.04: Nested Lists & Looping | Define and identify: nested list. Use nested for loops to traverse through nested lists. | Shopping List |
 | 4.05: Debugging and Quiz | Read and understand longer programs involving loops. Demonstrate their knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. | Debugging Practice |
