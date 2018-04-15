@@ -61,7 +61,7 @@
    * [Lesson 4.01: Looping Basics](units/4_unit/01_lesson/lesson.md)
        * [Do Now 4.01](units/4_unit/01_lesson/do_now.md)
        * [Lab 4.01](units/4_unit/01_lesson/lab.md)
-   * [Lesson 4.02: For Loops, Nested Loops](units/4_unit/02_lesson/lesson.md)
+   * [Lesson 4.02: For Loops](units/4_unit/02_lesson/lesson.md)
        * [Do Now 4.02](units/4_unit/02_lesson/do_now.md)
        * [Lab 4.02](units/4_unit/02_lesson/lab.md)
    * [Lesson 4.03: Nested For Loops](units/4_unit/03_lesson/lesson.md)
