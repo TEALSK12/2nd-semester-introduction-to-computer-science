@@ -50,7 +50,7 @@ Students will be able to...
 
 ###Accommodation/Differentiation
 
-## Forums discussion
+## Forum discussion
 [Lesson 2.01: Binary Day (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/2-01-binary-day)
 
 
