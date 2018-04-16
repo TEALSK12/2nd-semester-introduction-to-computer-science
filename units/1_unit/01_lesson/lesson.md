@@ -61,3 +61,6 @@ Students will be able to...
 [Sign Up Guide]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/Trinket_Student.docx
 [Sign Up Guide Teachers]:python_online_editor_sign_up_teachers.md
 [Sign Up Guide pdf]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/Trinket_Student.pdf
+
+##Forum discussion
+[Lesson 0.1: The First Day]:https://forums.tealsk12.org/c/2nd-semester-unit-1/1-01-set-up
