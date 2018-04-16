@@ -50,5 +50,8 @@ Students will be able to...
 
 Students that are moving quickly should work on the bonus assignment in the lab or assist a partner that is struggling. 
 
+## Forum discussion
+[Lesson 7.03: Methods (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-03-methods)
+
 [Do Now]:do_now.md
 [Lab - Kangaroo Class]:lab.md
