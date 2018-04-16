@@ -36,6 +36,9 @@ Students will be able to...
 ###Accommodation/Differentiation
 
 If there is extra time, have students start reading through the project specs and thinking about how they will apply what they have learned this unit to complete the project.
+
+## Forum discussion
+[Lesson 2:07: Game Loop (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-game-loop)
   
 [Do Now]:do_now.md
 [Lab - Tic-Tac-Toe Revisited]:lab.md
