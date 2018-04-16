@@ -56,11 +56,14 @@ Students will be able to...
 	* If students finish early, encourage them to explore the interface and to try creating a program that prints their name.
 
 
+##Forum discussion
+
+[Lesson 0.1: The First Day]
 
 [Python Code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/hello_world.py
 [Sign Up Guide]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/Trinket_Student.docx
 [Sign Up Guide Teachers]:python_online_editor_sign_up_teachers.md
 [Sign Up Guide pdf]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/Trinket_Student.pdf
+[Lesson 0.1: The First Day (TEALS Discourse Account Required)]:https://forums.tealsk12.org/c/2nd-semester-unit-1/1-01-set-up
 
-##Forum discussion
-Lesson 0.1: The First Day:https://forums.tealsk12.org/c/2nd-semester-unit-1/1-01-set-up
+
