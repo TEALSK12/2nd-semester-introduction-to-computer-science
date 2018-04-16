@@ -45,6 +45,9 @@ If students are moving quickly, start the next topic of using a while loop as a 
 If students are moving slowly then spend an extra day reviewing lists and completing lab activities. 
 
 There is also an opportunity for a quiz after the game loop lesson and before the project. 
+
+## Forum discussion
+[Lesson 2.06: Lists 2 (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-06-lists-2)
   
 
 [Do Now]:do_now.md
