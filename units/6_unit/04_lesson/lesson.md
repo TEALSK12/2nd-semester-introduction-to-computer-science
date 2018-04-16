@@ -43,5 +43,8 @@ Students that are moving quickly can explore sorting additionally in the bonus a
 
 Some students may need a second class period to complete this lab. 
 
+## Forums discussion
+[Lesson 6.04: Dictionaries Looping (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-6-dictionaries/lesson-6-04-dictionaries-looping)
+
 [Do Now]: do_now.md
 [Lab - Dictionaries Looping]: lab.md
