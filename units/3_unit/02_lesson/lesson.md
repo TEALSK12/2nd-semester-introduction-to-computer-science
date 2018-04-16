@@ -45,6 +45,9 @@ Students will be able to...
 ###Accommodation/Differentiation
 
 If students are moving quickly, they could go back and use functions to improve an old project.
+
+## Forum discussion
+[Lesson 3.02: User-Defined Functions (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-02-user-defined-functions)
   
 
 [Do Now]:do_now.md
