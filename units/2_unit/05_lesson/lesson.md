@@ -52,6 +52,9 @@ Students will be able to...
 
 ###Accommodation/Differentiation
 If students are moving quickly, you can introduce the topic of nested lists. Start off with a simple nested list like `['a', 'b', 'c', [1, 2, 3]]`. Ask the students to guess the length. Ask the students to guess how they would access the item '1' from that list! 
+
+## Forum discussion
+[Lesson 2.05: Lists (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-05-lists)
   
 [Do Now]:do_now.md
 [Lab - College Chooser]:lab.md
