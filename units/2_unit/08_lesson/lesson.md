@@ -49,6 +49,9 @@ Make sure to do status checks with all students throughout the project. Identify
 <br><br>
 For any students that are advancing rapidly through the project, give them extension ideas such as adding a new feature or floor to the game. 
 Advanced students can also be paired as tutors/helpers with struggling students.
+
+## Forum discussion
+[Lesson 2.08: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-08-text-game)
     
   
 [Project Spec - Text Monster]: project.md
