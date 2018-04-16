@@ -47,6 +47,9 @@ Students will be able to...
 
 If there is time, go over the bonus question. Explain how a counter is a frequently used tool to keep track of the count of things from outside the loop . Discuss the concept of the counter's scope (counter gets updated in the loop, but doesn't reset automatically at each iteration). Counters can be used with any loop, and are often used with while loops!
 
+## Forum discussion
+[Lesson 4.01: Looping Basics (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/unit-4-looping/lesson-4-01-looping-basics)
+
 
 
 [Do Now]: do_now.md
