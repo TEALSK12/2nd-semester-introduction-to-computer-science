@@ -58,6 +58,9 @@ Some students may need a refresher on using a `while` loop to control whether th
 
 Some students may also need additional assistance or scaffolding for how to randomly choose a character from the dictionary.
 
+## Forums link
+[Lesson 6.05: Dictionaries Project (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-6-dictionaries/lesson-6-05-guess-who)
+
 
 [Do Now]: do_now.md
 [Project Spec - Guess Who]: project.md
