@@ -44,5 +44,9 @@ Students will be able to...
 
 ###Accomodation/Differentiation
 In the Pokemon lab, students may need clarification regarding how to use `isinstance` and how to manipulate the `defend` method to meet the requirements of each child class. Consider demonstrating the creation of one child class for all students before having students work on the lab. 
+
+## Forum discussion
+[Lesson 7.04: Inheritance (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-04-inheritance)
+
 [Do Now]:do_now.md
 [Lab - Pokemon Child Classes]:lab.md
