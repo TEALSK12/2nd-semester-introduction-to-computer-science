@@ -61,6 +61,9 @@ This topic is often confusing for students new to the concept, so build in time 
 
 The bonus problems for the lab are a bit harder and should allow students who are moving fast to work on something a bit trickier. 
 
+## Forums discussion
+[Lesson 4.03: Nested For Loops (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/unit-4-looping/lesson-4-03-nested-for-loops)
+
 [Do Now]: do_now.md
 [Lab - Nested For Loops]: lab.md
 [loop diagram]: http://etutorials.org/shared/images/tutorials/tutorial_169/F05um02.jpg
