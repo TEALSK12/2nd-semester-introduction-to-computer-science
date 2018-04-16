@@ -41,5 +41,8 @@ Students will be able to...
 ###Accommodation/Differentiation
 Students that are moving quickly should work on the bonus activity in the lab. They can also be paired with students that are struggling (with close monitoring, as needed), as this lab requires pulling together a variety of concepts and skills: looping, conditionals, lists, and dictionaries.
 
+## Forum discussion
+[Lesson 6.03: Dictionaries of Lists (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-6-dictionaries/lesson-6-03-dictionaries-of-lists)
+
 [Do Now]: do_now.md
 [Lab - Dictionaries Storing Lists]: lab.md
