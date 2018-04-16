@@ -55,6 +55,9 @@ Students will be able to...
 		* have the students write down what they struggled on or had a hard time doing. 
 
   
+## Forum discussion
+[Lesson 7.05: Pokemon Project (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-05-pokemon)
+  
 [Project Spec - Pokemon]:project.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
