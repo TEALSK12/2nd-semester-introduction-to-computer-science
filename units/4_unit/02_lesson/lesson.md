@@ -43,6 +43,8 @@ Some students may have issues with grabbing the last item of a string, consider 
 
 Go over the bonus question if any students got to it. Discuss having a function inside of the loop and how that operated. 
 
+## Forum discussion
+[Lesson 4.02: For Loops Using Range (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/unit-4-looping/lesson-4-02-for-loops-nested-loops)
 
 
 [Do Now]: do_now.md
