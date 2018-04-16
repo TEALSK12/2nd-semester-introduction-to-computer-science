@@ -48,6 +48,10 @@ Students will be able to...
 
 ###Accommodation/Differentiation
 As an extension activity, ask students to research the shuffle function and the functions associated with it.
+
+## Forum discussion
+[Lesson 3.03: Return vs Print (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-03-return-vs-print)
+
   
 
 [Do Now]:do_now.md
