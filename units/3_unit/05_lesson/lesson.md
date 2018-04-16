@@ -52,6 +52,9 @@ Students will be able to...
 Advanced students can add in random events like cholera or snake bites. Students can also have a list of travelers instead of just 1, where each traveler is affected differently by each action.
 
 The planning phase of this project will be essential, especially for students who you think may struggle with this project. Provide more guidance and scaffolding to those students that need it. 
+
+## Forum discussion
+[Lesson 3.05: Oregon Trail (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-05-oregon-trail)
     
 [Project Spec - Oregon Trail]:project.md 
 [Oregon Trail - Example Code]:oregon_trail.py
