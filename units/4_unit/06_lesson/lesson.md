@@ -66,7 +66,8 @@ The checkers can actually be done using one function, taking in the start x and 
 
 The planning phase of this project will be essential, especially for students who you think may struggle with this project. Provide more guidance and scaffolding to those students that need it. 
     
-
+## Forum discussion
+[Lesson 4.06: Project 4 (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/unit-4-looping/lesson-4-06-tic-tac-toe)
 
 [Project Spec - Tic-Tac-Toe]: project.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
