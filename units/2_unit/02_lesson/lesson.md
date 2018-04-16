@@ -49,6 +49,9 @@ Students will be able to...
 
 ###Accommodation/Differentiation
 If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0's and 1's). In practice these translate to True and False. Convert numbers to boolean, and booleans to numbers.
+
+## Forum discussion
+[Lesson 2.02: Data Types and Casting (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-02-data-types-casting)
   
 
 [Do Now]:do_now.md
