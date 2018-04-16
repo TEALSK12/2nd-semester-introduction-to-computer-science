@@ -45,7 +45,8 @@ Students will be able to...
 ###Accommodation/Differentiation
 Some students may need to be explicitly reminded of the `in` keyword to check if a certain key is in their dictionary.
 
-
+## Forum discussion
+[Lesson 6.02: Dictionaries Methods (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-6-dictionaries/lesson-6-02-dictionaries-methods)
 
 [Do Now]: do_now.md
 [Lab - Word Counter]: lab.md
