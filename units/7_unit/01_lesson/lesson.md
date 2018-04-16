@@ -54,6 +54,9 @@ Given the big leap taken today with much new terminology and challenging concept
 
 For students that are quickly picking up the concepts, have them create their own unique class or have them help explain to struggling students with their own examples what a class, object, instance, or attribute is. 
 
+## Forum discussion
+[Lesson 7.01: User-Defined Types (Classes) (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-01-user-defined-types-classes)
+
   
 [Do Now]:do_now.md
 [Lab - Create a Color Class]:lab.md
