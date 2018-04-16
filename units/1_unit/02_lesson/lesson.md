@@ -68,5 +68,5 @@ If students are moving quickly, have students practice higher order-of-operation
 [Lab - Using the Interpreter]:lab.md
 [Cloud 9 Cheat Sheet]: ../cloud_9_cheat_sheet.md
 
-##Forums discussion
+## Forum discussion
 [Lesson 1.02: Interactive Mode (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-02-interactive-mode)
