@@ -63,6 +63,9 @@ Students will be able to...
 Students may struggle with the concept of nested lists. Be prepared to have additional analogies to help students understand the usefulness of the concept.
 * Ex. What if you keep a weekly to-do list? The days of the week would be the first list, and then each item that you hope to accomplish under each day is the list within the list.
 
+## Forum discussion
+[Lesson 4.04: Nested Lists & Looping](https://forums.tealsk12.org/c/unit-4-looping/lesson-4-04-nested-lists-looping)
+
 [Do Now]: do_now.md
 [Lab - Daily Schedule]: lab.md
 [loop diagram]: http://etutorials.org/shared/images/tutorials/tutorial_169/F05um02.jpg
