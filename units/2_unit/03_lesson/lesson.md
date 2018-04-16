@@ -49,7 +49,11 @@ Students will be able to...
 ###Accommodation/Differentiation
 If students are moving quickly, use this opportunity to go over truth tables (or ask them to research De Morgan's Law) 
 * Convert the following SNAP Truth Table program into Python.
-![](Lesson 2.03 Truth Table.png)
+![](Lesson 2.03 Truth Table.png
+
+## Forum discussion
+[Lesson 2.03: Booleans & Expressions (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-03-booleans-expressions)
+
   
 [Do Now]:do_now.md
 [Lab - Can I or Can't I?]:lab.md
