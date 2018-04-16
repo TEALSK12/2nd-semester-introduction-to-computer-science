@@ -56,8 +56,7 @@ Students will be able to...
 	* If students finish early, encourage them to explore the interface and to try creating a program that prints their name.
 
 
-##Forum discussion
-
+## Forum discussion
 [Lesson 0.1: The First Day (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-01-set-up)
 
 [Python Code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/hello_world.py
