@@ -49,6 +49,10 @@ Students can use looping and if statements to their song as an extension activit
 
 Students will likely bring a wide range of background knowledge around music and the related terminology. Offer additional support to those students that are less familiar with the terms being introduced in this lesson.
 
+## Forum discussion
+[Lesson 5.02: EarSketch Music (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-5-earsketch/lesson-5-02-earsketch-music)
+
+
 [Do Now]: do_now.md
 [Lab - EarSketch Music]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
