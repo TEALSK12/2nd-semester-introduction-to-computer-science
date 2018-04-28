@@ -26,7 +26,7 @@ shopping_cart = [
 	
 ###Functions
 * `update_list`
-    * Takes in an integer representing the index of the shopping list, an integer representing the index of the item to update, and a string representing the new item to add to that shopping list.
+    * Takes in an integer representing the index of the shopping list, an integer representing the index of the item to update, and a string representing the new value for that item. Does not alter the length of the list.
 * `print_item`
     * Takes an int representing the index of the shopping list followed by an int representing the index of the item to print.
 * `print_list`
