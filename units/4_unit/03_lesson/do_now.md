@@ -12,7 +12,7 @@ def print_6_stars():
 <br>
 <br>
 <br>
-2. Write a function  `print_star_squares` that calls `print_6_stars` in a loop to produce the following output. 
+2. Write a function  `print_star_square` that calls `print_6_stars` in a loop to produce the following output. 
 
     ```
     >>>python3 print_stars.py
@@ -24,4 +24,4 @@ def print_6_stars():
     * * * * * * 
     ```
 
-3. Rewrite the function `print_star_squares` without using `print_6_stars`. Note that there are two ways to get the above output, so just try doing both! 
+3. Rewrite the function `print_star_square` without using `print_6_stars`. Note that there are two ways to get the above output, so just try doing both! 
