@@ -4,7 +4,7 @@
 The goal of this lab is to practice using and accessing items from lists of lists. 
 
 You have a few errands to run and have created a few shopping list to help you remember what to buy. You stored your notes in a nested list, `shopping_cart`. 
-This program will allow the user to ask for a specific item by it's index or update what items are in the cart. The user can request you `print all` the items in a specific shopping list.
+This program will allow the user to ask for a specific item by it's index or update what items are in the cart. The user can request to `view list` to see the items in a specific shopping list.
 
 ### Shopping Cart
 
@@ -18,11 +18,11 @@ shopping_cart = [
 
 ### User Inputs
 * `update`
-	* The program will ask which shopping list the user wants to update, which position it should update, and the new value to update.
-* `print` 
-	*  The program will ask which shopping list the user wants to print from and afterwards will request which position it should print.
-* `print all`
-	* The program will ask which shopping list the user wants to print and will print all of the items associated with that shopping list. 	
+	* The program asks which shopping list the user wants to update, which position it should update, and the new value to update.
+* `view item` 
+	*  The program asks which shopping list the item is on and which position it occupies, then prints the items name.
+* `view list`
+	* The program asks which shopping list the user wants and prints all of the items associated with that shopping list. 	
 	
 ###Functions
 * `update_list`
@@ -37,8 +37,8 @@ shopping_cart = [
 ### Example
 
 ```
->>>What would you like to do? print all
-Which shopping list would you like to print? 1
+>>>What would you like to do? view list
+Which shopping list would you like to see? 1
 tooth paste, q-tips, gum
 ```
 
