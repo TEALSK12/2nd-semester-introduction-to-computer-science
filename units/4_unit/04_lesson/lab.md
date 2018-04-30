@@ -6,7 +6,7 @@ The goal of this lab is to practice using and accessing items from lists of list
 You have a few errands to run and have created a few shopping list to help you remember what to buy. You stored your notes in a nested list, `shopping_cart`. 
 This program will allow the user to ask for a specific item by it's index or update what items are in the cart. The user can request you `print all` the items in a specific shopping list.
 
-###Schedule 
+### Shopping Cart
 
 ```python
 shopping_cart = [
@@ -49,7 +49,7 @@ In this part of the lab you will go through your shopping list program and perfo
 1. Create a function, `all_in_one`, that will put all the shopping lists into a single list using a for loop. 
 2. Create a function, `count_q_tips`, which will go through all items of the list and keep a count of how many times `'q-tips'` occurs. 
 3. In order to make the shopping lists more calcium rich, write a function, `drink_more_milk`, that adds `'milk'` to each of the lists (unless it's already there). 
-4. You can't have milk without cookies. Write a function `if_you_give_a_moose_a_cookie`, that will go through every element of schedule and update `'milk'` to be `'milk and cookies'`.
+4. You can't have milk without cookies. Write a function `if_you_give_a_moose_a_cookie`, that will go through every element of `shopping_cart` and update `'milk'` to be `'milk and cookies'`.
 
 ###Bonus! 
 Write a function to reverse the order of the lists and items in `shopping_cart`. 
@@ -57,7 +57,7 @@ Write a function to reverse the order of the lists and items in `shopping_cart`.
 The list should look like the following when printed: 
 
 ```python
-schedule = [
+shopping_cart = [
 ['q-tips', 'pencils', 'planner'],
 ['apples', 'candy', 'milk'],
 ['milk', 'q-tips', 'toothe paste']
