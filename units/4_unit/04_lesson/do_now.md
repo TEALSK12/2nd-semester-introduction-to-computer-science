@@ -10,8 +10,8 @@
     ['apt2a', 'apt2b', 'apt2c'],
     ['apt3a', 'apt3b', 'apt3c']
     ]
-    print("first floor" + str(my_building[0]))
-    print("first floor, 3rd apartment" + str(my_building[0][2]))
+    print("first floor: " + str(my_building[0]))
+    print("first floor, 3rd apartment: " + str(my_building[0][2]))
     ```
 
     Write down what was printed. How you would access the 2nd apartment of the 3rd floor (`apt3b`)?
