@@ -1,11 +1,11 @@
-#Lesson 4.02: For Loops Using Range
+# Lesson 4.02: For Loops Using Range
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **range**
 * Use the `range` and `len` function to to update lists via for loops
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Getting Loopy]
 * Associated Reading - section 4.2 of Book
@@ -35,15 +35,13 @@ Students will be able to...
 4. **Debrief**
 	* Talk about any issues the students had with the lab today. Discuss how lists are mutable, so you don't have to return a new value. Instead, the list is just updated as the loop runs. 
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 
 If students are having a hard time with the fruit pluralizer, consider altering the fruit program to not allow fruit that ends in y.
 
 Some students may have issues with grabbing the last item of a string, consider providing tips or scaffolding for students that are struggling with this. 
 
 Go over the bonus question if any students got to it. Discuss having a function inside of the loop and how that operated. 
-
-
 
 [Do Now]: do_now.md
 [Lab - Getting Loopy]: lab.md
