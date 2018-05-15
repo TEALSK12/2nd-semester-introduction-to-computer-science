@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 * [Do Now]
-* [Lab - Dictionaries & Memes]
+* [Lab - Dictionary of Internet Abbreviations]
 * Associated Reading - section 6.1 of Book
 *  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -61,4 +61,4 @@ If any students are struggling with today's lesson, be prepared to offer additio
 Students that are moving quickly through the lab should work on the bonus and research how to add new key/value pairs to a dictionary.
 
 [Do Now]: do_now.md
-[Lab - Dictionaries & Memes]: lab.md
+[Lab - Dictionary of Internet Abbreviations]: lab.md
