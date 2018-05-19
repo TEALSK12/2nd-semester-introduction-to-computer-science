@@ -37,7 +37,7 @@ set to the opening lines of Dr. Seuss's poem *Green Eggs and Ham*:
 
 		Do would you like green eggs and ham?
 
-		I do not like them,Sam-I-am.
+		I do not like them, Sam-I-am.
 		I do not like green eggs and ham.
 
 		Would you like them here or there?
@@ -61,11 +61,11 @@ set to the opening lines of Dr. Seuss's poem *Green Eggs and Ham*:
 
 <pre>
 >>> python3 most_frequent_words.py
-<b>like, 17
+<b>i, 22
+like, 17
 not, 13
-do, 11
-i, 10
-sam, 8</b>
+do, 12
+them, 11</b>
 </pre>
 
 ## Bonus!
