@@ -72,7 +72,7 @@ If either of the operands is a floating-point number, Python performs floating-p
 0.98333333333333328
 ```
 
-###Expressions and Statements
+### Expressions and Statements
 
 An expression is a combination of values, variables, and operators. A value all by itself is considered an expression, and so is a variable, so the following are all legal expressions (assuming that the variable x has been assigned a value):
 
@@ -190,7 +190,7 @@ For example, Linux is an operating system that contains thousands of lines of co
 
 ## 2.1 Variables, expressions and statements
 
-###Values and types
+### Values and types
 
 A value is one of the basic things a program works with, like a letter or a number. The values we have seen so far are `1`, `2`, and `'Hello, World!'`.
 
@@ -224,7 +224,7 @@ Well, that’s not what we expected at all! Python interprets 1,000,000 as a com
 
 ### Exercises
 
-#####Exercise 1
+##### Exercise 1
 Assume that we execute the following assignment statements:
 ```
 width = 17
@@ -249,7 +249,7 @@ If I leave my house at 6:52 am and run 1 mile at an easy pace (8:15 per mile), t
 
 ## 2.2
 
-###Expressions and statements
+### Expressions and statements
 
 An expression is a combination of values, variables, and operators. A value all by itself is considered an expression, and so is a variable, so the following are all legal expressions (assuming that the variable x has been assigned a value):
 ```
@@ -261,7 +261,7 @@ A statement is a unit of code that the Python interpreter can execute. We have s
 
 Technically an expression is also a statement, but it is probably simpler to think of them as different things. The important difference is that an expression has a value; a statement does not.
 
-###Boolean expressions
+### Boolean expressions
 
 A boolean expression is an expression that is either true or false. The following examples use the operator `==`, which compares two operands and produces True if they are equal and False otherwise:
 ```
@@ -306,7 +306,7 @@ This flexibility can be useful, but there are some subtleties to it that might b
 
 ## 2.3
 
-###Conditional execution
+### Conditional execution
 
 In order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly. Conditional statements give us this ability. The simplest form is the if statement:
 ```
@@ -321,7 +321,7 @@ There is no limit on the number of statements that can appear in the body, but t
 ```
 if x < 0:
     pass          # need to handle negative values!
-#Alternative execution
+# Alternative execution
 ```
 
 A second form of the if statement is alternative execution, in which there are two possibilities and the condition determines which one gets executed. The syntax looks like this:
@@ -333,7 +333,7 @@ else:
 ```
 If the remainder when x is divided by 2 is 0, then we know that x is even, and the program displays a message to that effect. If the condition is false, the second set of statements is executed. Since the condition must be true or false, exactly one of the alternatives will be executed. The alternatives are called branches, because they are branches in the flow of execution.
 
-###Chained conditionals
+### Chained conditionals
 
 Sometimes there are more than two possibilities and we need more than two branches. One way to express a computation like that is a chained conditional:
 ```
@@ -356,7 +356,7 @@ elif choice == 'c':
 ```
 Each condition is checked in order. If the first is false, the next is checked, and so on. If one of them is true, the corresponding branch executes, and the statement ends. Even if more than one condition is true, only the first true branch executes.
 
-###Nested conditionals
+### Nested conditionals
 
 One conditional can also be nested within another. We could have written the trichotomy example like this:
 ```
@@ -385,7 +385,7 @@ if 0 < x and x < 10:
 ```
 
 ## 2.4
-###A list is a sequence
+### A list is a sequence
 
 Like a string, a list is a sequence of values. In a string, the values are characters; in a list, they can be any type. The values in a list are called elements or sometimes items.
 
@@ -529,7 +529,7 @@ False
 ```
 ## 2.7
 
-###The while statement
+### The while statement
 Computers are often used to automate repetitive tasks. Repeating identical or similar tasks without making errors is something that computers do well and people do poorly.
 
 Here is an example countdown snippet that uses a while statement:
@@ -568,7 +568,7 @@ The hard question is whether we can prove that this program terminates for all p
 
 # Unit 3
 ## 3.1
-###Function calls
+### Function calls
 
 In the context of programming, a function is a named sequence of statements that performs a computation. When you define a function, you specify the name and the sequence of statements. Later, you can “call” the function by name. We have already seen one example of a function call:
 
@@ -580,7 +580,7 @@ In the context of programming, a function is a named sequence of statements that
 The name of the function is type. The expression in parentheses is called the argument of the function. The result, for this function, is the type of the argument.
 It is common to say that a function “takes” an argument and “returns” a result. The result is called the return value.
 
-###Type conversion functions
+### Type conversion functions
 
 Python provides built-in functions that convert values from one type to another. The int function takes any value and converts it to an integer, if it can, or complains otherwise:
 
@@ -653,7 +653,7 @@ If you know your trigonometry, you can check the previous result by comparing it
 0.707106781187
 ```
 
-###Composition
+### Composition
 
 So far, we have looked at the elements of a program—variables, expressions, and statements—in isolation, without talking about how to combine them.
 
@@ -675,7 +675,7 @@ SyntaxError: can't assign to operator
 
 ## 3.2
 
-###Adding new functions
+### Adding new functions
 
 So far, we have only been using the functions that come with Python, but it is also possible to add new functions. A function definition specifies the name of a new function and the sequence of statements that execute when the function is called.
 Here is an example:
@@ -755,9 +755,9 @@ repeat_lyrics()
 This program contains two function definitions: print_lyrics and repeat_lyrics. Function definitions get executed just like other statements, but the effect is to create function objects. The statements inside the function do not get executed until the function is called, and the function definition generates no output.
 As you might expect, you have to create a function before you can execute it. In other words, the function definition has to be executed before the first time it is called.
 
-####Exercise 1
+#### Exercise 1
 Move the last line of this program to the top, so the function call appears before the definitions. Run the program and see what error message you get.
-###Exercise 2
+### Exercise 2
 Move the function call back to the bottom and move the definition of print_lyrics after the definition of repeat_lyrics. What happens when you run this program?
 
 ### Flow of execution
@@ -826,7 +826,7 @@ Eric, the half a bee.
 The name of the variable we pass as an argument (michael) has nothing to do with the name of the parameter (bruce). It doesn’t matter what the value was called back home (in the caller); here in print_twice, we call everybody bruce.
 
 ## 3.3
-###Return values
+### Return values
 
 Some of the built-in functions we have used, such as the math functions, produce results. Calling the function generates a value, which we usually assign to a variable or use as part of an expression.
 
@@ -878,7 +878,7 @@ None
 ```
 By the way, Python provides a built-in function called abs that computes absolute values.
 
-####Exercise 1
+#### Exercise 1
 Write a compare function that returns 1 if x > y, 0 if x == y, and -1 if x < y.
 
 ## 3.4
@@ -910,7 +910,7 @@ NameError: name 'cat' is not defined
 ```
 Parameters are also local. For example, outside print\_twice, there is no such thing as bruce.
 
-###Global variables
+### Global variables
 
 Variables created outside the function, so it belongs to the special frame called __main__. Variables in __main__ are sometimes called global because they can be accessed from any function. Unlike local variables, which disappear when their function ends, global variables persist from one function call to the next.
 
@@ -968,7 +968,7 @@ def example4():
 
 If a program has a lot of global variables and are modify them frequently, they can make programs hard to debug.
 
-###Stack diagrams
+### Stack diagrams
 To keep track of which variables can be used where, it is sometimes useful to draw a stack diagram. Like state diagrams, stack diagrams show the value of each variable, but they also show the function to which each variable belongs.
 
 Each function is represented by a frame. A frame is a box with the name of a function beside it and the parameters and variables of the function inside it. The stack diagram for the previous example looks like this:
@@ -1041,7 +1041,7 @@ If the aliased object is mutable, changes made with one alias affect the other:
 
 Although this behavior can be useful, it is error-prone. In general, it is safer to avoid aliasing when you are working with mutable objects.
 
-#List arguments
+# List arguments
 
 When you pass a list to a function, the function gets a reference to the list. If the function modifies a list parameter, the caller sees the change. For example, delete\_head removes the first element from a list:
 
@@ -1139,7 +1139,7 @@ while index < len(fruit):
 
 This loop traverses the string and displays each letter on a line by itself. The loop condition is index < len(fruit), so when index is equal to the length of the string, the condition is false, and the body of the loop is not executed. The last character accessed is the one with the index len(fruit)-1, which is the last character in the string.
 
-####Exercise 1
+#### Exercise 1
 Write a function that takes a string as an argument and displays the letters backward, one per line.
 
 Another way to write a traversal is with a for loop:
@@ -1176,7 +1176,7 @@ Qack
 
 Of course, that’s not quite right because “Ouack” and “Quack” are misspelled.
 
-####Exercise 2
+#### Exercise 2
 Modify the program to fix this error.
 
 ## Looping and counting
@@ -1194,9 +1194,9 @@ print(count)
 
 This program demonstrates another pattern of computation called a counter. The variable count is initialized to 0 and then incremented each time an a is found. When the loop exits, count contains the result—the total number of a’s.
 
-####Exercise 5
+#### Exercise 5
 Encapsulate this code in a function named count, and generalize it so that it accepts the string and the letter as arguments.
-####Exercise 6
+#### Exercise 6
 Rewrite this function so that instead of traversing the string, it uses the three-parameter version of find from the previous section.
 
 ## 4.2
@@ -1283,7 +1283,7 @@ Figure 1: State diagram.
 
 I took a little license by arranging the variables in the frame and adding dotted lines to show that the values of i and j indicate characters in word1 and word2.
 
-####Exercise
+#### Exercise
 Starting with this diagram, execute the program on paper, changing the values of i and j during each iteration. Find and fix the second error in this function.
 
 # Unit 6
@@ -1423,7 +1423,7 @@ The histogram indicates that the letters ’a’ and 'b' appear once; 'o' appear
 
 ## 6.3
 
-###Dictionaries and lists
+### Dictionaries and lists
 
 Lists can appear as values in a dictionary. For example, if you were given a dictionary that maps from letters to frequencies, you might want to invert it; that is, create a dictionary that maps from frequencies to letters. Since there might be several letters with the same frequency, each value in the inverted dictionary should be a list of letters.
 
@@ -1475,7 +1475,7 @@ Since lists and dictionaries are mutable, they can’t be used as keys, but they
 
 ## 6.4
 
-###Looping and dictionaries
+### Looping and dictionaries
 
 If you use a dictionary in a for statement, it traverses the keys of the dictionary. For example, print_hist prints each key and the corresponding value:
 
@@ -1830,7 +1830,7 @@ def int_to_time(seconds):
 ```
 Write time_to_int as a method. It is probably not appropriate to rewrite int_to_time as a method; what object you would invoke it on?
 
-##Another example
+## Another example
 
 Here’s a version of increment written as a method:
 
@@ -1886,7 +1886,7 @@ When you print an object, Python invokes the str method:
 
 When I write a new class, I almost always start by writing \_\_init\_\_, which makes it easier to instantiate objects, and \_\_str\_\_, which is useful for debugging.
 
-####Exercise
+#### Exercise
 Write a str method for the Point class. Create a Point object and print it.
 
 ### Operator overloading
@@ -2008,7 +2008,7 @@ The star (\*) near the arrow head is a multiplicity; it indicates how many Cards
 
 A more detailed diagram might show that a Deck actually contains a list of Cards, but built-in types like list and dict are usually not included in class diagrams.
 
-####Exercise 4
+#### Exercise 4
 Read TurtleWorld.py, World.py and Gui.py and draw a class diagram that shows the relationships among the classes defined there.
 18.9  Debugging
 
