@@ -21,21 +21,21 @@ day, the program rejects the request.
 Here's an example. The program output is shown in bold text, the user
 input in regular text.
 
-```shell
+<pre>
 >>>python3 daily_to_do_list.py
-**What would you like to do ('add' or 'get')?**
+<b>What would you like to do ('add' or 'get')?</b>
 add
-**What day?**
+<b>What day?</b>
 Friday
-**What would you like to add to Friday's to-do list?**
+<b>What would you like to add to Friday's to-do list?</b>
 practice clarinet
-**What would you like to do ('add' or 'get')?**
+<b>What would you like to do ('add' or 'get')?</b>
 get
-**What day?**
+<b>What day?</b>
 Friday
-**You have to practice clarinet.**
-**What would you like to do('add' or 'get')?**
-```
+<b>You have to practice clarinet.</b>
+<b>What would you like to do('add' or 'get')?</b>
+</pre>
 
 ## Bonus!
 It's a bit tedious for the user to have to type in three different
