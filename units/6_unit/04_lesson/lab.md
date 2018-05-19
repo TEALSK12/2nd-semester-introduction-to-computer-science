@@ -7,8 +7,8 @@ a program that determines the top 5 most commonly used words in a
 
 Here's one strategy for completing this lab:
 
-1. Extract from your Lab 6.02 code a function that takes in a list of words
-   and returns a dictionary of word frequencies. 
+1. Repackage some of your code from Lab 6.02 to make a function `text_to_word_list()` that
+   takes in a list of words  and returns a dictionary of word frequencies. 
 2. Write a new function, `find_max_valued_key()`, that takes a dictionary as an
    argument, and returns the **key** that  is associated with the largest
    value in that dictionary. Internally, this function loops through the
