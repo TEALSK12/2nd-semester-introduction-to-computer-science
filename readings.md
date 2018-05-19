@@ -633,7 +633,7 @@ The module object contains the functions and variables defined in the module. To
 ```
 >>> radians = 0.7
 >>> height = math.sin(radians)
-````
+```
 
 The first example uses log10 to compute a signal-to-noise ratio in decibels (assuming that signal_power and noise_power are defined). The math module also provides log, which computes logarithms base e.
 The second example finds the sine of radians. The name of the variable is a hint that sin and the other trigonometric functions (cos, tan, etc.) take arguments in radians. To convert from degrees to radians, divide by 360 and multiply by 2 π:
