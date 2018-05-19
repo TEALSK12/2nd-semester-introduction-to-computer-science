@@ -16,6 +16,7 @@ what type the values are.
 <br><br><br>
 
 2. The 2018 Memorial Day holiday is observed on Monday, May 28, which makes it a
-   long-weekend day. Write a new line of code that adds May 28th to the
-   `May 2018` list, so that its value becomes
+   long-weekend day. Write a new line of code that adds May 28th to
+   the list associated with
+   `'May 2018'`, so that its value becomes
    `[5, 6, 12, 13, 19, 20, 26, 27, 28]`.
