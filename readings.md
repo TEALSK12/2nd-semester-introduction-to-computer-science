@@ -14,7 +14,7 @@ they are enclosed in quotation marks.
 
 If you are not sure what type a value has, the interpreter can tell you.
 
-```
+```Python
 >>> type('Hello, World!')
 <type 'str'>
 
@@ -26,7 +26,7 @@ Not surprisingly, strings belong to the type str and integers belong to the type
 obviously, numbers with a decimal point belong to a type called float, because these numbers are
 represented in a format called floating-point.
 
-```
+```Python
 >>> type(3.2)
 <type 'float'>
 ```
@@ -34,7 +34,7 @@ represented in a format called floating-point.
 What about values like '17' and '3.2'? They look like numbers, but they are in quotation marks like
 strings.
 
-```
+```Python
 >>> type('17')
 <type 'str'>
 >>> type('3.2')
@@ -44,7 +44,7 @@ strings.
 They’re strings. When you type a large integer, you might be tempted to use commas between groups of
 three digits, as in 1,000,000. This is not a legal integer in Python, but it is legal:
 
-```
+```Python
 >>> 1,000,000
 (1, 0, 0)
 ```
@@ -61,7 +61,7 @@ values the operator is applied to are called operands.
 The operators +, -, *, / and ** perform addition, subtraction, multiplication, division and
 exponentiation, as in the following examples:
 
-```
+```Python
 20+32   hour-1   hour*60+minute   minute/60   5**2   (5+9)*(15-7)
 ```
 
@@ -70,7 +70,7 @@ XOR. We won’t cover bitwise operators in this book, but you can read about the
 http://wiki.Python.org/moin/BitwiseOperators. Exponentiation in Python3 is **. In Python 3, the
 division operator might not do what you expect:
 
-```
+```Python
 >>> minute = 59
 >>> minute/60
 0
@@ -85,7 +85,7 @@ operator // performs floor division.
 If either of the operands is a floating-point number, Python performs floating-point division, and
 the result is a float:
 
-```
+```Python
 >>> minute/60.0
 0.98333333333333328
 ```
@@ -96,7 +96,7 @@ An expression is a combination of values, variables, and operators. A value all 
 considered an expression, and so is a variable, so the following are all legal expressions (assuming
 that the variable x has been assigned a value):
 
-```
+```Python
 17
 x
 x + 17
@@ -115,7 +115,7 @@ A variable is a name that refers to a value.
 
 An assignment statement creates new variables and gives them values:
 
-```
+```Python
 >>> message = 'And now for something completely different'
 >>> n = 17
 >>> pi = 3.1415926535897932
@@ -132,7 +132,7 @@ previous example.
 
 The type of a variable is the type of the value it refers to.
 
-```
+```Python
 >>> type(message)
 <type 'str'>
 >>> type(n)
@@ -155,7 +155,7 @@ such as `my_name` or `airspeed_of_unladen_swallow`.
 
 If you give a variable an illegal name, you get a syntax error:
 
-```
+```Python
 >>> 76trombones = 'big parade'
 SyntaxError: invalid syntax
 >>> more@ = 1000000
@@ -172,7 +172,7 @@ structure of the program, and they cannot be used as variable names.
 
 Python 2 has 31 keywords:
 
-```
+```Python
 and       del       from      not       while
 as        elif      global    or        with
 assert    else      if        pass      yield
@@ -266,7 +266,7 @@ because they are enclosed in quotation marks.
 
 If you are not sure what type a value has, the interpreter can tell you.
 
-```
+```Python
 >>> type('Hello, World!')
 <type 'str'>
 >>> type(17)
@@ -277,11 +277,11 @@ Not surprisingly, strings belong to the type str and integers belong to the type
 obviously, numbers with a decimal point belong to a type called float, because these numbers are
 represented in a format called floating-point.
 
-```
+```Python
 >>> type(3.2)
 <type 'float'>
-What about values like '17' and '3.2'? They look like numbers,
-but they are in quotation marks like strings.
+# What about values like '17' and '3.2'? They look like numbers,
+# but they are in quotation marks like strings.
 >>> type('17')
 <type 'str'>
 >>> type('3.2')
@@ -291,7 +291,7 @@ but they are in quotation marks like strings.
 They’re strings. When you type a large integer, you might be tempted to use commas between groups of
 three digits, as in 1,000,000. This is not a legal integer in Python, but it is legal:
 
-```
+```Python
 >>> 1,000,000
 (1, 0, 0)
 ```
@@ -305,7 +305,7 @@ error message, but it doesn’t do the “right” thing.
 #### Exercise 1
 Assume that we execute the following assignment statements:
 
-```
+```Python
 width = 17
 height = 12.0
 delimiter = '.'
@@ -341,7 +341,7 @@ An expression is a combination of values, variables, and operators. A value all 
 considered an expression, and so is a variable, so the following are all legal expressions (assuming
 that the variable x has been assigned a value):
 
-```
+```Python
 17
 x
 x + 17
@@ -358,7 +358,7 @@ different things. The important difference is that an expression has a value; a 
 A boolean expression is an expression that is either true or false. The following examples use the
 operator `==`, which compares two operands and produces True if they are equal and False otherwise:
 
-```
+```Python
 >>> 5 == 5
 True
 >>> 5 == 6
@@ -367,7 +367,7 @@ False
 
 True and False are special values that belong to the type bool; they are not strings:
 
-```
+```Python
 >>> type(True)
 <type 'bool'>
 >>> type(False)
@@ -376,7 +376,7 @@ True and False are special values that belong to the type bool; they are not str
 
 The `==` operator is one of the relational operators; the others are:
 
-```
+```Python
 x != y      # x is not equal to y
 x > y       # x is greater than y
 x < y       # x is less than y
@@ -407,9 +407,9 @@ false, that is, if `x` is less than or equal to `y`.
 Strictly speaking, the operands of the logical operators should be boolean expressions, but Python
 is not very strict. Any nonzero number is interpreted as “true.”
 
-```
-    >>> 17 and True
-    True
+```Python
+>>> 17 and True
+True
 ```
 
 This flexibility can be useful, but there are some subtleties to it that might be confusing. You
@@ -423,7 +423,7 @@ In order to write useful programs, we almost always need the ability to check co
 the behavior of the program accordingly. Conditional statements give us this ability. The simplest
 form is the if statement:
 
-```
+```Python
 if x > 0:
     print('x is positive')
 ```
@@ -438,7 +438,7 @@ There is no limit on the number of statements that can appear in the body, but t
 least one. Occasionally, it is useful to have a body with no statements (usually as a place keeper
 for code you haven’t written yet). In that case, you can use the pass statement, which does nothing.
 
-```
+```Python
 if x < 0:
     pass          # need to handle negative values!
 # Alternative execution
@@ -447,7 +447,7 @@ if x < 0:
 A second form of the if statement is alternative execution, in which there are two possibilities and
 the condition determines which one gets executed. The syntax looks like this:
 
-```
+```Python
 if x%2 == 0:
     print('x is even')
 else:
@@ -464,7 +464,7 @@ alternatives are called branches, because they are branches in the flow of execu
 Sometimes there are more than two possibilities and we need more than two branches. One way to
 express a computation like that is a chained conditional:
 
-```
+```Python
 if x < y:
     print('x is less than y')
 elif x > y:
@@ -477,7 +477,7 @@ else:
 limit on the number of `elif` statements. If there is an else clause, it has to be at the end, but
 there doesn’t have to be one.
 
-```
+```Python
 if choice == 'a':
     draw_a()
 elif choice == 'b':
@@ -495,7 +495,7 @@ condition is true, only the first true branch executes.
 One conditional can also be nested within another. We could have written the trichotomy example like
 this:
 
-```
+```Python
 if x == y:
     print('x and y are equal')
 else:
@@ -515,7 +515,7 @@ difficult to read very quickly. In general, it is a good idea to avoid them when
 Logical operators often provide a way to simplify nested conditional statements. For example, we can
 rewrite the following code using a single conditional:
 
-```
+```Python
 if 0 < x:
     if x < 10:
         print('x is a positive single-digit number.')
@@ -524,7 +524,7 @@ if 0 < x:
 The print(statement is executed only if we make it past both conditionals, so we can get the same
 effect with the and operator:)
 
-```
+```Python
 if 0 < x and x < 10:
     print('x is a positive single-digit number.')
 ```
@@ -538,7 +538,7 @@ they can be any type. The values in a list are called elements or sometimes item
 There are several ways to create a new list; the simplest is to enclose the elements in square
 brackets (`[` and `]`):
 
-```
+```Python
 [10, 20, 30, 40]
 ['crunchy frog', 'ram bladder', 'lark vomit']
 ```
@@ -547,7 +547,7 @@ The first example is a list of four integers. The second is a list of three stri
 a list don’t have to be the same type. The following list contains a string, a float, an integer,
 and (lo!) another list:
 
-```
+```Python
 ['spam', 2.0, 5, [10, 20]]
 ```
 
@@ -558,7 +558,7 @@ A list that contains no elements is called an empty list; you can create one wit
 
 As you might expect, you can assign list values to variables:
 
-```
+```Python
 >>> cheeses = ['Cheddar', 'Edam', 'Gouda']
 >>> numbers = [17, 123]
 >>> empty = []
@@ -572,7 +572,7 @@ The syntax for accessing the elements of a list is the same as for accessing the
 string—the bracket operator. The expression inside the brackets specifies the index. Remember that
 the indices start at 0:
 
-```
+```Python
 >>> print(cheeses[0])
 Cheddar
 ```
@@ -580,7 +580,7 @@ Cheddar
 Unlike strings, lists are mutable. When the bracket operator appears on the left side of an
 assignment, it identifies the element of the list that will be assigned.
 
-```
+```Python
 >>> numbers = [17, 123]
 >>> numbers[1] = 5
 >>> print(numbers)
@@ -613,7 +613,7 @@ If an index has a negative value, it counts backward from the end of the list.
 ### List operations
 The + operator concatenates lists:
 
-```
+```Python
 >>> a = [1, 2, 3]
 >>> b = [4, 5, 6]
 >>> c = a + b
@@ -623,7 +623,7 @@ The + operator concatenates lists:
 
 Similarly, the * operator repeats a list a given number of times:
 
-```
+```Python
 >>> [0] * 4
 [0, 0, 0, 0]
 >>> [1, 2, 3] * 3
@@ -637,7 +637,7 @@ times.
 
 The slice operator works on lists:
 
-```
+```Python
 >>> t = ['a', 'b', 'c', 'd', 'e', 'f']
 >>> t[1:3]
 ['b', 'c']
@@ -650,7 +650,7 @@ The slice operator works on lists:
 If you omit the first index, the slice starts at the beginning. If you omit the second, the slice
 goes to the end. So if you omit both, the slice is a copy of the whole list.
 
-```
+```Python
 >>> t[:]
 ['a', 'b', 'c', 'd', 'e', 'f']
 ```
@@ -660,7 +660,7 @@ spindle or mutilate lists.
 
 A slice operator on the left side of an assignment can update multiple elements:
 
-```
+```Python
 >>> t = ['a', 'b', 'c', 'd', 'e', 'f']
 >>> t[1:3] = ['x', 'y']
 >>> print(t)
@@ -672,7 +672,7 @@ A slice operator on the left side of an assignment can update multiple elements:
 Python provides methods that operate on lists. For example, append adds a new element to the end of
 a list:
 
-```
+```Python
 >>> t = ['a', 'b', 'c']
 >>> t.append('d')
 >>> print(t)
@@ -684,7 +684,7 @@ a list:
 There are several ways to delete elements from a list. If you know the index of the element you
 want, you can use pop:
 
-```
+```Python
 >>> t = ['a', 'b', 'c']
 >>> x = t.pop(1)
 >>> print(t)
@@ -698,7 +698,7 @@ deletes and returns the last element.
 
 If you know the element you want to remove you can use remove:
 
-```
+```Python
 >>> t = ['a', 'b', 'c']
 >>> t.remove('b')
 >>> print(t)
@@ -708,7 +708,7 @@ If you know the element you want to remove you can use remove:
 ## 2.6
 The in operator works on lists.
 
-```
+```Python
 >>> cheeses = ['Cheddar', 'Edam', 'Gouda']
 >>> 'Edam' in cheeses
 True
@@ -725,7 +725,7 @@ making errors is something that computers do well and people do poorly.
 
 Here is an example countdown snippet that uses a while statement:
 
-```
+```Python
 while n > 0:
     print(n)
     n = n-1
@@ -752,7 +752,7 @@ In the case of countdown, we can prove that the loop terminates because we know 
 is finite, and we can see that the value of n gets smaller each time through the loop, so eventually
 we have to get to 0. In other cases, it is not so easy to tell:
 
-```
+```Python
 while n != 1:
     print n,
     if n%2 == 0:        # n is even
@@ -787,7 +787,7 @@ In the context of programming, a function is a named sequence of statements that
 computation. When you define a function, you specify the name and the sequence of statements. Later,
 you can “call” the function by name. We have already seen one example of a function call:
 
-```
+```Python
 >>> type(32)
 <type 'int'>
 ```
@@ -803,7 +803,7 @@ the return value.
 Python provides built-in functions that convert values from one type to another. The int function
 takes any value and converts it to an integer, if it can, or complains otherwise:
 
-```
+```Python
 >>> int('32')
 32
 >>> int('Hello')
@@ -813,7 +813,7 @@ ValueError: invalid literal for int(): Hello
 int can convert floating-point values to integers, but it doesn’t round off; it chops off the
 fraction part:
 
-```
+```Python
 >>> int(3.99999)
 3
 >>> int(-2.3)
@@ -837,7 +837,7 @@ file that contains a collection of related functions.
 
 Before we can use the module, we have to import it:
 
-```
+```Python
 >>> import math
 This statement creates a module object named math.
 If you print the module object, you get some information about it:
@@ -849,12 +849,12 @@ The module object contains the functions and variables defined in the module. To
 functions, you have to specify the name of the module and the name of the function, separated by a
 dot (also known as a period). This format is called dot notation.
 
-```
+```Python
 >>> ratio = signal_power / noise_power
 >>> decibels = 10 * math.log10(ratio)
 ```
 
-```
+```Python
 >>> radians = 0.7
 >>> height = math.sin(radians)
 ```
@@ -867,7 +867,7 @@ The second example finds the sine of radians. The name of the variable is a hint
 other trigonometric functions (cos, tan, etc.) take arguments in radians. To convert from degrees to
 radians, divide by 360 and multiply by 2π:
 
-```
+```Python
 >>> degrees = 45
 >>> radians = degrees / 360.0 * 2 * math.pi
 >>> math.sin(radians)
@@ -880,7 +880,7 @@ approximation of π, accurate to about 15 digits.
 If you know your trigonometry, you can check the previous result by comparing it to the square root
 of two divided by two:
 
-```
+```Python
 >>> math.sqrt(2) / 2.0
 0.707106781187
 ```
@@ -894,7 +894,7 @@ One of the most useful features of programming languages is their ability to tak
 blocks and compose them. For example, the argument of a function can be any kind of expression,
 including arithmetic operators:
 
-```
+```Python
 x = math.sin(degrees / 360.0 * 2 * math.pi)
 And even function calls:
 x = math.exp(math.log(x+1))
@@ -904,7 +904,7 @@ Almost anywhere you can put a value, you can put an arbitrary expression, with o
 left side of an assignment statement has to be a variable name. Any other expression on the left
 side is a syntax error (we will see exceptions to this rule later).
 
-```
+```Python
 >>> minutes = hours * 60                 # right
 >>> hours * 60 = minutes                 # wrong!
 SyntaxError: can't assign to operator
@@ -920,7 +920,7 @@ statements that execute when the function is called.
 
 Here is an example:
 
-```
+```Python
 def print_lyrics():
     print("I'm a lumberjack, and I'm okay.")
     print("I sleep all night and I work all day.")
@@ -945,16 +945,17 @@ do the same thing; most people use single quotes except in cases like this where
 If you type a function definition in interactive mode, the interpreter prints ellipses (...) to let
 you know that the definition isn’t complete:
 
-```
+```Python
 >>> def print_lyrics():
 ...     print("I'm a lumberjack, and I'm okay.")
 ...     print("I sleep all night and I work all day.")
 ...
 ```
+
 To end the function, you have to enter an empty line (this is not necessary in a script).
 Defining a function creates a variable with the same name.
 
-```
+```Python
 >>> print(print_lyrics)
 <function print_lyrics at 0xb7e99e9c>
 >>> type(print_lyrics)
@@ -964,16 +965,16 @@ Defining a function creates a variable with the same name.
 The value of print_lyrics is a function object, which has type 'function'.
 The syntax for calling the new function is the same as for built-in functions:
 
-```
+```Python
 >>> print_lyrics()
 I'm a lumberjack, and I'm okay.
 I sleep all night and I work all day.
 ```
 
 Once you have defined a function, you can use it inside another function. For example, to repeat the
-previous refrain, we could write a function called repeat_lyrics:
+previous refrain, we could write a function called `repeat_lyrics`:
 
-```
+```Python
 def repeat_lyrics():
     print_lyrics()
     print_lyrics()
@@ -982,7 +983,7 @@ def repeat_lyrics():
 
 And then call repeat_lyrics:
 
-```
+```Python
 >>> repeat_lyrics()
 I'm a lumberjack, and I'm okay.
 I sleep all night and I work all day.
@@ -995,7 +996,7 @@ But that’s not really how the song goes.
 
 Pulling together the code fragments from the previous section, the whole program looks like this:
 
-```
+```Python
 def print_lyrics():
     print("I'm a lumberjack, and I'm okay.")
     print("I sleep all night and I work all day.")
@@ -1058,7 +1059,7 @@ the base and the exponent.
 Inside the function, the arguments are assigned to variables called parameters. Here is an example
 of a user-defined function that takes an argument:
 
-```
+```Python
 def print_twice(bruce):
     print(bruce)
     print(bruce)
@@ -1069,7 +1070,7 @@ prints the value of the parameter (whatever it is) twice.
 
 This function works with any value that can be printed.
 
-```
+```Python
 >>> print_twice('Spam')
 Spam
 Spam
@@ -1084,7 +1085,7 @@ Spam
 The same rules of composition that apply to built-in functions also apply to user-defined functions,
 so we can use any kind of expression as an argument for print_twice:
 
-```
+```Python
 >>> print_twice('Spam '*4)
 Spam Spam Spam Spam
 Spam Spam Spam Spam
@@ -1098,7 +1099,7 @@ The argument is evaluated before the function is called, so in the examples the 
 
 You can also use a variable as an argument:
 
-```
+```Python
 >>> michael = 'Eric, the half a bee.'
 >>> print_twice(michael)
 Eric, the half a bee.
@@ -1116,7 +1117,7 @@ Some of the built-in functions we have used, such as the math functions, produce
 the function generates a value, which we usually assign to a variable or use as part of an
 expression.
 
-```
+```Python
 e = math.exp(1.0)
 height = radius * math.sin(radians)
 ```
@@ -1127,7 +1128,7 @@ but their return value is None.
 In this chapter, we are (finally) going to write fruitful functions. The first example is area,
 which returns the area of a circle with the given radius:
 
-```
+```Python
 def area(radius):
     temp = math.pi * radius**2
     return temp
@@ -1137,7 +1138,7 @@ This statement means: “Return immediately from this function and use the follo
 return value.” The expression can be arbitrarily complicated, so we could have written this function
 more concisely:
 
-```
+```Python
 def area(radius):
     return math.pi * radius**2
 ```
@@ -1146,7 +1147,7 @@ On the other hand, temporary variables like temp often make debugging easier.
 
 Sometimes it is useful to have multiple return statements, one in each branch of a conditional:
 
-```
+```Python
 def absolute_value(x):
     if x < 0:
         return -x
@@ -1162,7 +1163,7 @@ never reach, is called dead code.
 It is a good idea to ensure that every possible path through the program hits a return statement.
 For example:
 
-```
+```Python
 def absolute_value(x):
     if x < 0:
         return -x
@@ -1174,7 +1175,7 @@ This function is incorrect because if x happens to be 0, neither condition is tr
 ends without hitting a return statement. If the flow of execution gets to the end of a function, the
 return value is None, which is not the absolute value of 0.
 
-```
+```Python
 >>> print(absolute_value(0))
 None
 ```
@@ -1191,7 +1192,7 @@ Write a compare function that returns 1 if x > y, 0 if x == y, and -1 if x < y.
 When you create a variable inside a function, it is local, which means that it only exists inside
 the function. For example:
 
-```
+```Python
 def cat_twice(part1, part2):
     cat = part1 + part2
     print_twice(cat)
@@ -1200,7 +1201,7 @@ def cat_twice(part1, part2):
 This function takes two arguments, concatenates them, and prints the result twice. Here is an
 example that uses it:
 
-```
+```Python
 >>> line1 = 'Bing tiddle '
 >>> line2 = 'tiddle bang.'
 >>> cat_twice(line1, line2)
@@ -1211,7 +1212,7 @@ Bing tiddle tiddle bang.
 When `cat_twice` terminates, the variable cat is destroyed. If we try to print it, we get an
 exception:
 
-```
+```Python
 >>> print(cat)
 NameError: name 'cat' is not defined
 ```
@@ -1231,7 +1232,7 @@ max level of a game could be set to 10.
 If you try to reassign a global variable, you might be surprised. The following example is supposed
 to keep track of whether the function has been called:
 
-```
+```Python
 been_called = False
 
 def example2():
@@ -1245,7 +1246,7 @@ function ends, and has no effect on the global variable.
 To reassign a global variable inside a function you have to declare the global variable before you
 use it:
 
-```
+```Python
 been_called = False
 
 def example2():
@@ -1258,7 +1259,7 @@ been_called, I mean the global variable; don’t create a local one.”
 
 Here’s an example that tries to update a global variable:
 
-```
+```Python
 count = 0
 
 def example3():
@@ -1267,14 +1268,14 @@ def example3():
 
 If you run it you get the following error message:
 
-```
+```Python
 UnboundLocalError: local variable 'count' referenced before assignment
 ```
 
 Python assumes that count is local, and under that assumption you are reading it before writing it.
 The solution, again, is to declare count global.
 
-```
+```Python
 def example3():
     global count
     count += 1
@@ -1283,7 +1284,7 @@ def example3():
 If a global variable refers to a mutable value, you can modify the value without declaring the
 variable global:
 
-```
+```Python
 known = [10, 20]
 
 def example4():
@@ -1319,7 +1320,7 @@ top most function.
 
 To see how this works, create a Python script named tryme2.py that looks like this:
 
-```
+```Python
 def print_twice(param):
     print(param)
     print(param)
@@ -1337,7 +1338,7 @@ cat_twice(chant1, chant2)
 We’ve added the statement, print(cat) inside the `print_twice` function, but cat is not defined
 there. Running this script will produce an error message like this:
 
-```
+```Python
 Traceback (innermost last):
   File "tryme2.py", line 12, in <module>
     cat_twice(chant1, chant2)
@@ -1358,7 +1359,7 @@ another common name for a traceback is a stack trace.
 # Aliasing
 If a refers to an object and you assign b = a, then both variables refer to the same object:
 
-```
+```Python
 >>> a = [1, 2, 3]
 >>> b = a
 >>> b is a
@@ -1378,7 +1379,7 @@ An object with more than one reference has more than one name, so we say that th
 
 If the aliased object is mutable, changes made with one alias affect the other:
 
-```
+```Python
 >>> b[0] = 17
 >>> print(a)
 [17, 2, 3]
@@ -1393,14 +1394,14 @@ When you pass a list to a function, the function gets a reference to the list. I
 modifies a list parameter, the caller sees the change. For example, `delete_head` removes the first
 element from a list:
 
-```
+```Python
 def delete_head(t):
     del t[0]
 ```
 
 Here’s how it is used:
 
-```
+```Python
 >>> letters = ['a', 'b', 'c']
 >>> delete_head(letters)
 >>> print(letters)
@@ -1419,7 +1420,7 @@ Since the list is shared by two frames, I drew it between them.
 It is important to distinguish between operations that modify lists and operations that create new
 lists. For example, the append method modifies a list, but the + operator creates a new list:
 
-```
+```Python
 >>> t1 = [1, 2]
 >>> t2 = t1.append(3)
 >>> print(t1)
@@ -1435,7 +1436,7 @@ None
 This difference is important when you write functions that are supposed to modify lists. For
 example, this function does not delete the head of a list:
 
-```
+```Python
 def bad_delete_head(t):
     t = t[1:]              # WRONG!
 ```
@@ -1446,14 +1447,14 @@ any effect on the list that was passed as an argument.
 An alternative is to write a function that creates and returns a new list. For example, tail returns
 all but the first element of a list:
 
-```
+```Python
 def tail(t):
     return t[1:]
 ```
 
 This function leaves the original list unmodified. Here’s how it is used:
 
-```
+```Python
 >>> letters = ['a', 'b', 'c']
 >>> rest = tail(letters)
 >>> print(rest)
@@ -1466,7 +1467,7 @@ This function leaves the original list unmodified. Here’s how it is used:
 The most common way to traverse the elements of a list is with a for loop. The syntax is the same as
 for strings:
 
-```
+```Python
 for cheese in cheeses:
     print(cheese)
 ```
@@ -1474,7 +1475,7 @@ for cheese in cheeses:
 This works well if you only need to read the elements of the list.
 A for loop over an empty list never executes the body:
 
-```
+```Python
 for x in []:
     print('This never happens.')
 ```
@@ -1482,7 +1483,7 @@ for x in []:
 Although a list can contain another list, the nested list still counts as a single element. The
 length of this list is four:
 
-```
+```Python
 ['spam', 1, ['Brie', 'Roquefort', 'Pol le Veq'], [1, 2, 3]]
 ```
 
@@ -1492,7 +1493,7 @@ A lot of computations involve processing a string one character at a time. Often
 beginning, select each character in turn, do something to it, and continue until the end. This
 pattern of processing is called a traversal. One way to write a traversal is with a while loop:
 
-```
+```Python
 index = 0
 while index < len(fruit):
     letter = fruit[index]
@@ -1510,7 +1511,7 @@ Write a function that takes a string as an argument and displays the letters bac
 
 Another way to write a traversal is with a for loop:
 
-```
+```Python
 for char in fruit:
     print(char)
 ```
@@ -1523,7 +1524,7 @@ abecedarian series (that is, in alphabetical order). In Robert McCloskey’s boo
 Ducklings, the names of the ducklings are Jack, Kack, Lack, Mack, Nack, Ouack, Pack, and Quack. This
 loop outputs these names in order:
 
-```
+```Python
 prefixes = 'JKLMNOPQ'
 suffix = 'ack'
 
@@ -1553,7 +1554,7 @@ Modify the program to fix this error.
 
 The following program counts the number of times the letter a appears in a string:
 
-```
+```Python
 word = 'banana'
 count = 0
 for letter in word:
@@ -1581,7 +1582,7 @@ As mentioned, the most common way to traverse the elements of a list is with a f
 to write or update the elements, you need the indices. A common way to do that is to combine the
 functions `range` and `len`:
 
-```
+```Python
 for i in range(len(numbers)):
     numbers[i] = numbers[i] * 2
 ```
@@ -1596,7 +1597,7 @@ When you use indices to traverse the values in a sequence, it is tricky to get t
 of the traversal right. Here is a function that is supposed to compare two words and return True if
 one of the words is the reverse of the other, but it contains two errors:
 
-```
+```Python
 def is_reverse(word1, word2):
     if len(word1) != len(word2):
         return False
@@ -1624,7 +1625,7 @@ the letters match, we return True.
 If we test this function with the words “pots” and “stop”, we expect the return value True, but we
 get an IndexError:
 
-```
+```Python
 >>> is_reverse('pots', 'stop')
 ...
   File "reverse.py", line 15, in is_reverse
@@ -1635,19 +1636,19 @@ IndexError: string index out of range
 For debugging this kind of error, my first move is to print the values of the indices immediately
 before the line where the error appears.
 
-```
-    while j > 0:
-        print (i, j)        # print here
+```Python
+while j > 0:
+    print (i, j)        # print here
 
-        if word1[i] != word2[j]:
-            return False
-        i = i+1
-        j = j-1
+    if word1[i] != word2[j]:
+        return False
+    i = i+1
+    j = j-1
 ```
 
 Now when I run the program again, I get more information:
 
-```
+```Python
 >>> is_reverse('pots', 'stop')
 0 4
 ...
@@ -1658,7 +1659,7 @@ The first time through the loop, the value of j is 4, which is out of range for 
 The index of the last character is 3, so the initial value for j should be len(word2)-1.
 If I fix that error and run the program again, I get:
 
-```
+```Python
 >>> is_reverse('pots', 'stop')
 0 3
 1 2
@@ -1699,7 +1700,7 @@ values are all strings.
 The function dict creates a new dictionary with no items. Because dict is the name of a built-in
 function, you should avoid using it as a variable name.
 
-```
+```Python
 >>> eng2sp = dict()
 >>> print(eng2sp)
 {}
@@ -1709,13 +1710,13 @@ The squiggly-brackets, {}, represent an empty dictionary.
 
 You can create a new dictionary with three items:
 
-```
+```Python
 >>> eng2sp = {'one': 'uno', 'two': 'dos', 'three': 'tres'}
 ```
 
 But if you print eng2sp, you might be surprised:
 
-```
+```Python
 >>> print(eng2sp)
 {'one': 'uno', 'three': 'tres', 'two': 'dos'}
 ```
@@ -1727,7 +1728,7 @@ unpredictable.
 But that’s not a problem because the elements of a dictionary are never indexed with integer
 indices. Instead, you use the keys to look up the corresponding values:
 
-```
+```Python
 >>> print eng2sp['two']
 'dos'
 ```
@@ -1735,7 +1736,7 @@ indices. Instead, you use the keys to look up the corresponding values:
 The key ’two’ always maps to the value 'dos' so the order of the items doesn’t matter.
 If the key isn’t in the dictionary, you get an exception:
 
-```
+```Python
 >>> print eng2sp['four']
 KeyError: 'four'
 ```
@@ -1744,7 +1745,7 @@ Dictionaries have a method called get that takes a key and a default value. If t
 the dictionary, get returns the corresponding value; otherwise it returns the default value. For
 example:
 
-```
+```Python
 >>> h = histogram('a')
 >>> print h
 {'a': 1}
@@ -1756,7 +1757,7 @@ example:
 
 The `len` function works on dictionaries; it returns the number of key-value pairs:
 
-```
+```Python
 >>> len(eng2sp)
 3
 ```
@@ -1764,7 +1765,7 @@ The `len` function works on dictionaries; it returns the number of key-value pai
 The `in` operator works on dictionaries; it tells you whether something appears as a key in the
 dictionary (appearing as a value is not good enough).
 
-```
+```Python
 >>> 'one' in eng2sp
 True
 >>> 'uno' in eng2sp
@@ -1775,7 +1776,7 @@ False
 
 To add items to the dictionary, you can use square brackets:
 
-```
+```Python
 >>> eng2sp = {}
 >>> print(eng2sp)
 {}
@@ -1785,7 +1786,7 @@ To add items to the dictionary, you can use square brackets:
 This line creates an item that maps from the key ’one’ to the value 'uno'. If we print the
 dictionary again, we see a key-value pair with a colon between the key and value:
 
-```
+```Python
 >>> print(eng2sp)
 {'one': 'uno'}
 ```
@@ -1817,7 +1818,7 @@ appear.
 
 Here is what the code might look like:
 
-```
+```Python
 def histogram(s):
     d = dict()
     for c in s:
@@ -1836,7 +1837,7 @@ in the dictionary we increment `d[c]`.
 
 Here’s how it works:
 
-```
+```Python
 >>> h = histogram('brontosaurus')
 >>> print(h)
 {'a': 1, 'b': 1, 'o': 2, 'n': 1, 's': 2, 'r': 2, 'u': 2, 't': 1}
@@ -1856,7 +1857,7 @@ value in the inverted dictionary should be a list of letters.
 
 Here is a function that inverts a dictionary:
 
-```
+```Python
 def invert_dict(d):
     inverse = dict()
     for key in d:
@@ -1875,7 +1876,7 @@ append the corresponding key to the list.
 
 Here is an example:
 
-```
+```Python
 >>> hist = histogram('parrot')
 >>> print(hist)
 {'a': 1, 'p': 1, 'r': 2, 't': 1, 'o': 1}
@@ -1887,7 +1888,7 @@ Here is an example:
 Lists can be values in a dictionary, as this example shows, but they cannot be keys. Here’s what
 happens if you try:
 
-```
+```Python
 >>> t = [1, 2, 3]
 >>> d = dict()
 >>> d[t] = 'oops'
@@ -1919,7 +1920,7 @@ values.
 If you use a dictionary in a for statement, it traverses the keys of the dictionary. For example,
 print_hist prints each key and the corresponding value:
 
-```
+```Python
 def print_hist(h):
     for c in h:
         print c, h[c]
@@ -1927,7 +1928,7 @@ def print_hist(h):
 
 Here’s what the output looks like:
 
-```
+```Python
 >>> h = histogram('parrot')
 >>> print_hist(h)
 a 1
@@ -1964,7 +1965,7 @@ that will be apparent soon.
 
 A user-defined type is also called a class. A class definition looks like this:
 
-```
+```Python
 class Point(object):
     """Represents a point in 2-D space."""
 ```
@@ -1977,7 +1978,7 @@ inside a class definition, but we will get back to that later.
 
 Defining a class named Point creates a class object.
 
-```
+```Python
 >>> print(Point)
 <class '__main__.Point'>
 ```
@@ -1987,7 +1988,7 @@ Because Point is defined at the top level, its “full name” is __main__.Point
 The class object is like a factory for creating objects. To create a Point, you call Point as if it
 were a function.
 
-```
+```Python
 >>> blank = Point()
 >>> print(blank)
 <__main__.Point instance at 0xb7e9d3ac>
@@ -2003,7 +2004,7 @@ memory (the prefix 0x means that the following number is in hexadecimal).
 
 You can assign values to an instance using dot notation:
 
-```
+```Python
 >>> blank.x = 3.0
 >>> blank.y = 4.0
 ```
@@ -2017,7 +2018,7 @@ As a noun, “AT-trib-ute” is pronounced with emphasis on the first syllable, 
 
 You can read the value of an attribute using the same syntax:
 
-```
+```Python
 >>> print(blank.y)
 4.0
 >>> x = blank.x
@@ -2031,7 +2032,7 @@ the attribute x.
 
 You can use dot notation as part of any expression. For example:
 
-```
+```Python
 >>> print('(%g, %g)' % (blank.x, blank.y)
 (3.0, 4.0))
 >>> distance = math.sqrt(blank.x**2 + blank.y**2)
@@ -2041,7 +2042,7 @@ You can use dot notation as part of any expression. For example:
 
 You can pass an instance as an argument in the usual way. For example:
 
-```
+```Python
 def print_point(p):
     print('(%g, %g)' % (p.x, p.y))
 ```
@@ -2049,7 +2050,7 @@ def print_point(p):
 print_point takes a point as an argument and displays it in mathematical notation. To invoke it, you
 can pass blank as an argument:
 
-```
+```Python
 >>> print_point(blank)
 (3.0, 4.0)
 ```
@@ -2078,7 +2079,7 @@ first one, just as an example.
 
 Here is the class definition:
 
-```
+```Python
 class Rectangle(object):
     """Represents a rectangle.
 
@@ -2092,7 +2093,7 @@ specifies the lower-left corner.
 To represent a rectangle, you have to instantiate a Rectangle object and assign values to the
 attributes:
 
-```
+```Python
 box = Rectangle()
 box.width = 100.0
 box.height = 200.0
@@ -2109,7 +2110,7 @@ corner; then go to that object and select the attribute named x.”
 Functions can return instances. For example, find_center takes a Rectangle as an argument and
 returns a Point that contains the coordinates of the center of the Rectangle:
 
-```
+```Python
 def find_center(rect):
     p = Point()
     p.x = rect.corner.x + rect.width/2.0
@@ -2119,7 +2120,7 @@ def find_center(rect):
 
 Here is an example that passes box as an argument and assigns the resulting Point to center:
 
-```
+```Python
 >>> center = find_center(box)
 >>> print_point(center)
 (50.0, 100.0)
@@ -2131,7 +2132,7 @@ You can change the state of an object by making an assignment to one of its attr
 to change the size of a rectangle without changing its position, you can modify the values of width
 and height:
 
-```
+```Python
 box.width = box.width + 50
 box.height = box.width + 100
 ```
@@ -2140,7 +2141,7 @@ You can also write functions that modify objects. For example, grow_rectangle ta
 object and two numbers, dwidth and dheight, and adds the numbers to the width and height of the
 rectangle:
 
-```
+```Python
 def grow_rectangle(rect, dwidth, dheight):
     rect.width += dwidth
     rect.height += dheight
@@ -2148,7 +2149,7 @@ def grow_rectangle(rect, dwidth, dheight):
 
 Here is an example that demonstrates the effect:
 
-```
+```Python
 >>> print(box.width)
 100.0
 >>> print(box.height)
@@ -2175,7 +2176,7 @@ The init method (short for “initialization”) is a special method that gets i
 instantiated. Its full name is __init__ (two underscore characters, followed by init, and then two
 more underscores). An init method for the Time class might look like this:
 
-```
+```Python
 class Time(object):
     def __init__(self, hour=0, minute=0, second=0):
         self.hour = hour
@@ -2185,13 +2186,13 @@ class Time(object):
 
 It is common for the parameters of __init__ to have the same names as the attributes. The statement
 
-```
+```Python
         self.hour = hour
 ```
 stores the value of the parameter hour as an attribute of self.
 The parameters are optional, so if you call Time with no arguments, you get the default values.
 
-```
+```Python
 >>> time = Time()
 >>> time.print_time()
 00:00:00
@@ -2220,7 +2221,7 @@ hasattr (see Section 15.7).
 Another way to access the attributes of an object is through the special attribute `__dict__`,
 which is a dictionary that maps attribute names (as strings) and values:
 
-```
+```Python
 >>> p = Point(3, 4)
 >>> print(p.__dict__)
 {'y': 4, 'x': 3}
@@ -2228,7 +2229,7 @@ which is a dictionary that maps attribute names (as strings) and values:
 
 For purposes of debugging, you might find it useful to keep this function handy:
 
-```
+```Python
 def print_attributes(obj):
     for attr in obj.__dict__:
         print(attr, getattr(obj, attr))
@@ -2246,7 +2247,7 @@ attribute’s value.
 
 We defined a class named Time and a function `print_time`:
 
-```
+```Python
 class Time(object):
     """Represents the time of day."""
 
@@ -2256,7 +2257,7 @@ def print_time(time):
 
 To call this function, you have to pass a Time object as an argument:
 
-```
+```Python
 >>> start = Time()
 >>> start.hour = 9
 >>> start.minute = 45
@@ -2268,16 +2269,16 @@ To call this function, you have to pass a Time object as an argument:
 To make print_time a method, all we have to do is move the function definition inside the class
 definition. Notice the change in indentation.
 
-```
+```Python
 class Time(object):
     def print_time(time):
-	    print(str(time.hour) + ":" + str(time.minute) + ":" + str(time.second))
+        print(str(time.hour) + ":" + str(time.minute) + ":" + str(time.second))
 ```
 
 Now there are two ways to call print_time. The first (and less common) way is to use function
 syntax:
 
-```
+```Python
 >>> Time.print_time(start)
 09:45:00
 ```
@@ -2287,7 +2288,7 @@ method. start is passed as a parameter.
 
 The second (and more concise) way is to use method syntax:
 
-```
+```Python
 >>> start.print_time()
 09:45:00
 ```
@@ -2302,10 +2303,10 @@ to time.
 By convention, the first parameter of a method is called self, so it would be more common to write
 print_time like this:
 
-```
+```Python
 class Time(object):
     def print_time(self):
-    	print(str(self.hour) + ":" + str(self.minute) + ":" + str(self.second))
+        print(str(self.hour) + ":" + str(self.minute) + ":" + str(self.second))
 ```
 
 The reason for this convention is an implicit metaphor:
@@ -2322,7 +2323,7 @@ functions onto the objects makes it possible to write more versatile functions, 
 to maintain and reuse code.
 
 #### Exercise
-```
+```Python
 def time_to_int(time):
     minutes = time.hour * 60 + time.minute
     seconds = minutes * 60 + time.second
@@ -2334,6 +2335,7 @@ def int_to_time(seconds):
     time.hour, time.minute = divmod(minutes, 60)
     return time
 ```
+
 Write time_to_int as a method. It is probably not appropriate to rewrite int_to_time as a method;
 what object you would invoke it on?
 
@@ -2341,7 +2343,7 @@ what object you would invoke it on?
 
 Here’s a version of increment written as a method:
 
-```
+```Python
 # inside class Time:
 
     def increment(self, seconds):
@@ -2354,7 +2356,7 @@ is a pure function, not a modifier.
 
 Here’s how you would invoke increment:
 
-```
+```Python
 >>> start.print_time()
 09:45:00
 >>> end = start.increment(1337)
@@ -2368,7 +2370,7 @@ the second parameter, seconds.
 This mechanism can be confusing, especially if you make an error. For example, if you invoke
 increment with two arguments, you get:
 
-```
+```Python
 >>> end = start.increment(1337, 460)
 TypeError: increment() takes exactly 2 arguments (3 given)
 ```
@@ -2383,7 +2385,7 @@ of an object.
 
 For example, here is a str method for Time objects:
 
-```
+```Python
     # inside class Time:
 
     def __str__(self):
@@ -2392,7 +2394,7 @@ For example, here is a str method for Time objects:
 
 When you print an object, Python invokes the `str` method:
 
-```
+```Python
 >>> time = Time(9, 45)
 >>> print(time)
 09:45:00
@@ -2412,7 +2414,7 @@ on Time objects.
 
 Here is what the definition might look like:
 
-```
+```Python
     # inside class Time:
 
     def __add__(self, other):
@@ -2422,7 +2424,7 @@ Here is what the definition might look like:
 
 And here is how you could use it:
 
-```
+```Python
 >>> start = Time(9, 45)
 >>> duration = Time(1, 35)
 >>> print start + duration
@@ -2462,7 +2464,7 @@ This relationship between classes—similar, but different—lends itself to inh
 The definition of a child class is like other class definitions, but the name of the parent class
 appears in parentheses:
 
-```
+```Python
 class Hand(Deck):
     """Represents a hand of playing cards."""
 ```
@@ -2476,7 +2478,7 @@ empty list.
 
 If we provide an `__init__` method in the Hand class, it overrides the one in the Deck class:
 
-```
+```Python
 # inside class Hand:
 
     def __init__(self, label=''):
@@ -2486,7 +2488,7 @@ If we provide an `__init__` method in the Hand class, it overrides the one in th
 
 So when you create a Hand, Python invokes this init method:
 
-```
+```Python
 >>> hand = Hand('new hand')
 >>> print hand.cards
 []
@@ -2497,7 +2499,7 @@ new hand
 But the other methods are inherited from Deck, so we can use `pop_card` and `add_card` to deal a
 card:
 
-```
+```Python
 >>> deck = Deck()
 >>> card = deck.pop_card()
 >>> hand.add_card(card)
@@ -2507,7 +2509,7 @@ King of Spades
 
 A natural next step is to encapsulate this code in a method called `move_cards`:
 
-```
+```Python
 #inside class Deck:
 
     def move_cards(self, hand, num):
@@ -2586,7 +2588,7 @@ execution.
 As an alternative, you could use this function, which takes an object and a method name (as a
 string) and returns the class that provides the definition of the method:
 
-```
+```Python
 def find_defining_class(obj, meth_name):
     for ty in type(obj).mro():
         if meth_name in ty.__dict__:
@@ -2595,7 +2597,7 @@ def find_defining_class(obj, meth_name):
 
 Here’s an example:
 
-```
+```Python
 >>> hand = Hand()
 >>> print find_defining_class(hand, 'shuffle')
 <class 'Card.Deck'>
