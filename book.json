@@ -1,3 +1,12 @@
 {
-    "gitbook": ">=3.0.0-pre.0"
+    "gitbook":     ">=3.0.0-pre.0",
+    "title":       "2nd Semester Intro to Computer Science",
+    "description": "A 2nd semester follow-up to the TEALS intro CS course",
+    "author":      "TEALSK12 - https://www.tealsk12.org",
+    "language":    "en",
+
+    "structure": {
+        "readme":  "README.md",
+        "summary": "SUMMARY.md"
+    }
 }
