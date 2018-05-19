@@ -1,4 +1,5 @@
-Associated Readings adapted from [**Think Python - How To Think Like A Computer Scientist**](http://www.greenteapress.com/thinkpython/thinkpython.pdf) by Allen Downey
+Associated Readings adapted from [**Think Python - How To Think Like A Computer Scientist**] by
+Allen Downey
 
 # Unit 1
 ## 1.1
@@ -298,10 +299,12 @@ The `or` expression is true whenever one of the operands is true and the `and` e
 Finally, the not operator negates a boolean expression, so `not (x > y)` is true if `x > y` is false, that is, if `x` is less than or equal to `y`.
 
 Strictly speaking, the operands of the logical operators should be boolean expressions, but Python is not very strict. Any nonzero number is interpreted as “true.”
+
 ```
 >>> 17 and True
 True
 ```
+
 This flexibility can be useful, but there are some subtleties to it that might be confusing. You might want to avoid it (unless you know what you are doing).
 
 ## 2.3
@@ -309,15 +312,17 @@ This flexibility can be useful, but there are some subtleties to it that might b
 ### Conditional execution
 
 In order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly. Conditional statements give us this ability. The simplest form is the if statement:
+
 ```
 if x > 0:
     print('x is positive')
-    ```
+```
 
 The boolean expression after if is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.
 if statements have the same structure as function definitions: a header followed by an indented body. Statements like this are called compound statements.
 
 There is no limit on the number of statements that can appear in the body, but there has to be at least one. Occasionally, it is useful to have a body with no statements (usually as a place keeper for code you haven’t written yet). In that case, you can use the pass statement, which does nothing.
+
 ```
 if x < 0:
     pass          # need to handle negative values!
@@ -389,7 +394,8 @@ if 0 < x and x < 10:
 
 Like a string, a list is a sequence of values. In a string, the values are characters; in a list, they can be any type. The values in a list are called elements or sometimes items.
 
-There are several ways to create a new list; the simplest is to enclose the elements in square brackets ([ and ]):
+There are several ways to create a new list; the simplest is to enclose the elements in square
+brackets (`[` and `]`):
 ```
 [10, 20, 30, 40]
 ['crunchy frog', 'ram bladder', 'lark vomit']
@@ -400,7 +406,8 @@ The first example is a list of four integers. The second is a list of three stri
 ['spam', 2.0, 5, [10, 20]]
 ```
 A list within another list is nested.
-A list that contains no elements is called an empty list; you can create one with empty brackets, [].
+A list that contains no elements is called an empty list; you can create one with empty brackets,
+`[]`.
 
 As you might expect, you can assign list values to variables:
 ```
@@ -429,8 +436,10 @@ Unlike strings, lists are mutable. When the bracket operator appears on the left
 
 The one-eth element of numbers, which used to be 123, is now 5.
 You can think of a list as a relationship between indices and elements. This relationship is called a mapping; each index “maps to” one of the elements. Figure 10.1 shows the state diagram for cheeses, numbers and empty:
-![](http://www.greenteapress.com/thinkpython/html/thinkpython013.png)
-Figure 10.1: State diagram.
+
+| ![Figure 10.1: State diagram](http://www.greenteapress.com/thinkpython/html/thinkpython013.png) |
+|:---:|
+| _Figure 10.1: State diagram._ |
 
 Lists are represented by boxes with the word “list” outside and the elements of the list inside. cheeses refers to a list with three elements indexed 0, 1 and 2. numbers contains two elements; the diagram shows that the value of the second element has been reassigned from 123 to 5. empty refers to a list with no elements.
 
@@ -459,7 +468,9 @@ Similarly, the * operator repeats a list a given number of times:
 >>> [1, 2, 3] * 3
 [1, 2, 3, 1, 2, 3, 1, 2, 3]
 ```
-The first example repeats [0] four times. The second example repeats the list [1, 2, 3] three times.
+The first example repeats `[0]` four times. The second example repeats the list `[1, 2, 3]` three
+times.
+
 10.5  List slices
 
 The slice operator works on lists:
@@ -755,7 +766,7 @@ repeat_lyrics()
 This program contains two function definitions: print_lyrics and repeat_lyrics. Function definitions get executed just like other statements, but the effect is to create function objects. The statements inside the function do not get executed until the function is called, and the function definition generates no output.
 As you might expect, you have to create a function before you can execute it. In other words, the function definition has to be executed before the first time it is called.
 
-#### Exercise 1
+### Exercise 1
 Move the last line of this program to the top, so the function call appears before the definitions. Run the program and see what error message you get.
 ### Exercise 2
 Move the function call back to the bottom and move the definition of print_lyrics after the definition of repeat_lyrics. What happens when you run this program?
@@ -915,7 +926,7 @@ Parameters are also local. For example, outside print\_twice, there is no such t
 Variables created outside the function, so it belongs to the special frame called __main__. Variables in __main__ are sometimes called global because they can be accessed from any function. Unlike local variables, which disappear when their function ends, global variables persist from one function call to the next.
 
 It is common to use global variables for constants; that is, variables that do not change. For example, some programs use constants to indicate the minimun or maximum number of a dataset like the max level of a game could be set to 10.
-	
+
 If you try to reassign a global variable, you might be surprised. The following example is supposed to keep track of whether the function has been called:
 
 ```
@@ -972,8 +983,11 @@ If a program has a lot of global variables and are modify them frequently, they 
 To keep track of which variables can be used where, it is sometimes useful to draw a stack diagram. Like state diagrams, stack diagrams show the value of each variable, but they also show the function to which each variable belongs.
 
 Each function is represented by a frame. A frame is a box with the name of a function beside it and the parameters and variables of the function inside it. The stack diagram for the previous example looks like this:
-![Stack](http://www.cs.swarthmore.edu/courses/cs21book/build/_images/stack.png)
-Stack diagram
+
+|![Stack diagram](http://www.cs.swarthmore.edu/courses/cs21book/build/_images/stack.png)|
+|:---:|
+| _Stack diagram_ |
+
 The order of the stack shows the flow of execution. print\_twice was called by cat\_twice, and cat\_twice was called by \_\_main\_\_, which is a special name for the topmost function. When you create a variable outside of any function, it belongs to \_\_main\_\_.
 
 Each parameter refers to the same value as its corresponding argument. So, part1 has the same value as chant1, part2 has the same value as chant2, and param has the same value as cat.
@@ -1026,7 +1040,9 @@ True
 
 The state diagram looks like:
 
-![State Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython016.png)
+| ![State Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython016.png) |
+|:---:|
+| _State Diagram_ |
 
 The association of a variable with an object is called a reference. In this example, there are two references to the same object.
 An object with more than one reference has more than one name, so we say that the object is aliased.
@@ -1059,7 +1075,9 @@ Here’s how it is used:
 ```
 The parameter t and the variable letters are aliases for the same object. The stack diagram looks like the following:
 
-![Stack Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython017.png)
+| ![Stack Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython017.png) |
+|:---:|
+| _Stack Diagram_ |
 
 Since the list is shared by two frames, I drew it between them.
 It is important to distinguish between operations that modify lists and operations that create new lists. For example, the append method modifies a list, but the + operator creates a new list:
@@ -1278,8 +1296,9 @@ True
 
 This time we get the right answer, but it looks like the loop only ran three times, which is suspicious. To get a better idea of what is happening, it is useful to draw a state diagram. During the first iteration, the frame for is_reverse is shows in Figure 1.
 
-![Figure 1: State Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython012.png)
-Figure 1: State diagram.
+| ![Figure 1: State Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython012.png) |
+|:---:|
+| _Figure 1: State diagram._ |
 
 I took a little license by arranging the variables in the frame and adding dotted lines to show that the values of i and j indicate characters in word1 and word2.
 
@@ -1408,8 +1427,11 @@ def histogram(s):
     return d
 ```
 
-The name of the function is histogram, which is a statistical term for a set of counters (or frequencies).
-The first line of the function creates an empty dictionary. The for loop traverses the string. Each time through the loop, if the character c is not in the dictionary, we create a new item with key c and the initial value 1 (since we have seen this letter once). If c is already in the dictionary we increment d[c].
+The name of the function is histogram, which is a statistical term for a set of counters (or
+frequencies). The first line of the function creates an empty dictionary. The for loop traverses the
+string. Each time through the loop, if the character `c` is not in the dictionary, we create a new
+item with key `c` and the initial value 1 (since we have seen this letter once). If `c` is already
+in the dictionary we increment `d[c]`.
 
 Here’s how it works:
 
@@ -1419,7 +1441,8 @@ Here’s how it works:
 {'a': 1, 'b': 1, 'o': 2, 'n': 1, 's': 2, 'r': 2, 'u': 2, 't': 1}
 ```
 
-The histogram indicates that the letters ’a’ and 'b' appear once; 'o' appears twice, and so on.
+The histogram indicates that the letters `'a'` and `'b'` appear once; `'o'` appears twice, and so
+on.
 
 ## 6.3
 
@@ -1998,8 +2021,9 @@ There are several kinds of relationship between classes:
 
 A class diagram is a graphical representation of these relationships. For example, Figure 7.1 shows the relationships between Card, Deck and Hand.
 
-![Class Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython026.png)
-Figure 7.1: Class diagram.
+| ![Class Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython026.png) |
+|:---:|
+| _Figure 7.1: Class diagram._ |
 
 The arrow with a hollow triangle head represents an IS-A relationship; in this case it indicates that Hand inherits from Deck.
 The standard arrow head represents a HAS-A relationship; in this case a Deck has references to Card objects.
@@ -2037,3 +2061,7 @@ find\_defining\_class uses the mro method to get the list of class objects (type
 Here’s a program design suggestion: whenever you override a method, the interface of the new method should be the same as the old. It should take the same parameters, return the same type, and obey the same preconditions and postconditions. If you obey this rule, you will find that any function designed to work with an instance of a superclass, like a Deck, will also work with instances of subclasses like a Hand or PokerHand.
 
 If you violate this rule, your code will collapse like (sorry) a house of cards.
+
+
+
+[**Think Python - How To Think Like A Computer Scientist**]: http://www.greenteapress.com/thinkpython/thinkpython.pdf
