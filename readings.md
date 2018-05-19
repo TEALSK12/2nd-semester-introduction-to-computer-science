@@ -1208,14 +1208,14 @@ Bing tiddle tiddle bang.
 Bing tiddle tiddle bang.
 ```
 
-When cat\_twice terminates, the variable cat is destroyed. If we try to print it, we get an
+When `cat_twice` terminates, the variable cat is destroyed. If we try to print it, we get an
 exception:
 
 ```
 >>> print(cat)
 NameError: name 'cat' is not defined
 ```
-Parameters are also local. For example, outside print\_twice, there is no such thing as bruce.
+Parameters are also local. For example, outside `print_twice`, there is no such thing as bruce.
 
 ### Global variables
 
@@ -1334,7 +1334,7 @@ chant2 = "Dona eis requim."
 cat_twice(chant1, chant2)
 ```
 
-We’ve added the statement, print(cat) inside the print\_twice function, but cat is not defined
+We’ve added the statement, print(cat) inside the `print_twice` function, but cat is not defined
 there. Running this script will produce an error message like this:
 
 ```
@@ -1390,7 +1390,7 @@ when you are working with mutable objects.
 # List arguments
 
 When you pass a list to a function, the function gets a reference to the list. If the function
-modifies a list parameter, the caller sees the change. For example, delete\_head removes the first
+modifies a list parameter, the caller sees the change. For example, `delete_head` removes the first
 element from a list:
 
 ```
@@ -2217,7 +2217,7 @@ method.
 If you are not sure whether an object has a particular attribute, you can use the built-in function
 hasattr (see Section 15.7).
 
-Another way to access the attributes of an object is through the special attribute \_\_dict\_\_,
+Another way to access the attributes of an object is through the special attribute `__dict__`,
 which is a dictionary that maps attribute names (as strings) and values:
 
 ```
@@ -2429,11 +2429,11 @@ And here is how you could use it:
 11:20:00
 ```
 
-When you apply the + operator to Time objects, Python invokes \_\_add\_\_. When you print the
-result, Python invokes \_\_str\_\_. So there is quite a lot happening behind the scenes!
+When you apply the + operator to Time objects, Python invokes `__add__`. When you print the
+result, Python invokes `__str__`. So there is quite a lot happening behind the scenes!
 
 Changing the behavior of an operator so that it works with user-defined types is called operator
-overloading. For every operator in Python there is a corresponding special method, like \_\_add\_\_.
+overloading. For every operator in Python there is a corresponding special method, like `__add__`.
 For more details, see http://docs.python.org/2/reference/datamodel.html#specialnames.
 
 #### Exercise
@@ -2467,14 +2467,14 @@ class Hand(Deck):
     """Represents a hand of playing cards."""
 ```
 
-This definition indicates that Hand inherits from Deck; that means we can use methods like pop\_card
-and add\_card for Hands as well as Decks.
+This definition indicates that Hand inherits from Deck; that means we can use methods like
+`pop_card` and `add_card` for Hands as well as Decks.
 
-Hand also inherits \_\_init\_\_ from Deck, but it doesn’t really do what we want: instead of
+Hand also inherits `__init__` from Deck, but it doesn’t really do what we want: instead of
 populating the hand with 52 new cards, the init method for Hands should initialize cards with an
 empty list.
 
-If we provide an \_\_init\_\_ method in the Hand class, it overrides the one in the Deck class:
+If we provide an `__init__` method in the Hand class, it overrides the one in the Deck class:
 
 ```
 # inside class Hand:
@@ -2494,7 +2494,8 @@ So when you create a Hand, Python invokes this init method:
 new hand
 ```
 
-But the other methods are inherited from Deck, so we can use pop\_card and add\_card to deal a card:
+But the other methods are inherited from Deck, so we can use `pop_card` and `add_card` to deal a
+card:
 
 ```
 >>> deck = Deck()
@@ -2504,7 +2505,7 @@ But the other methods are inherited from Deck, so we can use pop\_card and add\_
 King of Spades
 ```
 
-A natural next step is to encapsulate this code in a method called move\_cards:
+A natural next step is to encapsulate this code in a method called `move_cards`:
 
 ```
 #inside class Deck:
@@ -2514,11 +2515,11 @@ A natural next step is to encapsulate this code in a method called move\_cards:
             hand.add_card(self.pop_card())
 ```
 
-move\_cards takes two arguments, a Hand object and the number of cards to deal. It modifies both
+`move_cards` takes two arguments, a Hand object and the number of cards to deal. It modifies both
 self and hand, and returns None.
 
 In some games, cards are moved from one hand to another, or from a hand back to the deck. You can
-use move\_cards for any of these operations: self can be either a Deck or a Hand, and hand, despite
+use `move_cards` for any of these operations: self can be either a Deck or a Hand, and hand, despite
 the name, can also be a Deck.
 
 ### Class diagrams
