@@ -80,7 +80,8 @@ The value of minute is 59, and in conventional arithmetic 59 divided by 60 is 0.
 reason for the discrepancy is that Python is performing floor division. When both of the operands
 are integers, the result is also an integer; floor division chops off the fraction part, so in this
 example it rounds down to zero. In Python 3, the result of this division is a float. The new
-operator // performs floor division.
+operator `//` performs floor division (that is, it yields the integer value less than or equal to
+the resulting quotient).
 
 If either of the operands is a floating-point number, Python performs floating-point division, and
 the result is a float:
@@ -199,7 +200,8 @@ is useful to distinguish between them in order to track them down more quickly.
 
 Python can only execute a program if the syntax is correct; otherwise, the interpreter displays an
 error message. Syntax refers to the structure of a program and the rules about that structure. For
-example, parentheses have to come in matching pairs, so (1 + 2) is legal, but 8) is a syntax error.
+example, parentheses have to come in matching pairs, so `(1 + 2)` is legal, but `8)` is a syntax
+error.
 
 In English, readers can tolerate most syntax errors, which is why we can read the poetry of e. e.
 cummings without spewing error messages. Python is not so forgiving. If there is a single syntax
@@ -325,10 +327,10 @@ Use the Python interpreter to check your answers.
 #### Exercise 2
 Practice using the Python interpreter as a calculator:
 
-The volume of a sphere with radius r is 4/3 π r3. What is the volume of a sphere with radius 5?
-Hint: 392.7 is wrong! Suppose the cover price of a book is $24.95, but bookstores get a 40%
-discount. Shipping costs $3 for the first copy and 75 cents for each additional copy. What is the
-total wholesale cost for 60 copies?
+The volume of a sphere with radius r is 4/3 π r<sup>3</sup>. What is the volume of a sphere with
+radius 5? Hint: 392.7 is wrong! Suppose the cover price of a book is $24.95, but bookstores get a
+40% discount. Shipping costs $3 for the first copy and 75 cents for each additional copy. What is
+the total wholesale cost for 60 copies?
 
 If I leave my house at 6:52 am and run 1 mile at an easy pace (8:15 per mile), then 3 miles at tempo
 (7:12 per mile) and 1 mile at easy pace again, what time do I get home for breakfast?
@@ -761,11 +763,11 @@ while n != 1:
         n = n*3+1
 ```
 
-The condition for this loop is n != 1, so the loop will continue until n is 1, which makes the
+The condition for this loop is `n != 1`, so the loop will continue until n is 1, which makes the
 condition false.
 
 Each time through the loop, the program outputs the value of n and then checks whether it is even or
-odd. If it is even, n is divided by 2. If it is odd, the value of n is replaced with n*3+1. For
+odd. If it is even, n is divided by 2. If it is odd, the value of n is replaced with `n*3+1`. For
 example, if the argument passed to sequence is 3, the resulting sequence is 3, 10, 5, 16, 8, 4, 2,
 1.
 
@@ -860,7 +862,7 @@ dot (also known as a period). This format is called dot notation.
 ```
 
 The first example uses log10 to compute a signal-to-noise ratio in decibels (assuming that
-signal_power and noise_power are defined). The math module also provides log, which computes
+`signal_power` and `noise_power` are defined). The math module also provides log, which computes
 logarithms base e.
 
 The second example finds the sine of radians. The name of the variable is a hint that sin and the
@@ -962,7 +964,7 @@ Defining a function creates a variable with the same name.
 <type 'function'>
 ```
 
-The value of print_lyrics is a function object, which has type 'function'.
+The value of `print_lyrics` is a function object, which has type 'function'.
 The syntax for calling the new function is the same as for built-in functions:
 
 ```Python
@@ -981,7 +983,7 @@ def repeat_lyrics():
 
 ```
 
-And then call repeat_lyrics:
+And then call `repeat_lyrics`:
 
 ```Python
 >>> repeat_lyrics()
@@ -1008,10 +1010,10 @@ def repeat_lyrics():
 repeat_lyrics()
 ```
 
-This program contains two function definitions: print_lyrics and repeat_lyrics. Function definitions
-get executed just like other statements, but the effect is to create function objects. The
-statements inside the function do not get executed until the function is called, and the function
-definition generates no output.
+This program contains two function definitions: `print_lyrics` and `repeat_lyrics`. Function
+definitions get executed just like other statements, but the effect is to create function objects.
+The statements inside the function do not get executed until the function is called, and the
+function definition generates no output.
 
 As you might expect, you have to create a function before you can execute it. In other words, the
 function definition has to be executed before the first time it is called.
@@ -1021,8 +1023,8 @@ Move the last line of this program to the top, so the function call appears befo
 Run the program and see what error message you get.
 
 ### Exercise 2
-Move the function call back to the bottom and move the definition of print_lyrics after the
-definition of repeat_lyrics. What happens when you run this program?
+Move the function call back to the bottom and move the definition of `print_lyrics` after the
+definition of `repeat_lyrics`. What happens when you run this program?
 
 ### Flow of execution
 
@@ -1083,7 +1085,7 @@ Spam
 ```
 
 The same rules of composition that apply to built-in functions also apply to user-defined functions,
-so we can use any kind of expression as an argument for print_twice:
+so we can use any kind of expression as an argument for `print_twice`:
 
 ```Python
 >>> print_twice('Spam '*4)
@@ -1108,7 +1110,7 @@ Eric, the half a bee.
 
 The name of the variable we pass as an argument (michael) has nothing to do with the name of the
 parameter (bruce). It doesn’t matter what the value was called back home (in the caller); here in
-print_twice, we call everybody bruce.
+`print_twice`, we call everybody bruce.
 
 ## 3.3
 ### Return values
@@ -1220,8 +1222,8 @@ Parameters are also local. For example, outside `print_twice`, there is no such 
 
 ### Global variables
 
-Variables created outside the function, so it belongs to the special frame called __main__.
-Variables in __main__ are sometimes called global because they can be accessed from any function.
+Variables created outside the function, so it belongs to the special frame called `__main__`.
+Variables in `__main__` are sometimes called global because they can be accessed from any function.
 Unlike local variables, which disappear when their function ends, global variables persist from one
 function call to the next.
 
@@ -1239,8 +1241,8 @@ def example2():
     been_called = True         # WRONG
 ```
 
-But if you run it you will see that the value of been_called doesn’t change. The problem is that
-example2 creates a new local variable named been_called. The local variable goes away when the
+But if you run it you will see that the value of `been_called` doesn’t change. The problem is that
+example2 creates a new local variable named `been_called`. The local variable goes away when the
 function ends, and has no effect on the global variable.
 
 To reassign a global variable inside a function you have to declare the global variable before you
@@ -1255,7 +1257,7 @@ def example2():
 ```
 
 The global statement tells the interpreter something like, “In this function, when I say
-been_called, I mean the global variable; don’t create a local one.”
+`been_called`, I mean the global variable; don’t create a local one.”
 
 Here’s an example that tries to update a global variable:
 
@@ -1669,7 +1671,7 @@ True
 
 This time we get the right answer, but it looks like the loop only ran three times, which is
 suspicious. To get a better idea of what is happening, it is useful to draw a state diagram. During
-the first iteration, the frame for is_reverse is shows in Figure 1.
+the first iteration, the frame for `is_reverse` is shows in Figure 1.
 
 | ![Figure 1: State Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython012.png) |
 |:---:|
@@ -1918,7 +1920,7 @@ values.
 ### Looping and dictionaries
 
 If you use a dictionary in a for statement, it traverses the keys of the dictionary. For example,
-print_hist prints each key and the corresponding value:
+`print_hist` prints each key and the corresponding value:
 
 ```Python
 def print_hist(h):
@@ -1983,7 +1985,7 @@ Defining a class named Point creates a class object.
 <class '__main__.Point'>
 ```
 
-Because Point is defined at the top level, its “full name” is __main__.Point.
+Because Point is defined at the top level, its “full name” is `__main__.Point`.
 
 The class object is like a factory for creating objects. To create a Point, you call Point as if it
 were a function.
@@ -2047,8 +2049,8 @@ def print_point(p):
     print('(%g, %g)' % (p.x, p.y))
 ```
 
-print_point takes a point as an argument and displays it in mathematical notation. To invoke it, you
-can pass blank as an argument:
+`print_point` takes a point as an argument and displays it in mathematical notation. To invoke it,
+you can pass blank as an argument:
 
 ```Python
 >>> print_point(blank)
@@ -2059,7 +2061,7 @@ Inside the function, p is an alias for blank, so if the function modifies p, bla
 
 #### Exercises
 Exercise 1
-Write a function called distance_between_points that takes two Points as arguments and returns the
+Write a function called `distance_between_points` that takes two Points as arguments and returns the
 distance between them.
 
 ###  Rectangles
@@ -2107,7 +2109,7 @@ corner; then go to that object and select the attribute named x.”
 
 ### Instances as return values
 
-Functions can return instances. For example, find_center takes a Rectangle as an argument and
+Functions can return instances. For example, `find_center` takes a Rectangle as an argument and
 returns a Point that contains the coordinates of the center of the Rectangle:
 
 ```Python
@@ -2137,7 +2139,7 @@ box.width = box.width + 50
 box.height = box.width + 100
 ```
 
-You can also write functions that modify objects. For example, grow_rectangle takes a Rectangle
+You can also write functions that modify objects. For example, `grow_rectangle` takes a Rectangle
 object and two numbers, dwidth and dheight, and adds the numbers to the width and height of the
 rectangle:
 
@@ -2164,7 +2166,7 @@ Here is an example that demonstrates the effect:
 Inside the function, rect is an alias for box, so if the function modifies rect, box changes.
 
 ### Exercise 1
-Write a function named move_rectangle that takes a Rectangle and two numbers named dx and dy. It
+Write a function named `move_rectangle` that takes a Rectangle and two numbers named dx and dy. It
 should change the location of the rectangle by adding dx to the x coordinate of corner and adding dy
 to the y coordinate of corner.
 
@@ -2173,7 +2175,7 @@ to the y coordinate of corner.
 ### The init method
 
 The init method (short for “initialization”) is a special method that gets invoked when an object is
-instantiated. Its full name is __init__ (two underscore characters, followed by init, and then two
+instantiated. Its full name is `__init__` (two underscore characters, followed by init, and then two
 more underscores). An init method for the Time class might look like this:
 
 ```Python
@@ -2184,12 +2186,14 @@ class Time(object):
         self.second = second
 ```
 
-It is common for the parameters of __init__ to have the same names as the attributes. The statement
+It is common for the parameters of `__init__` to have the same names as the attributes. The
+statement
 
 ```Python
         self.hour = hour
 ```
 stores the value of the parameter hour as an attribute of self.
+
 The parameters are optional, so if you call Time with no arguments, you get the default values.
 
 ```Python
@@ -2235,7 +2239,7 @@ def print_attributes(obj):
         print(attr, getattr(obj, attr))
 ```
 
-print_attributes traverses the items in the object’s dictionary and prints each attribute name and
+`print_attributes` traverses the items in the object’s dictionary and prints each attribute name and
 its corresponding value.
 
 The built-in function getattr takes an object and an attribute name (as a string) and returns the
@@ -2266,7 +2270,7 @@ To call this function, you have to pass a Time object as an argument:
 09:45:00
 ```
 
-To make print_time a method, all we have to do is move the function definition inside the class
+To make `print_time` a method, all we have to do is move the function definition inside the class
 definition. Notice the change in indentation.
 
 ```Python
@@ -2275,7 +2279,7 @@ class Time(object):
         print(str(time.hour) + ":" + str(time.minute) + ":" + str(time.second))
 ```
 
-Now there are two ways to call print_time. The first (and less common) way is to use function
+Now there are two ways to call `print_time`. The first (and less common) way is to use function
 syntax:
 
 ```Python
@@ -2283,7 +2287,7 @@ syntax:
 09:45:00
 ```
 
-In this use of dot notation, Time is the name of the class, and print_time is the name of the
+In this use of dot notation, Time is the name of the class, and `print_time` is the name of the
 method. start is passed as a parameter.
 
 The second (and more concise) way is to use method syntax:
@@ -2293,7 +2297,7 @@ The second (and more concise) way is to use method syntax:
 09:45:00
 ```
 
-In this use of dot notation, print_time is the name of the method (again), and start is the object
+In this use of dot notation, `print_time` is the name of the method (again), and start is the object
 the method is invoked on, which is called the subject. Just as the subject of a sentence is what the
 sentence is about, the subject of a method invocation is what the method is about.
 
@@ -2301,7 +2305,7 @@ Inside the method, the subject is assigned to the first parameter, so in this ca
 to time.
 
 By convention, the first parameter of a method is called self, so it would be more common to write
-print_time like this:
+`print_time` like this:
 
 ```Python
 class Time(object):
@@ -2311,11 +2315,11 @@ class Time(object):
 
 The reason for this convention is an implicit metaphor:
 
-The syntax for a function call, print_time(start), suggests that the function is the active agent.
-It says something like, “Hey print_time! Here’s an object for you to print.”
+The syntax for a function call, `print_time(start)`, suggests that the function is the active agent.
+It says something like, “Hey `print_time`! Here’s an object for you to print.”
 
 In object-oriented programming, the objects are the active agents. A method invocation like
-start.print_time() says “Hey start! Please print yourself.”
+`start.print_time()` says “Hey start! Please print yourself.”
 
 This change in perspective might be more polite, but it is not obvious that it is useful. In the
 examples we have seen so far, it may not be. But sometimes shifting responsibility from the
@@ -2336,8 +2340,8 @@ def int_to_time(seconds):
     return time
 ```
 
-Write time_to_int as a method. It is probably not appropriate to rewrite int_to_time as a method;
-what object you would invoke it on?
+Write `time_to_int` as a method. It is probably not appropriate to rewrite `int_to_time` as a
+method; what object you would invoke it on?
 
 ## Another example
 
@@ -2351,7 +2355,7 @@ Here’s a version of increment written as a method:
         return int_to_time(seconds)
 ```
 
-This version assumes that time_to_int is written as a method, as in Exercise 1. Also, note that it
+This version assumes that `time_to_int` is written as a method, as in Exercise 1. Also, note that it
 is a pure function, not a modifier.
 
 Here’s how you would invoke increment:
@@ -2605,8 +2609,8 @@ Here’s an example:
 
 So the shuffle method for this Hand is the one in Deck.
 
-`find_defining_class` uses the mro method to get the list of class objects (types) that will be
-searched for methods. “MRO” stands for “method resolution order.”
+`find_defining_class` uses the `mro()` method to get the list of class objects (types) that will be
+searched for methods. “MRO” stands for “method resolution order”.
 
 Here’s a program design suggestion: whenever you override a method, the interface of the new method
 should be the same as the old. It should take the same parameters, return the same type, and obey
