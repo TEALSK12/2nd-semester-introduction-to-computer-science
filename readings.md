@@ -635,7 +635,7 @@ Similarly, the * operator repeats a list a given number of times:
 The first example repeats `[0]` four times. The second example repeats the list `[1, 2, 3]` three
 times.
 
-10.5  List slices
+### List slices
 
 The slice operator works on lists:
 
