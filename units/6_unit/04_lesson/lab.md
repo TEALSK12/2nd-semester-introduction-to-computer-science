@@ -33,7 +33,8 @@ set to the opening lines of Dr. Seuss's poem *Green Eggs and Ham*:
 <pre>
 		I am Sam. I am Sam. Sam I am.
 
-		That Sam-I-am! That Sam-I-am! I do not like that Sam-I-am!
+		That Sam-I-am! That Sam-I-am!
+		I do not like that Sam-I-am!
 
 		Do would you like green eggs and ham?
 
