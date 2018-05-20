@@ -8,5 +8,8 @@
     "structure": {
         "readme":  "README.md",
         "summary": "SUMMARY.md"
+    },
+    "pdf": {
+	"paperSize": "letter"
     }
 }
