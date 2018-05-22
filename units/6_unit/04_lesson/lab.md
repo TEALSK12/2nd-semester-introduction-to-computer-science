@@ -19,7 +19,7 @@ Here's one strategy for completing this lab:
 3. Run `find_max_valued_key()` once on the dictionary of word counts, print out
    the key/value of word it returns.
 4. Remove that key from the dictionary. 
-5. Repeat steps 2-4 four more times: Call `find_max_valued_key()`, print
+5. Repeat steps 3-4 four more times: Call `find_max_valued_key()`, print
    out the key/value pair, and remove the key. 
 
 If there is a tie within `find_max_valued_key()`, choose among the tied
