@@ -9,7 +9,7 @@ one.
 The program starts by loading an inventory of umbrella models from a
 text file. Afterwards, it greets the user with this message: 
 
-```
+<pre>
 Welcome to Umbrellas Unlimited, your online market for water
 protection. We have over 100 umbrellas for sale. Happy shopping!
 
@@ -22,12 +22,12 @@ Use these commands to navigate our site:
   (m)odify filter - change your search criteria
   (b)uy           - purchase an umbrella from the list shown
   (q)uit          - exit our site
-```
+</pre>
 
 Then it allows the user to browse and filter the catalog of available
 umbrellas:
 
-```
+<pre>
 Showing items 1-5 of 162 items
 
   1) Samsonite polyester compact umbrella.
@@ -42,7 +42,7 @@ Showing items 1-5 of 162 items
      Yellow. 3.5 stars. $10.16
 
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit?
-```
+</pre>
 
 We are providing you with a text file that
 contains the [complete inventory][2] of all 100+ models carried by
@@ -62,8 +62,8 @@ Here's an example interaction session:
 
 ### Paging through items
 
-```
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? next
+<pre>
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? <b>next</b>
 
 Showing items 6-10 of 162 items
 
@@ -78,7 +78,7 @@ Showing items 6-10 of 162 items
  10) Rainlax nylon standard umbrella.
      Clear. 2 stars. $11.48
 
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? next
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? <b>next</b>
 
 Showing items 11-15 of 162 items
 
@@ -93,7 +93,7 @@ Showing items 11-15 of 162 items
  15) GustBuster polyester standard umbrella.
      Automatic Open and close, Green. 3 stars. $13.43
 
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? next
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? <b>next</b>
 
 Showing items 16-20 of 162 items
 
@@ -108,7 +108,7 @@ Showing items 16-20 of 162 items
  20) Rainlax plastic golf umbrella.
      Black. 2.5 stars. $15.28
 
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? previous
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? <b>previous</b>
 
 Showing items 11-15 of 162 items
 
@@ -122,11 +122,11 @@ Showing items 11-15 of 162 items
      Blue. 1 stars. $13.31
  15) GustBuster polyester standard umbrella.
      Automatic Open and close, Green. 3 stars. $13.43
-```
+</pre>
 
 ### Adding filters
 
-```
+<pre>
 Showing items 1-5 of 162 items
 
   1) Samsonite polyester compact umbrella.
@@ -140,7 +140,7 @@ Showing items 1-5 of 162 items
   5) Rainlax canvas standard umbrella.
      Yellow. 3.5 stars. $10.16
 
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? add
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? <b>add</b>
 Attributes: 
     1) brand
     2) size
@@ -149,7 +149,7 @@ Attributes:
     5) color
     6) stars
     7) price
-Which attribute would you like to filter on? -->  1
+Which attribute would you like to filter on? -->  <b>1</b>
 Values: 
    1) GustBuster
    2) NewSight
@@ -157,7 +157,7 @@ Values:
    4) Samsonite
    5) ShedRain
    6) totes
-Which value would you like to allow ?-->  4
+Which value would you like to allow ?-->  <b>4</b>
 Current filters: 
 brand: Samsonite
 
@@ -174,7 +174,7 @@ Showing items 1-5 of 35 items
   5) Samsonite canvas golf umbrella.
      Automatic Open only, Clear. 2 stars. $18.25
 
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? add
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? <b>add</b>
 Attributes: 
     2) size
     3) material
@@ -182,13 +182,13 @@ Attributes:
     5) color
     6) stars
     7) price
-Which attribute would you like to filter on? -->  3
+Which attribute would you like to filter on? -->  <b>3</b>
 Values: 
    1) canvas
    2) nylon
    3) plastic
    4) polyester
-Which value would you like to allow ?-->  2
+Which value would you like to allow ?-->  <b>2</b>
 Current filters: 
 brand: Samsonite
 material: nylon
@@ -207,7 +207,7 @@ Showing items 1-5 of 6 items
      Green. 4.5 stars. $32.95
 
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit?
-```
+</pre>
 
 Notice that the list now contains only 6 items, all Samsonite brand and all nylon materials.
 
@@ -215,12 +215,12 @@ Notice that the list now contains only 6 items, all Samsonite brand and all nylo
 
 Continuing the previous example, we can remove the brand filter:
 
-```
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? remove
+<pre>
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? <b>remove</b>
 Filters: 
     1) brand: Samsonite
     2) material: nylon
-Which criterion would you like to remove? -->  1
+Which criterion would you like to remove? -->  <b>1</b>
 Current filters: 
 material: nylon
 
@@ -238,14 +238,14 @@ Showing items 1-5 of 37 items
      Automatic Open and close, Clear. 3 stars. $14.25
 
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? 
-```
+</pre>
 
 ### Modifying filters
 
 Sometimes you want to allow mulitple values for a given attribute, say "Nylon or plastic".
 A user can modify their filter to allow this:
 
-```
+<pre>
 Current filters: 
 brand: Samsonite
 material: nylon
@@ -263,18 +263,18 @@ Showing items 1-5 of 6 items
   5) Samsonite nylon standard umbrella.
      Green. 4.5 stars. $32.95
 
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? modify
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? <b>modify</b>
 
 Filters: 
     1) brand: Samsonite
     2) material: nylon
-Which filter would you like to modify? -->  2
+Which filter would you like to modify? -->  <b>2</b>
 Values: 
    1) canvas
 *  2) nylon
    3) plastic
    4) polyester
-Which value would you like to check/uncheck ?-->  3
+Which value would you like to check/uncheck ?-->  <b>3</b>
 Current filters: 
 brand: Samsonite
 material: nylon, plastic
@@ -293,7 +293,7 @@ Showing items 1-5 of 17 items
      Red. 2 stars. $24.10
 
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit?
-```
+</pre>
 
 Note that both nylon and plastic umbrellas are now present.
 
@@ -301,8 +301,7 @@ Note that both nylon and plastic umbrellas are now present.
 
 Finally, the user can select an item they want and purchase it:
 
-```
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? next
+<pre>
 Current filters: 
 brand: Samsonite
 material: nylon, plastic
@@ -320,12 +319,12 @@ Showing items 6-10 of 17 items
  10) Samsonite plastic compact umbrella.
      Automatic Open and close, Clear. 5 stars. $34.15
 
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? buy
-What item would you like to purchase?-->  8
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? <b>buy</b>
+What item would you like to purchase?-->  <b>8</b>
 You have purchased a: Samsonite plastic golf umbrella.
      Yellow. 4.5 stars. $32.85.
 	 Enjoy!
-```
+</pre>
 
 ## Data Structures
 
