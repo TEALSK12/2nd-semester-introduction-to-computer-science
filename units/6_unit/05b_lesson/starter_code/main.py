@@ -74,13 +74,6 @@ def handle_remove_criterion(criteria):
 def handle_modify_criterion(criteria):
   print('TODO(student): handle_modify_criterion() not implemented yet!')
 
-
-# Filters away those items that don't match the given criteria, then 
-# prints a sub-range of at most max_to_show items, starting with
-# the one in position first_to_show. Returns nothing.
-def show_matching_items(criteria, items, first_to_show, max_to_show):
-  print('TODO(student): show_matching_items() not implemented yet!')
-
   
 ## Main program      
 umbrellas = load_items('inventory.txt')

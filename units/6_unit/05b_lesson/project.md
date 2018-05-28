@@ -439,7 +439,8 @@ development milestones.
 
 1. Program can print the welcome message and action prompt, but
 can't actually take any actions. It just states "X not implemented"
-for any action the user tries to take.
+for any action the user tries to take. (The starter code described
+below gets students to this milestone "for free".)
 
 1. Program can load the inventory of umbrella models from the text
 file, and print out a nice representation of the top 10 of them.
@@ -473,11 +474,68 @@ vice-versa) one of the values for that attribute.
 
 This is a lengthy project, and writing it entirely from scratch in the
 time available is fairly challenging. We encourage students to use
-this starter project and extend it as instructed to make a finished
+[this starter project][1] and extend it as instructed to make a finished
 project. Here is a tour of the starter project and a list of parts
 that students must implement.
 
-The scaffolding program ...
+The starter project contains 7 files:
 
+| File | Description |
+| ---- | ----------- |
+| `inventory.txt` | A CSV file containing descriptions of 100+ models of umbrellas | 
+| `main.py` | Contains the top-level logic of the progam, including the action loop and handlers for each action |
+| `items.py` | Functions related to representing shopping items as python dictionaries  | 
+| `criteria.py` | Functions related to search criteria | 
+| `dictionaries.py` | Utilities for manipulating dictionaries |
+| `pages.py` | Functions to help display a paginated list |
+| `TEALS_utils.py` | General utilities for many TEALS labs |
+
+Code from 5 of these files is incorporated into `main.py` via `import`
+statements at the top of that program. The file `inventory.txt` is
+loaded at that start of the main program. 
+
+You can run the starter project as-is. It will run without error, but
+it won't do much. In order to make it useful, you will have to
+implement a number of functions. They are already defined in the
+various .py files, but have stub implementation that do little besides
+annouce that they are not yet implemented.
+
+The starter code files also contain some fully implemented functions 
+that you do not need to change.
+
+Here's a table listing all of the functions present in the starter
+code, together with an indication of whether you need to modify them
+or not.
+
+| Student must implement? | Function name | File |
+| -------------------- | ------------- | ---- |
+| **Yes** | `handle_purchase()` | `main.py` |
+| **Yes** | `handle_add_criterion()` | `main.py` |
+| **Yes** | `handle_remove_criterion()` | `main.py` |
+| **Yes** | `handle_modify_criterion()` | `main.py` |
+| **Yes** | `load_items()` | `items.py` |
+| **Yes** | `item_to_string()` | `items.py` |
+| No      | `print_page()` | `items.py` |
+| **Yes** | `filter_items()` | `criteria.py` |
+| **Yes** | `criteria_to_string()` | `criteria.py` |
+| **Yes** | `union_of_dictionaries()` | `dictionaries.py` |
+| No      | `first_index()` | `pages.py` |
+| No      | `last_index()` | `pages.py` |
+| No      | `next_page_number()` | `pages.py` |
+| No      | `previous_page_number()` | `pages.py` |
+| No      | `safe_to_integer()` | `TEALS_utils.py` |
+| No      | `get_valid_integer()` | `TEALS_utils.py` |
+
+Of course you are free to implement additional functions that you find
+useful. 
+
+Students will have to decide what is the best order to impelment these
+functions in; we hope they will be guided by the Milestones listed
+above.
+
+
+
+
+[1]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/tree/shopping/units/6_unit/05b_lesson/starter_code
 
 
