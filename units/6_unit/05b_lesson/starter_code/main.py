@@ -18,8 +18,8 @@ protection. We have over 100 umbrellas for sale. Happy shopping!
 
 help_text = '''Use these commands to navigate our site:
 
-  (n)ext          - view the next 10 items
-  (p)revious      - view the previous 10 items
+  (n)ext          - view the next page of items
+  (p)revious      - view the previous page of items
   (a)dd filter    - narrow your search by adding criteria
   (r)emove filter - broaden your search by deleting criteria
   (m)odify filter - change your search criteria

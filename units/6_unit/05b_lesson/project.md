@@ -15,8 +15,8 @@ protection. We have over 100 umbrellas for sale. Happy shopping!
 
 Use these commands to navigate our site:
 
-  (n)ext          - view the next 10 items
-  (p)revious      - view the previous 10 items
+  (n)ext          - view the next page of items
+  (p)revious      - view the previous page of items
   (a)dd filter    - narrow your search by adding criteria
   (r)emove filter - broaden your search by deleting criteria
   (m)odify filter - change your search criteria
@@ -28,24 +28,24 @@ Then it allows the user to browse and filter the catalog of available
 umbrellas:
 
 ```
-Showing items 1-10 of 162 items
+Showing items 1-5 of 162 items
 
-1) Samsonite polyester compact umbrella. Automatic Open and close, Clear. 2 stars. $8.99
-2) GustBuster plastic compact umbrella. Automatic Open only, Yellow. 0.5 stars. $9.04
-3) totes plastic golf umbrella. Automatic Open only, Green. 4.5 stars. $9.84
-4) GustBuster polyester standard umbrella. Automatic Open only, Red. 1.5 stars. $10.13
-5) Rainlax canvas standard umbrella. Yellow. 3.5 stars. $10.16
-6) Rainlax polyester golf umbrella. Red. 1 stars. $10.51
-7) ShedRain plastic golf umbrella. Automatic Open only, Red. 2.5 stars. $10.51
-8) Rainlax plastic standard umbrella. Automatic Open only, Yellow. 3.5 stars. $10.82
-9) Rainlax plastic standard umbrella. Yellow. 0.5 stars. $11.08
-10) Rainlax nylon standard umbrella. Clear. 2 stars. $11.48
+  1) Samsonite polyester compact umbrella.
+     Automatic Open and close, Clear. 2 stars. $8.99
+  2) GustBuster plastic compact umbrella.
+     Automatic Open only, Yellow. 0.5 stars. $9.04
+  3) totes plastic golf umbrella.
+     Automatic Open only, Green. 4.5 stars. $9.84
+  4) GustBuster polyester standard umbrella.
+     Automatic Open only, Red. 1.5 stars. $10.13
+  5) Rainlax canvas standard umbrella.
+     Yellow. 3.5 stars. $10.16
 
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? 
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit?
 ```
 
-Along with these instructions, we provide you with a text file that
-contains the complete inventory of all 100+ models carried by
+We are providing you with a text file that
+contains the [complete inventory][2] of all 100+ models carried by
 Umbrellas Unlimited. Your program should use a dictionary of strings
 to represent an umbrella and a list of such dictionaries to represent the
 full inventory. To manage the search criteria, your program should us
@@ -56,7 +56,6 @@ Although you may build this entire program from scratch, we strongly
 suggest you start with the provided scaffolding program. Either way,
 we encourage you to follow the implementation plan listed below.
 
-
 ## User Experience
 
 Here's an example interaction session:
@@ -66,85 +65,82 @@ Here's an example interaction session:
 ```
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? next
 
-Showing items 11-20 of 162 items
+Showing items 6-10 of 162 items
 
-11) Samsonite nylon golf umbrella. Yellow. 4 stars. $11.80
-12) GustBuster plastic standard umbrella. Automatic Open only, Green. 4 stars. $12.29
-13) Rainlax nylon standard umbrella. Red. 3 stars. $13.11
-14) Rainlax canvas golf umbrella. Blue. 1 stars. $13.31
-15) GustBuster polyester standard umbrella. Automatic Open and close, Green. 3 stars. $13.43
-16) GustBuster nylon compact umbrella. Automatic Open only, Clear. 2.5 stars. $13.95
-17) Rainlax nylon golf umbrella. Automatic Open and close, Clear. 3 stars. $14.25
-18) ShedRain plastic compact umbrella. Automatic Open only, Blue. 1.5 stars. $14.25
-19) Rainlax canvas standard umbrella. Automatic Open only, Yellow. 5 stars. $14.31
-20) Rainlax plastic golf umbrella. Black. 2.5 stars. $15.28
-
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? next
-
-Showing items 21-30 of 162 items
-
-21) GustBuster polyester compact umbrella. Automatic Open only, Black. 2 stars. $15.38
-22) Samsonite polyester golf umbrella. Clear. 1.5 stars. $15.52
-23) GustBuster nylon standard umbrella. Red. 4.5 stars. $15.85
-24) NewSight nylon standard umbrella. Automatic Open and close, Red. 1.5 stars. $16.12
-25) Samsonite plastic compact umbrella. Automatic Open and close, Black. 3.5 stars. $16.46
-26) Rainlax canvas golf umbrella. Clear. 2 stars. $16.85
-27) Samsonite canvas golf umbrella. Automatic Open only, Clear. 2 stars. $18.25
-28) Rainlax nylon golf umbrella. Red. 0.5 stars. $18.39
-29) Rainlax canvas standard umbrella. Automatic Open and close, Red. 1.5 stars. $18.85
-30) Rainlax canvas golf umbrella. Automatic Open and close, Clear. 2.5 stars. $19.11
+  6) Rainlax polyester golf umbrella.
+     Red. 1 stars. $10.51
+  7) ShedRain plastic golf umbrella.
+     Automatic Open only, Red. 2.5 stars. $10.51
+  8) Rainlax plastic standard umbrella.
+     Automatic Open only, Yellow. 3.5 stars. $10.82
+  9) Rainlax plastic standard umbrella.
+     Yellow. 0.5 stars. $11.08
+ 10) Rainlax nylon standard umbrella.
+     Clear. 2 stars. $11.48
 
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? next
 
-Showing items 31-40 of 162 items
+Showing items 11-15 of 162 items
 
-31) Samsonite canvas standard umbrella. Black. 1 stars. $19.73
-32) NewSight polyester standard umbrella. Automatic Open and close, Red. 1.5 stars. $21.13
-33) GustBuster canvas compact umbrella. Automatic Open only, Red. 1 stars. $21.68
-34) GustBuster polyester compact umbrella. Automatic Open only, Clear. 4.5 stars. $21.74
-35) GustBuster canvas compact umbrella. Automatic Open only, Yellow. 2 stars. $21.94
-36) NewSight canvas standard umbrella. Automatic Open and close, Blue. 5 stars. $22.52
-37) Samsonite polyester compact umbrella. Automatic Open only, Clear. 1 stars. $22.65
-38) Rainlax canvas standard umbrella. Black. 4 stars. $22.71
-39) ShedRain canvas golf umbrella. Automatic Open only, Black. 3.5 stars. $22.82
-40) Rainlax nylon golf umbrella. Clear. 4 stars. $23.02
+ 11) Samsonite nylon golf umbrella.
+     Yellow. 4 stars. $11.80
+ 12) GustBuster plastic standard umbrella.
+     Automatic Open only, Green. 4 stars. $12.29
+ 13) Rainlax nylon standard umbrella.
+     Red. 3 stars. $13.11
+ 14) Rainlax canvas golf umbrella.
+     Blue. 1 stars. $13.31
+ 15) GustBuster polyester standard umbrella.
+     Automatic Open and close, Green. 3 stars. $13.43
+
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? next
+
+Showing items 16-20 of 162 items
+
+ 16) GustBuster nylon compact umbrella.
+     Automatic Open only, Clear. 2.5 stars. $13.95
+ 17) Rainlax nylon golf umbrella.
+     Automatic Open and close, Clear. 3 stars. $14.25
+ 18) ShedRain plastic compact umbrella.
+     Automatic Open only, Blue. 1.5 stars. $14.25
+ 19) Rainlax canvas standard umbrella.
+     Automatic Open only, Yellow. 5 stars. $14.31
+ 20) Rainlax plastic golf umbrella.
+     Black. 2.5 stars. $15.28
 
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? previous
 
-Showing items 21-30 of 162 items
+Showing items 11-15 of 162 items
 
-21) GustBuster polyester compact umbrella. Automatic Open only, Black. 2 stars. $15.38
-22) Samsonite polyester golf umbrella. Clear. 1.5 stars. $15.52
-23) GustBuster nylon standard umbrella. Red. 4.5 stars. $15.85
-24) NewSight nylon standard umbrella. Automatic Open and close, Red. 1.5 stars. $16.12
-25) Samsonite plastic compact umbrella. Automatic Open and close, Black. 3.5 stars. $16.46
-26) Rainlax canvas golf umbrella. Clear. 2 stars. $16.85
-27) Samsonite canvas golf umbrella. Automatic Open only, Clear. 2 stars. $18.25
-28) Rainlax nylon golf umbrella. Red. 0.5 stars. $18.39
-29) Rainlax canvas standard umbrella. Automatic Open and close, Red. 1.5 stars. $18.85
-30) Rainlax canvas golf umbrella. Automatic Open and close, Clear. 2.5 stars. $19.11
-
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or
-(q)uit?
+ 11) Samsonite nylon golf umbrella.
+     Yellow. 4 stars. $11.80
+ 12) GustBuster plastic standard umbrella.
+     Automatic Open only, Green. 4 stars. $12.29
+ 13) Rainlax nylon standard umbrella.
+     Red. 3 stars. $13.11
+ 14) Rainlax canvas golf umbrella.
+     Blue. 1 stars. $13.31
+ 15) GustBuster polyester standard umbrella.
+     Automatic Open and close, Green. 3 stars. $13.43
 ```
 
 ### Adding filters
 
 ```
-Showing items 1-10 of 162 items
+Showing items 1-5 of 162 items
 
-1) Samsonite polyester compact umbrella. Automatic Open and close, Clear. 2 stars. $8.99
-2) GustBuster plastic compact umbrella. Automatic Open only, Yellow. 0.5 stars. $9.04
-3) totes plastic golf umbrella. Automatic Open only, Green. 4.5 stars. $9.84
-4) GustBuster polyester standard umbrella. Automatic Open only, Red. 1.5 stars. $10.13
-5) Rainlax canvas standard umbrella. Yellow. 3.5 stars. $10.16
-6) Rainlax polyester golf umbrella. Red. 1 stars. $10.51
-7) ShedRain plastic golf umbrella. Automatic Open only, Red. 2.5 stars. $10.51
-8) Rainlax plastic standard umbrella. Automatic Open only, Yellow. 3.5 stars. $10.82
-9) Rainlax plastic standard umbrella. Yellow. 0.5 stars. $11.08
-10) Rainlax nylon standard umbrella. Clear. 2 stars. $11.48
+  1) Samsonite polyester compact umbrella.
+     Automatic Open and close, Clear. 2 stars. $8.99
+  2) GustBuster plastic compact umbrella.
+     Automatic Open only, Yellow. 0.5 stars. $9.04
+  3) totes plastic golf umbrella.
+     Automatic Open only, Green. 4.5 stars. $9.84
+  4) GustBuster polyester standard umbrella.
+     Automatic Open only, Red. 1.5 stars. $10.13
+  5) Rainlax canvas standard umbrella.
+     Yellow. 3.5 stars. $10.16
 
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? a
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? add
 Attributes: 
     1) brand
     2) size
@@ -165,20 +161,20 @@ Which value would you like to allow ?-->  4
 Current filters: 
 brand: Samsonite
 
-Showing items 1-10 of 35 items
+Showing items 1-5 of 35 items
 
-1) Samsonite polyester compact umbrella. Automatic Open and close, Clear. 2 stars. $8.99
-2) Samsonite nylon golf umbrella. Yellow. 4 stars. $11.80
-3) Samsonite polyester golf umbrella. Clear. 1.5 stars. $15.52
-4) Samsonite plastic compact umbrella. Automatic Open and close, Black. 3.5 stars. $16.46
-5) Samsonite canvas golf umbrella. Automatic Open only, Clear. 2 stars. $18.25
-6) Samsonite canvas standard umbrella. Black. 1 stars. $19.73
-7) Samsonite polyester compact umbrella. Automatic Open only, Clear. 1 stars. $22.65
-8) Samsonite plastic compact umbrella. Automatic Open only, Yellow. 1 stars. $23.28
-9) Samsonite nylon standard umbrella. Blue. 3 stars. $23.98
-10) Samsonite nylon standard umbrella. Red. 2 stars. $24.10
+  1) Samsonite polyester compact umbrella.
+     Automatic Open and close, Clear. 2 stars. $8.99
+  2) Samsonite nylon golf umbrella.
+     Yellow. 4 stars. $11.80
+  3) Samsonite polyester golf umbrella.
+     Clear. 1.5 stars. $15.52
+  4) Samsonite plastic compact umbrella.
+     Automatic Open and close, Black. 3.5 stars. $16.46
+  5) Samsonite canvas golf umbrella.
+     Automatic Open only, Clear. 2 stars. $18.25
 
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? a
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? add
 Attributes: 
     2) size
     3) material
@@ -197,14 +193,18 @@ Current filters:
 brand: Samsonite
 material: nylon
 
-Showing items 1-6 of 6 items
+Showing items 1-5 of 6 items
 
-1) Samsonite nylon golf umbrella. Yellow. 4 stars. $11.80
-2) Samsonite nylon standard umbrella. Blue. 3 stars. $23.98
-3) Samsonite nylon standard umbrella. Red. 2 stars. $24.10
-4) Samsonite nylon golf umbrella. Clear. 2.5 stars. $31.40
-5) Samsonite nylon standard umbrella. Green. 4.5 stars. $32.95
-6) Samsonite nylon golf umbrella. Automatic Open only, Clear. 5 stars. $51.30
+  1) Samsonite nylon golf umbrella.
+     Yellow. 4 stars. $11.80
+  2) Samsonite nylon standard umbrella.
+     Blue. 3 stars. $23.98
+  3) Samsonite nylon standard umbrella.
+     Red. 2 stars. $24.10
+  4) Samsonite nylon golf umbrella.
+     Clear. 2.5 stars. $31.40
+  5) Samsonite nylon standard umbrella.
+     Green. 4.5 stars. $32.95
 
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit?
 ```
@@ -216,15 +216,6 @@ Notice that the list now contains only 6 items, all Samsonite brand and all nylo
 Continuing the previous example, we can remove the brand filter:
 
 ```
-Showing items 1-6 of 6 items
-
-1) Samsonite nylon golf umbrella. Yellow. 4 stars. $11.80
-2) Samsonite nylon standard umbrella. Blue. 3 stars. $23.98
-3) Samsonite nylon standard umbrella. Red. 2 stars. $24.10
-4) Samsonite nylon golf umbrella. Clear. 2.5 stars. $31.40
-5) Samsonite nylon standard umbrella. Green. 4.5 stars. $32.95
-6) Samsonite nylon golf umbrella. Automatic Open only, Clear. 5 stars. $51.30
-
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? remove
 Filters: 
     1) brand: Samsonite
@@ -233,21 +224,20 @@ Which criterion would you like to remove? -->  1
 Current filters: 
 material: nylon
 
-Showing items 1-10 of 37 items
+Showing items 1-5 of 37 items
 
-1) Rainlax nylon standard umbrella. Clear. 2 stars. $11.48
-2) Samsonite nylon golf umbrella. Yellow. 4 stars. $11.80
-3) Rainlax nylon standard umbrella. Red. 3 stars. $13.11
-4) GustBuster nylon compact umbrella. Automatic Open only, Clear. 2.5 stars. $13.95
-5) Rainlax nylon golf umbrella. Automatic Open and close, Clear. 3 stars. $14.25
-6) GustBuster nylon standard umbrella. Red. 4.5 stars. $15.85
-7) NewSight nylon standard umbrella. Automatic Open and close, Red. 1.5 stars. $16.12
-8) Rainlax nylon golf umbrella. Red. 0.5 stars. $18.39
-9) Rainlax nylon golf umbrella. Clear. 4 stars. $23.02
-10) GustBuster nylon standard umbrella. Automatic Open only, Yellow. 4.5 stars. $23.82
+  1) Rainlax nylon standard umbrella.
+     Clear. 2 stars. $11.48
+  2) Samsonite nylon golf umbrella.
+     Yellow. 4 stars. $11.80
+  3) Rainlax nylon standard umbrella.
+     Red. 3 stars. $13.11
+  4) GustBuster nylon compact umbrella.
+     Automatic Open only, Clear. 2.5 stars. $13.95
+  5) Rainlax nylon golf umbrella.
+     Automatic Open and close, Clear. 3 stars. $14.25
 
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? 
-
 ```
 
 ### Modifying filters
@@ -260,16 +250,21 @@ Current filters:
 brand: Samsonite
 material: nylon
 
-Showing items 1-6 of 6 items
+Showing items 1-5 of 6 items
 
-1) Samsonite nylon golf umbrella. Yellow. 4 stars. $11.80
-2) Samsonite nylon standard umbrella. Blue. 3 stars. $23.98
-3) Samsonite nylon standard umbrella. Red. 2 stars. $24.10
-4) Samsonite nylon golf umbrella. Clear. 2.5 stars. $31.40
-5) Samsonite nylon standard umbrella. Green. 4.5 stars. $32.95
-6) Samsonite nylon golf umbrella. Automatic Open only, Clear. 5 stars. $51.30
+  1) Samsonite nylon golf umbrella.
+     Yellow. 4 stars. $11.80
+  2) Samsonite nylon standard umbrella.
+     Blue. 3 stars. $23.98
+  3) Samsonite nylon standard umbrella.
+     Red. 2 stars. $24.10
+  4) Samsonite nylon golf umbrella.
+     Clear. 2.5 stars. $31.40
+  5) Samsonite nylon standard umbrella.
+     Green. 4.5 stars. $32.95
 
-(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? m
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? modify
+
 Filters: 
     1) brand: Samsonite
     2) material: nylon
@@ -284,22 +279,23 @@ Current filters:
 brand: Samsonite
 material: nylon, plastic
 
-Showing items 1-10 of 17 items
+Showing items 1-5 of 17 items
 
-1) Samsonite nylon golf umbrella. Yellow. 4 stars. $11.80
-2) Samsonite plastic compact umbrella. Automatic Open and close, Black. 3.5 stars. $16.46
-3) Samsonite plastic compact umbrella. Automatic Open only, Yellow. 1 stars. $23.28
-4) Samsonite nylon standard umbrella. Blue. 3 stars. $23.98
-5) Samsonite nylon standard umbrella. Red. 2 stars. $24.10
-6) Samsonite plastic standard umbrella. Blue. 1.5 stars. $25.02
-7) Samsonite nylon golf umbrella. Clear. 2.5 stars. $31.40
-8) Samsonite plastic golf umbrella. Yellow. 4.5 stars. $32.85
-9) Samsonite nylon standard umbrella. Green. 4.5 stars. $32.95
-10) Samsonite plastic compact umbrella. Automatic Open and close, Clear. 5 stars. $34.15
+  1) Samsonite nylon golf umbrella.
+     Yellow. 4 stars. $11.80
+  2) Samsonite plastic compact umbrella.
+     Automatic Open and close, Black. 3.5 stars. $16.46
+  3) Samsonite plastic compact umbrella.
+     Automatic Open only, Yellow. 1 stars. $23.28
+  4) Samsonite nylon standard umbrella.
+     Blue. 3 stars. $23.98
+  5) Samsonite nylon standard umbrella.
+     Red. 2 stars. $24.10
 
+(b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit?
 ```
 
-Note that both plastic and nylon umbrellas are now present.
+Note that both nylon and plastic umbrellas are now present.
 
 ### Completing a purchase
 
@@ -311,21 +307,24 @@ Current filters:
 brand: Samsonite
 material: nylon, plastic
 
-Showing items 11-17 of 17 items
+Showing items 6-10 of 17 items
 
-11) Samsonite plastic golf umbrella. Clear. 1 stars. $34.86
-12) Samsonite plastic compact umbrella. Automatic Open only, Clear. 4 stars. $42.47
-13) Samsonite plastic standard umbrella. Red. 2 stars. $44.49
-14) Samsonite plastic compact umbrella. Automatic Open only, Red. 5 stars. $44.97
-15) Samsonite plastic standard umbrella. Green. 3 stars. $49.06
-16) Samsonite nylon golf umbrella. Automatic Open only, Clear. 5 stars. $51.30
-17) Samsonite plastic golf umbrella. Automatic Open only, Clear. 5 stars. $53.03
+  6) Samsonite plastic standard umbrella.
+     Blue. 1.5 stars. $25.02
+  7) Samsonite nylon golf umbrella.
+     Clear. 2.5 stars. $31.40
+  8) Samsonite plastic golf umbrella.
+     Yellow. 4.5 stars. $32.85
+  9) Samsonite nylon standard umbrella.
+     Green. 4.5 stars. $32.95
+ 10) Samsonite plastic compact umbrella.
+     Automatic Open and close, Clear. 5 stars. $34.15
 
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? buy
-What item would you like to purchase?-->  12
-You have purchased a: Samsonite plastic compact umbrella. Automatic Open only, Clear. 4 stars. $42.47.
-Enjoy!
-
+What item would you like to purchase?-->  8
+You have purchased a: Samsonite plastic golf umbrella.
+     Yellow. 4.5 stars. $32.85.
+	 Enjoy!
 ```
 
 ## Data Structures
@@ -590,5 +589,5 @@ You may earn bonus points on the project by trying some of these ideas:
 
 
 [1]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/tree/shopping/units/6_unit/05b_lesson/starter_code
-
+[2]: starter_code/inventory.txt
 
