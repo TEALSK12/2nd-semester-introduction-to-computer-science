@@ -1,3 +1,6 @@
+# A library of utilities convenient for many TEALS labs
+# and projects. 
+
 # Tries to interpret a string as an integer, returns the
 # result. returns a default value if the interpretation fails.
 def safe_to_integer(value, default=0):
