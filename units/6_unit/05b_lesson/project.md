@@ -584,9 +584,6 @@ You may earn bonus points on the project by trying some of these ideas:
   main program in a corresponding way to create a shopping site for a
   different product line.
 
-
-
-
-[1]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/tree/shopping/units/6_unit/05b_lesson/starter_code
+[1]: starter_code
 [2]: starter_code/inventory.txt
 
