@@ -452,14 +452,14 @@ users to browse through the full inventory of umbrellas.
 the shown models and "purchase" it (simply prints a desciprtion of the
 selected item and exits).
 
-1. Hard code the filter `my_criteria` into your program as above.
+1. Temporarily hard code the filter `my_criteria` into your program as above.
 Program applies that filter to the full inventory and displays just
 the subset that match it.
 
 1. Program supports the (a)dd filter action, prompting user for an
 attribute and a value, creates a corresponding search criteria
 dictionary, and applies it to the inventory (instead of
-`my_criteria`).
+`my_criteria`, which you can now delete).
 
 1. Program supports the (r)emove filter action, displaying the current
 attributes that are being filtered on and asking the user which one to
@@ -532,6 +532,59 @@ useful.
 Students will have to decide what is the best order to impelment these
 functions in; we hope they will be guided by the Milestones listed
 above.
+
+## Grading 
+
+### Rubric
+
+The project is graded on many aspects, with a total of 100 points available:
+
+
+| Aspect                                                  | Points |
+| ------------------------------------------------------- |----: |
+| **Functional Correctness(Behavior)**                    |    |
+| Inventory loading                                       | 10 |
+| Inventory browsing ((n)ext and (p)revious)              |  5 |
+| Purchasing ((b)uy)                                      |  2 |
+| Filtering out items not matching search criteria        | 10 |
+| Adding a search criterion ((a)dd filter)                | 10 |
+| Removing a search criterion ((r)emove filter)           |  3 |
+| Modifying a search criterion ((m)odify filter)          | 10 |
+| **Sub total**                                           | **50** |
+| | |
+| **Technical Correctness**                               |    |
+| Correct use of dictionaries                             | 15 |
+| Correct use of lists                                    | 10 |
+| Correct use of printing/formatting                      | 10 |
+| **Sub total**                                           | **35** |
+| | |
+| **Style**                                               |    |
+| Good variable names                                     |  5 |
+| Clear, easy to follow implementations                   |  5 |
+| Clean user interface                                    |  5 |
+| **Sub total**                                           | **15** |
+| | |
+| **Total**                                               |**100** |
+
+### Bonus
+
+You may earn bonus points on the project by trying some of these ideas:
+
+* The current user interface and data representation are pretty poor
+  for continuous quantities like price and number. Users typically
+  want to add criteria like "price < $X" or "stars > Y". Build this
+  feature into your program.
+  
+* Introduce a "sort by" feature that can list the items by increasing
+  / decreasing prices, alphabetically, etc.
+
+* Write a program to generate a random assortment of umbrella models
+  and output them as an inventory file in CSV format.
+
+* Update your inventory generator to produce something other than
+  umbrellas: smart phones, bicycles, cars, clothing, etc. Update your
+  main program in a corresponding way to create a shopping site for a
+  different product line.
 
 
 
