@@ -58,6 +58,6 @@ Students will be able to...
 
 
 [Python Code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/hello_world.py
-[Sign Up Guide]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/replit_student.docx
-[Sign Up Guide Teachers]:python_replit_sign_up_teachers.md
-[Sign Up Guide pdf]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/replit_student.pdf
+[Sign Up Guide]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/replit_student.docx
+[Sign Up Guide Teachers]:python_replit_sign_up_teacher.md
+[Sign Up Guide pdf]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/replit_student.pdf
