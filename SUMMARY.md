@@ -6,8 +6,8 @@
 
 * [Unit 1](units/1_unit/unit_1.md)
    * [Lesson 1.01: Set Up](units/1_unit/01_lesson/lesson.md)
-       * [IDE Sign Up](units/1_unit/01_lesson/python_online_editor_sign_up.md)
-       * [IDE Sign Up: Teacher's Version](units/1_unit/01_lesson/python_online_editor_sign_up_teachers.md)
+       * [IDE Sign Up](units/1_unit/01_lesson/python_replit_sign_up.md)
+       * [IDE Sign Up: Teacher's Version](units/1_unit/01_lesson/python_replit_sign_up_teacher.md)
    * [Lesson 1.02: Interactive Mode](units/1_unit/02_lesson/lesson.md)
        * [Lab 1.02](units/1_unit/02_lesson/lab.md)
    * [Lesson 1.03: Script Mode and Variables](units/1_unit/03_lesson/lesson.md)
