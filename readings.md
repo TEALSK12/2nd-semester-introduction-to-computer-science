@@ -328,9 +328,7 @@ Use the Python interpreter to check your answers.
 Practice using the Python interpreter as a calculator:
 
 The volume of a sphere with radius r is 4/3 π r<sup>3</sup>. What is the volume of a sphere with
-radius 5? (Hint: 392.7 is wrong!) 
-
-Suppose the cover price of a book is $24.95, but bookstores get a
+radius 5? Hint: 392.7 is wrong! Suppose the cover price of a book is $24.95, but bookstores get a
 40% discount. Shipping costs $3 for the first copy and 75 cents for each additional copy. What is
 the total wholesale cost for 60 copies?
 
@@ -732,7 +730,7 @@ Here is an example countdown snippet that uses a while statement:
 ```Python
 while n > 0:
     print(n)
-    n = n-1
+    n = n - 1
 print('Blastoff!')
 ```
 You can almost read the while statement as if it were English. It means, “While n is greater than 0,
@@ -758,18 +756,19 @@ we have to get to 0. In other cases, it is not so easy to tell:
 
 ```Python
 while n != 1:
-    print (n)
-    if n%2 == 0:        # n is even
-        n = n//2
-    else:               # n is odd
-        n = n*3+1
+  print(n)
+  if n % 2 == 0:   # n is even
+    n = n // 2
+  else:
+    n = (n * 3) + 1  # n is odd
+print(n)
 ```
 
 The condition for this loop is `n != 1`, so the loop will continue until n is 1, which makes the
 condition false.
 
 Each time through the loop, the program outputs the value of n and then checks whether it is even or
-odd. If it is even, n is divided by 2. If it is odd, the value of n is replaced with `n*3+1`. For
+odd. If it is even, n is divided by 2. If it is odd, the value of n is replaced with `(n * 3) + 1`. For
 example, if the argument passed to sequence is 3, the resulting sequence is 3, 10, 5, 16, 8, 4, 2,
 1.
 
