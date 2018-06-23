@@ -46,7 +46,7 @@ Instructor's Notes
   - Students are introduced to EarSketch and the functions `setTempo()` and `fitMedia()`.
 
 ### 2. Lesson
-  - Ask the students what phrases the students wrote down or found most important from the reading.
+  Ask the students what phrases the students wrote down or found most important from the reading.
   - **DAW**: The main tool for producing music on a computer is the Digital Audio Workstation, or
     DAW. A DAW is a piece of computer software for recording, editing, and playing digital audio
     files. Audio files store information that the computer uses to play back music. In the context
