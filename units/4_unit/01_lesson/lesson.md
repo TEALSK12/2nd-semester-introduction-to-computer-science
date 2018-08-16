@@ -1,6 +1,6 @@
-#Lesson 4.01: Looping Basics
+# Lesson 4.01: Looping Basics
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 
 * Define and identify: **for loop**, **item**, **iteration**, **scope**
@@ -8,7 +8,7 @@ Students will be able to...
 * Loop through (traverse) the items in a list
 * Be aware of the scope of variables during iteration 
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - de_vowel]
 * Associated Reading - section 4.1 of Book
@@ -43,7 +43,7 @@ Students will be able to...
 	* Talk about any issues or challenges the students had with this lab. If there is time, call students up to the board to shown and demonstrate their code/solutions.
 	
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 
 If there is time, go over the bonus question. Explain how a counter is a frequently used tool to keep track of the count of things from outside the loop . Discuss the concept of the counter's scope (counter gets updated in the loop, but doesn't reset automatically at each iteration). Counters can be used with any loop, and are often used with while loops!
 
