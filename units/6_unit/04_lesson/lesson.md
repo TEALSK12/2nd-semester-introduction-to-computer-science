@@ -1,11 +1,11 @@
-#Lesson 6.04: Dictionaries Looping
+# Lesson 6.04: Dictionaries Looping
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 
 * Use loops to traverse through key/value pairs in a dictionary 
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Dictionaries Looping]
 * Associated Reading - section 6.4 of Book
@@ -38,10 +38,13 @@ Students will be able to...
 	* Take a moment to discuss any common areas of confusion or challenge that came up during the lab. 
 	* Talk about how `in` works for dictionaries for the bonus.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Students that are moving quickly can explore sorting additionally in the bonus activity.
 
 Some students may need a second class period to complete this lab. 
+
+## Forums discussion
+[Lesson 6.04: Dictionaries Looping (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-6-dictionaries/lesson-6-04-dictionaries-looping)
 
 [Do Now]: do_now.md
 [Lab - Dictionaries Looping]: lab.md

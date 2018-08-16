@@ -1,13 +1,13 @@
 # Lesson 2.05: Lists
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **list, item, index, integer**
 * Be able to access items from a list using the index
 * Create lists of different types
 * Use the length function
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - College Chooser]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
@@ -50,8 +50,11 @@ Students will be able to...
 4. **Debrief**
     * Check student progress and completion of the lab, wrap up by taking any final questions.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 If students are moving quickly, you can introduce the topic of nested lists. Start off with a simple nested list like `['a', 'b', 'c', [1, 2, 3]]`. Ask the students to guess the length. Ask the students to guess how they would access the item '1' from that list! 
+
+## Forum discussion
+[Lesson 2.05: Lists (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-05-lists)
   
 [Do Now]:do_now.md
 [Lab - College Chooser]:lab.md

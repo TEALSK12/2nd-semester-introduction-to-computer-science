@@ -1,13 +1,13 @@
 # Lesson 7.03: Methods
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **method**, **`__str__`**, **`__add__`**, **operator overloading**
 * Create a class with an `__init__` method
 * Understand and use the `self` argument
 * Instantiate a class with an argument
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Kangaroo Class]
 * Associated Reading - section 7.3 of Book
@@ -46,9 +46,12 @@ Students will be able to...
 	* Go over students' questions and demonstrate some students' successfully completed labs. 
 	* Review what a method is, as well as what specific methods were used in today's lab.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 
 Students that are moving quickly should work on the bonus assignment in the lab or assist a partner that is struggling. 
+
+## Forum discussion
+[Lesson 7.03: Methods (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-03-methods)
 
 [Do Now]:do_now.md
 [Lab - Kangaroo Class]:lab.md

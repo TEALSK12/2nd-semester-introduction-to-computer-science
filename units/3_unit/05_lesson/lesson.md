@@ -6,7 +6,7 @@ Students will be able to...
 * Create functions to organize a project
 * Apply skills learned in units 1-3 to create a functioning program
 
-##Materials/Preparation
+## Materials/Preparation
 * [Project Spec - Oregon Trail]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard](https://www.tealsk12.org/dashboard/))
 * Update the Project Spec as needed to meet your grading requirements
@@ -48,10 +48,13 @@ Students will be able to...
     	6. Connect functions together
     	7. Wrap up and game over check is correct
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Advanced students can add in random events like cholera or snake bites. Students can also have a list of travelers instead of just 1, where each traveler is affected differently by each action.
 
 The planning phase of this project will be essential, especially for students who you think may struggle with this project. Provide more guidance and scaffolding to those students that need it. 
+
+## Forum discussion
+[Lesson 3.05: Oregon Trail (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-05-oregon-trail)
     
 [Project Spec - Oregon Trail]:project.md 
 [Oregon Trail - Example Code]:oregon_trail.py

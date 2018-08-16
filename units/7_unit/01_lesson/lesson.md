@@ -1,13 +1,13 @@
 # Lesson 7.01: User-Defined Types (Classes)
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **class**, **instance**, **object**, **attributes**
 * Create a class and instantiate 
 * Add attributes to an instance
 * Manipulate instances and attributes through a function
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Example]
 * [Lab - Create a Color Class]
@@ -49,10 +49,13 @@ Students will be able to...
 	* They can check their colors on the linked RGB website in the lab.
 4. **Debrief**
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Given the big leap taken today with much new terminology and challenging concepts, it's quite possible students will need additional class time to digest the information and finish the lab. 
 
 For students that are quickly picking up the concepts, have them create their own unique class or have them help explain to struggling students with their own examples what a class, object, instance, or attribute is. 
+
+## Forum discussion
+[Lesson 7.01: User-Defined Types (Classes) (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-01-user-defined-types-classes)
 
   
 [Do Now]:do_now.md

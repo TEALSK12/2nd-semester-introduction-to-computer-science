@@ -1,6 +1,6 @@
-#Lesson 1.01: Set Up
+# Lesson 1.01: Set Up
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 
 * Define and identify: **IDE**, **Python**
@@ -8,7 +8,7 @@ Students will be able to...
 * Set up and log into an account for the course's online IDE
 * Save and turn in a file via the online IDE
 
-##Materials/Preparation
+## Materials/Preparation
 * Update the collaboration policy, IDE information, grading percentages, and general syllabus based on your preferences and your school's requirements
 * Create an account on online IDE and update the student Sign Up Guide with your username
 * Update the student Sign Up Guide with file naming and turn-in conventions for your course
@@ -56,8 +56,12 @@ Students will be able to...
 	* If students finish early, encourage them to explore the interface and to try creating a program that prints their name.
 
 
+## Forum discussion
+[Lesson 0.1: The First Day (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-01-set-up)
 
 [Python Code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/hello_world.py
+
 [Sign Up Guide]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/replit_student.docx
 [Sign Up Guide Teachers]:python_replit_sign_up_teacher.md
 [Sign Up Guide pdf]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/replit_student.pdf
+

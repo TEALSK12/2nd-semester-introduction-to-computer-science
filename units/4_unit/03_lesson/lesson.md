@@ -1,26 +1,26 @@
-#Lesson 4.03: Nested For Loops
+# Lesson 4.03: Nested For Loops
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **nested for loops**, **stack trace**
 * Use nested for loops via a function and a for loop
 * Use nested for loops via two loops nested
 * Use a stack trace to understand and demonstrate the flow of nested for loops
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Nested For Loops]
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
-###Day 1
+### Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
 | 35 Minutes | Lab         |
 | 5 Minutes | Debrief     |
-###Day 2
+### Day 2
 | ** Duration **|   **Description**          |
 |---|---|
 | 5 Minutes  | Do Now      |
@@ -54,12 +54,15 @@ Students will be able to...
 	* Go over common questions the students had.
 	* On the second day, if time allows, go over the bonus and discuss how students solved the problem.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 If students need extra time for lab there is another day in the schedule for that. 
 
 This topic is often confusing for students new to the concept, so build in time for frequent individual checks for understanding.
 
 The bonus problems for the lab are a bit harder and should allow students who are moving fast to work on something a bit trickier. 
+
+## Forums discussion
+[Lesson 4.03: Nested For Loops (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/unit-4-looping/lesson-4-03-nested-for-loops)
 
 [Do Now]: do_now.md
 [Lab - Nested For Loops]: lab.md

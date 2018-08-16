@@ -60,5 +60,8 @@ If any students are struggling with today's lesson, be prepared to offer additio
 
 Students that are moving quickly through the lab should work on the bonus and research how to add new key/value pairs to a dictionary.
 
+## Forum discussion
+[Lesson 6.01: Introduction to Dictionaries (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-6-dictionaries/lesson-6-01-introduction-to-dictionaries)
+
 [Do Now]: do_now.md
 [Lab - Dictionary of Internet Abbreviations]: lab.md

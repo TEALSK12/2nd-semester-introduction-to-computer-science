@@ -1,12 +1,12 @@
 # Lesson 7.05: Pokemon Project
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 
 * Engage in **class design** before beginning coding
 * Apply what was learned with respect to **classes**, **methods**, and** inheritance** to create an implementation of Pokemon
 
-##Materials/Preparation
+## Materials/Preparation
 * [Project Spec - Pokemon]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the project spec so that you are familiar with the requirements and can assist students
@@ -14,14 +14,14 @@ Students will be able to...
 * Review [4 Steps to Solve Any CS Problem]
 
 ## Pacing Guide
-###Day 1
+### Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Project Handout      |
 | 5 Minutes | Mini-Lesson      |
 | 15 Minutes | Project Overview         
 | 30 Minutes | Project Planning  |
-###Days 2-7
+### Days 2-7
 | **Duration**|**Description**      |
 |--|--|
 | 5 Minutes  | Planning/Questions      |
@@ -54,6 +54,9 @@ Students will be able to...
 	4. **Wrap Up**
 		* have the students write down what they struggled on or had a hard time doing. 
 
+  
+## Forum discussion
+[Lesson 7.05: Pokemon Project (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-05-pokemon)
   
 [Project Spec - Pokemon]:project.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard

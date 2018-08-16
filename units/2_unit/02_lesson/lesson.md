@@ -1,12 +1,12 @@
-#Lesson 2.02: Data Types & Casting
+# Lesson 2.02: Data Types & Casting
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **type, string, casting, floating point number (float), integer**
 * Describe different representations of data in Python 
 * Convert from one data type to another data type
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Casting]
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -47,8 +47,11 @@ Students will be able to...
     * Check student progress and completion of the lab, wrap up by taking any final questions.
 
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0's and 1's). In practice these translate to True and False. Convert numbers to boolean, and booleans to numbers.
+
+## Forum discussion
+[Lesson 2.02: Data Types and Casting (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-02-data-types-casting)
   
 
 [Do Now]:do_now.md

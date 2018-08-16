@@ -1,13 +1,13 @@
 # Lesson 2.06: Lists 2
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 
 * Define and identify: **slice, append, pop, remove**
 * Slice a list
 * Add and remove elements from a list
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Tic-Tac-Toe]
 * Associated Reading - section 2.5 of Book
@@ -39,12 +39,15 @@ Students will be able to...
 4. **Debrief**
     * Check student progress and completion of the lab, wrap up by taking any final questions.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 If students are moving quickly, start the next topic of using a while loop as a game loop. Explore the concept of keeping score for the game.
 
 If students are moving slowly then spend an extra day reviewing lists and completing lab activities. 
 
 There is also an opportunity for a quiz after the game loop lesson and before the project. 
+
+## Forum discussion
+[Lesson 2.06: Lists 2 (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-06-lists-2)
   
 
 [Do Now]:do_now.md

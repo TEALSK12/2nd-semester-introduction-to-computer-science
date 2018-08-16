@@ -74,3 +74,7 @@ If students are moving quickly, ask students to come up with a way to print two 
 
 [Lab - Printing & Variables]:lab.md
 [Do Now]:do_now.md
+
+
+## Forum discussion
+[Lesson 1.03: Script Mode and Variables (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-03-script-mode-and-variables)

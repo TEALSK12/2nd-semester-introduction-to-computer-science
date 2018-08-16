@@ -1,11 +1,11 @@
 # Lesson 4.06: Project 4
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Use project planning skills to complete a larger project
 * Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game
 
-##Materials/Preparation
+## Materials/Preparation
 * [Project Spec - Tic-Tac-Toe]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the handout, lesson, and project so that you are familiar with the requirements and can assist students
@@ -13,7 +13,7 @@ Students will be able to...
 * Review [4 Steps to Solve Any CS Problem]
 
 ## Pacing Guide
-###Day 1
+### Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
@@ -21,7 +21,7 @@ Students will be able to...
 | 30 Minutes | Planning/Design   |
 | 10 Minutes | Debrief  |
 
-###Days 2-9
+### Days 2-9
 |**Duration** |  **Description**           |
 |---|---|
 | 5 Minutes  | Day Plan    | 
@@ -59,14 +59,15 @@ Students will be able to...
 	* Go over any parts of the program that the majority of the class is struggling with. Provide scaffolding and tips to students that are not on track for completion.
 	 
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Students can create a variable sized board.
 
 The checkers can actually be done using one function, taking in the start x and y and the movement of the x and y. 
 
 The planning phase of this project will be essential, especially for students who you think may struggle with this project. Provide more guidance and scaffolding to those students that need it. 
     
-
+## Forum discussion
+[Lesson 4.06: Project 4 (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/unit-4-looping/lesson-4-06-tic-tac-toe)
 
 [Project Spec - Tic-Tac-Toe]: project.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard

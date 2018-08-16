@@ -1,6 +1,6 @@
-#Lesson 5.03: Earsketch Control Flow
+# Lesson 5.03: Earsketch Control Flow
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 
 * Define and identify: **modulo**
@@ -9,7 +9,7 @@ Students will be able to...
 * Use control structures to create music
 
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - EarSketch Control Flow]
 * [EarSketch Editor]
@@ -39,8 +39,11 @@ Students will be able to...
 4. **Debrief**
 	* Talk about any of the common issues that students had with loops and control flow. 
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Students that are moving quickly can read additional documentation on the EarSketch website in order to move ahead and expand their skills and understanding.
+
+## Forum discussion
+[Lesson 5.03: Earsketch Control Flow (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-5-earsketch/lesson-5-03-earsketch-control-flow)
 
 [Do Now]: do_now.md
 [Lab - EarSketch Control Flow]: lab.md

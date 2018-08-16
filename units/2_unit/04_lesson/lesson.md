@@ -1,12 +1,12 @@
 # Lesson 2.04: Conditionals
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **if, else, elif, conditionals, flow of control** 
 * Create chaining if statements
 * Understand how conditional statements alter the flow of control of a program
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Game Show]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
@@ -50,13 +50,17 @@ Students will be able to...
 4. **Debrief**
     * Check student progress and completion of the lab, wrap up by taking any final questions.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Use the following as an extension activity for students that are moving quickly:
 * Convert and finish the following SNAP Vending Machine program in Python.
 ![](Lesson 2.04 Conditionals - Vending Machine.png)
 
 
 If students are moving quickly, this lesson can move onto lists. 
+
+## Forums discussion
+[Lesson 2.04: Conditionals (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-04-conditionals)
+
 
 [Do Now]:do_now.md
 [Lab - Game Show]:lab.md

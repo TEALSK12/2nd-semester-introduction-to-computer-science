@@ -1,12 +1,12 @@
-#Lesson 6.03: Dictionaries of Lists
+# Lesson 6.03: Dictionaries of Lists
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 
 * Create dictionaries with keys and values of different types
 * Update, append, or remove list values in a dictionary
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Dictionaries Storing Lists]
 * Associated Reading - section 6.3 of Book
@@ -39,8 +39,11 @@ Students will be able to...
 	* Discuss any confusion or problem areas the students faced. 
 	* Talk about how `in` works for dictionaries, specifically for the bonus.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Students that are moving quickly should work on the bonus activity in the lab. They can also be paired with students that are struggling (with close monitoring, as needed), as this lab requires pulling together a variety of concepts and skills: looping, conditionals, lists, and dictionaries.
+
+## Forum discussion
+[Lesson 6.03: Dictionaries of Lists (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-6-dictionaries/lesson-6-03-dictionaries-of-lists)
 
 [Do Now]: do_now.md
 [Lab - Dictionaries Storing Lists]: lab.md
