@@ -1,13 +1,13 @@
 # Lesson 7.02: User-Defined Types, Part 2
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **self**, **`__init__`**
 * Create a class with an init method
 * Understand and use the `self` argument 
 * Instantiate a class with arguments
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Pet Class]
 * Associated Reading - section 7.2 of Book
@@ -44,7 +44,7 @@ Students will be able to...
     * Check for student understanding and completion of the lab.	
     * Review the two key concepts introduced today (`self` and `__init__`)
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 
 As with the previous lesson, be prepared for some students to struggle with the new vocabulary and concepts being introduced. Reinforce the use of vocabulary such as **instantiate**, **object**, and **attribute** so that students are consistently exposed to how to use these terms.  
 
