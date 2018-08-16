@@ -1,6 +1,6 @@
-#Lesson 1.06: Mad Libs
+# Lesson 1.06: Mad Libs
 
-##Learning Objectives
+## Learning Objectives
 * Apply basic Python knowledge about inputs/outputs and variables to create a game of madlibs
 * Practice good debugging skills
 
@@ -53,7 +53,7 @@
 ## SNAP Flashback - MadLibs
 ![](lesson1.06 - code.png)
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Ask students to research casting. Have them add, subtract, or multiply values as part of the story. 
 
 ## Forum discussion
