@@ -1,12 +1,12 @@
-#Lesson 1.02: Interactive Mode
+# Lesson 1.02: Interactive Mode
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **interpreter, string, integer, float, value, errors, console, expression**
 * Use the Python interpreter to evaluate simple math expressions
 * Distinguish between an integer, float, and string
 
-##Materials/Preparation
+## Materials/Preparation
 * [Lab - Using the Interpreter]
 * Associated Reading - section 1.1 of Book
 * Ensure all students are able to log into the system
@@ -61,7 +61,7 @@ Students will be able to...
 		* Order of Operations is the same as what students have learned in math class.
 	2. Discuss why it might be helpful to have an interactive console. How is it different than snap? 
 
-###Accomodation/Differentiation
+### Accomodation/Differentiation
 If students are moving quickly, have students practice higher order-of-operations problems. You can also have them practice assigning values to variables. 
   
 
