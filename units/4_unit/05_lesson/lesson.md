@@ -1,12 +1,12 @@
-#Lesson 4.05: Debugging and Quiz
+# Lesson 4.05: Debugging and Quiz
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Read and understand longer programs involving loops
 * Demonstrate their knowledge of looping, lists, and nested loops/lists
 * Debug programs involving for loops and lists
 
-##Materials/Preparation
+## Materials/Preparation
 * Quiz (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Lab - Debugging Practice]
 * [Coding Example]
@@ -38,7 +38,7 @@ Students will be able to...
 4. **Debrief**
 	* Discuss as a class what was most helpful in debugging, highlight those practices throughout the upcoming project.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
 
 ## Forum discussion
