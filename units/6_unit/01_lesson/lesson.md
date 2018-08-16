@@ -1,13 +1,13 @@
-#Lesson 6.01: Introduction to Dictionaries
+# Lesson 6.01: Introduction to Dictionaries
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 
 * Define and identify: **dictionary**, **key**, **value**
 * Create dictionaries of key-value pairs
 * Access and update items from dictionaries
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Dictionaries & Memes]
 * Associated Reading - section 6.1 of Book
@@ -54,7 +54,7 @@ Students will be able to...
 4. **Debrief**
 	* Review what was covered in today's lesson and check for understanding of the three concepts covered: **dictionaries, keys,** and **values**.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 
 If any students are struggling with today's lesson, be prepared to offer additional examples of the usefulness of having key-value pairs. 
 
