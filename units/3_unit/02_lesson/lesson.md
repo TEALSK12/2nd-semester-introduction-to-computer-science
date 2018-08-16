@@ -1,11 +1,11 @@
-#Lesson 3.02: User-Defined Functions
+# Lesson 3.02: User-Defined Functions
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **abstraction, def**
 * Create functions
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Birthday Song & Random Cards]
 * Associated Reading - section 3.2 of Book
@@ -42,7 +42,7 @@ Students will be able to...
 4. **Debrief**
     * Check student progress and completion of the lab, wrap up by taking any final questions. 
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 
 If students are moving quickly, they could go back and use functions to improve an old project.
 
