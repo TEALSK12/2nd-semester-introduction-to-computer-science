@@ -1,13 +1,13 @@
 # Lesson 7.04: Inheritance
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 
 * Define and identify: **inheritance**,  **parent class**, **child class**
 * Create a class that inherits from anther class
 * Overwrite methods of parent class in a child class 
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Pokemon Child Classes]
 * Associated Reading - section 7.4 of Book
@@ -42,7 +42,7 @@ Students will be able to...
 4. **Debrief**
 	* Go over students' questions. Ask what questions the students have and review instance, class, methods, init, str, etc
 
-###Accomodation/Differentiation
+### Accomodation/Differentiation
 In the Pokemon lab, students may need clarification regarding how to use `isinstance` and how to manipulate the `defend` method to meet the requirements of each child class. Consider demonstrating the creation of one child class for all students before having students work on the lab. 
 
 ## Forum discussion
