@@ -1,6 +1,6 @@
-#Lesson 5.02: EarSketch Music
+# Lesson 5.02: EarSketch Music
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 
 * Define and identify: **rhythm**, **beat**, **tempo**, **measures**, `setEffect()`, `makeBeat()`
@@ -8,7 +8,7 @@ Students will be able to...
 * Loop through items in a list
 * Be aware of the scope of variables during iteration 
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - EarSketch Music]
 * [EarSketch Editor]
@@ -44,7 +44,7 @@ Students will be able to...
 4. **Debrief**
 	* Talk about the new functions learned today, and go over any questions about data types and using strings.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Students can use looping and if statements to their song as an extension activity to make their songs more complex.
 
 Students will likely bring a wide range of background knowledge around music and the related terminology. Offer additional support to those students that are less familiar with the terms being introduced in this lesson.
