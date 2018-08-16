@@ -1,6 +1,6 @@
-#Lesson 5.01: Earsketch Intro 
+# Lesson 5.01: Earsketch Intro 
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 
 * Define and identify: **Digital Audio Workstation (DAW)**, **sound tab**, `fitMedia()`, `setTempo()`
@@ -8,7 +8,7 @@ Students will be able to...
 * Loop through items in a list
 * Be aware of the scope of variables during iteration 
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Intro to EarSketch]
 * [EarSketch Editor]
@@ -46,7 +46,7 @@ Students will be able to...
 	* Take time to review the key terms and functions introduced today
 	* Have students read the next part(s) of the guide in EarSketch documentation. 
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 
 Students that are moving quickly can read additional documentation on the EarSketch website in order to move ahead and expand their skills and understanding.
 
