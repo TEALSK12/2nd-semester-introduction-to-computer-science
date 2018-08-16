@@ -1,6 +1,6 @@
-#Lesson 1.01: Set Up
+# Lesson 1.01: Set Up
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 
 * Define and identify: **IDE**, **Python**
@@ -8,7 +8,7 @@ Students will be able to...
 * Set up and log into an account for the course's online IDE
 * Save and turn in a file via the online IDE
 
-##Materials/Preparation
+## Materials/Preparation
 * Update the collaboration policy, IDE information, grading percentages, and general syllabus based on your preferences and your school's requirements
 * Create an account on online IDE and update the student Sign Up Guide with your username
 * Update the student Sign Up Guide with file naming and turn-in conventions for your course
