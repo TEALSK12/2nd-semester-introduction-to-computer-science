@@ -1,11 +1,11 @@
-#Lesson 4.04: Nested Lists & Looping
+# Lesson 4.04: Nested Lists & Looping
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **nested list**
 * Use nested for loops to traverse through nested lists
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Shopping List]
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -19,7 +19,7 @@ Students will be able to...
 | 10 Minutes | Lesson      |
 | 35 Minutes | Lab (Part 1) |
 | 5 Minutes | Debrief      |
-###Day 2
+### Day 2
 | ** Duration **|    **Description**         |
 |---|---|
 | 5 Minutes  | Do Now (Part 2)|
@@ -59,7 +59,7 @@ Students will be able to...
 	* Ask students if there was any difficulty looping through lists of lists. 
 	* Remind students there will be a quiz next class covering everything up to (and including) nested lists.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Students may struggle with the concept of nested lists. Be prepared to have additional analogies to help students understand the usefulness of the concept.
 * Ex. What if you keep a weekly to-do list? The days of the week would be the first list, and then each item that you hope to accomplish under each day is the list within the list.
 
