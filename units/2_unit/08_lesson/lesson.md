@@ -1,10 +1,10 @@
 # Lesson 2.08: Project 2
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game. 
 
-##Materials/Preparation
+## Materials/Preparation
 * [Project Spec - Text Monster]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Text Monster Game - Example Code]
@@ -44,7 +44,7 @@ Students will be able to...
     * During discussion and warp up at the end of class, get a feeling for where students are in the project. 
     * During the review the next morning cover the topics/areas that students are struggling on and present tips, suggestions, and goals for that day.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Make sure to do status checks with all students throughout the project. Identify students that are struggling on the project after the first few days and provide additional scaffolding & support as needed. 
 <br><br>
 For any students that are advancing rapidly through the project, give them extension ideas such as adding a new feature or floor to the game. 
