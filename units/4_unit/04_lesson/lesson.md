@@ -12,7 +12,7 @@ Students will be able to...
 
 
 ## Pacing Guide
-###Day 1
+### Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now (Part 1)|
