@@ -1,13 +1,13 @@
 # Lesson 3.01: Built-In Functions
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **function, arguments, calling, importing, returning**
 * Call the built-in `randint` function, using arguments
 * Utilize code other people have written in the Python documentation
 * Understand the difference between printing and returning
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Magic 8-Ball]
 * Associated Reading - section 3.1 of Book
@@ -59,7 +59,7 @@ Students will be able to...
 4. **Debrief**
     * Check student progress and completion of the lab, wrap up by taking any final questions. 
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 If students are moving quickly, find another library to import from (see **bonus** in the lab) OR allow students to move on to creating their own functions.
 
 ## Forum discussion
