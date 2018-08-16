@@ -1,12 +1,12 @@
-#Lesson 2.01: Binary Day
+# Lesson 2.01: Binary Day
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 * Define and identify: **binary**
 * Describe different representations of data
 * Represent decimal numbers in binary
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * Associated Reading - section 2.1 of Book
 * Index cards for binary activity (at least 1 per student)
@@ -14,7 +14,7 @@ Students will be able to...
 * 8.5" x 11" printer paper, each page has a large number (2^n) written on it (1, 2, 4, 8, 16, 32, ...)
 * Read through the do now and lesson so that you are familiar with the requirements and can assist students as needed
 
-##Additional Resources
+## Additional Resources
 * [CS Unplugged Binary Numbers]
 
 ## Pacing Guide
@@ -48,7 +48,7 @@ Students will be able to...
     * How could letters (a,b,c,...) be turned into binary? 
         * How can letters be turned into numbers? a = 1, b = 2, c = 3.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 
 ## Forum discussion
 [Lesson 2.01: Binary Day (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/2-01-binary-day)
