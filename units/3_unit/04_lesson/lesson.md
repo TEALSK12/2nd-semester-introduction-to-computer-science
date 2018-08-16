@@ -1,6 +1,6 @@
 # Lesson 3.04: Debugging and Scope
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **scope, aliasing, stack trace**
 * Understand that changing a list in a function updates the list outside of the function
@@ -8,7 +8,7 @@ Students will be able to...
 * Understand global variables
 * Draw a simple stack trace
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Aliasing & Scope]
 * Associated Reading - section 3.4 of Book
@@ -52,7 +52,7 @@ Students will be able to...
     * Take time to review the concepts covered today: **scope**, **aliasing**, and **stack traces**. 
     * Call a few students to the board to draw their stack traces from the lab and talk through them.
 
-###Accommodation/Differentiation    
+### Accommodation/Differentiation    
 If students are moving quickly, they can look ahead at the project spec or research the game Oregon Trail for context.
 
 ## Forum discussion
