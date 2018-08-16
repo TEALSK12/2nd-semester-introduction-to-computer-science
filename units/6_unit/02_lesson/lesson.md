@@ -1,6 +1,6 @@
-#Lesson 6.02: Dictionaries Methods
+# Lesson 6.02: Dictionaries Methods
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 
 * Define and identify: **pop**, **default value**
@@ -8,7 +8,7 @@ Students will be able to...
 * Add values to a dictionary
 * Remove values from a dictionary 
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Word Counter]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
@@ -42,7 +42,7 @@ Students will be able to...
 4. **Debrief**
 	* Talk about any confusion the students had. Discuss additional ideas of how dictionaries might be useful. 
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Some students may need to be explicitly reminded of the `in` keyword to check if a certain key is in their dictionary.
 
 ## Forum discussion
