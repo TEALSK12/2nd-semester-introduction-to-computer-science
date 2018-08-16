@@ -1,12 +1,12 @@
 # Lesson 2.03: Booleans & Expressions
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **boolean, expression, composition, True, False**
 * Evaluate a boolean expression
 * Compose boolean expressions using `and`, `or`, `not`, `<`, `>`, and `==` 
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - Can I or Can't I?]
 * Associated Reading - section 2.2 of Book
@@ -46,7 +46,7 @@ Students will be able to...
 4. **Debrief**
     * Check student progress and completion of the lab, wrap up by taking any final questions.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 If students are moving quickly, use this opportunity to go over truth tables (or ask them to research De Morgan's Law) 
 * Convert the following SNAP Truth Table program into Python.
 ![](Lesson 2.03 Truth Table.png
