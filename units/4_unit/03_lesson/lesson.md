@@ -39,7 +39,7 @@ Students will be able to...
 			* Go over how to read for loops if students are struggling (drawing the [loop diagram]). Make sure students are understanding loops and string concatenation. 
 			* If students continue to struggle, take 5 minutes to go over the loop syntax and practice.
 	* Go over part 2 of the Do Now. 
-	    * Ask students to write the `print_star_squares` function on the board. 
+	    * Ask students to write the `print_star_square` function on the board. 
 		* Define **nested for loop**:  a loop within another loop. For each iteration of the outer loop the inner loop is iterated through completely. 
 		* Draw a diagram (**stack trace**) of the for loop (e.g. something like [loop diagram]) 
 		    * Ask students to draw the nested part of the state diagram (should be inside the outer loop but look the same as the outer loop)

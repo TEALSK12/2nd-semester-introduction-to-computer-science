@@ -5,11 +5,11 @@ Students will be able to...
 
 * Define and identify: **dictionary**, **key**, **value**
 * Create dictionaries of key-value pairs
-* Access and update items from dictionaries
+* Access items from dictionaries
 
 ## Materials/Preparation
 * [Do Now]
-* [Lab - Dictionaries & Memes]
+* [Lab - Dictionary of Internet Abbreviations]
 * Associated Reading - section 6.1 of Book
 *  Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -64,4 +64,4 @@ Students that are moving quickly through the lab should work on the bonus and re
 [Lesson 6.01: Introduction to Dictionaries (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-6-dictionaries/lesson-6-01-introduction-to-dictionaries)
 
 [Do Now]: do_now.md
-[Lab - Dictionaries & Memes]: lab.md
+[Lab - Dictionary of Internet Abbreviations]: lab.md

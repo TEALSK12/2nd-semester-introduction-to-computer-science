@@ -27,11 +27,12 @@ Students will be able to...
     * Students will explore how to use dictionaries containing lists, as well as how to add values to those lists.
 2. **Lesson**
 	* Discuss part 1 of the Do Now.
-		* Go over the type of `list_dictionaries`. 
-		    * It is still a dictionary type which goes from string (key) to list (value). Dictionaries can also go from numbers to lists, or numbers to strings, or any other combination. 
+		* Go over the type of `weekend_dates`. 
+		    * It is still a dictionary type. In this case the
+              dictionary goes from string (key) to list (value). Dictionaries can also go from numbers to lists, or numbers to strings, or any other combination. 
 	* Discuss part 2 of the Do Now. 
 		* Review how you update a value within a dictionary, as well as how to append and remove items from lists. 
-		* Have students continue practicing adding and removing values from `list_dictionaries`.  
+		* Have students continue practicing adding and removing values from `weekend_dates`.  
 3. **Lab**	
 	* Students will create a dictionary representing a weekly to-do list. The user can add items to the to-do list or have the program print what items must be done on a certain day.
 4. **Debrief**

@@ -1,34 +1,38 @@
 # Lab 4.02 - Getting Loopy
 
 ## Part 1
-Write a function `fruit_pluralizer`. It will take in a list of fruit and return nothing. The function should update the values of the list so that the values are plural. If the fruit name ends in a 'y' remove the 'y' and add 'ies', otherwise add an 's'.
+Write a function `pluralize_words` that takes in a list of words and updates the values of the list
+to make each one plural. It returns nothing. Making plurals in english has a number of special cases, 
+but for this lab we'll use a simple rule: if the word ends in a 'y' remove the 'y' and add 'ies';
+otherwise add an 's'.
 
-1. Create the function contract for `fruit_pluralizer`. 
-2. Provide a few examples that confirm `fruit_pluralizer` works as expected:
+We'll exercise the function on a list of words.
+
+1. Create the function contract for `pluralize_words`. 
+2. Provide a few examples that confirm `pluralize_words` works as expected:
 	* Include examples with 'berry'
 	* What if the list is empty?
-	* What if the fruit ends in 's'?
+	* What happens if a word ends in 's'?
 	
 ### Example
  
 ```python
 # contract goes here
-def fruit_pluralizer(list_of_strings): 
+def pluralize_words(word_list): 
 	# your code goes here
-fruit_list = ['apple', 'berry', 'melon']
-print("Single Fruit: " + str(fruit_list))
-fruit_pluralizer(fruit_list)
-print("No longer single Fruit: " + str(fruit_list))
-# examples go here
+
+word_list = ['apple', 'berry', 'melon']
+print("Singular words: " + str(word_list))
+pluralize_words(word_list)
+print("No longer singular words: " + str(word_list))
+# more examples go here
 ```
 
 Running the code: 
 
-```python
->>> python3 fruit_pluralizer_lab.py
-Single Fruit: ['apple', 'berry', 'melon']
-No longer single Fruit: ['apples', 'berries', 'melons']
-
+```
+Singular words: ['apple', 'berry', 'melon']
+No longer singular words: ['apples', 'berries', 'melons']
 ```
 
 ### Hint
