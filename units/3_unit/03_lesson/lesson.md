@@ -1,11 +1,11 @@
 # Lesson 3.03: Return vs Print
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **return, none, void**
 * Explain and demonstrate the difference between printing and returning
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Lab - War (Card Game)]
 * Associated Reading - section 3.3 of Book
@@ -46,7 +46,7 @@ Students will be able to...
     * Check student progress and completion of the lab, wrap up by taking any final questions.
 
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 As an extension activity, ask students to research the shuffle function and the functions associated with it.
 
 ## Forum discussion
