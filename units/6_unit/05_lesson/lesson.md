@@ -1,11 +1,11 @@
-#Lesson 6.05: Dictionaries Project
+# Lesson 6.05: Dictionaries Project
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to...
 
 * Use dictionaries to create the game [Guess Who]
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * [Project Spec - Guess Who]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
@@ -14,7 +14,7 @@ Students will be able to...
 * Review [4 Steps to Solve Any CS Problem]
 
 ## Pacing Guide
-###Day 1
+### Day 1
 | **Duration**   | **Description** |
 | ---------- | ----------- |
 | 5 Minutes  | Do Now      |
@@ -22,7 +22,7 @@ Students will be able to...
 | 10 Minutes | Project Overview        |
 | 30 Minutes | Project Planning     |
 
-###Days 2-7              
+### Days 2-7              
 |**Duration**|**Description**|
 |--|--|
 | 5 Minutes  | Planning/Questions      |
@@ -53,7 +53,7 @@ Students will be able to...
 	4. **Wrap Up**
 		* Discuss common issues that students were having each day, provide suggestions for how to overcome those challenges.
 
-###Accommodation/Differentiation
+### Accommodation/Differentiation
 Some students may need a refresher on using a `while` loop to control whether the game is over or not. 
 
 Some students may also need additional assistance or scaffolding for how to randomly choose a character from the dictionary.
