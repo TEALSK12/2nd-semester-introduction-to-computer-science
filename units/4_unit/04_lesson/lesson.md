@@ -44,7 +44,7 @@ Students will be able to...
 	        * As an extension, ask the students how they would print out each `b` apartment.
 3. **Lab (Part 1)**
 	* Students will practice accessing items from lists of lists by creating a schedule program and accessing/updating elements.
-4. ** Debrief**
+4. **Debrief**
 	* Make sure that all students are able to access elements from a list of lists. 
 5. **Lesson (part 2)**
 	* Go over the first problem of the Do Now.
