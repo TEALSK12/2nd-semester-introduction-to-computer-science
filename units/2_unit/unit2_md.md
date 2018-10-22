@@ -12,12 +12,12 @@
 | [Game Loop]                |  
 | [Project]                  | 
 
-[Binary Day]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_201_binary_day.html             
-[Data Types and Casting]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_202_casting.html  
-[Booleans and Expressions]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_203_booleans_&_expressions.html 
-[Conditionals]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_204_conditionals.html
-[Lists]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_205_lists.html                   
-[Lists(2)]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_206_lists_2.html                 
-[Lists Recap]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_206b_lists_recap.html
-[Game Loop]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson_207_game_loop.html
-[Project]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/lesson208_textgame.html
+[Binary Day]:https://tealsk12.gitbook.io/intro-cs-2/unit2_md/lesson             
+[Data Types and Casting]:https://tealsk12.gitbook.io/intro-cs-2/unit2_md/lesson-1  
+[Booleans and Expressions]:https://tealsk12.gitbook.io/intro-cs-2/unit2_md/lesson-2 
+[Conditionals]:https://tealsk12.gitbook.io/intro-cs-2/unit2_md/lesson-3
+[Lists]:https://tealsk12.gitbook.io/intro-cs-2/unit2_md/lesson-4                   
+[Lists(2)]:https://tealsk12.gitbook.io/intro-cs-2/unit2_md/lesson-5                 
+[Lists Recap]:https://tealsk12.gitbook.io/intro-cs-2/unit2_md/lesson2
+[Game Loop]:https://tealsk12.gitbook.io/intro-cs-2/unit2_md/lesson-6
+[Project]:https://tealsk12.gitbook.io/intro-cs-2/unit2_md/lesson-7
