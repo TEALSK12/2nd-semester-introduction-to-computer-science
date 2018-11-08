@@ -1,6 +1,6 @@
 # Lab 3.04 - Aliasing & Scope
 
-##Aliasing
+## Aliasing
 * Will updating b affect a? Explain why or why not?
 
     ```python
@@ -24,7 +24,7 @@
     ```
     <br>
 
-##Scope
+## Scope
 * Draw a stack diagram for the following:
 
     ```python
@@ -105,11 +105,13 @@ print(var_2)
 ```
 
 * Write a program that has a global variable, `my_num`. Create three functions that update `my_num`:
+
     1. `add2`: this function adds 2 to `my_num`
     2. `multiply_num`: this function takes in a parameter, `multiplier`, and multiplies `my_num` by that parameter
     3. `add2_and_multiply`: this function takes in a parameter, `multiplier`, and calls `add2`, then calls `multiply_num`.
   
   Complete the program by writing code in the main part of the program that:
+  
     1. sets `my_num` to some initial value you choose
     2. prints `my_num`
     3. calls `add2_and_multiply()` with some argument you choose
