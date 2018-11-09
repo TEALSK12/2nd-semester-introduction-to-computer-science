@@ -60,7 +60,7 @@ The list should look like the following when printed:
 shopping_cart = [
 ['q-tips', 'pencils', 'planner'],
 ['apples', 'candy', 'milk'],
-['milk', 'q-tips', 'toothe paste']
+['milk', 'q-tips', 'tooth paste']
 ]
 ```
 
