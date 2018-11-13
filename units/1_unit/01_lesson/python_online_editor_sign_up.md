@@ -3,10 +3,10 @@ We will be using the online IDE [Repl.it](https://repl.it) to write python code 
 
 ## Sign Up Instructions
 
-1. Open your email and find an email from hello@trinket.io. Click "Join Course":
+1. Open your email and find an email from notifications@repl.it. Click "Verify Email link" 
 ![eMail Photo](trinket_student_email.png)
 
-2. Close "Login to Trinket" window by clicking "X" in upper right corner: 
+2. Open "Login to Repl.it" window by clicking "Log in" in upper right corner: 
 ![login popup](trinket_login_popup.png)
 
 3. Sign up for an account by clicking the "Sign Up" in the lower right corner:
