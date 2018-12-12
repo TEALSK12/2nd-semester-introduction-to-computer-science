@@ -14,6 +14,7 @@ This game takes place in a three story dungeon. The user has to traverse the lev
 * The user can grab swords or magic stones if they walk into a room with them. The sword or stones are no longer in the room once grabbed.
 * Monsters guard some rooms. The user can use a sword to defeat a monster using the `fight` command. The sword and monster disappear after fighting. If they have no sword, the user can exit in the direction from which they came. If the user fights without a sword, they will be defeated and the game will end. If they try to walk past a monster, they will be killed and the game will end.
 * A sword and magic stones are required to defeat the boss monster.
+
 ### Implementation Details
 * The game should be implemented using lists.
 * Use a list to keep track of the user's items. At the beginning of the game it should be empty. A maximum of three items can be held at once.
@@ -68,7 +69,7 @@ if user_input == "down":
 | **Technical Correctness**                                       |     |
 | Correctly use of lists                                          | 15  |
 | Correctly appends items to list of users collected items        | 15  |
-| Correctly uses if statements to check items in user's possesion | 15  |
+| Correctly uses if statements to check items in user's possession | 15  |
 | Correctly using `or` statements and `and` statements            | 15  |
 | **Sub total**                                                   | 60  |
 | **Total**                                                       | 110 |
