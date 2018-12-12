@@ -4,7 +4,7 @@ In this project we will be creating a basic implementation of Pokemon, and then 
 
 This project will have three steps. The Pokemon Classes, the User classes, and the game loop.
 
-##Overview
+## Overview
 You will create 9 Pokemon. Each Pokemon comes from 1 of 3 types: grass, fire, and water. The types of Pokemon will be represented by classes. You will be given a base Pokemon class which the grass, fire, and water classes will inherit from. All Pokemon of the same type have the same set of attacks, and each individual one has a specific hp (hit points), pp(power points), and name.
 
 After creating the list of Pokemon (details given below), you will create a user and computer class. You will be given a bare-bones implementation of the base user class. The computer class should inherit from the user class. The computer class will need to overwrite certain methods of the user class. 
