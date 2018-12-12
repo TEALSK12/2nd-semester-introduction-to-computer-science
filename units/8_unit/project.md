@@ -35,12 +35,12 @@ In phase vi, you will complete a Final Project Spec and in phase vii you will co
     2. *Documentation and Style* 
     As with all previous projects, your program must be well-written, well-documented, and readable.  Writing code with good style is always a good idea, but in a project of this size and scope, following style guidelines will help you keep your thoughts organized and make it easier to keep track of your progress, pick up where you left off each day, and find and fix bugs.  In particular, though this is certainly not a comprehensive list, pay attention to the following:
     
-    organizing your functions/code so that they can be read and comprehended easily
-    giving your functions, variables, lists, and dictionaries descriptive and meaningful names
-    using the right data type (string, int, bool, float, dictionary, class) for each situation
-    including comments to describe the structure of your program and track your progress
-    avoiding redundancy with good use of loops, functions, and/or lists, and/or dictionaries, and/or classes
-    practicing good procedural decomposition and abstraction
+    - organizing your functions/code so that they can be read and comprehended easily
+    - giving your functions, variables, lists, and dictionaries descriptive and meaningful names
+    - using the right data type (string, int, bool, float, dictionary, class) for each situation
+    - include comments to describe the structure of your program and track your progress
+    - avoiding redundancy with good use of loops, functions, and/or lists, and/or dictionaries, and/or classes
+    - practicing good procedural decomposition and abstraction
         
     3. *Required Python Elements*
     In order to show that you have fully mastered all the skills from the course, you project must include at least the following:
