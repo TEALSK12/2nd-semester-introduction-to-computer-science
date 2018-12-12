@@ -5,12 +5,13 @@ Students will design, plan, and implement a medium- to large-scale final project
 During this course, you have learned a huge amount about computer science and programming in general, and Python in particular.  In this project, you will put all of that knowledge, along with some new skills you will develop around design, planning, and project management, to build a relatively large and complex application that _you_ choose.  You can create almost anything you want and should ultimately produce a project that is interesting, useful, and challenging.
 
 ## Details
-1. **Project Phases** <br />
+1. **Project Phases**
 This project will be significantly larger in scope than any of your previous assignments, so there will be more design and planning than before.  More importantly, though, rather than be given a well-defined specification, _YOU_ will be setting the requirements for your project by coming up with an idea, fleshing out the details, and defining the steps necessary to complete your program.
-<p />
+
 To help you through this process, there will be several steps to this project.  You must complete **all** of the steps **in order** for your project to be successful.  In fact, _half_ of your grade will be based not on how well your program works, but on how well you completed the design and planning process.
-<p />
+
 The phases of the project will be:
+
     1. _Brainstorming_ - coming up with as many possible project ideas as you can
     2. _Pitching_ - choosing a few ideas and developing a short description of what the project will entail
     3. _Review_ - getting feedback from your peers and instructors on your pitches and choosing one
@@ -31,8 +32,9 @@ In addition, one of the main goals of this project is to allow you to unleash yo
 <p />
 For both the complexity and creativity requirements, you should talk to the instructors early and often to ensure your project is in line with our expectations.
 
-    2. *Documentation and Style* <br />
+    2. *Documentation and Style* 
     As with all previous projects, your program must be well-written, well-documented, and readable.  Writing code with good style is always a good idea, but in a project of this size and scope, following style guidelines will help you keep your thoughts organized and make it easier to keep track of your progress, pick up where you left off each day, and find and fix bugs.  In particular, though this is certainly not a comprehensive list, pay attention to the following:
+    
         * organizing your functions/code so that they can be read and comprehended easily
         * giving your functions, variables, lists, and dictionaries descriptive and meaningful names
         * using the right data type (string, int, bool, float, dictionary, class) for each situation
@@ -40,7 +42,7 @@ For both the complexity and creativity requirements, you should talk to the inst
         * avoiding redundancy with good use of loops, functions, and/or lists, and/or dictionaries, and/or classes
         * practicing good procedural decomposition and abstraction
         
-    3. *Required Python Elements* <br />
+    3. *Required Python Elements*
     In order to show that you have fully mastered all the skills from the course, you project must include at least the following:
         * a clear way to start the program, and clear prompts or instructions for any user interaction
         * an least one loop, variable, function, and list, and more as necessary or appropriate
@@ -48,7 +50,7 @@ For both the complexity and creativity requirements, you should talk to the inst
         * at least one user interaction
             * this can be prompting for information using ask, responding to key presses or mouse movements, or any other action that keeps the user involved
 
-3. **Required Checkpoints** <br />
+3. **Required Checkpoints**
 At least three times during the project period, and at least once each week, you should check in with an instructor to ensure that your project is on track, that you are meeting the project requirements, and that you have the answers to any questions that might have arisen during your work.  The course staff will work with you to set up a schedule for these checkpoints, but it is **your responsibility** to ensure that the meetings take place.
 
 ## Grading Scheme/Rubric
