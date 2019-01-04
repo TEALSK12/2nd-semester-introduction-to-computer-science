@@ -3,7 +3,7 @@
 ## Unit 1:
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
-| 1.01: Set Up | Define and identify: IDE, Python; Identify the key concepts that will be covered in the course. Set up and log into an account for the course's online IDE. Save and turn in a file via the online IDE. | N/A |
+| 1.01: Set Up | Define and identify: IDE, Python. Identify the key concepts that will be covered in the course. Set up and log into an account for the course's online IDE. Save and turn in a file via the online IDE. | N/A |
 | 1.02: Interactive Mode | Define and identify: interpreter, string, integer, float, value, errors, console, expression. Use the Python interpreter to evaluate simple math expressions. Distinguish between an integer, float, and string. | Using the Interpreter |
 | 1.03: Script Mode and Variables | Define and identify: script, print, run, output, variable. Write a simple script and run it in the IDE. Print values out to the console (both composed values and from variables). Compare script mode vs interactive mode. Know how to store a value into a variable. | Printing & Variables |
 | 1.04: Variables Input | Define and identify: comments, storing, mutability, variable assignment, input. Assign and swap variables. Store user input into a variable. | Magic Genie |
@@ -37,10 +37,10 @@
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | 4.01: Looping Basics | Define and identify: for loop, item, iteration, scope. Recall looping in Snap! and reapply the concept in Python. Loop through (traverse) the items in a list. Be aware of the scope of variables during iteration. | de_vowel |
-| 4.02: For Loops | Define and identify: range. Use the range and len function to to update lists via for loops. | Getting Loopy |
+| 4.02: For Loops | Define and identify: range. Use the range and len function to update lists via for loops. | Getting Loopy |
 | 4.03: Nested For Loops | Define and identify: nested for loops, stack trace. Use nested for loops via a function and a for loop. Use nested for loops via two loops nested. Use a stack trace to understand and demonstrate the flow of nested for loops. | Nested For Loops |
 | 4.04: Nested Lists & Looping | Define and identify: nested list. Use nested for loops to traverse through nested lists. | Shopping List |
-| 4.05: Debugging and Quiz | Read and understand longer programs involving loops. Demonstrate their knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. | Debugging Practice |
+| 4.05: Debugging and Quiz | Read and understand longer programs involving loops. Demonstrate knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. | Debugging Practice |
 | 4.06: Tic-Tac-Toe | Use project planning skills to complete a larger project. Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game. | Tic-Tac-Toe |
 
 ## Unit 5: 
