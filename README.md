@@ -44,6 +44,7 @@ If you'd like to suggest changes or additions to the curriculum, please submit a
 # Printing GitBook
 The 2nd Semester Introduction to Computer Science GitBook can be printed by navigating to 
 https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/intro-cs-2/#. 
-However, the "Download" button does not work. There is workaround depending on the browser:
-- click on the document to enable the pdf menu to show and clicking the down arrow or "Save as Copy"
-- right click on the .pdf document and select "Save As"
+However, the "Download" button does not work. There is a workaround depending on the browser:
+- Chrome: move your mouse to the top of the screen and click on the down arrow when the menu bar drops down
+- Firefox: click on the down arrow to download the PDF
+- All browsers: right click on the document and select "Save As"
