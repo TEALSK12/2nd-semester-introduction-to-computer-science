@@ -11,11 +11,11 @@ We will be using the online IDE [repl.it](https://repl.it) to write python code 
 
 3. Enter your information for the account by filling out the "username", "email", "password", and click "Sign up".
 
-4. Set your account setting by clicking the your username in the upper corner and selecting "Account" in the drop down list:
+4. Set your account setting by clicking your username in the upper corner and selecting "Account" in the drop down list:
 <br/><br/>
 ![signup account](replit_student_account.PNG)
 
-5. 5.	Fill out your profile  by entering your "First Name", "Last Name", and search for your school name ____________, click "Save":
+5. Fill out your profile by entering your "First Name", "Last Name", and search for your school name ____________, click "Save":
 <br/><br/>
 ![signup_profile](replit_student_profile.PNG)
 
@@ -34,7 +34,7 @@ We will be using the online IDE [repl.it](https://repl.it) to write python code 
 <br/><br/>
 ![continue_gotit](replit_student_add.PNG)
 
-4. To test your account creating the "Hello World" program.  In the center text editor panel type:
+4. To test your account create the "Hello World" program.  In the center text editor panel type:
 
 ```Python
 print ("Hello World")
