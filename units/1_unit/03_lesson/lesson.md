@@ -12,7 +12,7 @@ Students will be able to...
 * [Do Now] 
 * [Lab - Printing & Variables]
 * Associated Reading - section 1.2 of Book
-* Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students.
+* Read through the Do Now, Lab, and Lesson so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 | **Duration**   |     **Description**    |
@@ -29,7 +29,7 @@ Students will be able to...
 	*	Explain that the file is the center section of the screen. Sometimes this is called a **script**.
 		* Reminder questions: how do you save/run a file? What happened when you ran the file from the do now?
 		* Explain the purpose of the `print` statement, which will print whatever is in between the parentheses to the console.
-			* Explain to students that this what appears on the console is called **output**
+			* Explain to students that what appears on the console is called **output**
 		* Talk to students about reading a program and the order in which the computer executes statements. 
 	* Ask students how they would print the following:
 	```python
@@ -59,8 +59,8 @@ Students will be able to...
 		* Tell students how assignments work from right to left, so the item on the right is assigned to the item on the left. 
 	* Have students work on Part 2 of the lab for 10 Minutes
 4. **Four Fours**	
-	* Four fours is a mathematical puzzle wheretThe goal is to find a mathematical expression for every whole number from 0 to some maximum, using only common mathematical symbols and the digit 4 (no other digit is allowed).
-	* In this version, students can use use 44 which count as two fours eventhough equations for 0 to 4 can be solved without using 44.
+	* Four Fours is a mathematical puzzle where the goal is to find a mathematical expression for every whole number from 0 to some maximum, using only common mathematical symbols and the digit 4 (no other digit is allowed).
+	* In this version, students can use use 44 which counts as two fours even though equations for 0 to 4 can be solved without using 44.
 	* For example, zero can be solved with either: 44 - 44 or 4 + 4 - 4 - 4
 	* Students can easily be challenged by extending the limit from the 0-4 to 5 and above.
 5. **Debrief**
