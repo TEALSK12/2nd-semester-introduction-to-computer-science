@@ -43,9 +43,9 @@ What output does this produce? Why does this happen?
 The four fours challenge!
 Using four 4's and any operations, try to write equations that have the numbers from 0 to 4 as the answer.
 You should use Python's arithmetic operations:
-* +    addition
-* -    subtraction or negation
-* *    multiplication
+* \+    addition
+* \-    subtraction or negation
+* \*    multiplication
 * /    division
 * (   )    parentheses for grouping
 * **    power
