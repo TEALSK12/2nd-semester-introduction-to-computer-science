@@ -71,12 +71,12 @@ Three is 3
 Four is 4
 ```
 
-##Bonus!
+## Bonus!
 Print the output below, but only using **one** line of code. Feel free to use online resources.
 ```
 Wow!
 This is on a new line! 
 
 ```
-##Bonus 2!
+## Bonus 2!
 Can you find four fours for 5 to 10?
