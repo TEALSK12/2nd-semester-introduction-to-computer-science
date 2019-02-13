@@ -31,7 +31,7 @@ Students will be able to...
 
    * Explain to students that you will now be exploring how to read analyze and respond to errors in
      code.
-     * Present students with a longer piece of code that will produce an error (e.g. [code]). Ask
+     * Present students with a longer piece of code that will produce an error (see [Code Example](#code-example) below). Ask
        them to read through it and predict what will be printed out.
      * Remind students that when reading through code we go line by line, as if we are the
        interpreter.
