@@ -12,14 +12,14 @@ This project will be significantly larger in scope than any of your previous ass
 
     The phases of the project will be:
 
-    1) _Brainstorming_ - coming up with as many possible project ideas as you can
-    2) _Pitching_ - choosing a few ideas and developing a short description of what the project will entail
-    3) _Review_ - getting feedback from your peers and instructors on your pitches and choosing one
-    4) _Scenario Definition_ - listing out the features the project will need and what they will look like
-    5) _Flow Chart_ - drawing simple flow chart of what the various interactions in your program will look like
-    6) _Specification_ - fleshing out all the specifics of how the project will work
-    7) _Scheduling_ - listing the programming tasks necessary to complete your project and estimating how long each will take
-    8) _Development_ - writing the code for your project by following the spec and schedule created in the previous steps
+    1. _Brainstorming_ - coming up with as many possible project ideas as you can
+    2. _Pitching_ - choosing a few ideas and developing a short description of what the project will entail
+    3. _Review_ - getting feedback from your peers and instructors on your pitches and choosing one
+    4. _Scenario Definition_ - listing out the features the project will need and what they will look like
+    5. _Flow Chart_ - drawing simple flow chart of what the various interactions in your program will look like
+    6. _Specification_ - fleshing out all the specifics of how the project will work
+    7. _Scheduling_ - listing the programming tasks necessary to complete your project and estimating how long each will take
+    8. _Development_ - writing the code for your project by following the spec and schedule created in the previous steps
 
 2. **Progress Tracking**
 In phase vi, you will complete a Final Project Spec and in phase vii you will complete a Final Project Schedule.  These documents will be your guides in the development phase and will help you stay on track and aware of your progress.  Throughout the development phase of the project, you will be expected to keep your spec and plan up-to-date and make adjustments as you get ahead or behind, as requirements change, or as tasks or features get re-prioritized.  At the end of each coding day, your spec and plan documents should be updated to reflect the current state of your project, and you will check in with an instructor at least once a week to make sure things are on track.  
