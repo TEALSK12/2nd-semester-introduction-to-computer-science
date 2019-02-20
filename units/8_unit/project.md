@@ -22,9 +22,11 @@ This project will be significantly larger in scope than any of your previous ass
     8. _Development_ - writing the code for your project by following the spec and schedule created in the previous steps
 
 2. **Progress Tracking**
+
 In phase vi, you will complete a Final Project Spec and in phase vii you will complete a Final Project Schedule.  These documents will be your guides in the development phase and will help you stay on track and aware of your progress.  Throughout the development phase of the project, you will be expected to keep your spec and plan up-to-date and make adjustments as you get ahead or behind, as requirements change, or as tasks or features get re-prioritized.  At the end of each coding day, your spec and plan documents should be updated to reflect the current state of your project, and you will check in with an instructor at least once a week to make sure things are on track.  
 
 3. **Implementation Requirements**
+
     1. _Complexity and Creativity_ 
     Your final project should be sufficiently complex and large-scale to push your limits as a programmer, but not so sophisticated that you are not able to complete it in the time allotted.  The complexity in your project should come from the _design_ and the _algorithms_ and not from the _code_.  (That is, you cannot meet the complexity requirement simply by writing a lot of code.  Your code must be challenging or interesting in some meaningful way.)  In addition, you should not add complexity by introducing peripheral elements, such as graphics or sound effects.  (Your program can certainly have these, but they will not be considered in determining the projects complexity.)
 
@@ -51,6 +53,7 @@ In phase vi, you will complete a Final Project Spec and in phase vii you will co
             * this can be prompting for information using ask, responding to key presses or mouse movements, or any other action that keeps the user involved
 
 4. **Required Checkpoints**
+
 At least three times during the project period, and at least once each week, you should check in with an instructor to ensure that your project is on track, that you are meeting the project requirements, and that you have the answers to any questions that might have arisen during your work.  The course staff will work with you to set up a schedule for these checkpoints, but it is **your responsibility** to ensure that the meetings take place.
 
 ## Grading Scheme/Rubric
