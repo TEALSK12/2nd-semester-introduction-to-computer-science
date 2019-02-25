@@ -8,23 +8,25 @@ During this course, you have learned a huge amount about computer science and pr
 1. **Project Phases**
 This project will be significantly larger in scope than any of your previous assignments, so there will be more design and planning than before.  More importantly, though, rather than be given a well-defined specification, _YOU_ will be setting the requirements for your project by coming up with an idea, fleshing out the details, and defining the steps necessary to complete your program.
 
-To help you through this process, there will be several steps to this project.  You must complete **all** of the steps **in order** for your project to be successful.  In fact, _half_ of your grade will be based not on how well your program works, but on how well you completed the design and planning process.
+    To help you through this process, there will be several steps to this project.  You must complete **all** of the steps **in order** for your project to be successful.  In fact, _half_ of your grade will be based not on how well your program works, but on how well you completed the design and planning process.
 
-The phases of the project will be:
+    The phases of the project will be:
 
-1) _Brainstorming_ - coming up with as many possible project ideas as you can
-2) _Pitching_ - choosing a few ideas and developing a short description of what the project will entail
-3) _Review_ - getting feedback from your peers and instructors on your pitches and choosing one
-4) _Scenario Definition_ - listing out the features the project will need and what they will look like
-5) _Flow Chart_ - drawing simple flow chart of what the various interactions in your program will look like
-6) _Specification_ - fleshing out all the specifics of how the project will work
-7) _Scheduling_ - listing the programming tasks necessary to complete your project and estimating how long each will take
-8) _Development_ - writing the code for your project by following the spec and schedule created in the previous steps
+    1. _Brainstorming_ - coming up with as many possible project ideas as you can
+    2. _Pitching_ - choosing a few ideas and developing a short description of what the project will entail
+    3. _Review_ - getting feedback from your peers and instructors on your pitches and choosing one
+    4. _Scenario Definition_ - listing out the features the project will need and what they will look like
+    5. _Flow Chart_ - drawing simple flow chart of what the various interactions in your program will look like
+    6. _Specification_ - fleshing out all the specifics of how the project will work
+    7. _Scheduling_ - listing the programming tasks necessary to complete your project and estimating how long each will take
+    8. _Development_ - writing the code for your project by following the spec and schedule created in the previous steps
 
 2. **Progress Tracking**
+
 In phase vi, you will complete a Final Project Spec and in phase vii you will complete a Final Project Schedule.  These documents will be your guides in the development phase and will help you stay on track and aware of your progress.  Throughout the development phase of the project, you will be expected to keep your spec and plan up-to-date and make adjustments as you get ahead or behind, as requirements change, or as tasks or features get re-prioritized.  At the end of each coding day, your spec and plan documents should be updated to reflect the current state of your project, and you will check in with an instructor at least once a week to make sure things are on track.  
 
 3. **Implementation Requirements**
+
     1. _Complexity and Creativity_ 
     Your final project should be sufficiently complex and large-scale to push your limits as a programmer, but not so sophisticated that you are not able to complete it in the time allotted.  The complexity in your project should come from the _design_ and the _algorithms_ and not from the _code_.  (That is, you cannot meet the complexity requirement simply by writing a lot of code.  Your code must be challenging or interesting in some meaningful way.)  In addition, you should not add complexity by introducing peripheral elements, such as graphics or sound effects.  (Your program can certainly have these, but they will not be considered in determining the projects complexity.)
 
@@ -51,6 +53,7 @@ In phase vi, you will complete a Final Project Spec and in phase vii you will co
             * this can be prompting for information using ask, responding to key presses or mouse movements, or any other action that keeps the user involved
 
 4. **Required Checkpoints**
+
 At least three times during the project period, and at least once each week, you should check in with an instructor to ensure that your project is on track, that you are meeting the project requirements, and that you have the answers to any questions that might have arisen during your work.  The course staff will work with you to set up a schedule for these checkpoints, but it is **your responsibility** to ensure that the meetings take place.
 
 ## Grading Scheme/Rubric
