@@ -1,11 +1,11 @@
 # Lesson 2.06b: Lists Recap
 
-##Learning Objectives
+## Learning Objectives
 Students will be able to... 
 * Define and identify: **index, slice, append, pop, remove**
 * Apply list conditionals to determine if an element is in a list
 
-##Materials/Preparation
+## Materials/Preparation
 * [Do Now]
 * Associated Reading - section 2.6 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
