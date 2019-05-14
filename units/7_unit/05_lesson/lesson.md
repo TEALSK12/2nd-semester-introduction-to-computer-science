@@ -48,9 +48,9 @@ Students will be able to...
 	1. ** Planning/Questions **
 		* Have students review and update what they want to accomplish that day and any questions they have from the previous day.
 	2. **Review** 
-		* if necessary, review any concepts or struggles the class was having
+		* if necessary, review any concepts or struggles the class was having.
 	3. **Project Work** 
-		* students work on their projects indecently
+		* students work on their projects independently.
 	4. **Wrap Up**
 		* have the students write down what they struggled on or had a hard time doing. 
 
