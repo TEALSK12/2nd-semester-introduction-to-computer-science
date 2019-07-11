@@ -1,5 +1,6 @@
 # 2nd-semester-introduction-to-computer-science
-A 2nd semester follow-up to the TEALS Intro CS course
+A 2nd semester follow-up to the TEALS Intro CS course.  
+
 The "CA-2019" branch is tailored for Canadian and new British Columbia curriculum.
 
 Note the change in repository and GitBook locations starting the 2017-18 school year.
