@@ -1,20 +1,20 @@
 # Project 3: Crosscountry Canada
 
-Using variables, functions, and conditionals in Python, students will create a variation of the Crosscountry Canada game. 
+Using variables, functions, and conditionals in Python, students will create a variation of the classic Crosscountry Canada game. 
 
 ## Overview
-Crosscountry Canada was a text based video game popular in the 90's.  This beloved retro retro gamee
-was both educational and entertaining.  An online version is available to play here:  https://archive.org/details/msdos_Crosscountry_Canada_1991
+Crosscountry Canada was a text based video game popular in the 90's.  This beloved retro game
+was both educational and entertaining.  An online version is available to play here:  https://archive.org/details/msdos_Crosscountry_Canada_1991 .
 At the start of the game, the player is given a goal to deliver (by truck) a commodity from one Canadian city to another.
-To achieve your goal, the player must reference a city-commodity cross reference, such as https://archive.org/details/msdos_Crosscountry_Canada_1991
-The player must also know which commands are recogonized, such as: https://gamefaqs.gamespot.com/pc/566644-cross-country-canada/faqs/30240
+To achieve your goal, the player must reference a city-commodity cross reference, such as https://archive.org/details/msdos_Crosscountry_Canada_1991 . 
+The player must also know which commands are recogonized, such as: https://gamefaqs.gamespot.com/pc/566644-cross-country-canada/faqs/30240 .
 
-In this project, we will create a simplified version of the game. 
+In this project, we will create a simplified single-player version of the game. 
 
 ## Details 
 ### Behaviour (Suggestions for a Basic Version)
-* The player starts in one city (random)
-* The player is given a commodity and a destination city (random)
+* The player starts in one city (random).
+* The player is given a commodity and a destination city (random).
 * The player must navigate the truck to a city to pick up a commodity, and deliver it to 
 the destination, within 30 days. 
 * At the beginning of the game, user is asked their name.
@@ -30,8 +30,8 @@ of the following commands:
 * `help`: lists all the commands.
 * `quit`: will end the game.
 * Some possible assumptions:
-  - travel is always East or West
-  - limit your map to have only 7-10 major cities
+  - travel is always East or West (most populated regions in Canada are along the southern border).
+  - limit the map to have only 7-10 major cities
   - limit each city to have only 1-2 commodities
   * The player's health randomly decreases randomly every few moves. 
   * The player eats 5kgs of food a day.
@@ -86,5 +86,5 @@ development is iterative, and scaffolds over time.
 
 ## Extra Credit
 1.  Make the rate of food consumption be a function of the day of the week.
-2.  Make a rate of fuel consumption to be a function of the location/climate.  For example, colder regions burn more gas.
+2.  Make a rate of fuel consumption to be a function of the location/climate/season.  For example, colder regions burn more gas.
 3. Create a random event that occurs randomly, like a forest fire roadblock, that will affect health, gas, and time.
