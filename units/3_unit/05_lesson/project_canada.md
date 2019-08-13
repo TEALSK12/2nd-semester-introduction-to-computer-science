@@ -1,12 +1,12 @@
 # Project 3: Crosscountry Canada
 
-Using variables, functions, and conditionals in Python, students will create a variation of the classic Crosscountry Canada game. 
+Using variables, functions, and conditionals in Python, students will celebrate Canada by creating their own unique variation of the classic Crosscountry Canada game (https://en.wikipedia.org/wiki/Crosscountry_(video_game_series)#Crosscountry_Canada_(1986))
 
 ## Overview
 Crosscountry Canada was a text based video game popular in the 90's.  This beloved retro game
 was both educational and entertaining.  An online version is available to play here:  https://archive.org/details/msdos_Crosscountry_Canada_1991 .
 At the start of the game, the player is given a goal to deliver (by truck) a commodity from one Canadian city to another.
-To achieve your goal, the player must reference a city-commodity cross reference, such as https://archive.org/details/msdos_Crosscountry_Canada_1991 . 
+To achieve your goal, the player must reference a city-commodity cross reference chart, such as https://archive.org/details/msdos_Crosscountry_Canada_1991 . 
 The player must also know which commands are recogonized, such as: https://gamefaqs.gamespot.com/pc/566644-cross-country-canada/faqs/30240 .
 
 In this project, we will create a simplified single-player version of the game. 
@@ -40,7 +40,7 @@ of the following commands:
   
 
 ### Implementation details 
-* Document the behavior of your game.  This includes the list of commands, and list of city/commodities.
+* Document the behaviour of your game.  This includes the list of commands, and list of city/commodities.
 * Show this proposal to your teacher, to make sure that the scope is suitable.
 
 ---
@@ -50,7 +50,7 @@ of the following commands:
 
 Every project must have a scope.  This is an initial document or plan of what 
 your software is supposed to do, or will do.   Before you begin the design and coding
-of this game, write down the behavior of your game.   You can use the suggestions
+of this game, write down the behaviour of your game.   You can use the suggestions
 above, or modify it to be more unique.  However, keep your scope simple and clear. 
 Resist the urge to overly complicate the game in your scope definition.  Once you
 get a version that is working, you can add new commands or features in a future revision!  Software
