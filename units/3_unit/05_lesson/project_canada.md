@@ -4,7 +4,8 @@ Using variables, functions, and conditionals in Python, students will celebrate 
 
 ## Overview
 Crosscountry Canada was a text based video game popular in the 90's.  This beloved retro game
-was both educational and entertaining.  An online version is available to play here:  https://archive.org/details/msdos_Crosscountry_Canada_1991 .
+was both educational and entertaining. 
+An online version is available to play here:  https://archive.org/details/msdos_Crosscountry_Canada_1991 .
 At the start of the game, the player is given a goal to deliver (by truck) a commodity from one Canadian city to another.
 To achieve your goal, the player must reference a city-commodity cross reference chart, such as https://archive.org/details/msdos_Crosscountry_Canada_1991 . 
 The player must also know which commands are recogonized, such as: https://gamefaqs.gamespot.com/pc/566644-cross-country-canada/faqs/30240 .
@@ -38,6 +39,14 @@ of the following commands:
   * The truck's gas tank is 10,000 Litres
   * The truck can drive 100km with 10 Litres of gas (reference: https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/oee/pdf/transportation/tools/fuelratings/2018%20Fuel%20Consumption%20Guide.pdf)
   
+---
+#### Emphasize with students...
+
+#### Curriculum Competencies - Applied Technologies
+
+In this project, we are creating a software simulation of a real-world activity and context.   As you design your game, be sure to research the geographiy and natural resources of your chosen city locations, so as to make the game as realistic as possible.  
+
+---
 
 ### Implementation details 
 * Document the behaviour of your game.  This includes the list of commands, and list of city/commodities.
@@ -88,3 +97,16 @@ development is iterative, and scaffolds over time.
 1.  Make the rate of food consumption be a function of the day of the week.
 2.  Make a rate of fuel consumption to be a function of the location/climate/season.  For example, colder regions burn more gas.
 3. Create a random event that occurs randomly, like a forest fire roadblock, that will affect health, gas, and time.
+
+## Extension
+Instead of a East-West only map of Canadian cities, create a map that is a grid (eg. 2x5 grid of cities), or some other network graph.
+The game can provide hints or feedback on the routes chosen based on various factors including distance, and time. 
+
+  ---
+#### Emphasize with students...
+
+#### Curriculum Competencies in Mathematics
+
+Pathfinding is the job of finding the shortest (based on a weight or cost associated with each path segment) path between two points on a network graph.  The weight or cost would be based on some criteria (such as distance, time, scenery).  Pathfinding algorithms are used in many applications:  artificial intelligence, navigation, transportation, game design, virtual reality, etc. 
+
+---
