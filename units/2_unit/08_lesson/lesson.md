@@ -5,7 +5,7 @@ Students will be able to...
 * Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game. 
 
 ## Materials/Preparation
-* [Project Spec - Text Monster]
+* [Project Spec - Text Monster or Variation]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Text Monster Game - Example Code]
 * Update the Project Spec as needed to meet your grading requirements
@@ -52,8 +52,6 @@ Advanced students can also be paired as tutors/helpers with struggling students.
 
 ## Forum discussion
 [Lesson 2.08: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-08-text-game)
-    
-  
 [Project Spec - Text Monster]: project.md
 [Text Monster Game - Example Code]: project_file.py
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
