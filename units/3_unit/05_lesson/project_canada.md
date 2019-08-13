@@ -105,7 +105,7 @@ The game can provide hints or feedback on the routes chosen based on various fac
   ---
 #### Emphasize with students...
 
-#### Curriculum Competencies:  Computer Science in Mathematics
+#### Curriculum Competencies:  Computer Science and Mathematics
 
 Pathfinding is the job of finding the shortest (based on a weight or cost associated with each path segment) path between two points on a network graph.  The weight or cost would be based on some criteria (such as distance, time, scenery).  Pathfinding algorithms are used in many applications:  artificial intelligence, navigation, transportation, game design, virtual reality, etc.   
 
