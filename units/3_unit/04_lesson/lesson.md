@@ -33,7 +33,7 @@ Students will be able to...
         * Explain to students that variable scope is the part of a program where a variable is accessible
         * A variable which is defined in the main body of a file is called a global variable. 
         * Global variables: variables defined outside of a function and used in many different functions. 
-        * To use global variables defined outside the function you must declare the varaible with the phrase `global name_of_variable`.
+        * To modify global variables defined outside the function you must declare the varaible with the statement `global name_of_variable`.
         * Any variable created inside of a function is a local variable.
         * Variables in functions include the function parameters, the variables defined in the function and variables declared as global. 
         * Local variables of functions can't be accessed from outside when the function call has finished.
@@ -41,7 +41,7 @@ Students will be able to...
         * NOTE: We use the 'ALL CAPS' convention for global variables.
             * Discuss that programming languages frequently have conventions like camelCase for function names, ALL_CAPS for globals, and underscore_separated for variables. It helps make code more readable, but isn't essential to functionality (in most cases)
    	    * Demonstrate how to draw the Stack Diagrams shown in the course book (found in section 3.4) and explain how they show the scope of variables as they related to functions.
-   	    * Point out the error messages that will occur if you use a variable out of it's scope.
+   	    * Point out the error messages that will occur if you use a variable out of its scope.
     * Debugging
         * Help students follow their program to understand how the code is working
         * Explain how the use of print statements throughout your code can let you know where in the program things are not operating as expected.
