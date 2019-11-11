@@ -21,6 +21,10 @@ Magic 8-Ball Response Examples
   * Maybe
   * Outlook is not good
 
+**Video Explanation**
+
+[![Magic 8 Ball](https://img.youtube.com/vi/gMSPH1Cnwwo/0.jpg)](https://www.youtube.com/watch?v=gMSPH1Cnwwo)
+
 Bonus!
 -------
 Research the math library and create a program that finds the length of the hypotenuse of a right

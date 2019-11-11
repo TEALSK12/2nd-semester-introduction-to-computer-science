@@ -38,7 +38,9 @@ Students will be able to...
         * Explain that we have already gotten used to **calling** functions like `type()` and `print()`.
     * Ask students how they would create a random number generator. 
         * Sounds hard! Luckily someone has already done that: the random library (essentially a bunch of code written by someone else) which has many associated functions. 
-            * Random in Snap ![Random in Snap](http://bjc.berkeley.edu/bjc-r/img/lab-10/random-tree-buggy-code-snap.png) 
+        * Random in Snap 
+            
+            ![Random in Snap](http://bjc.berkeley.edu/bjc-r/img/lab-10/random-tree-buggy-code-snap.png) 
         * Remind students what they saw in the Do Now - how to get a random integer: randint(0, 10).
             * Identify the 0 and 10 in this example as **arguments**, or values passed into the function.
   		    * Ask students what the argument is when we use `print` or `type`
@@ -55,9 +57,12 @@ Students will be able to...
 3. **Lab**
     * Students look through `random` library documentation, practice importing different random functions and using them.
     * Create a Magic 8-ball program using a list and `randint`. 
+    * Video Explanation of the Magic 8 Ball - 
+    
+    [![Magic 8 Ball](https://img.youtube.com/vi/gMSPH1Cnwwo/0.jpg)](https://www.youtube.com/watch?v=gMSPH1Cnwwo)
 
-4. **Debrief**
-    * Check student progress and completion of the lab, wrap up by taking any final questions. 
+4. **Debrief/Exit Ticket**
+    * In their notebooks, have students right down 2 things they learned today to reinforce learning. 
 
 ### Accommodation/Differentiation
 If students are moving quickly, find another library to import from (see **bonus** in the lab) OR allow students to move on to creating their own functions.
