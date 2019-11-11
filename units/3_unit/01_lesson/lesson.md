@@ -59,8 +59,8 @@ Students will be able to...
     
     [![Magic 8 Ball](https://img.youtube.com/vi/gMSPH1Cnwwo/0.jpg)](https://www.youtube.com/watch?v=gMSPH1Cnwwo)
 
-4. **Debrief**
-    * Check student progress and completion of the lab, wrap up by taking any final questions. 
+4. **Debrief/Exit Ticket**
+    * In their notebooks, have students right down 2 things they learned today that they want to make sure they do not forget. 
 
 ### Accommodation/Differentiation
 If students are moving quickly, find another library to import from (see **bonus** in the lab) OR allow students to move on to creating their own functions.
