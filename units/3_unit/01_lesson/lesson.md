@@ -55,6 +55,9 @@ Students will be able to...
 3. **Lab**
     * Students look through `random` library documentation, practice importing different random functions and using them.
     * Create a Magic 8-ball program using a list and `randint`. 
+    * Video Explanation of the Magic 8 Ball - 
+    
+    [![Magic 8 Ball](https://img.youtube.com/vi/gMSPH1Cnwwo/0.jpg)](https://www.youtube.com/watch?v=gMSPH1Cnwwo)
 
 4. **Debrief**
     * Check student progress and completion of the lab, wrap up by taking any final questions. 
