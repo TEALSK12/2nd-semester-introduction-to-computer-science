@@ -29,7 +29,7 @@ Students will be able to...
 2. **Lesson**
     * Discuss what students observed in the Do Now and take time, if needed, to go over questions about concepts that students find challenging. 
     * Explain the concept of **aliasing**. You can draw on the board a diagram of the variable pointing to a list. Note that when passing the location of a list you are not passing the actual value, so the list can be changed. 
-    *Video Explanation of Aliasing
+    * Video Explanation of Aliasing
     
     [![Python - aliasing](https://img.youtube.com/vi/7m_cw30tyr0/0.jpg)](https://www.youtube.com/watch?v=7m_cw30tyr0)
     * **Scope** of functions
