@@ -2,6 +2,10 @@
 
 1) Create a program that lets a user play a **simplified** version of the card game ['War'](http://www.pagat.com/war/war.html).  In this version, the users will share a single deck of cards and cards will not be added back to the deck after they have been played.
 
+**Video Explanation of the Card Game War**
+
+[![Card Game: War](https://img.youtube.com/vi/G4DhzhDlXFM/0.jpg)](https://youtu.be/G4DhzhDlXFM)
+
 Your game should:
 
 * Start with a given shuffled deck variable (shuffle function comes from python's random library, more details below)
