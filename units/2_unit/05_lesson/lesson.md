@@ -43,6 +43,10 @@ Students will be able to...
     * Ask students how they would access the last item in a list of unknown length. (Use the length function!) 
         * Ask students to write on the board how they got the last element of a list. Ask another student to write how they would get the second to last element of the list and so on. 
     * After accessing any list element you can change it. Take a moment to demonstrate this syntax before starting the lab. 
+    * Video Explanation of Lists
+
+    [![Video Explanation of Lists](https://img.youtube.com/vi/wO6lG82RbhM/0.jpg)](https://youtu.be/wO6lG82RbhM?t=67)
+       
 3. **Lab**
     * Practice accessing and updating items in a list
     * Implement program from last lab using lists
