@@ -34,6 +34,9 @@ Students will be able to...
 	* Students write a function that reverses the letters in a string.
 4. **Debrief**
 	* Talk about any issues the students had with the lab today. Discuss how lists are mutable, so you don't have to return a new value. Instead, the list is just updated as the loop runs. 
+	* Video explanation on Python Lists being Mutable
+	
+	[![Mutable Python Lists](https://img.youtube.com/vi/_y3PqL4lIzw/0.jpg)](https://youtu.be/_y3PqL4lIzw?t=181)
 
 ### Accommodation/Differentiation
 
