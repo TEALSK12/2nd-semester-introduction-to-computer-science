@@ -42,6 +42,9 @@ Students will be able to...
 	* Go over the second problem in the Do Now. 
 	    * Asks the students what happened when they iterated over `my_building`.  
 	        * As an extension, ask the students how they would print out each `b` apartment.
+	* Explanation video of Nested Lists
+	
+	[![Nested List](https://img.youtube.com/vi/kzZR9veV78A/0.jpg)](https://youtu.be/kzZR9veV78A)
 3. **Lab (Part 1)**
 	* Students will practice accessing items from lists of lists by creating a schedule program and accessing/updating elements.
 4. **Debrief**
