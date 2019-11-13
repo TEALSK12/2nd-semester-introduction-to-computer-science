@@ -34,6 +34,10 @@ Students will be able to...
     * Display the Do Now on the board.
     * Students use nested for loops to create a square star pattern.
 2. **Lesson**
+	* Video Explanation of Nested For Loops
+	
+	[![Nested For Loops](https://img.youtube.com/vi/fyP4SXpkYG4/0.jpg)](https://youtu.be/fyP4SXpkYG4)
+	
 	* Go over part 1 of the Do Now. 
 		* Discuss the output of the program - were the students able to guess the output without typing it?
 			* Go over how to read for loops if students are struggling (drawing the [loop diagram]). Make sure students are understanding loops and string concatenation. 
