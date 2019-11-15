@@ -11,7 +11,7 @@ We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (20
 * The player must get to Oregon by 12/31
 * At the beginning of the game, user is asked their name.
 * Each turn, the player is asked what action they choose, where the player can type in the following: `travel`, `rest`, `hunt`, `status`, `help`, `quit`
-* The player's health randomly decreases 2 times during the month. 
+* On average, the player's health will randomly decrease twice during a month on any given day. 
 * The player eats 5lbs of food a day.
 * `travel`: moves you randomly between 30-60 miles and takes 3-7 days (random).
 * `rest`: increases health 1 level (up to 5 maximum) and takes 2-5 days (random).
