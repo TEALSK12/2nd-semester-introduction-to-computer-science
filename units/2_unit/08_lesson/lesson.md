@@ -7,7 +7,6 @@ Students will be able to...
 ## Materials/Preparation
 * [Project Spec - Text Monster]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-* [Text Monster Game - Example Code]
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem]
