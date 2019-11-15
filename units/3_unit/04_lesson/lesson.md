@@ -2,10 +2,10 @@
 
 ## Learning Objectives
 Students will be able to... 
-* Define and identify: **scope, aliasing, stack trace**
-* Understand that changing a list in a function updates the list outside of the function
-* Understand that updating variables in a function does not affect the variable outside of the function
-* Understand global variables
+* Define and identify scope, aliasing, stack trace
+* Demonstrate changing a list in a function updates the list outside of the function
+* Demonstrate updating variables in a function does not affect the variable outside of the function
+* Demonstrate using global variables
 * Draw a simple stack trace
 
 ## Materials/Preparation
