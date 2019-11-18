@@ -50,7 +50,7 @@ Students will be able to...
             * Ask students what the contract of `randint` is.
                 * Name: `randint`
                 * Purpose: generate a pseudo-random integer N such that a <= N <= b
-                * Inputs: 2 values of type integer: a and b
+                * Arguments: 2 values of type integer: a and b
                 * Returns: integer
             * Since `randint` is written by someone else there is a place where that contract is written out - **Documentation**. Have students begin the lab, which will instruct them to find the Python documentation for the random library.
  
