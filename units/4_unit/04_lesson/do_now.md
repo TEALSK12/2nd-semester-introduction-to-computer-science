@@ -1,7 +1,6 @@
 # Do Now 4.04
 
-## Part 1
-1. Type and run the following code: 
+Type and run the following code: 
 
     ```python
     # my_building is a representation of the apartments on each floor of my 3 story building
@@ -14,6 +13,8 @@
     print("first floor, 3rd apartment: " + str(my_building[0][2]))
     ```
 
-    Write down what was printed. How you would access the 2nd apartment of the 3rd floor (`apt3b`)?
+### In your Notebook, 
+1. Write down what was printed.
+2. How you would access the 2nd apartment of the 3rd floor (`apt3b`)?
 
-2. Write a for loop that iterates over `my_building` and prints out each value (apartment number). Describe what happened. 
+
