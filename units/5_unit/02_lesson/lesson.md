@@ -31,11 +31,19 @@ Students will be able to...
 	* Call on students to discuss the answers to the questions from the Do Now.
 	* Recap the following key concepts from the reading:
 		* **Rhythm**: describing how the music moves through time.
-		* A **beat** is the basic unit of time in music. If you have ever clapped along to a song, you were probably clapping on each beat. So how long does a beat last? The length depends on the overall speed of the song, called the tempo. 
-		* **Tempo** is measured in beats per minute (bpm). If we are clapping at 60 bpm, then each beat lasts one second. At 120 bpm, each beat takes half a second. The higher the bpm, the faster the song, the shorter the duration of each beat.
-		* Beats are grouped into **measures**. In EarSketch, measures always have four beats.
-		* `setEffect()`: add an effect to a track. Takes parameters: track number, effect name, effect parameter, effect value
-		* `makeBeat()`: instead of composing at the measure-level, we can work at the note-level. Takes parameters: clip name, track number, measure number, beat string
+		* **beat** is the basic unit of time in music.  
+			- clapped along to a song, you are clapping on each beat. 
+			- The length of a beat depends on the overall speed of the song, called the *tempo*. 
+			* Beats are grouped into **measures**. In EarSketch, measures always have four beats.
+			* *`makeBeat()`:* instead of composing at the measure-level, we can work at the note-level. 
+				- parameters: clip name, track number, measure number, beat string
+		* **Tempo** is measured in beats per minute (bpm). 
+			- Clapping at 60 bpm, each beat lasts one second. 
+			- At 120 bpm, each beat takes half a second. 
+			- The higher the bpm, the faster the song and the shorter the duration of each beat.
+		* *`setEffect()`:* add an effect to a track. 
+			- Takes parameters: track number, effect name, effect parameter, effect value
+		
 3. **Lab**
 	* Follow the EarSketch instructions in the lab to use the `makeBeat()` function
 	* Create a simple song with 2 uses of `fitMedia()`, 2 uses of `makeBeat()` and 1 use of an effect. 
