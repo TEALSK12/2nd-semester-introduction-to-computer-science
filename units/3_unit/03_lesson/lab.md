@@ -15,7 +15,7 @@ Your game should:
 ```python
 # name: player_turn
 # purpose: takes in a player name and draws/removes a card from the deck, prints "user drew card x", and returns the value
-# input: player_name as string, deck as list
+# Arguments: player_name as string, deck as list
 # returns: integer
 ```
 * Have a function `compare_scores` that takes in the two integers representing the cards drawn and compares the card values. Make sure to write the contract for `compare_scores`!
