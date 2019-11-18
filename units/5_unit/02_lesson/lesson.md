@@ -50,6 +50,7 @@ Students will be able to...
 	 
 4. **Debrief**
 	* Talk about the new functions learned today, and go over any questions about data types and using strings.
+	* Have students write down two things they have learned so far in Earsketch.
 
 ### Accommodation/Differentiation
 Students can use looping and if statements to their song as an extension activity to make their songs more complex.
