@@ -74,37 +74,29 @@ fitMedia(TECHNO_SYNTHPLUCK_001, 1, 1, 9)
 finish()
 ```
 
-- Have students write in their notebooks an answer to the folloing
-  - What inputs does `fitMedia` take? Press the run button and describe what happened. 
+    - Have students write in their notebooks an answer to the folloing
+      - What inputs does `fitMedia` take? Press the run button and describe what happened. 
 
-#### In their Notebooks,  ensure students have the following terms defined
-  - **DAW**: The main tool for producing music on a computer is the Digital Audio Workstation, or
-    DAW. A DAW is a piece of computer software for recording, editing, and playing digital audio
-    files. Audio files store information that the computer uses to play back music. In the context
-    of a DAW, these audio files are called clips. The DAW allows you to edit and combine multiple
-    clips simultaneously on a musical timeline, and to see and hear how they line up over time. It
-    also makes it easy to synchronize clips with each other. DAWs are used in both professional
-    recording studios and in home laptop-based studios. Two popular DAWs used in the music industry
-    are Pro Tools and Logic Pro.
-  - **Sound Browser - Sounds Tab**: Here, you can browse and search a collection of short pre-made
+  #### lesson Vocabulary
+  ##### In their Notebooks,  ensure students have the following terms defined
+   - **Digital Audio Workstation (DAW):**
+      - a piece of computer software for recording, editing, and playing digital audio files. 
+      - Audio files store information that the computer uses to play back music. 
+      - In the context of a DAW, these audio files are called clips. 
+      - The DAW allows you to edit and combine multiple clips on a musical timeline
+      - Two popular DAWs used in the music industry are Pro Tools and Logic Pro. 
+
+  - **Sound Browser:**
+      - Sounds Tab**: Here, you can browse and search a collection of short pre-made
     audio clips for you to use in your music. 
-  - **Sound Browser - Scripts Tab**: A list of your saved EarSketch projects. Each script is a
-    separate music project. Click a project title to open it in a new tab (in the code editor
-    panel).
-  - **Sound Browser - API Tab**: A description of every EarSketch function. We will return to this
-    in later lessons.
-  - **Digital Audio Workstation (DAW)**: A timeline view of your current song, showing which audio
-    clips you have added to the song and when they come in. It lets you hear your song, and also
-    visualize its structure.
-  - **Code Editor**: A text editor with numbered lines. Type your code here, press "Run", and it
-    will turn into music in the DAW. 
-  - **Console**
-  - `setTempo()`: comes with a default argument of 120, but let's change it to 100. This sets the
-    tempo of our project to 100 beats per minute. As you can see, the name of a function tells you
-    what it does.
-  - `fitMedia()`: to add sound to the DAW. fitMedia() requires four arguments: clip name; track
-    number; starting measure; ending measure. In other words, you tell it the name of the audio clip
-    you want to add to the DAW, which track to put it on, and which measures to put it between. For
+       - Scripts Tab**: A list of your saved EarSketch projects. Each script is a separate music project. Click a project title to open it in a new tab (in the code editor panel).
+       - API Tab**: A description of every EarSketch function. We will return to this in later lessons.
+  - **Code Editor:**
+      - A text editor with numbered lines. 
+      - Type your code here, press "Run", and it will turn into music in the DAW. 
+  - **Console:**
+      - `setTempo()`: comes with a default argument of 120, but let's change it to 100. This sets the tempo of our project to 100 beats per minute. As you can see, the name of a function tells you  what it does.
+      - `fitMedia()`: to add sound to the DAW. fitMedia() requires four arguments: clip name; track number; starting measure; ending measure. In other words, you tell it the name of the audio clip you want to add to the DAW, which track to put it on, and which measures to put it between. For
     now, just type in `fitMedia()` without any arguments.
 
 ### 3. Lab
