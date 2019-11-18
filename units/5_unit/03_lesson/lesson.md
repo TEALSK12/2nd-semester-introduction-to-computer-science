@@ -38,6 +38,12 @@ Students will be able to...
 	* Ask the students to practice using looping, effects, and control flow structures while using 2-3 different tracks.
 4. **Debrief**
 	* Talk about any of the common issues that students had with loops and control flow. 
+	
+#### Video Explanation of Modulo in Python (Visual Rhythms)
+
+[![Video Explanation of Mmodulo in Python](https://img.youtube.com/vi/2Tg9FxIajho/0.jpg)](https://youtu.be/2Tg9FxIajho)
+
+
 
 ### Accommodation/Differentiation
 Students that are moving quickly can read additional documentation on the EarSketch website in order to move ahead and expand their skills and understanding.
