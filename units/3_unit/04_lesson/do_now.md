@@ -1,5 +1,5 @@
 # Do Now 3.04
-### Quiz
+### Quiz Announcement
 We will have a quiz next class covering all of the above topics. 
 
 ### Discussion
