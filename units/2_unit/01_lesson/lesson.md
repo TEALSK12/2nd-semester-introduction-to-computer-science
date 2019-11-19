@@ -25,28 +25,33 @@ Students will be able to...
 | 5 Minutes | Debrief     |
 
 ## Instructor's Notes
-1. **Do Now**
+#### 1. **Do Now**
   * Project [Do Now] questions on the screen
-    * Have students discuss how they used their fingers to count to 10, compared to how they counted to 1023.
-2. **Lesson/Activity**
+  * Have students discuss how they used their fingers to count to 10, compared to how they counted to 1023.
+#### 2. **Lesson/Activity**
   * Explain **binary** compared to decimal: it is a different base of counting, specifically base-2. 
-    * Have students write | 1 | 2 | 4 | 8 | 16 | 32 | ... on the bottom of an index card spaced out about half an inch apart. Cut along the lines so that the numbers are each on a flap. 
-        * Announce any number and have students fold up the index card sections such that the numbers showing add up to the desired number.
-        * Write on the board what the decimal number announced now looks like in binary (e.g. 9 = 1001).
-        * Repeat with additional numbers until all students demonstrate understanding.
-    * Choose students to walk up to the front of the classroom. Have them hold the place they represent and have a number (2^n) on a sheet of paper (so student's have a 1 or 2 or 4 or ... written on their paper). Call out numbers and then have the students work together to decide if their number should be held up (representing a "1") or not.
+  * Have students write | 1 | 2 | 4 | 8 | 16 | 32 | ... on the bottom of an index card spaced out about half an inch apart. Cut along the lines so that the numbers are each on a flap. 
+  * Announce any number and have students fold up the index card sections such that the numbers showing add up to the desired number.
+  * Write on the board what the decimal number announced now looks like in binary (e.g. 9 = 1001).
+  * Repeat with additional numbers until all students demonstrate understanding.
+  * Choose students to walk up to the front of the classroom. Have them hold the place they represent and have a number (2^n) on a sheet of paper (so student's have a 1 or 2 or 4 or ... written on their paper). Call out numbers and then have the students work together to decide if their number should be held up (representing a "1") or not.
   * What else can be represented by binary? Answer (ANYTHING!)
-    * Picture example:
-        * Show students this photo: ![Stary Night](starynight.png)
-        * Explain how this is a digital representation of the artwork, but it's not immediately clear to see how this is represented with 0's and 1's.
-        
-        * Now you can have students look at a black & white example for more clarity: ![city scape](basic_city.png)
-        * Zooming in to pixel level: ![Pixel Level](Screen Shot 2015-11-24 at 12.19.32 PM.png)
-        * Explain to students that we can imagine saying 1 is black and 0 is white.
-    * All data gets converted into binary values! Even music, video, and complex images!
+###### Picture example
+  * Show students this photo: ![Stary Night](starynight.png)
+  * Explain how this is a digital representation of the artwork, but it's not immediately clear to see how this is represented with 0's and 1's.
+  * Now you can have students look at a black & white example for more clarity: ![city scape](basic_city.png)
+  * Zooming in to pixel level: ![Pixel Level](Screen Shot 2015-11-24 at 12.19.32 PM.png)
+  * Explain to students that we can imagine saying 1 is black and 0 is white.
+  * All data gets converted into binary values! Even music, video, and complex images!
   * Discuss how everything the computer reads gets turned into binary in the end, including the code that they will write in this class.
-    * How could letters (a,b,c,...) be turned into binary? 
-        * How can letters be turned into numbers? a = 1, b = 2, c = 3.
+  * How could letters (a,b,c,...) be turned into binary? 
+  * How can letters be turned into numbers? a = 1, b = 2, c = 3.
+        
+##### Video Explanation of Computers Using Binary
+
+[![Computer Use Binary](https://img.youtube.com/vi/Nikxsw3fDcE/0.jpg)](https://youtu.be/Nikxsw3fDcE)
+
+
 
 ### Accommodation/Differentiation
 
