@@ -23,19 +23,19 @@ Students will be able to...
 
 ## Instructor's Notes
 ### 1. Do Now
-    * Students may need more time than usual to fully go through this lesson's Do Now.
+ * Students may need more time than usual to fully go through this lesson's Do Now.
 ### 2. Lesson
-   #### Lecture
-    * Ask students what doing `a[0:2]` in the Do Now did.
-    * Define **slicing**: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
-    * Note that slicing doesn't exist in Snap!
-   #### Discussion
-    * Ask students what the list would return if you did `a[1:2]`.
-    * Explore the differences between `remove` and `pop`, asking for student input. 
-    * Ask students what the plus sign and `append` do to a list.
-   #### Ideation Activiy
-    * Ask students to write down or brainstorm how they would represent a Tic-Tac-Toe board using lists.
-    * Create a Tic-Tac-Toe board with students in class. 
+#### Lecture
+ * Ask students what doing `a[0:2]` in the Do Now did.
+ * Define **slicing**: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
+ * Note that slicing doesn't exist in Snap!
+#### Discussion
+ * Ask students what the list would return if you did `a[1:2]`.
+ * Explore the differences between `remove` and `pop`, asking for student input. 
+ * Ask students what the plus sign and `append` do to a list.
+#### Ideation Activiy
+ * Ask students to write down or brainstorm how they would represent a Tic-Tac-Toe board using lists.
+ * Create a Tic-Tac-Toe board with students in class. 
 ### 3. Lab
     * Students practice slicing, adding, and removing elements from some given lists. 
     * Students create a single move Tic-Tac-Toe game
