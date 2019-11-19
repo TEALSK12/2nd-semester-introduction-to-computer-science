@@ -1,6 +1,8 @@
 # Lab 2.07 - Tic-Tac-Toe Revisited
 
-## For each example below, predict what will be printed. Next, run the program and confirm.
+## For each example below, 
+1. predict what will be printed.
+2. run the program and confirm.
 
 ### Example 1
 
