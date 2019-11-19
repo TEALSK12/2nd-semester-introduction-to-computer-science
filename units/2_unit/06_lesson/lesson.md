@@ -40,10 +40,10 @@ Students will be able to...
 * Create a Tic-Tac-Toe board with students in class. 
 
 ### 3. Lab
-    * Students practice slicing, adding, and removing elements from some given lists. 
-    * Students create a single move Tic-Tac-Toe game
+* Students practice slicing, adding, and removing elements from some given lists. 
+* Students create a single move Tic-Tac-Toe game
 ### 4. Debrief
-    * Check student progress and completion of the lab, wrap up by taking any final questions.
+* Check student progress and completion of the lab, wrap up by taking any final questions.
 
 ## Accommodation/Differentiation
 * If students are moving quickly, start the next topic of using a while loop as a game loop. Explore the concept of keeping score for the game.
