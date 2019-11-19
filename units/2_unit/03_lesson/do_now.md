@@ -11,24 +11,10 @@ Open up the console. Type each line of the following code into the interactive e
  >>> user_favorite_animal = input("What is your favorite animal? ") 
  >>> my_favorite_animal == user_favorite_animal
  ```
- What does `5 < 3` evaluate to?  
-<br>
-<br>
-<br>
-What is the type of `5 < 3`? What does that stand for (should be familiar from Snap!)?
-<br>
-<br>
-<br>
-
-What is the difference between `==` and `=` ?
-<br>
-<br>
-<br>
-
-What data type do you think `my_favorite_animal == user_favorite_animal` is? 
-<br>
-<br>
-<br>
+1. What does `5 < 3` evaluate to?  
+2. What is the type of `5 < 3`? What does that stand for (should be familiar from Snap!)?
+3. What is the difference between `==` and `=` ?
+4. What data type do you think `my_favorite_animal == user_favorite_animal` is? 
 
 ## Part 2
 Open up the console. Type the following code into the interactive editor. 
@@ -40,13 +26,7 @@ Open up the console. Type the following code into the interactive editor.
  
 ```
 
-What does `and` do here? What type do you think `can_get_license` is? 
-<br>
-<br>
-<br>
-
-Update the code to fit the new driving law: If you are over the age of 18 you don't need to have a permit. The other law still applies for people ages 16-18. 
-<br>
-<br>
-<br>
-
+1. What does `and` do here? What type do you think `can_get_license` is? 
+2. Update the code to fit the new driving law: 
+ * If you are over the age of 18 you don't need to have a permit. 
+ * The other law still applies for people ages 16-18. 
