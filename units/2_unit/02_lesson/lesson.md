@@ -42,14 +42,14 @@ Students will be able to...
   
   #### Discussion
   * Discuss what would happen if the user types in 1.5 instead of 4. 
-    * If input is a float, can cast with float(num)
+  * If input is a float, can cast with float(num)
   * `type`: ask students what they think `type('a')` would output.  
-    * Why might you want to use `type`?
+  * Why might you want to use `type`?
 ### 3. Lab
-    * Practice predicting what casting will do to inputs. 
-    * Create a halving program as well as program that halves to whole numbers. 
+  * Practice predicting what casting will do to inputs. 
+  * Create a halving program as well as program that halves to whole numbers. 
 ### 4. Debrief
-    * Check student progress and completion of the lab, wrap up by taking any final questions.
+  * Check student progress and completion of the lab, wrap up by taking any final questions.
 
 
 ### Accommodation/Differentiation
