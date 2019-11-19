@@ -38,7 +38,7 @@ We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (20
 | Food decreases every day                                        | 5  | 
 | Health decreases randomly	                                      | 5   | 
 | **Sub total**                                                   | 50  |
-| **Technical Correctness   **                                    |     |
+| **Technical Correctness**                                    |     |
 | Correctly use functions and contracts                           | 20  |
 | Correctly use imported random function                          | 5  |
 | Correctly use global variables                                  | 5  |

@@ -1,5 +1,6 @@
 # Lab 2.03 - Can I or Can't I?
 
+
 1) In your notebook, predict if each of the following will produce a `True` or `False` output. Check your answers in interactive mode. 
 
     ### Example 1
@@ -66,6 +67,7 @@
 
 # Bonus!
 ### Are the following expressions equivalent? Research DeMorgan's Laws and write why you think they are the same or why they are not the same. 
+
 
 `not(x or y) == not x and not y`
 

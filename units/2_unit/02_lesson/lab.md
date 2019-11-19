@@ -1,5 +1,6 @@
 # Lab 2.02 - Casting
 
+
 1) In your notebook, predict what the following inputs will result in. Once you have filled in the "prediction" column, check your answers in interactive mode and write the actual result. 
 
 

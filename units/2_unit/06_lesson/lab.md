@@ -1,6 +1,8 @@
 # Lab 2.06 - Tic-Tac-Toe
 
-1) For each example below, predict what will be printed. Then run the program and confirm. 
+## For each example below, in your notebook, predict what will be printed. Then run the program and confirm. 
+
+### Example 1
 
 ### Example 1
 
@@ -9,13 +11,13 @@
     print(a[0:3])
     print(a[1:4])
 ```
+
 ### Example 2
 
 ```python
     a = ['a', 'b', 'c', 'd', 'e']
     print(a[1:len(a) - 3])
 ```
-
 ### Example 3
     
 ```python
@@ -24,7 +26,6 @@
     print(a)
     print(b)
 ```
-
 ### Example 4
     
 ```python
@@ -34,7 +35,6 @@
     print(a)
     print(b)
 ```
-
 ### Example 5
     
 ```python
@@ -43,7 +43,6 @@
     print(a)
     print(b)
 ```
-
 ### Example 6
     
 ```python

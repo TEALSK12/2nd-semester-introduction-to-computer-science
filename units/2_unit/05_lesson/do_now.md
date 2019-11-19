@@ -9,6 +9,7 @@
  
 ```
 
+
 ## In your Notebook
 ### Answer the following
 1. What type do you think a_list is? (Hint: look at the name of the variable)
@@ -17,6 +18,7 @@
 
 ## In your Console
 ### Type in the following
+
 
 ```
  a_list = ['a', 'b', 'c', 'd', 'e']
@@ -28,6 +30,5 @@
  print(a_list[5])
  print(a_list[6])
 ```
-
 ## In your Notebook
 Explain what happens in the program

@@ -23,6 +23,7 @@ Students will be able to...
 
 ## Instructor's Notes
 ### 1. Do Now
+
     * Students may need more time than usual to fully go through this lesson's Do Now.
 ### 2. Lesson
 #### Instruction

@@ -21,6 +21,7 @@ Students will be able to...
 
 ## Instructor's Notes
 ### 1. Do Now
+
 * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 ### 2. Lesson
 #### Discussion
@@ -37,6 +38,7 @@ Students will be able to...
     8
     => None
     ```
+
 #### Student Sharing
 * Call on 2-3 students to write their answers on the board. 
 * Discuss what would happen if the user types in 1.5 instead of 4. 
@@ -52,6 +54,7 @@ Students will be able to...
 
 
 ## Accommodation/Differentiation
+
 If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0's and 1's). In practice these translate to True and False. Convert numbers to boolean, and booleans to numbers.
 
 ## Forum discussion

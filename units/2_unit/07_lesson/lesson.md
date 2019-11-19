@@ -23,6 +23,7 @@ Students will be able to...
 ### 1. Do Now
 * Students experiment with creating `while` loops.
 ### 2. Lesson
+
 #### Instruction
 * Ask students what the `while` loops that they created did. 
 * Go over the syntax of `while` loops. Use this as an opportunity to remind students of **boolean expressions**.

@@ -25,6 +25,7 @@ Students will be able to...
 ## Instructor's Notes
 
 ### 1. Do Now
+
 * Students follow instructions to create lists and use the `len` function. 
 ### 2. Lesson
 #### Instruction

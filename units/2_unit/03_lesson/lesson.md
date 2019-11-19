@@ -22,6 +22,7 @@ Students will be able to...
 
 ## Instructor's Notes
 ### 1. Do Now
+
 * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 ### 2. Lesson
 #### Discussion
@@ -56,7 +57,7 @@ Students will be able to...
 
 ## Accommodation/Differentiation
 If students are moving quickly, use this opportunity to go over truth tables (or ask them to research De Morgan's Law) 
-* Convert the following SNAP Truth Table program into Python.
+#### Convert the following SNAP Truth Table program into Python.
 ![](Lesson%202.03%20Truth%20Table.png)
 
 ## Forum discussion

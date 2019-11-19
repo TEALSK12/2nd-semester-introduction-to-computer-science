@@ -46,12 +46,14 @@
 ## Bonus!
 Research nested lists and work through the following: 
 
+
 ### Example 1
 
 ```python
 a = ['a', 'b', 'c', ['d', 'e']]
 print(len(a))
 ```
+
 ### Example 2
 
 ```python
@@ -59,5 +61,6 @@ a = ['a', 'b', 'c', ['d', 'e']]
 b = a[3]
 print(b)
 ```
+
 ### In your Notebook
 How would you access 'd' from the list `a`? 

@@ -1,21 +1,15 @@
 # Lab 2.04 - Game Show
 
+
 ## In your Notebook
 
 ### Follow the flow of execution in the following programs and predict what will happen for each one:
 
 ### Example 1
 
-```python
-    a = 100
-    b = 7
-    if a > 85 and b > 7:
-        print("Stellar Grade")
-    elif a <= 85 and b <= 7: 
-        print("okay grade")
-    else: 
-        print("pretty good grade") 
-```
+
+1. Follow the flow of execution in the following programs and predict what will happen for each one:
+
 
 ### Example 2
     
@@ -68,6 +62,8 @@
     * The prize corresponding with that door is printed for the user. 
 
 
+
 ## Bonus! 
+
 
 Research lists in Python. Re-implement problem 3 using lists. 

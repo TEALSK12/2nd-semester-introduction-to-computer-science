@@ -23,6 +23,7 @@ Students will be able to...
 
 ## Instructor's Notes
 ### 1. Do Now
+
 * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 * Students should quickly realize that they do not have all the tools necessary to complete the task.
   
@@ -33,10 +34,12 @@ Students will be able to...
 * **Conditional** statements give us this ability to affect the **flow of control**. 
 * The simplest form is the `if` statement. The boolean expression after `if` is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.
 
+
     ```python
     if x > 0: 
         print("x is positive")
     ```
+
 #### Demonstration
 * Write out the syntax of the `if` statement on the board. Point out the Boolean expression(condition), the colon, and the indentation. 
 * Ask students if they recall what else went along with the if statement when they used it in Snap! 
@@ -52,6 +55,7 @@ Students will be able to...
 ### 4. Debrief
 * Check student progress and completion of the lab, wrap up by taking any final questions.
 * Have students write down a couple of learnings that they stood out to them today in their notebooks.
+
 
 ## Accommodation/Differentiation
 Use the following as an extension activity for students that are moving quickly:

@@ -15,6 +15,7 @@ Open up the console. Type each line of the following code into the interactive e
  ```
 ### In your Notebook, answer the following:
 
+
 1. What does `5 < 3` evaluate to?  
 2. What is the type of `5 < 3`? What does that stand for (should be familiar from Snap!)?
 3. What is the difference between `==` and `=` ?
@@ -34,3 +35,4 @@ Open up the console. Type the following code into the interactive editor.
 ### In your Notebook, answer the following
 1. What does `and` do here? What type do you think `can_get_license` is? 
 2. Update the code to fit the new driving law: If you are over the age of 18 you don't need to have a permit. The other law still applies for people ages 16-18. 
+
