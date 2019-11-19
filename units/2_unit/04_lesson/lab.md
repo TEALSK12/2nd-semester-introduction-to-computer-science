@@ -63,9 +63,9 @@
 
 3) Create a game show program! 
     
-* Declare 10 prizes (prize1, prize2, prize 3 at the top of your file)
-* User picks a number
-* The prize corresponding with that door is printed for the user. 
+    * Declare 10 prizes (prize1, prize2, prize 3 at the top of your file)
+    * User picks a number
+    * The prize corresponding with that door is printed for the user. 
 
 
 ## Bonus! 
