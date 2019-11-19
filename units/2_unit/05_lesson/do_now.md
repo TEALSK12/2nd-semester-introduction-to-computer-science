@@ -1,6 +1,6 @@
 # Do Now 2.05
 
-## In You console
+## In your console
 ### Type in the following
 
 ```
