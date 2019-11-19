@@ -30,7 +30,7 @@
     print(a)
 ```
 
-2, Remember the game show program from last lab? Create this game again using lists and indexes. Updated rules below: 
+2. Remember the game show program from last lab? Create this game again using lists and indexes. Updated rules below: 
 
     * Declare 10 prizes (prize0, prize1, prize2 at the top of your file), but store them all in a list.
     * User picks a number.
@@ -52,7 +52,7 @@ Research nested lists and work through the following:
 a = ['a', 'b', 'c', ['d', 'e']]
 print(len(a))
 ```
-### EXample 2
+### Example 2
 
 ```python
 a = ['a', 'b', 'c', ['d', 'e']]
