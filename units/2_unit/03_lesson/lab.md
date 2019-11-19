@@ -45,8 +45,8 @@
    * Older than 35
    * Resident of US for 14 Years
    * Natural born citizen
-
-Print `True` if the person could be president and `False` if they can't be president. 
+   * Print `True` if the person could be president
+   * Print `False` if they can't be president. 
 
 3) Alter one line of that program to be a "I can't be President?" game. 
    * Print `True` if the user cannot be President
