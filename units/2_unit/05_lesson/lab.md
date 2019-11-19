@@ -1,60 +1,74 @@
 # Lab 2.05 - College Chooser
 
-1. For each example below, predict what will be printed. Next, run the program and confirm what was output. 
+## In Your Notebook
+
+### For each Example Predict what will be printed
+
+#### Example 1
 
 ```python
     a = ['a', 'b', 'c', 'd', 'e']
     print(a[0])
     print(a[3])
 ```
+#### Example 2
 
-<br>
 ```python
     a = ['a', 'b', 'c', 'd', 'e']
     print(a[len(a) - 3])
 ```
-<br>
-    
+#### Example 3
+
 ```python
     a = ['a', 'b', 'c', 'd', 'e']
     print(a[len(a) - 6])
 ```
     
-<br>
-    
+#### Example 4    
 ```python
     a = ['a', 'b', 'c', 'd', 'e']
     a[3] = 'haha'
     print(a)
 ```
-<br> 
 
-2) Remember the game show program from last lab? Create this game again using lists and indexes. Updated rules below: 
+### Now run each example in the console and see what they do.
 
-* Declare 10 prizes (prize0, prize1, prize2 at the top of your file), but store them all in a list.
-* User picks a number.
-* Print prize associated with the door user picked. 
+## Expanding the lesson 4 lab
+###Create this game again using lists and indexes. Updated rules below: 
+ * Declare 10 prizes (prize0, prize1, prize2 at the top of your file), but store them all in a list.
+ * User picks a number.
+ * Print prize associated with the door user picked. 
 
-3) Create a quiz to help you choose which college you should go to (or another topic of your choice) The program should ask the user a question and list five possible answers. If the student chooses the first answer, add 1 point to `School[0]`. If they choose the second answer add 1 point to `School[1]`, and so on. At the end print out the schools and the scores for each school. 
+## On your Own
+### College Chooser
+Create a quiz to help you choose which college you should go to (or another topic of your choice) 
+* The program should ask the user a question and list five possible answers. 
+* If the student chooses the first answer, add 1 point to `School[0]`. 
+* If they choose the second answer add 1 point to `School[1]`, and so on. 
+* At the end print out the schools and the scores for each school. 
+
+#### Specs
 * Create a list of 5 options of colleges.
 * Create a different list of five 0s, representing the user's votes so far.
 * Create 4 questions. Each question should have five different answers. Each answer corresponds to the specific school option.
 * At the end print off the 5 different schools and the score the user got for each of those schools. 
 
-###Bonus!
-Research nested lists and work through the following: 
+### Bonus!
+Research nested lists and test the following in your console.
+
+#### Example 1 
 
 ```python
 a = ['a', 'b', 'c', ['d', 'e']]
 print(len(a))
 ```
-<br>
+
+#### Example 2
 
 ```python
 a = ['a', 'b', 'c', ['d', 'e']]
 b = a[3]
 print(b)
 ```
-<br>
 
-How would you access 'd' from the list `a`? 
+#### How would you access 'd' from the list `a`? 
