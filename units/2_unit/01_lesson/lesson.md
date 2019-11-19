@@ -49,13 +49,16 @@ Call out numbers and then have the students work together to decide if their num
 
 #### Zooming in to pixel level: 
 
-![Pixel Level](Screen Shot 2015-11-24 at 12.19.32 PM.png)
+![Pixel Level](Pixel_Level.png)
 
 11. Explain to students that we can imagine saying 1 is black and 0 is white.
 12. All data gets converted into binary values! Even music, video, and complex images!
 13. Discuss how everything the computer reads gets turned into binary in the end, including the code that they will write in this class.
 14. How could letters (a,b,c,...) be turned into binary? 
 15. How can letters be turned into numbers? a = 1, b = 2, c = 3.
+
+### 3. Debrief
+* Have students write down two things they learned in this lesson in their notebooks.
 
 ## Accommodation/Differentiation
 
