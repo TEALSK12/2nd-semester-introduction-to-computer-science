@@ -2,33 +2,33 @@
 
 1. In your notebook, For each example below, predict what will be printed. Next, run the program and confirm what was output. 
 
-### Example 1
+    ### Example 1
 
-```python
-    a = ['a', 'b', 'c', 'd', 'e']
-    print(a[0])
-    print(a[3])
-```
-### Example 2
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        print(a[0])
+        print(a[3])
+    ```
+    ### Example 2
 
-```python
-    a = ['a', 'b', 'c', 'd', 'e']
-    print(a[len(a) - 3])
-```
-### Example 3
-    
-```python
-    a = ['a', 'b', 'c', 'd', 'e']
-    print(a[len(a) - 6])
-```
-    
-### Example 4
-    
-```python
-    a = ['a', 'b', 'c', 'd', 'e']
-    a[3] = 'haha'
-    print(a)
-```
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        print(a[len(a) - 3])
+    ```
+    ### Example 3
+
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        print(a[len(a) - 6])
+    ```
+
+    ### Example 4
+
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        a[3] = 'haha'
+        print(a)
+    ```
 
 2. Remember the game show program from last lab? Create this game again using lists and indexes. Updated rules below: 
 
