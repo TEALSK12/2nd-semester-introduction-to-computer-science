@@ -46,9 +46,9 @@ This game takes place in a three story dungeon. The user has to traverse the lev
 ##### Win/Lose
  * The game is won when the player grabs the prize.
  * The game is lost if the user 
- 1. fights a monster without a sword
- 2. fights the boss monster without a sword and stones
- 3. tries to move past a monster
+ * fights a monster without a sword
+ * fights the boss monster without a sword and stones
+ * tries to move past a monster
 
 ### Design Considerations
 ##### Game Board
