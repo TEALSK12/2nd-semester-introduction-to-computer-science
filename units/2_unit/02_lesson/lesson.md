@@ -23,28 +23,28 @@ Students will be able to...
 ### 1. Do Now
   * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
 ### 2. Lesson
-     #### Discussion
-     * Ask students to define **type**. Talk about types as a way to represent data (give examples of strings, ints, and floats).
-     * Ask students what they thought typing the command str(123) does. 
-       * Define this process of changing data types as **casting**. 
-     * Ask students what they did to cast string into an integer. 
-       * Define the int function if the students were unable to guess it from the do now.
-     #### Activity
-    * Take a few minutes to have students write down in their notebooks how they would produce the following output:
-      ```
-      > 
-      Give me a number you want to multiply by 2: 4
-      8
-      => None
-      ```
-    #### Students Share
-    * Call on 3-4 students to write their answers on the board. 
+   #### Discussion
+   * Ask students to define **type**. Talk about types as a way to represent data (give examples of strings, ints, and floats).
+   * Ask students what they thought typing the command str(123) does. 
+     * Define this process of changing data types as **casting**. 
+   * Ask students what they did to cast string into an integer. 
+     * Define the int function if the students were unable to guess it from the do now.
+   #### Activity
+  * Take a few minutes to have students write down in their notebooks how they would produce the following output:
+    ```
+    > 
+    Give me a number you want to multiply by 2: 4
+    8
+    => None
+    ```
+  #### Students Share
+  * Call on 3-4 students to write their answers on the board. 
 
-    #### Discussion
-    * Discuss what would happen if the user types in 1.5 instead of 4. 
-    * If input is a float, can cast with float(num)
-    * `type`: ask students what they think `type('a')` would output.  
-    * Why might you want to use `type`?
+  #### Discussion
+  * Discuss what would happen if the user types in 1.5 instead of 4. 
+  * If input is a float, can cast with float(num)
+  * `type`: ask students what they think `type('a')` would output.  
+  * Why might you want to use `type`?
 ### 3. Lab
   * Practice predicting what casting will do to inputs. 
   * Create a halving program as well as program that halves to whole numbers. 
