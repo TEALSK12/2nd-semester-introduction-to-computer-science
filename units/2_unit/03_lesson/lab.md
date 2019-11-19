@@ -52,10 +52,9 @@
 ### Complete the following:
 
 2) Create a "Can I be President?" program, which determines if the user meets the minimum requirements for becoming the President of the United States. Use user input. The rules for being president of the U.S. are: 
-    1. Older than 35
-    2. Resident of US for 14 Years
-    3. Natural born citizen
-
+    * Older than 35
+    * Resident of US for 14 Years
+    * Natural born citizen
     * Print `True` if the person could be president and `False` if they can't be president. 
 
 3) Alter one line of that program to be a "I can't be President?" game. Print `True` if the user cannot be President and `False` if they can be President.
