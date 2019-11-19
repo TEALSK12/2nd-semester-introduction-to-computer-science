@@ -12,7 +12,6 @@ Open up the console. Type the following code.
  print(x_stage2 + y_stage2)
 ```
 ## In Your Notebook
-----------------------------
 Write the answers to the following questions,
 1. What type are the variables `x_stage1` and `y_stage1`? 
 2. What type are the variables `x_stage2` and `y_stage2`? 
