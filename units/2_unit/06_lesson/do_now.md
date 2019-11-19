@@ -2,6 +2,9 @@
 
 ## Part 1
 Open up the console. Type the following code using interactive mode:
+
+### Example 1
+
 ```
  >>> a = [123, 'First Item', 456, 'Second Item']
  >>> b = a[0:2]
@@ -10,20 +13,19 @@ Open up the console. Type the following code using interactive mode:
  
 ```
 
-What happens to a? What is b? What type is b? 
-<br>
-<br>
-<br>
+* In your notebook, What happens to a? What is b? What type is b? 
+
+### Example 2
+
 ```
  >>> a = [123, 'First Item', 456]
  >>> a.remove('First Item')
  >>> print(a) 
 ```
 
-What does `remove` do? What would the length of this list be after `remove`? 
-<br>
-<br>
-<br>
+* In your notebook, what does `remove` do? What would the length of this list be after `remove`? 
+
+### Example 3
 
 ```
  >>> a = [123, 'First Item', 456]
@@ -31,10 +33,10 @@ What does `remove` do? What would the length of this list be after `remove`?
  >>> print(a) 
 ```
 
-What does `pop` do? What is the difference between `remove` and `pop`? 
-<br>
-<br>
-<br>
+* In your notebook, what does `pop` do? What is the difference between `remove` and `pop`? 
+
+### Example 4
+
 ```
  >>> a = [123, 'First Item', 456, 'Second Item']
  >>> b = a + ['Third Item']
@@ -43,24 +45,19 @@ What does `pop` do? What is the difference between `remove` and `pop`?
  
 ```
 
-What happens to a? What is b? What type is b? 
-<br>
-<br>
-<br>
+* In your notebook, what happens to a? What is b? What type is b? 
 
-```
+### Example 5
+ 
+ ```
  >>> a = []
  >>> print(len(a))
  >>> a.append('First Item')
  >>> print(a)
  
 ```
-What was the length of `[]`?
-<br>
-<br>
-<br>
 
-What does `append` do? What would the length be after `append`? 
-<br>
-<br>
-<br>
+### In your Notebook
+
+1. What was the length of `[]`?
+2. What does `append` do? What would the length be after `append`? 
