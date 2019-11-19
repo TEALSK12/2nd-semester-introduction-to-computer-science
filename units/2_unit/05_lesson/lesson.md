@@ -34,7 +34,7 @@ Students will be able to...
   * Emphasize that you can have lists of any type (int, float, string, etc). You can even have lists within lists (more on that later...)
   * Remind students of lists in Snap! 
    ##### Snap Example
-       ![lists in snap](http://bjc.edc.org/bjc-r/img/3-lists/wordlists.png)
+   ![lists in snap](http://bjc.edc.org/bjc-r/img/3-lists/wordlists.png)
   
   #### Discussion
   * Ask students what `len` does when they used it in the Do Now. 
@@ -45,7 +45,7 @@ Students will be able to...
   * 0-index: lists are 0 indexed. So the first element in the list is at the 0-index
   * Out-of-bounds: what happened when you tried to index into a list that was too long?
    ##### Snap Example  
-      ![snap indexing](http://bjc.edc.org/bjc-r/img/3-lists/gs5how_many.png)
+   ![snap indexing](http://bjc.edc.org/bjc-r/img/3-lists/gs5how_many.png)
   
   #### Discussion  
   * Ask students how they would access the last item in a list of unknown length. (Use the length function!) 
