@@ -38,8 +38,6 @@
    * [Lesson 2.06: Lists 2](units/2_unit/06_lesson/lesson.md)
        * [Do Now 2.06](units/2_unit/06_lesson/do_now.md)
        * [Lab 2.06](units/2_unit/06_lesson/lab.md)
-   * [Lesson 2.06b: Lists Recap](units/2_unit/06_lesson/lesson2.md)
-       * [Do Now 2.06b](units/2_unit/06_lesson/do_now2.md)
    * [Lesson 2.07: Game Loop](units/2_unit/07_lesson/lesson.md)
        * [Do Now 2.07](units/2_unit/07_lesson/do_now.md)
        * [Lab 2.07](units/2_unit/07_lesson/lab.md)

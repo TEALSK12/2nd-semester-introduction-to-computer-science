@@ -4,6 +4,8 @@
 
 ### Example 1
 
+### Example 1
+
 ```python
     a = ['a', 'b', 'c', 'd', 'e']
     print(a[0:3])
@@ -50,12 +52,12 @@
     print(b)
 ```
 
-## Tic Tac Toe (Continued)
-### We are going to start implementing Tic-Tac-Toe using a single list.
-1. The user picks a location on the board according to the number:
-  
-  ![tic-tac-toe](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrA_MowUM-KZXl1CpkrQhi8W505dM3cxZG1787i9qFz8KefqFkIQ)
-  
-2. Depending on the position that the user inputs, update the position of the board to an "X" to reflect that.
-3. Print the updated board out, but don't worry about making it look pretty.
-4. Only need to implement one turn of the game
+2) Remember the tic-tac-toe board we created in class? We are going to start implementing Tic-Tac-Toe using a single list.
+
+    * The user picks a location on the board according to the number: 
+
+        ![tic-tac-toe](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrA_MowUM-KZXl1CpkrQhi8W505dM3cxZG1787i9qFz8KefqFkIQ)
+
+    * Depending on the position that the user inputs, update the position of the board to an "X" to reflect that.
+    * Print the updated board out, but don't worry about making it look pretty.
+    * Only need to implement one turn of the game

@@ -30,12 +30,11 @@ Students will be able to...
 ### 1. 4 Steps to Solve Any CS Problem
 * Review [4 Steps to Solve Any CS Problem]
 ### 2. Project Overview/Demo
-* Distribute the project specifications to all students and walk them through the goals and requirements of the project. 
+
+* Distribute the project spec to all students and walk them through the goals and requirements of the project. 
 * Show a demo of a completed project.
-* Go over specific design considerations from the project specifications 
-* Draw out a game board using lists and a variable saving the current floor. 
-    * Have students call out moves and practice going through a game. 
-    * Note using lists of lists ended up being too much info to cover here. If you think the students are ready it would make more sense design wise
+* Go over specific design considerations from the project spec: 
+* Draw out a game board using lists and a variable saving the current floor. Have students call out moves and practice going through a game. (Note using lists of lists ended up being too much info to cover here. If you think the students are ready it would make more sense design wise)
 * Introduce the concept of global variables and how they will be useful here.
 * Identify the importance of the "User Pocket" and how to use a list along with `append` and `remove` for this information.
 ### 3. Design
@@ -46,8 +45,9 @@ Students will be able to...
 * During the review the next morning cover the topics/areas that students are struggling on and present tips, suggestions, and goals for that day.
 
 ## Accommodation/Differentiation
-Make sure to do status checks with all students throughout the project. Identify students that are struggling on the project after the first few days and provide additional scaffolding & support as needed. 
 
+* Make sure to do status checks with all students throughout the project. 
+* Identify students that are struggling on the project after the first few days and provide additional scaffolding & support as needed. 
 * For any students that are advancing rapidly through the project, give them extension ideas such as adding a new feature or floor to the game. 
 * Advanced students can also be paired as tutors/helpers with struggling students.
 

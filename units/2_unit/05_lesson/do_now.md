@@ -1,19 +1,25 @@
 # Do Now 2.05
 
-Open up the console. Type the following code. 
+## In your console
+### Type in the following
+
 ```
  a_list = ['a', 'b', 'c', 'd', 'e']
  print(len(a_list))
  
 ```
-### In your Notebook
 
-#### Answer the following questions:
+
+## In your Notebook
+### Answer the following
 1. What type do you think a_list is? (Hint: look at the name of the variable)
 2. What does `len` do? 
 3. Brainstorm how you would print the first element from `a_list`?
 
-Type the following into the console. 
+## In your Console
+### Type in the following
+
+
 ```
  a_list = ['a', 'b', 'c', 'd', 'e']
  print(a_list[0])
@@ -24,9 +30,5 @@ Type the following into the console.
  print(a_list[5])
  print(a_list[6])
 ```
-
-### In your Notebook
-
-#### Answer the following questions:
-1. What happens? 
-2. Why did you notice when you got to the end of the list?
+## In your Notebook
+Explain what happens in the program

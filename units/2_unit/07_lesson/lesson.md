@@ -23,7 +23,8 @@ Students will be able to...
 ### 1. Do Now
 * Students experiment with creating `while` loops.
 ### 2. Lesson
-#### Lecture
+
+#### Instruction
 * Ask students what the `while` loops that they created did. 
 * Go over the syntax of `while` loops. Use this as an opportunity to remind students of **boolean expressions**.
 #### Discussion
@@ -31,12 +32,13 @@ Students will be able to...
 * Ask students to consider how they could write a loop using user input, using the following scenario:
 * What if you wanted the loop to stop when the user inputs "quit"? 
 #### Activity
-* Have the students think about and write a solution, then call students up to the board to write out how they solved it.
+* Have the students think about and write a solution
+#### Student Share
+* call students up to the board to write out how they solved it.
 ### 3. Lab
 * Students work to create a Tic-Tac-Toe game that allows turns (up to 9), building on their previous work.
 ### 4. Debrief
 * Check for completion and understanding of the lab. 
-
 ## Accommodation/Differentiation
 
 If there is extra time, have students start reading through the project specs and thinking about how they will apply what they have learned this unit to complete the project.
