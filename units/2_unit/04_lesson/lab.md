@@ -1,7 +1,10 @@
 # Lab 2.04 - Game Show
 
-1) Follow the flow of execution in the following programs and predict what will happen for each one:
+## In Your Notebook
 
+1. Follow the flow of execution in the following programs and predict what will happen for each one:
+
+### Example 1
 ```python
     a = 100
     b = 7
@@ -12,9 +15,7 @@
     else: 
         print("pretty good grade") 
 ```
-
-<br><br>
-    
+### Example 2    
 ```python
     a = input("What... is your quest") 
     b = "to seek the holy grail"
@@ -27,8 +28,7 @@
         else: 
             print("[you were thrown over bridge]")
 ```
-<br><br>
-    
+### Example 3 
   
 ```python
     user_input = input("What is your favorite color"): 
@@ -51,20 +51,19 @@
     else: 
         print("I don't recognize that color. Is it even...??") 
 ```
-   
- <br><br>
-    
+## Continue in your Notebook   
 
-2) Translate this Snap! program into a Python program. 
+2. Translate this Snap! program into a Python program. 
+
 ![triangle_program](triangle_program.png)
 
-3) Create a game show program! 
+3. Create a game show program! 
     
 * Declare 10 prizes (prize1, prize2, prize 3 at the top of your file)
 * User picks a number
 * The prize corresponding with that door is printed for the user. 
 
 
-###Bonus! 
+### Bonus! 
 
 Research lists in Python. Re-implement problem 3 using lists. 
