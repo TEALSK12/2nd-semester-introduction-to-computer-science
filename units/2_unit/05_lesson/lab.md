@@ -30,11 +30,11 @@
     a[3] = 'haha'
     print(a)
 ```
-
 ### Now run each example in the console and see what they do.
 
+----------------------------------
 ## Expanding the lesson 4 lab
-###Create this game again using lists and indexes. Updated rules below: 
+### Create this game again using lists and indexes. Updated rules below: 
  * Declare 10 prizes (prize0, prize1, prize2 at the top of your file), but store them all in a list.
  * User picks a number.
  * Print prize associated with the door user picked. 
