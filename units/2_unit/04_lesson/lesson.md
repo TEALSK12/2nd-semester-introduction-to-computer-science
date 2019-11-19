@@ -57,7 +57,7 @@ Students will be able to...
 Use the following as an extension activity for students that are moving quickly:
 * Convert and finish the following SNAP Vending Machine program in Python.
 
-![Vending Machine](Lesson 2.04 Conditionals - Vending Machine.png)
+![Vending Machine](python_2.04_vending_machine.png)
 
 
 If students are moving quickly, this lesson can move onto lists. 
