@@ -1,8 +1,8 @@
 # Lab 2.05 - College Chooser
 
-## In Your Notebook
+## In your Notebook
 
-### For each Example Predict what will be printed
+### For each Example below, predict what will be printed
 
 #### Example 1
 
@@ -30,7 +30,7 @@
     a[3] = 'haha'
     print(a)
 ```
-### Now run each example in the console and see what they do.
+### Now run each example aboce in the console and see what they do.
 
 ----------------------------------
 ## Expanding the lesson 4 lab
