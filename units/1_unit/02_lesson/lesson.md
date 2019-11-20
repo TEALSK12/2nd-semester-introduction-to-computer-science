@@ -22,44 +22,66 @@ Students will be able to...
 | 5 Minutes | Debrief     |
 
 ## Instructor's Notes
-1. **Do Now**
-	* Display the online IDE and asks students to identify the key parts (menu bar items [run, console, +], code panel, console panel) of the IDE.
-	* After going over the three parts of the IDE have students check that they can still log into their IDE account.
-2. **Lesson** 
-	* The part on right half of the screen is called a **console**:
-		* The **console** is a place where you can interact with a program.
-		* The **interpreter** runs Python code.
-	* To run the Python interpreter, type code into the console and hit "Enter", the code executes immediately. 
-		* Make sure all the students are able to do this and then give out the lab worksheet.
-3. **Lab Part 1** 
-	* Give students time to work on section 1, then pause to ask questions. 	
-	    *	What does the // do? How is that different from /? And how are those different from %?
-		*	What’s the difference between 3.0 and 3?
-		*	**Floats**: a data type, number with a decimal point.
-		*  **Integers**: a data type, number without a decimal point.
-	3.	Pause to ask questions about section 2.
-		*	What happened when you typed in a?
-		*	What do you think that error message mean? 
-		*	**String**: a data type, characters surrounded in single or double quotes.
-	4.	Pause to ask questions about section 3.
-		*	What was the difference between the two inputs?
-		*	Strings can be combined using `+`.
-		*	What do you think the error message means?		
-	    	*   You can’t combine different types!
-	5.	Pause to ask questions about section 4.
-		*	What error did you get? What do you think that means?
-		*  What happens when you multiply strings?
-4. **Lab Part 2**
-    * Define **expression**: a combination of values and operators (and variables)
-        * Ask students to give an example of an expression 
-    * Make sure students write down their predictions before going to the interpreter/IDE to check the actual output.
-5. **Debrief**
-	* Discuss any surprising/unexpected results. 
-		* Remind students of adding strings together using `+`. 
-		* Talk about how single and double quotes are interchangeable
-		* Multiplying strings
-		* Order of Operations is the same as what students have learned in math class.
-	2. Discuss why it might be helpful to have an interactive console. How is it different than snap? 
+
+### 1. Do Now
+* Display the online IDE and asks students to identify the key parts (menu bar items [run, console, +], code panel, console panel) of the IDE.
+* After going over the three parts of the IDE have students check that they can still log into their IDE account.
+
+### 2. Lesson
+
+#### Guided Activity
+* Have students all bring up their console on their computer
+* The part on right half of the screen is called a **console**:
+* The **console** is a place where you can interact with a program.
+* The **interpreter** runs Python code.
+* To run the Python interpreter, type code into the console and hit "Enter" or click "Run", the code executes immediately. 
+* Make sure all the students are able to do this and then give out the lab worksheet.
+
+### 3. Lab Part 1
+Give students time to work on section 1, 
+
+#### Discussion 
+Pause to ask questions on section 1
+* What does the // do? How is that different from /? And how are those different from %?
+* What’s the difference between 3.0 and 3?
+* Go over the following two terms
+	1. **Floats**: a data type, number with a decimal point.
+	2. **Integers**: a data type, number without a decimal point.
+* Now, give students time to work on section 2
+
+#### Discussion
+Pause to ask questions about section 2.
+* What happened when you typed in a?
+* What do you think that error message mean? 
+* Go over the following term
+	1. **String**: a data type, characters surrounded in single or double quotes.
+* Now, give students time to work on section 3
+
+#### Discussion
+Pause to ask questions about section 3.
+* What was the difference between the two inputs?
+* Strings can be combined using `+`.
+* What do you think the error message means?		
+* You can’t combine different types!
+* Now, give students time to work on section 4
+
+#### Discussion
+Pause to ask questions about section 4.
+* What error did you get? What do you think that means?
+* What happens when you multiply strings?
+
+### 4. Lab Part 2
+* Define **expression**: a combination of values and operators (and variables)
+* Ask students to give an example of an expression 
+* Make sure students write down their predictions before going to the interpreter/IDE to check the actual output.
+
+### 5. Debrief
+* Discuss any surprising/unexpected results. 
+* Remind students of adding strings together using `+`. 
+* Talk about how single and double quotes are interchangeable
+* Multiplying strings
+* Order of Operations is the same as what students have learned in math class.
+* Discuss why it might be helpful to have an interactive console. How is it different than snap? 
 
 ### Accomodation/Differentiation
 If students are moving quickly, have students practice higher order-of-operations problems. You can also have them practice assigning values to variables. 
