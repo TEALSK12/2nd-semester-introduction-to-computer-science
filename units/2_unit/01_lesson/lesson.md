@@ -28,7 +28,6 @@ Students will be able to...
 ### 1. Do Now
 * Project [Do Now] questions on the screen
 * Have students discuss how they used their fingers to count to 10, compared to how they counted to 1023.
-
 ### 2. Lesson/Activity
 1. Explain **binary** compared to decimal: it is a different base of counting, specifically base-2. 
 2. Have students write | 1 | 2 | 4 | 8 | 16 | 32 | ... on the bottom of an index card spaced out about half an inch apart. Cut along the lines so that the numbers are each on a flap. 
@@ -38,7 +37,7 @@ Students will be able to...
 6. Choose students to walk up to the front of the classroom. Have them hold the place they represent and have a number (2^n) on a sheet of paper (so student's have a 1 or 2 or 4 or ... written on their paper). 
 Call out numbers and then have the students work together to decide if their number should be held up (representing a "1") or not.
 7. What else can be represented by binary? Answer (ANYTHING!)
-### Picture example:
+**Picture example:**
 8. Show students this photo: 
 
 ![Stary Night](starynight.png)
@@ -48,7 +47,7 @@ Call out numbers and then have the students work together to decide if their num
 
 ![city scape](basic_city.png)
 
-### Zooming in to pixel level: 
+**Zooming in to pixel level: **
 
 ![Pixel Level](Pixel_Level.png)
 
