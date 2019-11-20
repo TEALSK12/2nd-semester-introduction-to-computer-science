@@ -22,10 +22,12 @@ Students will be able to...
 | 5 Minutes | Debrief  |
 
 ## Instructor's Notes
-### 1. Do Now
 
-    * Students may need more time than usual to fully go through this lesson's Do Now.
+### 1. Do Now
+* Students may need more time than usual to fully go through this lesson's Do Now.
+
 ### 2. Lesson
+
 #### Instruction
 * Ask students what doing `a[0:2]` in the Do Now did.
 * Define **slicing**: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
@@ -43,6 +45,7 @@ Students will be able to...
 ### 3. Lab
 * Students practice slicing, adding, and removing elements from some given lists. 
 * Students create a single move Tic-Tac-Toe game
+
 ### 4. Debrief
 * Check student progress and completion of the lab, wrap up by taking any final questions.
 
