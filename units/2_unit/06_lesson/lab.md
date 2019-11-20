@@ -2,53 +2,53 @@
 
 1. For each example below, in your notebook, predict what will be printed. Then run the program and confirm. 
 
-### Example 1
+    ### Example 1
 
-```python
-    a = ['a', 'b', 'c', 'd', 'e']
-    print(a[0:3])
-    print(a[1:4])
-```
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        print(a[0:3])
+        print(a[1:4])
+    ```
 
-### Example 2
+    ### Example 2
 
-```python
-    a = ['a', 'b', 'c', 'd', 'e']
-    print(a[1:len(a) - 3])
-```
-### Example 3
-    
-```python
-    a = ['a', 'b', 'c', 'd', 'e']
-    b = a.remove('b')
-    print(a)
-    print(b)
-```
-### Example 4
-    
-```python
-    a = ['a', 'b', 'c', 'd', 'e']
-    a[0] = 'haha'
-    b = a.pop()
-    print(a)
-    print(b)
-```
-### Example 5
-    
-```python
-    a = ['a', 'b', 'c', 'd', 'e']
-    b = a + ['abc']
-    print(a)
-    print(b)
-```
-### Example 6
-    
-```python
-    a = ['a', 'b', 'c', 'd', 'e']
-    b = a.append('f')
-    print(a)
-    print(b)
-```
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        print(a[1:len(a) - 3])
+    ```
+    ### Example 3
+
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        b = a.remove('b')
+        print(a)
+        print(b)
+    ```
+    ### Example 4
+
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        a[0] = 'haha'
+        b = a.pop()
+        print(a)
+        print(b)
+    ```
+    ### Example 5
+
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        b = a + ['abc']
+        print(a)
+        print(b)
+    ```
+    ### Example 6
+
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        b = a.append('f')
+        print(a)
+        print(b)
+    ```
 
 2) Remember the tic-tac-toe board we created in class? We are going to start implementing Tic-Tac-Toe using a single list.
 
