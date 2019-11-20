@@ -8,11 +8,11 @@
             while a < 10: 
                 print(a)
         ```
-        | **Predicted Output** | **Actual Output** |
-        | --- | --- |
-        |<br> |<br> | 
+      | **Predicted Output** | **Actual Output** |
+      | --- | --- |
+      |<br> |<br> | 
 
-        ### Example 2
+    ### Example 2
 
         ```python
             a = 0
@@ -20,9 +20,9 @@
                 a = a + 1
                 print(a)
         ```
-        | **Predicted Output** | **Actual Output** |
-        | --- | --- |
-        |<br> |<br> | 
+      | **Predicted Output** | **Actual Output** |
+      | --- | --- |
+      |<br> |<br> | 
 
 
 2. Create a set of test cases for the following sample code and predict the behavior.  
