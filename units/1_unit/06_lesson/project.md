@@ -53,7 +53,7 @@ As mentioned above the program must request words from the user. The following *
 | Program prints full Mad Lib | 10   |
 | Program exhibits creativity               | 2   |
 | **Sub total**                                                   | 35  |
-| **Technical Correctness   **                                    |     |
+| **Technical Correctness**                                    |     |
 | Program utilizes variable names to convey meaning               | 5  |
 | Correct order of inputted words                                 | 10  |
 | Only 3 print statements                                         | 10  |
