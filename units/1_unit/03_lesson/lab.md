@@ -14,9 +14,9 @@ Practice typing out some statements in the editor part of the IDE, then hit "Run
 
 ## SNAP Flashback - Print Comparison
 
-![Code](lab1.03 - code.png)
+![Code](lab1.03%20-%20code.png)
 
-![Image](lab1.03 - image.png)
+![Image](lab1.03%20-%20image.png)
 
 ## Part 2 - Variables Practice
 
@@ -26,8 +26,7 @@ Practice typing out some statements in the editor part of the IDE, then hit "Run
 animal = "dogs"
 print(animal + " are really cool.")
 ```
-
-What happens? How would you make the program print out "cats are really cool" instead? 
+  * What happens? How would you make the program print out "cats are really cool" instead? 
 
 2. Type and run the following code. 
 
@@ -35,7 +34,7 @@ What happens? How would you make the program print out "cats are really cool" in
 print(dogs + " are cool.")
 ```
 
-What output does this produce? Why does this happen?
+  * What output does this produce? Why does this happen?
 
 3. Rewrite the following SNAP! program in Python: 
 
