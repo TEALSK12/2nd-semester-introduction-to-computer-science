@@ -45,6 +45,7 @@ As mentioned above the program must request words from the user. The following *
 * You may only use 3 print statements to tell your story
 
 ## Grading 
+
 ### Scheme/Rubric
 | **Functional Correctness(Behavior)**                                |     |
 | --------------------------------------------------------------- |-----|
