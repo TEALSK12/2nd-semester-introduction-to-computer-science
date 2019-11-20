@@ -3,23 +3,22 @@
 1. For each example below, predict what will be printed then the program and confirm.
 
     ### Example 1
-        ```python
-            a = 0
-            while a < 10: 
-                print(a)
-        ```
+    ```python
+        a = 0
+        while a < 10: 
+            print(a)
+    ```
       | **Predicted Output** | **Actual Output** |
       | --- | --- |
       |<br> |<br> | 
 
     ### Example 2
-
-        ```python
-            a = 0
-            while a < 10: 
-                a = a + 1
-                print(a)
-        ```
+    ```python
+        a = 0
+        while a < 10: 
+            a = a + 1
+            print(a)
+    ```
       | **Predicted Output** | **Actual Output** |
       | --- | --- |
       |<br> |<br> | 
