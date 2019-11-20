@@ -6,16 +6,19 @@ Using Python, students will use variables, input, and printing to create a Mad L
 Mad Libs are a fun way to tell a story. The story is pre-written except for a few missing words.  The story is hidden from the user.  The user is asked a series of questions in order to fill in the missing words before seeing the story. Then the story is read off with the user's words mixed in!
 
 ## Details
+
 ### Behavior
 * The program will print out the title of the Mad Libs story, as well as a short explanation of game play    
-    ```
-    A Day in NYC: a Mad Lib.
-    Welcome! You are about to play a fantastic word game. 
-    I will ask you for nouns, verbs, adjectives, proper nouns and adverbs. 
-    Using those words I will create an unexpected story for you!
-    ```
+```
+A Day in NYC: a Mad Lib.
+Welcome! You are about to play a fantastic word game. 
+I will ask you for nouns, verbs, adjectives, proper nouns and adverbs. 
+Using those words I will create an unexpected story for you!
+```
 * The program should then prompt the user to enter in nouns, verbs, adjectives, proper nouns, and adverbs
+
 ![Example running](mad_libs_screen_shot.png)
+
 * After all the words have been entered. The program will print out the story.  You will need to create a story of your own choosing.  Keep it clean and fun.  Here is an example of a day in New York City.
 ```
 A Day in NYC: It was a beautiful day in New York City. 
