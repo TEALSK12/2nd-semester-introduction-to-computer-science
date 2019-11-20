@@ -63,5 +63,5 @@ Using the interpreter, type in the expressions below. Copy and paste the output 
 |o| `'bc' % 2`        |   <br><br><br><br>                      |                      |                   | 
 |p| `'bc' / 2`         |   <br><br><br><br>                      |                      |                   |
 
-**Now go to the IDE:** 
-1.  Use the interpreter to evaluate the expressions, write down results in the "Interpreter Result" column.
+## Now go to the IDE:
+Use the interpreter to evaluate the expressions, write down results in the "Interpreter Result" column.
