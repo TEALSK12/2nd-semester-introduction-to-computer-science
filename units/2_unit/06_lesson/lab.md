@@ -1,6 +1,6 @@
 # Lab 2.06 - Tic-Tac-Toe
 
-For each example below, in your notebook, predict what will be printed. Then run the program and confirm. 
+1. For each example below, in your notebook, predict what will be printed. Then run the program and confirm. 
 
 ### Example 1
 
