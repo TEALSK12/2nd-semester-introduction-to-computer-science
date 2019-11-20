@@ -20,10 +20,10 @@ Students will be able to...
 | 5 Minutes | Debrief  |
 
 ## Instructor's Notes
-### 1. Do Now
+### Do Now
 
 * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
-### 2. Lesson
+### Lesson
 #### Discussion
 * Ask students to define **type**. Talk about types as a way to represent data (give examples of strings, ints, and floats).
 * Ask students what they thought typing the command str(123) does. 
@@ -46,10 +46,10 @@ Students will be able to...
 * `type`: ask students what they think `type('a')` would output.  
 * Why might you want to use `type`?
 
-### 3. Lab
+### Lab
 * Practice predicting what casting will do to inputs. 
 * Create a halving program as well as program that halves to whole numbers. 
-### 4. Debrief
+### Debrief
 * Check student progress and completion of the lab, wrap up by taking any final questions.
 
 
