@@ -9,23 +9,23 @@ This game takes place in a three story dungeon. The user has to traverse the lev
 
 ### Behavior
 
-##### The game has three floors. 
+#### The game has three floors. 
  * Each floor is made up of five rooms, arranged in a line from left to right. 
  * A room can contain: a sword, a monster, magic stones, up-stairs, down-stairs or nothing.
 
-##### At the start of the game, the user is placed in one of the rooms.
+#### At the start of the game, the user is placed in one of the rooms.
 
-##### Movement
+#### Movement
  * The user can try to move to the left room or right room. 
  * If there is no room in that direction, the game should report this. 
  * The user can also move upstairs or downstairs if the room contains an up-staircase or a down-staircase.
 
-##### Contents of rooms
+#### Contents of rooms
  * The game prints out the contents of the current room after every command.
  * The user can grab swords or magic stones if they walk into a room with them. 
  * The sword or stones are no longer in the room once grabbed.
 
-##### Monsters guard some rooms. 
+#### Monsters guard some rooms. 
  * The user can use a sword to defeat a monster using the `fight` command. 
  * The sword and monster disappear after fighting. 
  * If they have no sword, the user can exit in the direction from which they came. 
@@ -36,24 +36,24 @@ This game takes place in a three story dungeon. The user has to traverse the lev
 ### Implementation Details
  * The game should be implemented using lists.
 
-##### User Items
+#### User Items
  * Use a list to keep track of the user's items. 
  * At the beginning of the game it should be empty. 
  * A maximum of three items can be held at once.
 
-##### Monsters 
+#### Monsters 
  * There should be three regular monsters placed throughout the game. 
  * These require a sword to defeat.
  * There should be a boss monster in the room just before the room that contains the prize. 
  * This monster requires magic stones and a sword to defeat.
 
-##### Movement Implementation 
+#### Movement Implementation 
  * The user can only go up if there is an up-staircase
  * The user can only go down if there is down-staircase.
  * The program should not allow the user to run past a monster, 
  * The program should not allow the user to go up, down or past bounds of the game.
 
-##### Win/Lose
+#### Win/Lose
  * The game is won when the player grabs the prize.
  * The game is lost if the user 
  * fights a monster without a sword
@@ -62,7 +62,7 @@ This game takes place in a three story dungeon. The user has to traverse the lev
 
 ### Design Considerations
 
-##### Game Board
+#### Game Board
 The game board is the basis of the game. The following is a way to think of a smaller game board as a set of three lists: one for each floor.
 
 ```
@@ -73,7 +73,7 @@ floor_3 = ['prize', 'nothing', 'nothing']
 
 The above code has each floor being its own lists. Feel free to use a different implementation, but this should work for our purposes.
 
-##### User Position
+#### User Position
 It will be useful to keep track of the user's position through a variable.
 ```
 user_room = 0
@@ -81,7 +81,7 @@ user_floor = floor_1
 ```
 This would put the user at the position of the first room of the first floor.
 
-##### Validating User Input
+#### Validating User Input
 You will need to check the input of the user to make sure it is valid for the current game state:
 ```
 if user_input == "down":
