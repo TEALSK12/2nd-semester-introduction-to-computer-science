@@ -23,6 +23,7 @@ Students will be able to...
 ### Do Now
 
 * Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions. 
+
 ### Lesson
 #### Discussion
 * Ask students to define **type**. Talk about types as a way to represent data (give examples of strings, ints, and floats).
@@ -49,6 +50,7 @@ Students will be able to...
 ### Lab
 * Practice predicting what casting will do to inputs. 
 * Create a halving program as well as program that halves to whole numbers. 
+
 ### Debrief
 * Check student progress and completion of the lab, wrap up by taking any final questions.
 
