@@ -25,9 +25,10 @@ Students will be able to...
 ## Instructor's Notes
 
 ### 1. Do Now
-
 * Students follow instructions to create lists and use the `len` function. 
+
 ### 2. Lesson
+
 #### Instruction
 * Ask students to recall what a list is, and how lists were used in Snap!
 * A **list** is a sequence of values. In a list, they can be any type. The values in a list are called elements or **items**.
@@ -63,6 +64,7 @@ Students will be able to...
 * Practice accessing and updating items in a list
 * Implement program from last lab using lists
 * Create a quiz program
+
 ### 4. Debrief
 * Check student progress and completion of the lab, wrap up by taking any final questions.
 
