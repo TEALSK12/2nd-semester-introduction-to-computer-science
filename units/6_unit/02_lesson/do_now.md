@@ -11,7 +11,7 @@
     ```
 ### In your Notebook
 #### Respond to the following
-Write down what the 2nd line does.
+1. Write down what the 2nd line does.
 
 ### 2. In your Console
 #### Type the following
@@ -23,7 +23,7 @@ Write down what the 2nd line does.
     ```
 ### In your Notebook
 #### Respond to the following
-Write down what the 2nd line does.
+1. Write down what the 2nd line does.
 
 ### 3. In your Console
 #### Type the following
