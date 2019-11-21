@@ -1,27 +1,79 @@
 # Project 7: Pokemon
 
 In this project we will be creating a basic implementation of Pokemon, and then create a game for them to battle.
-
 This project will have three steps. The Pokemon Classes, the User classes, and the game loop.
 
 ## Overview
-You will create 9 Pokemon. Each Pokemon comes from 1 of 3 types: grass, fire, and water. The types of Pokemon will be represented by classes. You will be given a base Pokemon class which the grass, fire, and water classes will inherit from. All Pokemon of the same type have the same set of attacks, and each individual one has a specific hp (hit points), pp(power points), and name.
 
-After creating the list of Pokemon (details given below), you will create a user and computer class. You will be given a bare-bones implementation of the base user class. The computer class should inherit from the user class. The computer class will need to overwrite certain methods of the user class. 
+#### 9 Pokemon
+Each Pokemon comes from 1 of 3 types: 
+1. Grass 
+2. fire
+3. water
 
-After implementing the user and computer classes you will need to write a game loop. Before the battle begins, the program should ask the user's name and what the user wants the computer's name to be. The program should also ask the user to pick 3 Pokemon for their hand, and randomly select the computer's Pokemon from the remaining Pokemon. Then the program should ask the user which Pokemon they would like to use in battle as their current Pokemon. The program should randomly select one for the Computer. After that the battle begins. 
+#### Classes
+You will be given a base Pokemon class which the grass, fire, and water classes will inherit from. 
 
-Each turn, the user will be given the option to `attack`, `heal`, or `switch`. If the computer is playing one of these will be randomly selected, but should more frequently be `attack`. 
+#### Class: User
+* You will be given a bare-bones implementation of the base user class. 
 
-`attack`: gives the user the options of the attacks the Pokemon has and asks the user to pick one. An attack has a name, and corresponds to a list of the power of the attack and the accuracy. The attack should be a random number in the range between the `attack power(or the pp if that is lower than the attack power) - 20` and the `attack power (or the pp if that is lower than the attack power)`, the attack should also randomly fail according to the attack's accuracy. The attack should decrease the enemy's hp, and print out a useful description. On the computer's turn randomly select an attack to use in the battle. 
+#### Class: Computer
+* The computer class should inherit from the user class. 
+* The computer class will need to overwrite certain methods of the user class.
 
-`heal`: gives 20 HP back to the current Pokemon, but takes away the turn
+#### Attacks
+All Pokemon of the same type have the same set of attacks, one of the following:
+1. hp (hit points), 
+2. pp(power points), and 
+3. name.
 
-`switch`: Lists the stats (HP, AP, Name) of all Pokemon in the hand, and then switches the current Pokemon, but takes away the turn. On the computer's turn if this option is randomly selected, choose a random Pokemon to switch with. 
+#### Game Loop
+Before the battle begins, Ask the user:
+1. Name 
+2. Computer Name
 
-If either the user's or the computer's current Pokemon is out of HP, they will be required to switch Pokemon. If there are no available Pokemon, that player has lost. 
+#### Battle Pairing
+1. Ask the user to pick 3 Pokemon for their hand
+2. Randomly select the computer's Pokemon from the remaining Pokemon. 
+3. Ask the user which Pokemon they would like to use in battle with currently 
+4. Randomly select one for the Computer
+5. Battle begins. 
 
-Continue looping until one player has lost. 
+#### Each Turn
+The user will be given the option to 
+1. `attack`
+2. `heal`
+3. `switch`. 
+4. Computer will be randomly selected, but should more frequently be `attack`. 
+
+#### Attack
+Gives the user the options
+1. attacks the Pokemon
+2. pick one to attack with
+
+#### Attack Name
+An attack has a name, and corresponds to a list of the power of the attack and the accuracy. 
+
+#### An Attack should
+1. be a random number in the range between the `attack power(or the pp if that is lower than the attack power) - 20` 
+2. the `attack power (or the pp if that is lower than the attack power)`
+3. randomly fail according to the attack's accuracy. 
+4. decrease the enemy's hp, and print out a useful description. 
+5. The computer randomly selects an attack to use in the battle. 
+
+#### Heal
+1. Gives 20 HP back to the current Pokemon, 
+2. Takes away the turn
+
+#### Switch
+1. Lists the stats (HP, AP, Name) of all Pokemon in the hand, and then 
+2. switches the current Pokemon, but 
+3. takes away the turn. 
+4. On the computer's turn if this option is randomly selected, choose a random Pokemon to switch with. 
+5. If either the user's or the computer's current Pokemon is out of HP, they will be required to switch Pokemon. 
+6. If there are no available Pokemon, that player has lost. 
+
+#### Continue looping until one player has lost. 
 
 ### Behaviour
 #### Game Play
