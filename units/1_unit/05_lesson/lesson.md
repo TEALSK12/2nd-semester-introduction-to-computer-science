@@ -29,13 +29,14 @@ Students will be able to...
 ### 3. Debugging Activity
 * Explain to students that you will now be exploring how to read analyze and respond to errors in code.
 * Ask students to read through it and predict what will be printed out.
-```Python
-favorite_number_str = input("What is your favorite number: ")
-birth_month_str = input("What month where you born in: ")
 
-lucky_number = int(favorite_number_str) + int(birth_month_str)
-print("Your lucky number is " + lucky_number)
-```
+  ```Python
+  favorite_number_str = input("What is your favorite number: ")
+  birth_month_str = input("What month where you born in: ")
+  lucky_number = int(favorite_number_str) + int(birth_month_str)
+  print("Your lucky number is " + lucky_number)
+  ```
+
 * Remind students that when reading through code we go line by line, as if we are the interpreter.
 
 #### Demonstation
@@ -48,8 +49,6 @@ print("Your lucky number is " + lucky_number)
 
 ### Accomodation/Differentiation
 Make sure to provide extended time on the quiz for any students who need extra time
-
-## Code Example
 
 ## Forum discussion
 [Lesson 1.05: Quiz and Debugging (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-05-quiz-debugging)
