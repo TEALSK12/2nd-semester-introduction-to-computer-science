@@ -1,5 +1,5 @@
 # Lab 3.01 - Magic 8-Ball
-====================================================================================================
+
 ### Practice importing random** — Use `randint` with different arguments. Simulate a dice roll, printing out to the user what number they rolled.
 
 ### Look at the [documentation] of the random library — Experiment with another function (not `randint`) that returns a value.
