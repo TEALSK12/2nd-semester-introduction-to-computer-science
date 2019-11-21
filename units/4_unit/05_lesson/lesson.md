@@ -24,21 +24,24 @@ Students will be able to...
 
 ## Instructor's Notes
 
-1. **Quiz**
-    * Have students start working on the Quiz.
-2. **Lesson**
-	* Talk about how to read code in a loop (you can use something of your choice or the provided [Coding Example])
-	* Go over debugging practices for loops. 
-		* Use print statements throughout the code to show where error is.
-		* Alter input to make sure body of loop is working correctly.
-		* Make sure lists don't go out of bounds/past the end of the list.
-3. **Lab**
-	* This lab will have students start by reading code and looking for errors while **not** at the computer.	
-	* After reading through the code they can practice the debugging practices mentioned on the computer to correct the programs.
-4. **Debrief**
-	* Discuss as a class what was most helpful in debugging, highlight those practices throughout the upcoming project.
+### 1. Quiz
+* Have students start working on the Quiz.
 
-### Accommodation/Differentiation
+### 2. Lesson
+* Talk about how to read code in a loop (you can use something of your choice or the provided [Coding Example])
+* Go over debugging practices for loops. 
+* Use print statements throughout the code to show where error is.
+* Alter input to make sure body of loop is working correctly.
+* Make sure lists don't go out of bounds/past the end of the list.
+
+### 3. Lab
+* This lab will have students start by reading code and looking for errors while **not** at the computer.	
+* After reading through the code they can practice the debugging practices mentioned on the computer to correct the programs.
+
+### 4. Debrief
+* Discuss as a class what was most helpful in debugging, highlight those practices throughout the upcoming project.
+
+## Accommodation/Differentiation
 Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan. 
 
 ## Forum discussion

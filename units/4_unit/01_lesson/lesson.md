@@ -24,32 +24,33 @@ Students will be able to...
 
 ## Instructor's Notes
 
-1. **Do Now**
-    * Display the Do Now on the board.
-    * Students will experience how to use a for loop to efficiently complete a repeated action.
-2. **Lesson**
-	* Go over Part 1 of the Do Now. Ask the students what would happen if the list got much larger? 
-	    * If they say they would write down a lot of code, ask how readable that might be, or how long would it take to write, or the greater potential for bugs due to typos.
-	* Go over part 2 of the Do Now. Ask the students what happened. Ask if they remember something similar from Snap! 
-	* Introduce the **for loop** as a way to deal with issues associated with part 1 of the Do Now. 
-	* Video Explanation of For Loops
+### 1. Do Now
+* Display the Do Now on the board.
+* Students will experience how to use a for loop to efficiently complete a repeated action.
+
+### 2. Lesson
+* Go over Part 1 of the Do Now. Ask the students what would happen if the list got much larger? 
+* If they say they would write down a lot of code, ask how readable that might be, or how long would it take to write, or the greater potential for bugs due to typos.
+* Go over part 2 of the Do Now. Ask the students what happened. Ask if they remember something similar from Snap! 
+* Introduce the **for loop** as a way to deal with issues associated with part 1 of the Do Now. 
+#### Video Explanation of For Loops
 	
-	[![For Loops Explanation](https://img.youtube.com/vi/KosrKNJK9Sw/0.jpg)](https://youtu.be/KosrKNJK9Sw)
-		
-		
-	* From the Code in the Do Now: `for num in list_of_numbers:`
+[![For Loops Explanation](https://img.youtube.com/vi/KosrKNJK9Sw/0.jpg)](https://youtu.be/KosrKNJK9Sw)
+
+* From the Code in the Do Now: `for num in list_of_numbers:`
 	* Emphasize that the body of the for loop is the indented part
-	* **Iteration**: body of the loop is repeated with different values of the list. Note how the body of the loop is repeated but `num` changes. Consider drawing this out on the board. 
-		* Remind students of the concept of **scope**, showing how `num` changes values with each iteration of the loop. 
-	* Go over Part 3 (many students likely didn't have time to finish). Ask students to write the first line of the loop on the board. Have students brainstorm what the body should be. Come to a group consensus and run the code.  
-3. **Lab**
-	* De-vowel lab: Students will create a function that will take in a sentence and return that sentence without vowels. 
-4. **Debrief**
-	* Talk about any issues or challenges the students had with this lab. If there is time, call students up to the board to shown and demonstrate their code/solutions.
+* **Iteration**: body of the loop is repeated with different values of the list. Note how the body of the loop is repeated but `num` changes. Consider drawing this out on the board. 
+* Remind students of the concept of **scope**, showing how `num` changes values with each iteration of the loop. 
+* Go over Part 3 (many students likely didn't have time to finish). Ask students to write the first line of the loop on the board. Have students brainstorm what the body should be. Come to a group consensus and run the code.  
+
+### 3. Lab
+* De-vowel lab: Students will create a function that will take in a sentence and return that sentence without vowels. 
+
+### 4. Debrief
+* Talk about any issues or challenges the students had with this lab. If there is time, call students up to the board to shown and demonstrate their code/solutions.
 	
 
-### Accommodation/Differentiation
-
+## Accommodation/Differentiation
 If there is time, go over the bonus question. Explain how a counter is a frequently used tool to keep track of the count of things from outside the loop . Discuss the concept of the counter's scope (counter gets updated in the loop, but doesn't reset automatically at each iteration). Counters can be used with any loop, and are often used with while loops!
 
 ## Forum discussion

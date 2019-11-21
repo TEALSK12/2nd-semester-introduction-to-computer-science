@@ -8,36 +8,37 @@ Mad Libs are a fun way to tell a story. The story is pre-written except for a fe
 ## Details
 
 ### Behavior
-* The program will print out the title of the Mad Libs story, as well as a short explanation of game play    
-```
-A Day in NYC: a Mad Lib.
-Welcome! You are about to play a fantastic word game. 
-I will ask you for nouns, verbs, adjectives, proper nouns and adverbs. 
-Using those words I will create an unexpected story for you!
-```
-* The program should then prompt the user to enter in nouns, verbs, adjectives, proper nouns, and adverbs
+1. The program will print out the title of the Mad Libs story, as well as a short explanation of game play    
+  ```
+  A Day in NYC: a Mad Lib.
+  Welcome! You are about to play a fantastic word game. 
+  I will ask you for nouns, verbs, adjectives, proper nouns and adverbs. 
+  Using those words I will create an unexpected story for you!
+  ```
+2. The program should then prompt the user to enter in nouns, verbs, adjectives, proper nouns, and adverbs
 
-![Example running](mad_libs_screen_shot.png)
+  ![Example running](mad_libs_screen_shot.png)
 
-* After all the words have been entered. The program will print out the story.  You will need to create a story of your own choosing.  Keep it clean and fun.  Here is an example of a day in New York City.
-```
-A Day in NYC: It was a beautiful day in New York City. 
-Our hero Ariana Grande was on a walk from the Standard to Duane Reade. 
-Ariana Grande was walking rather quickly because he/she had lived in New York for a few months.
-All of a sudden a slimey donut appeared out of nowhere!!! 
-Ariana Grande decided to prance foolishly instead of dealing with the situation.
-Thrown off from Duane Reade, Ariana Grande decides to go to Times Square instead.
-What a beautiful day in New York. 
-```
+3. After all the words have been entered. The program will print out the story.  You will need to create a story of your own choosing.  Keep it clean and fun.  Here is an example of a day in New York City.
+
+  ```
+  A Day in NYC: It was a beautiful day in New York City. 
+  Our hero Ariana Grande was on a walk from the Standard to Duane Reade. 
+  Ariana Grande was walking rather quickly because he/she had lived in New York for a few months.
+  All of a sudden a slimey donut appeared out of nowhere!!! 
+  Ariana Grande decided to prance foolishly instead of dealing with the situation.
+  Thrown off from Duane Reade, Ariana Grande decides to go to Times Square instead.
+  What a beautiful day in New York. 
+  ```
 
 ### Implementation Details
 Plan out your story on pencil and paper first, before you start implementing the program.
-* Create your story
-* Select the missing words
-* Determine each words part of speech
-* Create introduction
-* Create questions
-* Divide story into print statements
+1. Create your story
+2. Select the missing words
+3. Determine each words part of speech
+4. Create introduction
+5. Create questions
+6. Divide story into print statements
 
 As mentioned above the program must request words from the user. The following **must** be included in the program: 
 * 10 different words inputted

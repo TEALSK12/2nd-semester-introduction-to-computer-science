@@ -1,16 +1,14 @@
-Lab 3.01 - Magic 8-Ball
-====================================================================================================
-**Practice importing random** — Use `randint` with different arguments. Simulate a dice roll,
-printing out to the user what number they rolled.
+# Lab 3.01 - Magic 8-Ball
 
-**Look at the [documentation] of the random library** — Experiment with another function (not
-`randint`) that returns a value.
+### Practice importing random** — Use `randint` with different arguments. Simulate a dice roll, printing out to the user what number they rolled.
 
-**Create a program that simulates a [magic 8-ball]** — Store all of the 8-ball's possible responses
+### Look at the [documentation] of the random library — Experiment with another function (not `randint`) that returns a value.
+
+## Create a program that simulates a [magic 8-ball] — Store all of the 8-ball's possible responses
 (shown below) in a list. Have the program prompt the user to ask the magic 8-ball a question, and
 then return and print a random response.
 
-Magic 8-Ball Response Examples
+### Magic 8-Ball Response Examples
 -------------------------------
   * Outlook is good
   * Ask again later
@@ -21,7 +19,7 @@ Magic 8-Ball Response Examples
   * Maybe
   * Outlook is not good
 
-**Video Explanation**
+## Video Explanation
 
 [![Magic 8 Ball](https://img.youtube.com/vi/gMSPH1Cnwwo/0.jpg)](https://www.youtube.com/watch?v=gMSPH1Cnwwo)
 
