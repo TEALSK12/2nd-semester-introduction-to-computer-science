@@ -10,7 +10,7 @@ Create a function, `de_vowel`, which will take a string as input and return a co
 	* What if there are no vowels?
 	* What if there is a mix of vowels and non-vowels and spaces?
 	
-###Example
+### Example
 
 Example of the file: 
 
@@ -36,5 +36,6 @@ Use a counter (variable you define outside of a loop to keep track of a value in
 `count_vowels` takes in a string and returns an int representing the number of vowels in the string. 
 
 ## SNAP Challenge – 10 Cats Drinking Milk from a Saucer
-•	Create the following program in Python.
-![](NestedLoops - NumOfCats - Code.png)
+Create the following program in Python.
+
+ ![Number of Cats](NestedLoops%20-%20NumOfCats%20-%20Code.png)
