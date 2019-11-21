@@ -7,14 +7,10 @@ week. Each associated value is a list of items to do that day.
 The program repeatedly asks the user
 what action they wish to take ( **add** or **get**).
 
-* If the user enters **get**, the program asks for a day of the week,
-and then returns the to-do list for that day.
-* If the user enters **add**, the program asks
-for a day of the week, then asks for  a new item, then adds it to the specified list.
-* If a user tries to add an item that already exists on the list for that
-day, the program rejects the request.
-* At the start of the program the dictionary should be totally empty
-  (containing no keys and no values).
+* If the user enters **get**, the program asks for a day of the week, and then returns the to-do list for that day.
+* If the user enters **add**, the program asks for a day of the week, then asks for  a new item, then adds it to the specified list.
+* If a user tries to add an item that already exists on the list for that day, the program rejects the request.
+* At the start of the program the dictionary should be totally empty (containing no keys and no values).
 
 
 ### Example
@@ -38,10 +34,7 @@ Friday
 </pre>
 
 ## Bonus!
-It's a bit tedious for the user to have to type in three different
-lines to add an item to a to-do list. Use `split()` to allow the user
+It's a bit tedious for the user to have to type in three different lines to add an item to a to-do list. Use `split()` to allow the user
 to input `add Friday watch tv and relax`.
 
-Create a variation of the program that doesn't allow any duplicates
-across any of the days. Make sure when you add a to-do item that it
-doesn't exist in the to-do lists of any of the days before adding.
+Create a variation of the program that doesn't allow any duplicates across any of the days. Make sure when you add a to-do item that it doesn't exist in the to-do lists of any of the days before adding.
