@@ -23,30 +23,47 @@ Students will be able to...
 
 ## Instructor's Notes
 
-1. **Do Now**
-    * Display the Do Now on the board.
-    * Students will find that when they try to print the two different Time objects, it produces output that's not particularly useful or readable.
-    * Students will also discover that adding objects doesn't work...yet!
-2. **Lesson**
-	* Discuss the Do Now.
-		* **method**: a function inside of a class. 
-		* The first argument is always `self`. 
-		* Ask students what method we have already seen and used previously. (`init`)
-		* Ask students how they would distinguish between the two time variables.
-		* **`__str__`**: Need a method called `__str__`. This will get called when you print an object, and it returns a string that is easy to read and understand.
-			* Have the students practice writing `__str__` for the `Time` class for 5 minutes.
-			* Have a student write up their string method on the board. 
-		* **`__add__`**: add is a method that gets called when the plus sign is used between two `Time` objects. In this case it takes as parameters `self` and another `Time` object and returns a `Time` object that is the sum of both.
-			* Overwriting add is called **operator overloading** because you are re-writing the code used to make the + work.
-			* Work together with students to come up with the add time algorithm.
-3. **Lab**	
-	* Have students finish up the time adding method.
-	* Have students work on kanga roo lab.
-4. **Debrief**
-	* Go over students' questions and demonstrate some students' successfully completed labs. 
-	* Review what a method is, as well as what specific methods were used in today's lab.
+### 1. Do Now
+* Display the Do Now on the board.
+* Students will find that when they try to print the two different Time objects, it produces output that's not particularly useful or readable.
+* Students will also discover that adding objects doesn't work...yet!
 
-### Accommodation/Differentiation
+### 2. Lesson
+
+#### Instruction - Method
+* a function inside of a class. 
+* The first argument is always `self`. 
+
+#### Discussion
+* Ask students what method we have already seen and used previously. (`init`)
+* Ask students how they would distinguish between the two time variables.
+
+#### Instruction - `__str__`
+* Need a method called `__str__`. 
+* This will get called when you print an object, and 
+* it returns a string that is easy to read and understand
+
+#### Activity
+* Have the students practice writing `__str__` for the `Time` class for 5 minutes.
+* Have a student write up their string method on the board. 
+
+#### Instruction `__add__` 
+* A method that gets called when the plus sign is used between two `Time` objects. 
+* In this case it takes as parameters `self` and another `Time` object and returns a `Time` object that is the sum of both.
+* Overwriting add is called **operator overloading** because you are re-writing the code used to make the + work.
+
+#### Demonstration
+* Work together with students to come up with the add time algorithm.
+
+### 3. Lab
+* Have students finish up the time adding method.
+* Have students work on kanga roo lab.
+
+### 4. Debrief
+* Go over students' questions and demonstrate some students' successfully completed labs. 
+* Review what a method is, as well as what specific methods were used in today's lab.
+
+## Accommodation/Differentiation
 
 Students that are moving quickly should work on the bonus assignment in the lab or assist a partner that is struggling. 
 
