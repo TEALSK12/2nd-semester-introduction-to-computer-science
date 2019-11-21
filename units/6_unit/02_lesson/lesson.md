@@ -25,24 +25,34 @@ Students will be able to...
 
 ## Instructor's Notes
 
-1. **Do Now**
-    * Display the Do Now on the board.
-    * Students type code that edits dictionaries by modifying, adding, or removing key:value pairs.
-2. **Lesson**
-	* Discuss part 1 of the Do Now.
-		* Describe that you can update a value in a dictionary in a similar way to how you would update a value in a list.
-	* Discuss part 2 of the Do Now.
-		* Note that you can add values to a dictionary by using the same syntax.
-		* Review: How might you check if a value was in a dictionary before adding it? 
-	* Discuss part 3 of the Do Now 
-		* Review what **pop** does, as well as what the second argument does.
-			* The second argument in `pop` is described as the **default value**. This is the value that will be returned if the first argument is not in the dictionary. 
-3. **Lab**	
-	* Students will create a word count algorithm that will count the number of words in a list of words. 
-4. **Debrief**
-	* Talk about any confusion the students had. Discuss additional ideas of how dictionaries might be useful. 
+### 1. Do Now
+* Display the Do Now on the board.
+* Students type code that edits dictionaries by modifying, adding, or removing key:value pairs.
 
-### Accommodation/Differentiation
+### 2. Lesson
+
+#### Part 1 of the Do Now.
+* Discuss what the students learned from and go over what the code is doing.
+* Describe that you can update a value in a dictionary in a similar way to how you would update a value in a list.
+
+#### Part 2 of the Do Now.
+* Discuss what the students learned from and go over what the code is doing.
+* Note that you can add values to a dictionary by using the same syntax.
+* Review: How might you check if a value was in a dictionary before adding it? 
+
+#### Part 3 of the Do Now 
+* Discuss what the students learned from and go over what the code is doing.
+* Review what **pop** does, as well as what the second argument does.
+* The second argument in `pop` is described as the **default value**. 
+* This is the value that will be returned if the first argument is not in the dictionary. 
+
+### 3. Lab
+* Students will create a word count algorithm that will count the number of words in a list of words. 
+
+### 4. Debrief
+* Talk about any confusion the students had. Discuss additional ideas of how dictionaries might be useful. 
+
+## Accommodation/Differentiation
 Some students may need to be explicitly reminded of the `in` keyword to check if a certain key is in their dictionary.
 
 ## Forum discussion
