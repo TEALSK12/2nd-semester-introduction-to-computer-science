@@ -1,6 +1,8 @@
 # Do Now 3.03
 
-Open up the console. Paste the following code into the editor:
+### In your Console
+
+#### Type the following code
 
 ```python
 import random
@@ -17,12 +19,8 @@ def mystery_function(x, y):
 mystery_function(1, 2)
 ```
 
-What happens when your run this code? How do you know what the result was? 
-<br>
-<br>
-<br>
+### In your Notebook
+#### Answer the following questions
 
-Keeping the function the same, rewrite the code to print out the value that the function returns.
-<br>
-<br>
-<br>
+1. What happens when your run this code? How do you know what the result was? 
+2. Keeping the function the same, rewrite the code to print out the value that the function returns.
