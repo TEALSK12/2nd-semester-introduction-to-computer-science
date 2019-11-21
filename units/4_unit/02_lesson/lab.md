@@ -28,7 +28,7 @@ print("No longer singular words: " + str(word_list))
 # more examples go here
 ```
 
-Running the code: 
+#### Here is what it should look like when you run your code. 
 
 ```
 Singular words: ['apple', 'berry', 'melon']
@@ -59,17 +59,16 @@ print(reversed)
 # examples go here
 ```
 
-Running the code: 
+#### Here is what it should look like when you run your code. 
 
 ```python
 >>> python3 my_reverse_lab.py
 selppa
 ```
+
 ### Hint
 To get the last element:`(len(my_list) -1) -  0`
-
 To get the second to last element: `(len(my_list)-1 ) - 1`
-
 To get the third to last element: `(len(my_list)-1) - 2`
 
 
