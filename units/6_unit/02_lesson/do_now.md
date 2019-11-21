@@ -11,7 +11,7 @@
     ```
 ### In your Notebook
 #### Respond to the following
-1. Write down what the 2nd line does.
+Write down what the 2nd line does.
 
 ### 2. In your Console
 #### Type the following
@@ -23,7 +23,7 @@
     ```
 ### In your Notebook
 #### Respond to the following
-1. Write down what the 2nd line does.
+Write down what the 2nd line does.
 
 ### 3. In your Console
 #### Type the following
@@ -33,6 +33,7 @@ my_dictionary = {
 'kittens': 'cute animals',
 'puppies': 'baby dogs'
 }
+
 my_dictionary.pop('kittens')
 print(my_dictionary)
 my_dictionary.pop('bunnies')
