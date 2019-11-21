@@ -49,7 +49,7 @@ Students will be able to...
 * Ask how students would get the value for `chair` or `car`.
 * Discuss what happened when students ran `my_dictionary['kittens']`? 
 
-#### *in* keyword
+#### 'in' keyword
 * Explain that this error is common and means that there is no value in the dictionary. To avoid this error, use the `in` keyword with an `if` statement. If a certain key is `in` a specified dictionary, it will return `true`. Otherwise it will return `false`.
 
 #### Example:
