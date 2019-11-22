@@ -1,4 +1,4 @@
-# Lesson 2.04: Conditionals
+# Lesson 2.03: Conditionals
 
 ## Learning Objectives
 Students will be able to... 
