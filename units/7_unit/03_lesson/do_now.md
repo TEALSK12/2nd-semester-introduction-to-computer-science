@@ -1,6 +1,7 @@
 # Do Now 7.03
 
-1. Type and run the following code. 
+### In your Console
+#### Type the following
     ```python
     class Time(object): 
 	    def __init__(self, hour, minute, second): 
@@ -15,6 +16,8 @@
     print(time2)
     ```
 
-2. Based on what is output, how can you tell the difference between `time1` and `time2`? 
+### In your Notebook
+#### Respond to the folllowing
 
-3. What happens if you try to add `time1` add `time2`? 
+1. Based on what is output, how can you tell the difference between `time1` and `time2`? 
+2. What happens if you try to add `time1` add `time2`? 

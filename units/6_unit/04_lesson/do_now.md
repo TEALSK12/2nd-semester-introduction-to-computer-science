@@ -1,8 +1,9 @@
 # Do Now 6.04 
 
-1. Type and run the following code in the interpreter
+### In your Console
+#### Type the following
 
-    ```python
+```python
 my_dictionary = {
 	'a': 1,
 	'b': 2,
@@ -11,7 +12,15 @@ my_dictionary = {
 	'e': 5 
 }
 print(my_dictionary.keys())
-    ```
-Write down what `keys()` does. What type does `keys()` return? <br><br><br>
+```
 
-2. Write down how you might use a `for` loop to go through and print the values of `my_dictionary`. Try your solution using the interpreter. 
+### In your Notebook
+#### Respond to the following
+
+1. Write down what `keys()` does.
+2. What type does `keys()` return?
+3. Write down how you might use a `for` loop to go through and print the values of `my_dictionary`. 
+
+### In your Console
+#### Challenge yourself
+Try your solution to 3.

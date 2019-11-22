@@ -1,77 +1,19 @@
 # Do Now 2.06
 
-## Part 1
-Open up the console. Type the following code using interactive mode:
+## In your Notebook
+### Answer the following
+1. How would you print out something 10 times? What about 100? What about 1,000? 
+2. Can you remember something from Snap! that might allow that? 
 
+## Open up the console. 
+### Type the following code using interactive mode. 
 
+```python
+while True: 
+    print('a')
 
-### Example 1
-
-```
- >>> a = [123, 'First Item', 456, 'Second Item']
- >>> b = a[0:2]
- >>> print(a)
- >>> print(b)
- 
-```
-
-
-* In your notebook, What happens to a? What is b? What type is b? 
-
-### Example 2
-
-
-```
- >>> a = [123, 'First Item', 456]
- >>> a.remove('First Item')
- >>> print(a) 
-```
-
-
-* In your notebook, what does `remove` do? What would the length of this list be after `remove`? 
-
-### Example 3
-```
- >>> a = [123, 'First Item', 456]
- >>> a.pop()
- >>> print(a) 
-```
-
-
-* In your notebook, what does `pop` do? What is the difference between `remove` and `pop`? 
-
-### Example 4
-
-
-```
- >>> a = [123, 'First Item', 456, 'Second Item']
- >>> b = a + ['Third Item']
- >>> print(a)
- >>> print(b)
- 
-```
-
-
-* In your notebook, what happens to a? What is b? What type is b? 
-
-### Example 5
- 
  ```
-=======
-What happens to a? What is b? What type is b? 
-
-### Example 5
-```
-
- >>> a = []
- >>> print(len(a))
- >>> a.append('First Item')
- >>> print(a)
- 
-```
-
-
-### In your Notebook
-
-1. What was the length of `[]`?
-2. What does `append` do? What would the length be after `append`? 
+## In your Notebook
+### Write responses for the following
+1. What happens when you run this code?
+2. Try using other Boolean expressions instead of `True` (e.g. `4 > 5` and `9 != 2`), and explore what happens.

@@ -1,16 +1,34 @@
 # Do Now 2.04
 
-In the console, create a schedule program. Given the hour of the day print out where you should be. If you're not doing anything else you should be "sleeping".
+## In your console
+### Type in the following
 
 ```
- >>> What hour? 12pm
- >>> You should be at lunch!
- ```
+ a_list = ['a', 'b', 'c', 'd', 'e']
+ print(len(a_list))
+ 
+```
+
 
 ## In your Notebook
-### Answer the following:
+### Answer the following
+1. What type do you think a_list is? (Hint: look at the name of the variable)
+2. What does `len` do? 
+3. Brainstorm how you would print the first element from `a_list`?
+
+## In your Console
+### Type in the following
 
 
-1. How did you accomplish this? Did you feel like something was missing in your program?  
-2. What if you wanted to add in a weekly functionality? For instance, maybe on Tuesday at 4pm you are at soccer practice, but on Thursday at 4pm you are at math club! 
-3. How would you implement this in your program? 
+```
+ a_list = ['a', 'b', 'c', 'd', 'e']
+ print(a_list[0])
+ print(a_list[1])
+ print(a_list[2])
+ print(a_list[3])
+ print(a_list[4])
+ print(a_list[5])
+ print(a_list[6])
+```
+## In your Notebook
+Explain what happens in the program

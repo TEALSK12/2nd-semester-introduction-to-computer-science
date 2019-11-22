@@ -1,34 +1,77 @@
 # Do Now 2.05
 
-## In your console
-### Type in the following
+## Part 1
+Open up the console. Type the following code using interactive mode:
+
+
+
+### Example 1
 
 ```
- a_list = ['a', 'b', 'c', 'd', 'e']
- print(len(a_list))
+ >>> a = [123, 'First Item', 456, 'Second Item']
+ >>> b = a[0:2]
+ >>> print(a)
+ >>> print(b)
  
 ```
 
 
-## In your Notebook
-### Answer the following
-1. What type do you think a_list is? (Hint: look at the name of the variable)
-2. What does `len` do? 
-3. Brainstorm how you would print the first element from `a_list`?
+* In your notebook, What happens to a? What is b? What type is b? 
 
-## In your Console
-### Type in the following
+### Example 2
 
 
 ```
- a_list = ['a', 'b', 'c', 'd', 'e']
- print(a_list[0])
- print(a_list[1])
- print(a_list[2])
- print(a_list[3])
- print(a_list[4])
- print(a_list[5])
- print(a_list[6])
+ >>> a = [123, 'First Item', 456]
+ >>> a.remove('First Item')
+ >>> print(a) 
 ```
-## In your Notebook
-Explain what happens in the program
+
+
+* In your notebook, what does `remove` do? What would the length of this list be after `remove`? 
+
+### Example 3
+```
+ >>> a = [123, 'First Item', 456]
+ >>> a.pop()
+ >>> print(a) 
+```
+
+
+* In your notebook, what does `pop` do? What is the difference between `remove` and `pop`? 
+
+### Example 4
+
+
+```
+ >>> a = [123, 'First Item', 456, 'Second Item']
+ >>> b = a + ['Third Item']
+ >>> print(a)
+ >>> print(b)
+ 
+```
+
+
+* In your notebook, what happens to a? What is b? What type is b? 
+
+### Example 5
+ 
+ ```
+=======
+What happens to a? What is b? What type is b? 
+
+### Example 5
+```
+
+ >>> a = []
+ >>> print(len(a))
+ >>> a.append('First Item')
+ >>> print(a)
+ 
+```
+
+
+### In your Notebook
+
+1. What was the length of `[]`?
+2. What does `append` do? What would the length be after `append`? 
