@@ -1,4 +1,4 @@
-# Lab 2.07 - Tic-Tac-Toe Revisited
+# Lab 2.06 - Tic-Tac-Toe Revisited
 
 1. For each example below, predict what will be printed then the program and confirm.
 
