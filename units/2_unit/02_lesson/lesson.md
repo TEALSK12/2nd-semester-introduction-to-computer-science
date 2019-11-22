@@ -1,4 +1,4 @@
-# Lesson 2.03: Booleans & Expressions
+# Lesson 2.02: Booleans & Expressions
 
 ## Learning Objectives
 Students will be able to... 
