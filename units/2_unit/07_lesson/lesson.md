@@ -1,4 +1,4 @@
-# Lesson 2.08: Project 2 - Text Monster
+# Lesson 2.07: Project 2 - Text Monster
 
 ## Learning Objectives
 Students will be able to... 
