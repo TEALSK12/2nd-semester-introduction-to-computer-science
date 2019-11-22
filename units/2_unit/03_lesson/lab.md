@@ -1,4 +1,4 @@
-# Lab 2.04 - Game Show
+# Lab 2.03 - Game Show
 
 
 ## In your Notebook
