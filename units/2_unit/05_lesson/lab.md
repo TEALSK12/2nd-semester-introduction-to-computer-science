@@ -1,4 +1,4 @@
-# Lab 2.06 - Tic-Tac-Toe
+# Lab 2.05 - Tic-Tac-Toe
 
 1. For each example below, in your notebook, predict what will be printed. Then run the program and confirm. 
 
