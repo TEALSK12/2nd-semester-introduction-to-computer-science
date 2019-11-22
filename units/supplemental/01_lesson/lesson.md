@@ -1,4 +1,4 @@
-# Lesson 2.01: Binary Day
+# Supplement Lesson 01: Binary Day
 
 ## Learning Objectives
 Students will be able to...
