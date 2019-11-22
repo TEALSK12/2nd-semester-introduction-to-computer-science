@@ -1,4 +1,4 @@
-# Do Now 2.02
+# Do Now 2.01
 ## Open up the console. Type the following code. 
 
 ```python
