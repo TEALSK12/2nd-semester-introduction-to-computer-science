@@ -1,4 +1,4 @@
-# Do Now 2.06
+# Do Now 2.05
 
 ## Part 1
 Open up the console. Type the following code using interactive mode:
