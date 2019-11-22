@@ -1,15 +1,16 @@
-# Lesson 2.02: Data Types & Casting
+# Lesson 2.03: Booleans & Expressions
 
 ## Learning Objectives
 Students will be able to... 
-* Define and identify: **type, string, casting, floating point number (float), integer**
-* Describe different representations of data in Python 
-* Convert from one data type to another data type
+* Define and identify: **boolean, expression, composition, True, False**
+* Evaluate a boolean expression
+* Compose boolean expressions using `and`, `or`, `not`, `<`, `>`, and `==` 
 
 ## Materials/Preparation
 * [Do Now]
-* [Lab - Casting]
-* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+* [Lab - Can I or Can't I?]
+* Associated Reading - section 2.2 of Book
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 | **Duration**   | **Description** |
@@ -29,47 +30,55 @@ Students will be able to...
 
 #### Discussion
 
-* Ask students to define **type**. Talk about types as a way to represent data (give examples of strings, ints, and floats).
-* Ask students what they thought typing the command str(123) does. 
+* After 5 minutes of students working on the Do Now, ask students to recall what a boolean is and how they used booleans in Snap!
+* Ask students what values they saw in part 1 of the Do Now (answer should be `True` or `False`) 
 
 #### Instruction
 
-* Define this process of changing data types as **casting**. 
-* Define the int function if the students were unable to guess it from the do now.
-* Take a few minutes to have students write down how they would produce the following output:
+* **Boolean expression**: is an expression that evaluates to either true or false.
+* Ask Students about the difference between `=` and `==`. 
+* = is for assignment of value 
+* == builds a boolean expression and is a way to compare two values
+* Remind students of boolean expressions in Snap! 
 
-   ```
-    > 
-    Give me a number you want to multiply by 2: 4
-    8
-    => None
-    ```
+![Snap boolean Expressions](snap_boolean_expressions.png)
 
-#### Student Sharing
+![Snap boolean Expressions =](snap_boolean_expressions_equals.png)
 
-* Call on 2-3 students to write their answers on the board. 
-* Discuss what would happen if the user types in 1.5 instead of 4. 
-* If input is a float, can cast with float(num)
-* `type`: ask students what they think `type('a')` would output.  
-* Why might you want to use `type`?
+* Ask the students to recall what `and`, `or` and `not` did.
+* Give students additional time to finish completing part 2 of the Do Now, if needed. 
+* Have a student write up the expression they used to update the `can_get_license` code.
+
+#### Poll students - 
+
+* how many boolean expressions are used? Answers here may vary depending on the students' code. 
+
+#### Instruction
+
+* Define **composition**: Using an expression as part of a larger expression, or a statement as part of a larger statement. You can use parentheses to compose expressions as well.
+* Parentheses: In Snap! to compose many expressions they were nested together by simply putting blocks one after another. However, in Python if you want certain things to be evaluated together, use parentheses.
 
 ### 3. Lab
 
-* Practice predicting what casting will do to inputs. 
-* Create a halving program as well as program that halves to whole numbers. 
+* Evaluate expressions with `and`, `or`, and `not`
+* Given written out rules, students will convert them into Boolean expressions.
+* Create a large expression using variables that describes you.
 
 ### 4. Debrief
 
 * Check student progress and completion of the lab, wrap up by taking any final questions.
 
-
 ## Accommodation/Differentiation
 
-If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0's and 1's). In practice these translate to True and False. Convert numbers to boolean, and booleans to numbers.
+If students are moving quickly, use this opportunity to go over truth tables (or ask them to research De Morgan's Law) 
+
+#### Convert the following SNAP Truth Table program into Python.
+
+![](Lesson%202.03%20Truth%20Table.png)
 
 ## Forum discussion
-[Lesson 2.02: Data Types and Casting (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-02-data-types-casting)
-  
+[Lesson 2.03: Booleans & Expressions (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-03-booleans-expressions)
 
+  
 [Do Now]:do_now.md
-[Lab - Casting]:lab.md
+[Lab - Can I or Can't I?]:lab.md

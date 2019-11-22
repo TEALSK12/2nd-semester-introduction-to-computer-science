@@ -1,69 +1,66 @@
-# Lab 2.04 - Game Show
+# Lab 2.05 - College Chooser
 
+1. In your notebook, For each example below, predict what will be printed. Next, run the program and confirm what was output. 
 
-## In your Notebook
+    ### Example 1
 
-### Follow the flow of execution in the following programs and predict what will happen for each one:
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        print(a[0])
+        print(a[3])
+    ```
+    ### Example 2
+
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        print(a[len(a) - 3])
+    ```
+    ### Example 3
+
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        print(a[len(a) - 6])
+    ```
+
+    ### Example 4
+
+    ```python
+        a = ['a', 'b', 'c', 'd', 'e']
+        a[3] = 'haha'
+        print(a)
+    ```
+
+2. Remember the game show program from last lab? Create this game again using lists and indexes. Updated rules below: 
+
+    * Declare 10 prizes (prize0, prize1, prize2 at the top of your file), but store them all in a list.
+    * User picks a number.
+    * Print prize associated with the door user picked. 
+
+3. Create a quiz to help you choose which college you should go to (or another topic of your choice) The program should ask the user a question and list five possible answers. If the student chooses the first answer, add 1 point to `School[0]`. If they choose the second answer add 1 point to `School[1]`, and so on. At the end print out the schools and the scores for each school.
+    
+    * Create a list of 5 options of colleges.
+    * Create a different list of five 0s, representing the user's votes so far.
+    * Create 4 questions. Each question should have five different answers. Each answer corresponds to the specific school option.
+    * At the end print off the 5 different schools and the score the user got for each of those schools. 
+
+## Bonus!
+Research nested lists and work through the following: 
+
 
 ### Example 1
 
-
-1. Follow the flow of execution in the following programs and predict what will happen for each one:
-
+```python
+a = ['a', 'b', 'c', ['d', 'e']]
+print(len(a))
+```
 
 ### Example 2
-    
+
 ```python
-    a = input("What... is your quest") 
-    b = "to seek the holy grail"
-    if a != b: 
-        print("Go On. Off you go") 
-    else: 
-        b = input("What...is the air-speed velocity of an unladen swallow?")
-        if b == "What do you mean? An African or European swallow?": 
-            print("I don't know that...AHHH [Bridgekeeper was thrown over bridge]")
-        else: 
-            print("[you were thrown over bridge]")
+a = ['a', 'b', 'c', ['d', 'e']]
+b = a[3]
+print(b)
 ```
-### Example 3    
-  
-```python
-    user_input = input("What is your favorite color"): 
-    if user_input == 'blue': 
-        print("Blueskadoo")
-    elif user_input == "red": 
-        print("Roses are red!")
-    elif user_input == "yellow": 
-        print("Mellow Yellow")
-    elif user_input == "green": 
-        print("Green Machine")
-    elif user_input == "orange": 
-        print("Orange you glad I didn't say banana.") 
-    elif user_input == "black": 
-        print("I see a red door and I want it painted black")
-    elif user_input == "purple": 
-        print("And we'll never be royalllssss")
-    elif user_input == "pink": 
-        print("Pinky- and the Brain")
-    else: 
-        print("I don't recognize that color. Is it even...??") 
-```
-   
-## In your Console
 
-2) Translate this Snap! program into a Python program. 
-
-![triangle_program](triangle_program.png)
-
-3) Create a game show program! 
-    
-    * Declare 10 prizes (prize1, prize2, prize 3 at the top of your file)
-    * User picks a number
-    * The prize corresponding with that door is printed for the user. 
-
-
-
-## Bonus! 
-
-
-Research lists in Python. Re-implement problem 3 using lists. 
+### In your Notebook
+How would you access 'd' from the list `a`? 
