@@ -1,4 +1,4 @@
-# Lesson 2.06: Lists Part 2
+# Lesson 2.05: Lists Part 2
 
 ## Learning Objectives
 Students will be able to... 
