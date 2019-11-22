@@ -58,7 +58,7 @@ Students will be able to...
 * If desired, have each student share one idea.  Do not allow discussion, criticism, or explanation-- each idea should be summarized in only a few words or a single sentence.
 
 #### Pitch writing
-1.  Have students pick their **3** favorite ideas and write a "pitch" for the project.  
+* Have students pick their **3** favorite ideas and write a "pitch" for the project.  
 * A pitch should be no more than a short paragraph and should describe the basic, high-level features of the project.  
 * The pitch should _not_ include any implementation details (scripts, sprites, etc.).
 * Pitches should include a moderate level of specificity-- enough for someone to imagine how the app will work, but not so much to get bogged down.  
@@ -66,7 +66,7 @@ Students will be able to...
 * If a student is having difficulty developing a pitch for an idea, that might be a sign that the idea is not fully-formed enough to be a final project.
 * If a student is having trouble keeping the pitch short, the project may be too complex to complete in the available time.
 
-#### Peer review
+#### Peer Review
 * Pair students up and have students take turns reading one of their pitches to their partner and asking for feedback.  
 * Partners should ask questions to help identify both the best and worst parts of each pitch.
 * Remind students to keep all feedback constructive, respectful, and professional.  
