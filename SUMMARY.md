@@ -109,6 +109,7 @@
    * [Lesson 6.05: Guess Who](units/6_unit/05_lesson/lesson.md)
        * [Do Now 6.05](units/6_unit/05_lesson/do_now.md)
        * [Project 6: Guess Who](units/6_unit/05_lesson/project.md)
+       * [Project 6b: Buy an Umbrella](units/6_unit/05_lesson/projectb.md)
 
 * [Unit 7](units/7_unit/unit7.md)
    * [Lesson 7.01: User-Defined Types (Classes)](units/7_unit/01_lesson/lesson.md)
