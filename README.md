@@ -40,6 +40,10 @@ For those knowledgable with Python 2, the following is a list of differences fro
 
 Please open an issue in GitHub if you encounter factual, spelling, or grammatical errors, sequencing problems (topics needed before they are taught), or incomplete/missing materials.
 
+## Change Log
+
+Changes to this curriculum will be updated in our [Change Log](Changelog.md)
+
 ## Suggestions
 
 If you'd like to suggest changes or additions to the curriculum, please submit a Github Pull Request containing your changes. As a best practice, each pull request should contain a singular atomic change.
