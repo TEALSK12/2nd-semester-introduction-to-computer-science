@@ -9,5 +9,5 @@
 2. In your notebook, answer the following questions, based on the reading:
     * Describe how using a `for` loop can be useful in using EarSketch to create a new beat.
     * How can an `if` statement be used with the **modulo** operator in order to have a beat repeat *every other* measure?
-    
+
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/

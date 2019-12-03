@@ -13,7 +13,7 @@ Students will be able to...
 * [Do Now]
 * [Lab - Game Show]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-* Associated Reading - section 2.3 of Book
+* [Associated Readings 2.3](https://tealsk12.gitbook.io/intro-cs-2/readings#2-3)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
@@ -46,7 +46,7 @@ Students will be able to...
         print("x is positive")
     ```
 
-#### Take a look at this example.
+#### Take a look at this example
 
    ```python
     animal = input("What is your favorite animal?")

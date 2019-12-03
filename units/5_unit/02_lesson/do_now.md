@@ -12,6 +12,5 @@
       - Write down how you would use the `setEffect()` function to change the volume level of track 4 to a value of `-15.0`.
       - For most songs, how many beats make up one measure?
       - What is the purpose of the `0`, `+`, and `-` symbols when used in an EarSketch beat strings
-      
-      
+
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/

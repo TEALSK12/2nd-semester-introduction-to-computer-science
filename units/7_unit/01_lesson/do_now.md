@@ -1,6 +1,6 @@
 # Do Now 7.01
 
-## Read through the following code: 
+## Read through the following code
 
 ```python
 my_pet_1 = 'pet'
@@ -19,15 +19,14 @@ my_pet_3_noise = 'meow'
 my_pet_3_full_name = 'Snickers Snorkel'
 
 my_pets = [my_pet_1, my_pet_2, my_pet_3]
-for pet in my_pets: 
-	## print full name of each pet 
+for pet in my_pets:
+    ## print full name of each pet
 
 ```
 
 ## In your Notebook
+
 ### Respond to the following
 
-1. In the above code, write a quick description of how you would print out each of the pet's names. 
-2. Write down some other data structures you could use to make this easier. 
-
-
+1. In the above code, write a quick description of how you would print out each of the pet's names.
+2. Write down some other data structures you could use to make this easier.
