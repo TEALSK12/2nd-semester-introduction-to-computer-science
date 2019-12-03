@@ -89,7 +89,7 @@
 | ------    | ---------- | --- |
 | [01: Binary Day] | Define and identify: binary. Describe different representations of data. Represent decimal numbers in binary. | N/A |
 
-[1.01: Set Up]: /1_unit/01_lesson/lesson.md
+[1.01: Set Up]: /units/1_unit/01_lesson/lesson.md
 [1.02: Interactive Mode]: /1_unit/02_lesson/lesson.md
 [1.03: Script Mode and Variables]: /1_unit/03_lesson/lesson.md
 [1.04: Variables Input]: /1_unit/04_lesson/lesson.md
