@@ -73,7 +73,7 @@ Students will be able to...
 
 #### Stick Diagrams
 
-* Demonstrate how to draw the Stack Diagrams shown in the course book (found in section 3.4) and explain how they show the scope of variables as they related to functions.
+* Demonstrate how to draw the Stack Diagrams shown in the course book ([found in section 3.4](https://tealsk12.gitbook.io/intro-cs-2/readings#stack-diagrams)) and explain how they show the scope of variables as they related to functions.
 * Point out the error messages that will occur if you use a variable out of its scope.
 
 #### Debugging

@@ -15,11 +15,13 @@ Create a function, `birthday_song`, that prints out the happy birthday song to w
 
 ## Lab Exercise 2
 
-Create a function that randomly picks 5 cards from a deck. The cards can repeat. Instead of creating a string for each card it might be useful to have two lists and pick randomly from both the lists. Write out the contract for this function:
+* Create a function that randomly picks 5 cards from a deck
+* The cards can repeat
+
+ Write out the contract for this function using the list.
 
 ```python
 number = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K']
-suit = ['Spades', 'Clubs', 'Diamonds', 'Hearts']
 ```
 
 ### Bonus

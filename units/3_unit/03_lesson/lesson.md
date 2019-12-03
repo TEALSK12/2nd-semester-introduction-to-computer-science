@@ -4,7 +4,7 @@
 
 Students will be able to...
 
-* Define and identify: **return, none, void**
+* Define and identify: **return, none**
 * Explain and demonstrate the difference between printing and returning
 
 ## Materials/Preparation
