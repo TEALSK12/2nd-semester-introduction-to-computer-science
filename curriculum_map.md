@@ -89,7 +89,7 @@
 | ------    | ---------- | --- |
 | [01: Binary Day] | Define and identify: binary. Describe different representations of data. Represent decimal numbers in binary. | N/A |
 
-[Unit 1]: /unit1
+[Unit 1]: https://tealsk12.gitbook.io/intro-cs-2/unit_1
 [1.01: Set Up]: unit1/01_lesson/lesson.md
 [1.02: Interactive Mode]: unit1/02_lesson/lesson.md
 [1.03: Script Mode and Variables]: unit1/03_lesson/lesson.md
