@@ -1,6 +1,6 @@
 # 2nd Semester Introduction to Computer Science Curriculum Map
 
-## [Unit 1]
+## Unit 1
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -11,7 +11,7 @@
 | [1.05: Quiz & Debugging] | Demonstrate their understanding of key concepts covered up to this point. Define and identify: debugging, syntax errors. Analyze and respond to error messages. | N/A |
 | [1.06: MadLibs] | Apply basic Python knowledge about inputs/outputs and variables to create a game of madlibs. Practice good debugging skills. | Mad Libs |
 
-## [Unit 2]
+## Unit 2
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -23,7 +23,7 @@
 | [2.06: Game Loop] | Define and identify: while loop. Use a while loop to simulate game play. | Tic-Tac-Toe Revisited |
 | [2.07: Text Game] | Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game. | Zork - Text Monster Game |
 
-## [Unit 3]
+## Unit 3
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -33,7 +33,7 @@
 | [3.04: Debugging and Scope] | Define and identify: scope, aliasing, stack trace. Understand that changing a list in a function updates the list outside of the function. Understand that updating variables in a function does not affect the variable outside of the function. Understand global variables. Draw a simple stack trace. | Aliasing & Scope |
 | [3.05: Oregon Trail] | Use project planning skills to complete a longer-term project. Create functions to organize a project. Apply skills learned in units 1-3 to create a functioning program. | Oregon Trail |
 
-## [Unit 4]
+## Unit 4
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -44,7 +44,7 @@
 | [4.05: Debugging and Quiz] | Read and understand longer programs involving loops. Demonstrate knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. | Debugging Practice |
 | [4.06: Tic-Tac-Toe] | Use project planning skills to complete a larger project. Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game. | Tic-Tac-Toe |
 
-## [Unit 5]
+## Unit 5
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -54,7 +54,7 @@
 | [5.04: EarSketch User-Defined Functions] | Define and identify: abstraction, section, A-B-A form. Create and apply user-defined functions to create songs with complicated form. | User-Defined Functions |
 | [5.05: EarSketch Project] | Create a complete song in EarSketch with multiple parts. Utilize EarSketch's features and functions. | EarSketch Song |
 
-## [Unit 6]
+## Unit 6
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -64,7 +64,7 @@
 | [6.04: Dictionaries Looping] | Use loops to traverse through key/value pairs in a dictionary | Dictionaries Looping |
 | [6.05: Guess Who] | Use dictionaries to create the game Guess Who | Guess Who |
 
-## [Unit 7]
+## Unit 7
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -74,7 +74,7 @@
 | [7.04: Inheritance] | Define and identify: inheritance, parent class, child class. Create a class that inherits from anther class. Overwrite methods of parent class in a child class. | Pokemon Child Classes |
 | [7.05: Pokemon] | Engage in class design before beginning coding. Apply what was learned with respect to classes, methods, and inheritance to create an implementation of Pokemon. | Pokemon |
 
-## [Unit 8]: Final Project
+## Unit 8: Final Project
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -89,12 +89,12 @@
 | ------    | ---------- | --- |
 | [01: Binary Day] | Define and identify: binary. Describe different representations of data. Represent decimal numbers in binary. | N/A |
 
-[1.01: Set Up]: /unit1/01_lesson/lesson.md
-[1.02: Interactive Mode]: unit1/02_lesson/lesson.md
-[1.03: Script Mode and Variables]: unit1/03_lesson/lesson.md
-[1.04: Variables Input]: unit1/04_lesson/lesson.md
-[1.05: Quiz & Debugging]: unit1/05_lesson/lesson.md
-[1.06: MadLibs]: unit1/06_lesson/lesson.md
+[1.01: Set Up]: /1_unit/01_lesson/lesson.md
+[1.02: Interactive Mode]: /1_unit/02_lesson/lesson.md
+[1.03: Script Mode and Variables]: /1_unit/03_lesson/lesson.md
+[1.04: Variables Input]: /1_unit/04_lesson/lesson.md
+[1.05: Quiz & Debugging]: /1_unit/05_lesson/lesson.md
+[1.06: MadLibs]:  /1_unit/06_lesson/lesson.md
 
 [2.01: Data Types & Casting]: unit2/01_lesson/lesson.md
 [2.02: Booleans & Expressions]: unit2/02_lesson/lesson.md
