@@ -89,15 +89,13 @@
 | ------    | ---------- | --- |
 | [01: Binary Day] | Define and identify: binary. Describe different representations of data. Represent decimal numbers in binary. | N/A |
 
-[Unit 1]: https://tealsk12.gitbook.io/intro-cs-2/unit_1
-[1.01: Set Up]: unit1/01_lesson/lesson.md
+[1.01: Set Up]: /unit1/01_lesson/lesson.md
 [1.02: Interactive Mode]: unit1/02_lesson/lesson.md
 [1.03: Script Mode and Variables]: unit1/03_lesson/lesson.md
 [1.04: Variables Input]: unit1/04_lesson/lesson.md
 [1.05: Quiz & Debugging]: unit1/05_lesson/lesson.md
 [1.06: MadLibs]: unit1/06_lesson/lesson.md
 
-[Unit 2]: unit2/
 [2.01: Data Types & Casting]: unit2/01_lesson/lesson.md
 [2.02: Booleans & Expressions]: unit2/02_lesson/lesson.md
 [2.03: Conditionals]: unit2/03_lesson/lesson.md
@@ -106,14 +104,12 @@
 [2.06: Game Loop]: unit2/06_lesson/lesson.md
 [2.07: Text Game]: unit2/07_lesson/lesson.md
 
-[Unit 3]: unit3/
 [3.01: Built In Functions]: unit3/01_lesson/lesson.md
 [3.02: User-Defined Functions]: unit3/02_lesson/lesson.md
 [3.03: Return vs Print]: unit3/03_lesson/lesson.md
 [3.04: Debugging and Scope]: unit3/04_lesson/lesson.md
 [3.05: Oregon Trail]: unit3/05_lesson/lesson.md
 
-[Unit 4]: unit4/
 [4.01: Looping Basics]: unit4/01_lesson/lesson.md
 [4.02: For Loops]: unit4/02_lesson/lesson.md
 [4.03: Nested For Loops]: unit4/03_lesson/lesson.md
@@ -121,28 +117,24 @@
 [4.05: Debugging and Quiz]: unit4/05_lesson/lesson.md
 [4.06: Tic-Tac-Toe]: unit4/01_lesson/lesson.md
 
-[Unit 5]: unit5/
 [5.01: Earsketch Intro]: unit5/01_lesson/lesson.md
 [5.02: EarSketch Music]: unit5/02_lesson/lesson.md
 [5.03: Earsketch Control Flow]: unit5/03_lesson/lesson.md
 [5.04: EarSketch User-Defined Functions]: unit5/04_lesson/lesson.md
 [5.05: EarSketch Project]: unit5/05_lesson/lesson.md
 
-[Unit 6]: unit6/
 [6.01: Introduction to Dictionaries]: unit6/01_lesson/lesson.md
 [6.02: Dictionaries Methods]: unit6/02_lesson/lesson.md
 [6.03: Dictionaries of Lists]: unit6/03_lesson/lesson.md
 [6.04: Dictionaries Looping]: unit6/04_lesson/lesson.md
 [6.05: Guess Who]: unit6/05_lesson/lesson.md
 
-[Unit 7]: unit7/
 [7.01: User-Defined Types]: unit7/01_lesson/lesson.md
 [7.02: User-Defined Types, Part 2]: unit7/03_lesson/lesson.md
 [7.03: Methods]: unit7/03_lesson/lesson.md
 [7.04: Inheritance]: unit7/04_lesson/lesson.md
 [7.05: Pokemon]: unit7/05_lesson/lesson.md
 
-[Unit 8]: unit8/
 [8.01: Final Project Brainstorming and Evaluating]: unit8/01_lesson/lesson.md
 [8.02: Defining Requirements]: unit8/02_lesson/lesson.md
 [8.03: Building a Plan]: unit8/03_lesson/lesson.md
