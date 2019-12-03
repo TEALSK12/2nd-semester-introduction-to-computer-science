@@ -1,6 +1,7 @@
 # Lab 6.01 - Internet Abbreviations
 
-### Instructions
+## Instructions
+
 Write a program that uses a dictionary to offer users the meanings of common internet abbreviations.
 
 The program, `dictionary_lab.py`, prompts the user to enter an internet abbreviation they would like explained.
@@ -10,7 +11,7 @@ message saying that it could not find a definition.
 
 ### Example Output
 
-```
+```python
 >>> python3 dictionary_lab.py
 
 What word would you like to look up? nbd
@@ -19,13 +20,15 @@ nbd: a phrase meaning no big deal
 What word would you like to look up? kittens
 Sorry, kittens is not defined
 
-What would would you like to look up? 
+What would would you like to look up?
 ```
 
-## Bonus!
+## Bonus
+
 Extend the program with any of these features:
 
-The user can 
+The user can
+
 * update the definitions (values) for existing abbreviations in the dictionary
 * add new abbreviations (keys) and provide their definitions (values).
 * delete entries (key, value pairs) from the dictionary.

@@ -1,4 +1,4 @@
-# Lab 2.02 - Can I or Can't I?
+# Lab 2.02 - Can I or Can't I
 
 ## In your Notebook
 

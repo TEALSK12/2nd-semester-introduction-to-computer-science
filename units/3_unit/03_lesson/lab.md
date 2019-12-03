@@ -2,11 +2,11 @@
 
 Create a program that lets a user play a **simplified** version of the card game ['War'](http://www.pagat.com/war/war.html).  In this version, the users will share a single deck of cards and cards will not be added back to the deck after they have been played.
 
-**Video Explanation of the Card Game War**
+## Video Explanation of the Card Game War
 
 [![Card Game: War](https://img.youtube.com/vi/G4DhzhDlXFM/0.jpg)](https://youtu.be/G4DhzhDlXFM)
 
-Your game should:
+### Your game should
 
 * Start with a given shuffled deck variable (shuffle function comes from python's random library, more details below)
 * Ask for player1 and player2's names.
@@ -18,6 +18,7 @@ Your game should:
 # Arguments: player_name as string, deck as list
 # returns: integer
 ```
+
 * Have a function `compare_scores` that takes in the two integers representing the cards drawn and compares the card values. Make sure to write the contract for `compare_scores`!
 * For simplicity Jacks will be represented as 11, Queens will be represented as 12, Kings will be represented as 13, and Aces will be represented as 14
 * For simplicity the suit does not matter
@@ -28,9 +29,9 @@ Your game should:
 * Declare the name of the winner and final score at the end of the game.
 
 ## Sample Output
+
 Player 1's name: Pat  
 Player 2's name: Sam  
-
 
 Pat drew card 8  
 Sam drew card 9  
@@ -42,7 +43,7 @@ Pat drew card 9
 Sam drew card 8  
 Pat has high card  
 Pat: 2  
-Sam: 2 
+Sam: 2
 
 Pat drew card 7  
 Sam drew card 7  
@@ -78,7 +79,7 @@ Sam: 12
 Pat drew card 12  
 Sam drew card 2  
 Pat has high card  
-Pat: 4 
+Pat: 4
 Sam: 12  
 
 Pat drew card 7  
@@ -95,7 +96,7 @@ Sam: 14
 
 Pat drew card 9  
 Sam drew card 7  
-Pat has high card   
+Pat has high card
 Pat: 8  
 Sam: 14  
 
@@ -120,7 +121,7 @@ Sam: 16
 
 Pat drew card 4  
 Sam drew card 10  
-Sam has high card   
+Sam has high card
 Pat: 12  
 Sam: 18  
 
@@ -132,7 +133,7 @@ Sam: 18
 
 Pat drew card 4  
 Sam drew card 11  
-Sam has high card   
+Sam has high card
 Pat: 14  
 Sam: 20  
 
@@ -209,10 +210,11 @@ import random
 # input:
 # returns: a list representing a shuffled deck
 def shuffled_deck():
-	basic_deck = list(range(2, 15)) * 4
-	random.shuffle(basic_deck)
-	return basic_deck
+  basic_deck = list(range(2, 15)) * 4
+  random.shuffle(basic_deck)
+  return basic_deck
 ```
 
-###Bonus!
+### Bonus
+
 Instead of closing the program when the deck is empty, create a way for the user to play again.

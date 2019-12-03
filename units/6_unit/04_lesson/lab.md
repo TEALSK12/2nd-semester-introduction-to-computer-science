@@ -4,20 +4,11 @@ In this lab we will use our word-counting code from Lab 6.02 to create a program
 
 Here's one strategy for completing this lab:
 
-1. Repackage some of your code from Lab 6.02 to make two functions:
-   `text_to_word_list()`, that  takes a single passage of text and splits
-   into a list of words; and `count_frequencies()`, that takes in a list of
-   words  and returns a dictionary of word frequencies. 
-2. Write a new function, `find_max_valued_key()`, that takes a dictionary as an
-   argument, and returns the **key** that  is associated with the largest
-   value in that dictionary. Internally, this function loops through the
-   dictionary while keeping track of the largest value it's seen so far and
-   the key that goes along with that value.
-3. Run `find_max_valued_key()` once on the dictionary of word counts, print out
-   the key/value of word it returns.
+1. Repackage some of your code from Lab 6.02 to make two functions: `text_to_word_list()`, that  takes a single passage of text and splits into a list of words; and `count_frequencies()`, that takes in a list of words and returns a dictionary of word frequencies
+2. Write a new function, `find_max_valued_key()`, that takes a dictionary as an argument, and returns the **key** that  is associated with the largest value in that dictionary. Internally, this function loops through the dictionary while keeping track of the largest value it's seen so far and the key that goes along with that value.
+3. Run `find_max_valued_key()` once on the dictionary of word counts, print out the key/value of word it returns.
 4. Remove that key from the dictionary.
-5. Repeat steps 3-4 four more times: Call `find_max_valued_key()`, print
-   out the key/value pair, and remove the key.
+5. Repeat steps 3-4 four more times: Call `find_max_valued_key()`, print out the key/value pair, and remove the key.
 
 If there is a tie within `find_max_valued_key()`, choose among the tied
 items however you like and return just one of them.
