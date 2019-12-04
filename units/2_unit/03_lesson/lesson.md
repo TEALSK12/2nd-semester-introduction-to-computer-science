@@ -94,7 +94,7 @@ If students are moving quickly, this lesson can move onto lists.
 
 ## Forums discussion
 
-[Lesson 2.04: Conditionals (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-04-conditionals)
+[Lesson 2.03: Conditionals (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-03-conditionals)
 
 [Do Now]:do_now.md
 [Lab - Game Show]:lab.md

@@ -64,7 +64,7 @@ If there is extra time, have students start reading through the project specs an
 
 ## Forum discussion
 
-[Lesson 2:07: Game Loop (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-game-loop)
+[Lesson 2:06: Game Loop (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-06-game-loop)
   
 [Do Now]:do_now.md
 [Lab - Tic-Tac-Toe Revisited]:lab.md

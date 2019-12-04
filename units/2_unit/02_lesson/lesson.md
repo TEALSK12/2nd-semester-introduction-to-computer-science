@@ -84,7 +84,7 @@ If students are moving quickly, use this opportunity to go over truth tables (or
 
 ## Forum discussion
 
-[Lesson 2.03: Booleans & Expressions (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-03-booleans-expressions)
+[Lesson 2.02: Booleans & Expressions (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-02-booleans-expressions)
 
 [Do Now]:do_now.md
 [Lab - Can I or Can't I?]:lab.md

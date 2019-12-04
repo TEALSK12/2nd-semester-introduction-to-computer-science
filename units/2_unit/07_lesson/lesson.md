@@ -64,7 +64,7 @@ Students will be able to...
 
 ## Forum discussion
 
-[Lesson 2.08: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-08-text-game)
+[Lesson 2.07: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-text-game)
 
 [Project Spec - Text Monster]: project.md
 [Text Monster Game - Example Code]: project_file.py

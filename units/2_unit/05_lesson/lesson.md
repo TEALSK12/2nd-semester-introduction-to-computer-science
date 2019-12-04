@@ -68,7 +68,7 @@ There is also an opportunity for a quiz after the game loop lesson and before th
 
 ## Forum discussion
 
-[Lesson 2.06: Lists 2 (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-06-lists-2)
+[Lesson 2.05: Lists 2 (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-05-lists-2)
   
 [Do Now]:do_now.md
 [Lab - Tic-Tac-Toe]:lab.md

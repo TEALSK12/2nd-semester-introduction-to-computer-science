@@ -17,6 +17,10 @@ Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This 
 
 Please help us complete it by contributing feedback and suggestions via the [GitHub repository](https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles) that contains the source files for this gitbook.
 
+## Associated Readings
+
+We have incliuded with this curriculum Associated Readings to dive deeper into topics specific to the instruction of this course. These readings have been adapted from "Think Python: How to Think Like a Computer Scientist" by. Allen B. Downey. ([HTML Version](http://greenteapress.com/thinkpython/html/index.html))([PDF Version](http://www.greenteapress.com/thinkpython/thinkpython.pdf)).They are specifically referenced in the lesson plans and the [full document](readings.md) is included.
+
 ## Curriculum Orientation
 
 [Check out this 1-hour Orientation to the Curriculum video](https://www.youtube.com/watch?v=UHgA_7x6-Qo)

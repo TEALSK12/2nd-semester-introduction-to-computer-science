@@ -86,7 +86,7 @@ If students are moving quickly, you can introduce the topic of nested lists. Sta
 
 ## Forum discussion
 
-[Lesson 2.05: Lists (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-05-lists)
+[Lesson 2.04: Lists (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-04-lists)
   
 [Do Now]:do_now.md
 [Lab - College Chooser]:lab.md

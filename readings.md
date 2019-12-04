@@ -1,7 +1,7 @@
 # Associated Readings
 
-Adapted from [**Think Python - How To Think Like A Computer Scientist**] by
-Allen Downey
+Adapted from **Think Python - How To Think Like A Computer Scientist** by
+Allen Downey ([HTML Version](http://greenteapress.com/thinkpython/html/index.html))([PDF Version](http://www.greenteapress.com/thinkpython/thinkpython.pdf))
 
 ## Unit 1
 
