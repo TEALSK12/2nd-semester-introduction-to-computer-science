@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Lab - Using the Interpreter]
+* [Lab - Using the Interpreter] ([printable lab document]) ([editable lab document])
 * [Associated Reading - section 1.1](https://tealsk12.gitbook.io/intro-cs-2/readings#1-1)
 * Ensure all students are able to log into the system
 * Go through the lab so that you are familiar with the requirements/results and can assist students
@@ -101,3 +101,6 @@ If students are moving quickly, have students practice higher order-of-operation
 ## Forum discussion
 
 [Lesson 1.02: Interactive Mode (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-02-interactive-mode)
+
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx

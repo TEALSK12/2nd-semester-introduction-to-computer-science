@@ -11,7 +11,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Pokemon Child Classes]
+* [Lab - Pokemon Child Classes] ([printable lab document]) ([editable lab document])
 * [Associated Reading - section 7.4](https://tealsk12.gitbook.io/intro-cs-2/readings#7-4)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -69,3 +69,5 @@ In the Pokemon lab, students may need clarification regarding how to use `isinst
 
 [Do Now]:do_now.md
 [Lab - Pokemon Child Classes]:lab.md
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx

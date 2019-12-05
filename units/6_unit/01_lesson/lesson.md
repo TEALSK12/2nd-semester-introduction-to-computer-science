@@ -11,7 +11,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Dictionary of Internet Abbreviations]
+* [Lab - Dictionary of Internet Abbreviations] ([printable lab document]) ([editable lab document])
 * [Associated Reading - section 6.1](https://tealsk12.gitbook.io/intro-cs-2/readings#6-1)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -90,3 +90,5 @@ Students will be able to...
 
 [Do Now]: do_now.md
 [Lab - Dictionary of Internet Abbreviations]: lab.md
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx

@@ -13,7 +13,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Aliasing & Scope]
+* [Lab - Aliasing & Scope] ([printable lab document]) ([editable lab document])
+
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 * [Associated Readings 3.4](https://tealsk12.gitbook.io/intro-cs-2/readings#3-4)
 
@@ -100,3 +101,5 @@ If students are moving quickly, they can look ahead at the project spec or resea
 
 [Do Now]:do_now.md
 [Lab - Aliasing & Scope]:lab.md
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx

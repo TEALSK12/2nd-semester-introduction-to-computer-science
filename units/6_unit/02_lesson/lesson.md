@@ -12,7 +12,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Word Counter]
+* [Lab - Word Counter] ([printable lab document]) ([editable lab document])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Associated Reading - section 6.2](https://tealsk12.gitbook.io/intro-cs-2/readings#6-2)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -71,3 +71,5 @@ Some students may need to be explicitly reminded of the `in` keyword to check if
 [Do Now]: do_now.md
 [Lab - Word Counter]: lab.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx

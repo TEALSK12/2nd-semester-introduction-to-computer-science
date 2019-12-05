@@ -11,7 +11,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Magic Genie]
+* [Lab - Magic Genie]([printable lab document]) ([editable lab document])
+
 * [Associated Readings 1.3](https://tealsk12.gitbook.io/intro-cs-2/readings#1-3)
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students
 
@@ -134,3 +135,6 @@ Identify students that may potentially struggle on the quiz and find individual 
 ## Forum discussion
 
 [Lesson 1.04: Variables Input (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-04-variables-input)
+
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx

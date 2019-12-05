@@ -10,7 +10,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Getting Loopy]
+* [Lab - Getting Loopy] ([printable lab document]) ([editable lab document])
+
 * [Associated Reading - section 4.2 of Book](https://tealsk12.gitbook.io/intro-cs-2/readings#4-2)
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -76,3 +77,6 @@ Students will be able to...
 
 [Do Now]: do_now.md
 [Lab - Getting Loopy]: lab.md
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx
+

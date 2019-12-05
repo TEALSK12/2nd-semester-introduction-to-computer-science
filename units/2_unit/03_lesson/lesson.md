@@ -11,7 +11,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Game Show]
+* [Lab - Game Show] ([printable lab document]) ([editable lab document])
+
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Associated Readings 2.3](https://tealsk12.gitbook.io/intro-cs-2/readings#2-3)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -99,3 +100,5 @@ If students are moving quickly, this lesson can move onto lists.
 [Do Now]:do_now.md
 [Lab - Game Show]:lab.md
 [TEALS Dashboard]:http://www.tealsk12.org/dashboard
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx
