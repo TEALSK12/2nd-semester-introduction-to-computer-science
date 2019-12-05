@@ -8,7 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Project Spec - Text Monster]
+* [Project Spec - Text Monster] ([printable project Spec]) ([editable project spec])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
@@ -64,9 +64,11 @@ Students will be able to...
 
 ## Forum discussion
 
-[Lesson 2.08: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-08-text-game)
+[Lesson 2.07: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-text-game)
 
 [Project Spec - Text Monster]: project.md
 [Text Monster Game - Example Code]: project_file.py
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
+[printable project Spec]: project.pdf
+[editable project spec]: project.docx

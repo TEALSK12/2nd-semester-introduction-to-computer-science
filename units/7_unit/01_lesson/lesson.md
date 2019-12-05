@@ -13,7 +13,7 @@ Students will be able to...
 
 * [Do Now]
 * [Example]
-* [Lab - Create a Color Class]
+* [Lab - Create a Color Class] ([printable lab document]) ([editable lab document])
 * [Associated Reading - section 7.1](https://tealsk12.gitbook.io/intro-cs-2/readings#7-1)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -94,3 +94,6 @@ For students that are quickly picking up the concepts, have them create their ow
 [Do Now]:do_now.md
 [Lab - Create a Color Class]:lab.md
 [Example]:example.md
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx
+

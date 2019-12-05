@@ -11,7 +11,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * Quiz (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-* [Lab - Debugging Practice]
+* [Lab - Debugging Practice] ([printable lab document]) ([editable lab document])
 * [Coding Example]
 * Read through the quiz, lesson, and lab so that you are familiar with the requirements and can assist students
 * Go through the quiz and create an answer key & scoring rubric
@@ -59,3 +59,6 @@ Make sure to provide extended time on the quiz for any students that have that r
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [Lab - Debugging Practice]: lab.md
 [Coding Example]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/4_unit/05_lesson/longer_coding_sample.py
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx
+

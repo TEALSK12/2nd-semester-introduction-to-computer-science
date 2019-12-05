@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Project Spec - Pokemon]
+* [Project Spec - Pokemon] ([printable project Spec]) ([editable project spec])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the project spec so that you are familiar with the requirements and can assist students
 * Try creating your own project so that you can Review [4 Steps to Solve Any CS Problem]
@@ -80,5 +80,7 @@ Students will be able to...
 [Lesson 7.05: Pokemon Project (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-05-pokemon)
   
 [Project Spec - Pokemon]:project.md
+[printable project Spec]: project.pdf
+[editable project spec]: project.docx
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf

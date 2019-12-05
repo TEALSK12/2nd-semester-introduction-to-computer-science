@@ -10,7 +10,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Tic-Tac-Toe Revisited]
+* [Lab - Tic-Tac-Toe Revisited] ([printable lab document]) ([editable lab document])
+
 * [Associated Readings 2.7](https://tealsk12.gitbook.io/intro-cs-2/readings#2-7)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -64,7 +65,9 @@ If there is extra time, have students start reading through the project specs an
 
 ## Forum discussion
 
-[Lesson 2:07: Game Loop (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-game-loop)
+[Lesson 2:06: Game Loop (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-06-game-loop)
   
 [Do Now]:do_now.md
 [Lab - Tic-Tac-Toe Revisited]:lab.md
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx

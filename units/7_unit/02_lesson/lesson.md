@@ -12,7 +12,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Pet Class]
+* [Lab - Pet Class] ([printable lab document]) ([editable lab document])
 * [Associated Reading - section 7.2](https://tealsk12.gitbook.io/intro-cs-2/readings#7-2)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -71,3 +71,6 @@ As with the previous lesson, be prepared for some students to struggle with the 
   
 [Do Now]:do_now.md
 [Lab - Pet Class]:lab.md
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx
+

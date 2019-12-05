@@ -13,7 +13,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Printing & Variables]
+* [Lab - Printing & Variables] ([printable lab document]) ([editable lab document])
+
 * [Associated Reading - section 1.2](https://tealsk12.gitbook.io/intro-cs-2/readings#1-2)
 * Read through the Do Now, Lab, and Lesson so that you are familiar with the requirements and can assist students.
 
@@ -95,3 +96,6 @@ If students are moving quickly, ask students to come up with a way to print two 
 ## Forum discussion
 
 [Lesson 1.03: Script Mode and Variables (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-03-script-mode-and-variables)
+
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx

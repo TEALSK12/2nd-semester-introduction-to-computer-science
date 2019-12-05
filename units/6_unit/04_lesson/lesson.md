@@ -9,7 +9,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Dictionaries Looping]
+* [Lab - Dictionaries Looping] ([printable lab document]) ([editable lab document])
 * [Associated Reading - section 6.4](https://tealsk12.gitbook.io/intro-cs-2/readings#6-4)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -62,3 +62,6 @@ Some students may need a second class period to complete this lab.
 
 [Do Now]: do_now.md
 [Lab - Dictionaries Looping]: lab.md
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx
+

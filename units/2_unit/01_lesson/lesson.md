@@ -11,7 +11,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Casting]
+* [Lab - Casting] ([printable lab document]) ([editable lab document])
+
 * [Associated Readings 2.1](https://tealsk12.gitbook.io/intro-cs-2/readings#2-1)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -77,7 +78,9 @@ If students are moving quickly, it is possible to introduce the concepts of bool
 
 ## Forum discussion
 
-[Lesson 2.02: Data Types and Casting (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-02-data-types-casting)
+[Lesson 2.01: Data Types and Casting (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-01-data-types-casting)
   
 [Do Now]:do_now.md
 [Lab - Casting]:lab.md
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx

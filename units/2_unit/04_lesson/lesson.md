@@ -12,7 +12,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - College Chooser]
+* [Lab - College Chooser]([printable lab document]) ([editable lab document])
+
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Associated Readings 2.4](https://tealsk12.gitbook.io/intro-cs-2/readings#2-4)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -86,8 +87,11 @@ If students are moving quickly, you can introduce the topic of nested lists. Sta
 
 ## Forum discussion
 
-[Lesson 2.05: Lists (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-05-lists)
+[Lesson 2.04: Lists (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-04-lists)
   
 [Do Now]:do_now.md
 [Lab - College Chooser]:lab.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx
+

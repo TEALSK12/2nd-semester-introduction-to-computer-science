@@ -10,7 +10,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Shopping List](lab.md)
+* [Lab - Shopping List](lab.md) ([printable lab document]) ([editable lab document])
+
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 * Explanation video of Nested Lists
 
@@ -104,3 +105,5 @@ Students may struggle with the concept of nested lists. Be prepared to have addi
 [Do Now]: do_now.md
 [Lab - Daily Schedule]: lab.md
 [loop diagram]: http://etutorials.org/shared/images/tutorials/tutorial_169/F05um02.jpg
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx

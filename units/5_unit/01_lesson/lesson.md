@@ -18,7 +18,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Intro to EarSketch]
+* [Lab - Intro to EarSketch] ([printable lab document]) ([editable lab document])
+
 * [EarSketch Editor]
 * Associated Reading in EarSketch
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -120,3 +121,5 @@ Some students may need reminders about certain music terminology (tempo, measure
 [Do Now]: do_now.md
 [Lab - Intro to EarSketch]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
+[printable lab document]: lab.pdf
+[editable lab document]: lab.docx
