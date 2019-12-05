@@ -106,6 +106,5 @@ If students are moving quickly, find another library to import from (see **bonus
 
 [Do Now]:do_now.md
 [Lab - Magic 8-Ball]:lab.md
-([printable lab document]) ([editable lab document])
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/01_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/01_lesson/lab.docx

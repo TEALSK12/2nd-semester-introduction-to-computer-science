@@ -71,5 +71,5 @@ Some students may need to be explicitly reminded of the `in` keyword to check if
 [Do Now]: do_now.md
 [Lab - Word Counter]: lab.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/02_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/02_lesson/lab.docx

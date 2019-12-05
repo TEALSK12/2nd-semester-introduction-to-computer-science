@@ -11,7 +11,7 @@ Students will be able to...
 
 * [Do Now]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-* [EarSketch Editor] 
+* [EarSketch Editor]
 * [Project] ([printable project Spec]) ([editable project spec])
 * Read through the do now and project spec so that you are familiar with the requirements and can assist students
 * Practice creating your own EarSketch song(s) to demonstrate to students and to better understand the challenges they may face in the project
@@ -69,5 +69,5 @@ Certain students that have a limited music background may need additional assist
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
 [Project]: project.md
-[printable project Spec]: project.pdf
-[editable project spec]: project.docx
+[printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/05_lesson/project.pdf
+[editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/05_lesson/project.docx

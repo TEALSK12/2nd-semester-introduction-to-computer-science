@@ -68,5 +68,5 @@ If there is time, go over the bonus question. Explain how a counter is a frequen
 
 [Do Now]: do_now.md
 [Lab - de_vowel]: lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/01_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/01_lesson/lab.docx

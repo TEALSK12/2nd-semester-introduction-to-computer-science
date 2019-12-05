@@ -83,6 +83,5 @@ As an extension activity, ask students to research the shuffle function and the 
 
 [Do Now]:do_now.md
 [Lab - War (Card Game)]:lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
-
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/03_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/03_lesson/lab.docx

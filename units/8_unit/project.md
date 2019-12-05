@@ -1,5 +1,8 @@
 # Project- Final Project
 
+* [printable project spec]
+* [editable project spec]
+
 Students will design, plan, and implement a medium- to large-scale final project of their own choosing.
 
 ## Overview
@@ -43,12 +46,12 @@ For both the complexity and creativity requirements, you should talk to the inst
 
 As with all previous projects, your program must be well-written, well-documented, and readable.  Writing code with good style is always a good idea, but in a project of this size and scope, following style guidelines will help you keep your thoughts organized and make it easier to keep track of your progress, pick up where you left off each day, and find and fix bugs.  In particular, though this is certainly not a comprehensive list, pay attention to the following:
 
-- organizing your functions/code so that they can be read and comprehended easily
-- giving your functions, variables, lists, and dictionaries descriptive and meaningful names
-- using the right data type (string, int, bool, float, dictionary, class) for each situation
-- include comments to describe the structure of your program and track your progress
-- avoiding redundancy with good use of loops, functions, and/or lists, and/or dictionaries, and/or classes
-- practicing good procedural decomposition and abstraction
+* organizing your functions/code so that they can be read and comprehended easily
+* giving your functions, variables, lists, and dictionaries descriptive and meaningful names
+* using the right data type (string, int, bool, float, dictionary, class) for each situation
+* include comments to describe the structure of your program and track your progress
+* avoiding redundancy with good use of loops, functions, and/or lists, and/or dictionaries, and/or classes
+* practicing good procedural decomposition and abstraction
 
 #### Required Python Elements
 
@@ -58,8 +61,8 @@ In order to show that you have fully mastered all the skills from the course, yo
 2. At least one loop, variable, function, and list, and more as necessary or appropriate
 3. Each of these must be used correctly and meaningfully
 
-    - creating a list that contains  
-    - a single element just to meet this requirement will not earn points
+    * creating a list that contains  
+    * a single element just to meet this requirement will not earn points
 
 4. at least one user interaction
 5. this can be prompting for information using ask, responding to key presses or mouse movements, or any other action that keeps the user involved
@@ -90,3 +93,6 @@ At least three times during the project period, and at least once each week, you
 |Checkpoint 3 | 4 points |
 |_Total_    |_40 points_|
 |**_Total_**|**_80 points_**|
+
+[printable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.pdf
+[editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.docx

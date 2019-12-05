@@ -74,5 +74,5 @@ If students are moving quickly, they could go back and use functions to improve 
   
 [Do Now]:do_now.md
 [Lab - Birthday Song & Random Cards]:lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.docx

@@ -121,5 +121,5 @@ Some students may need reminders about certain music terminology (tempo, measure
 [Do Now]: do_now.md
 [Lab - Intro to EarSketch]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/01_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/01_lesson/lab.docx

@@ -102,5 +102,5 @@ If students are moving quickly, have students practice higher order-of-operation
 
 [Lesson 1.02: Interactive Mode (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-02-interactive-mode)
 
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/02_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/02_lesson/lab.docx

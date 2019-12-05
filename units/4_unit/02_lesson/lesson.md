@@ -77,6 +77,5 @@ Students will be able to...
 
 [Do Now]: do_now.md
 [Lab - Getting Loopy]: lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
-
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/02_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/02_lesson/lab.docx

@@ -82,5 +82,6 @@ If students are moving quickly, it is possible to introduce the concepts of bool
   
 [Do Now]:do_now.md
 [Lab - Casting]:lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/01_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/01_lesson/lab.docx

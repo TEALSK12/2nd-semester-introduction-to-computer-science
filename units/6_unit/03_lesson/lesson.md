@@ -63,6 +63,5 @@ Students that are moving quickly should work on the bonus activity in the lab. T
 
 [Do Now]: do_now.md
 [Lab - Dictionaries Storing Lists]: lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
-
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/03_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/03_lesson/lab.docx

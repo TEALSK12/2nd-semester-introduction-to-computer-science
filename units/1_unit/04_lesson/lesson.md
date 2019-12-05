@@ -136,5 +136,5 @@ Identify students that may potentially struggle on the quiz and find individual 
 
 [Lesson 1.04: Variables Input (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-04-variables-input)
 
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.docx

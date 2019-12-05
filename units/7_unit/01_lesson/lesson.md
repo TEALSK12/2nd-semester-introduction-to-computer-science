@@ -94,6 +94,5 @@ For students that are quickly picking up the concepts, have them create their ow
 [Do Now]:do_now.md
 [Lab - Create a Color Class]:lab.md
 [Example]:example.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
-
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.docx
