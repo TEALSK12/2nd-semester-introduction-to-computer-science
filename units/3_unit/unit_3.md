@@ -1,6 +1,11 @@
 # Unit 3 - Functions
 
-## Big Ideas for this unit
+## Essential Questions
+
+* What are some built in functions in Python?
+* How do you apply printing and returning values in a function?
+* How do you define your own functions in Python?
+* What is the difference between global and local variables?"
 
 ## Pacing Guide
 

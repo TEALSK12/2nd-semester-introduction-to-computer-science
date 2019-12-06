@@ -2,7 +2,7 @@
 
 This unit introduces students to a text based coding IDE, Console and starts to transition them away from a block based language and into Python.
 
-## Big Ideas
+## Essential Questions
 
 * What is Python?
 * What is an IDE?

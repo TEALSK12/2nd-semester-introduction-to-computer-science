@@ -1,6 +1,11 @@
 # Unit 7 - Class, Objects, Methods and Inheritence
 
-## Big Ideas for this unit
+## Essential Questions
+
+* How do use Classes and Objects in Python?
+* What are methods and how are they applied?
+* How do classes communicate with one another?
+* How do you plan out your code when using classes and objects?"
 
 ## Pacing Guide
 

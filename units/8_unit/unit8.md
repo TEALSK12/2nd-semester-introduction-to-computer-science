@@ -1,6 +1,9 @@
 # Unit 8 - Final Project
 
-## Big Ideas for this unit
+## Essential Questions
+
+* How do you design plan and execute a medium to large scale project using Python?
+* How do you write specifications for a medium to large scale project using Python?"
 
 ## Pacing Guide
 

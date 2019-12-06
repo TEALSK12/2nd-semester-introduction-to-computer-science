@@ -1,6 +1,11 @@
 # Unit 2 - Data Types, Arguments, Lists and Loops
 
-## Big Ideas for this unit
+## Essentional Questions
+
+* How do you apply Data Types in Python?
+* How do you apply Arguments in Python?
+* How do you apply lists in Python?
+* How do you apply a While Loops in Python?
 
 ## Pacing Guide
 

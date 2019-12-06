@@ -1,6 +1,11 @@
 # Unit 4 - For Loops and Nesting
 
-## Big Ideas for this unit
+## Essential Questions
+
+* How do you iterate through the items of a  list using a for loop?
+* How do you use a nested for loop to do a stack trace?
+* How do you use for loops to travese a list?
+* How do you debug programs utilizing nested for loops and lists?"
 
 ## Pacing Guide
 

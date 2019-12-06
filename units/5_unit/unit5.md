@@ -1,6 +1,10 @@
 # Unit 5 - Music Programming
 
-## Big Ideas for this unit
+## Essential Questions
+
+* What is Modulo and how can you apply it to a loop in Python?
+* How do you loop through the items in a list?
+
 
 ## Pacing Guide
 
