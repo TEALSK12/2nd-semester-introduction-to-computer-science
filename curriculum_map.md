@@ -1,5 +1,13 @@
 # 2nd Semester Introduction to Computer Science Curriculum Map
 
+## Unit Order Considerations
+
+As you implement this curriculum into your program there are some things to consider in terms of Unit order. Consider the following:
+
+* **Goal:** Preparing students to take Adcanced Placement Computer Science A - It is recommended you the course units in the following order 1, 2, 3, 4, 7, 6, 8, 5(Optional)
+* **Goal:** Preparing students to gain a credential such as the Microsoft Technology Associate (MTA) certificationv- It is recommend you do the units in the following order 1, 2, 3, 4, 6, 7, 8, 5(Optional)
+* **Goal:** Offer this course as a stand along computer science course at your school - It is recommended to the units in the following order - 1, 2, 3, 4, 5, 6, 7, 8
+
 ## Unit 1
 
 | Lesson | Objectives | Lab |
@@ -44,7 +52,7 @@
 | [4.05: Debugging and Quiz] | Read and understand longer programs involving loops. Demonstrate knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. | Debugging Practice |
 | [4.06: Tic-Tac-Toe] | Use project planning skills to complete a larger project. Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game. | Tic-Tac-Toe |
 
-## Unit 5
+## Unit 5 (Optional)
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
