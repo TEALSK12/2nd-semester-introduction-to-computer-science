@@ -46,7 +46,7 @@ Please open an issue in GitHub if you encounter factual, spelling, or grammatica
 
 ## Change Log
 
-Changes to this curriculum will be updated in our [Change Log](Changelog.md)
+Changes to this curriculum will be updated in our [Change Log]
 
 ## Suggestions
 
@@ -60,3 +60,5 @@ However, the "Download" button does not work. There is a workaround depending on
 - Chrome: move your cursor to the top of the document and click on the down arrow when the menu bar drops down
 - Firefox: click on the down arrow to download the PDF
 - All browsers: right click on the document and select "Save As"
+
+[Change Log]: Changelog.md
