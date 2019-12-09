@@ -15,17 +15,41 @@
 
 | Lesson | Days | Resources|
 | ------ | -------------- | ---------|
-| 2.01: | | [2.01 Slide Deck] |
-| 2.02: | | [2.02 Slide Deck] |
-| 2.03: | | [2.03 Slide Deck] |
-| 2.04: | | [2.04 Slide Deck] |
-| 2.05: | | [2.05 Slide Deck] |
-| 2.06: | | [2.06 Slide Deck] |
-| 2.07: | | [2.07 Slide Deck] |
-| **Total Days** |  | |
-| **Total Minutes** | | |
+| 2.01: | 1 | [2.01 Slide Deck] |
+| 2.02: | 1 | [2.02 Slide Deck] |
+| 2.03: | 1 | [2.03 Slide Deck] |
+| 2.04: | 1 | [2.04 Slide Deck] |
+| 2.05: | 1 | [2.05 Slide Deck] |
+| 2.06: | 1 | [2.06 Slide Deck] |
+| 2.07: | 9 | [2.07 Slide Deck] |
+| **Total Days** | 15  | |
+| **Total Minutes** | 750 | |
 
 ## Key Terms
+
+* type
+* string
+* casting
+* Float
+* Integer
+* Boolean
+* Expression
+* Composition
+* True
+* False
+* If
+* Else
+* Elif
+* Conditionals
+* Flow of control
+* List
+* Item
+* Index
+* Slice
+* Append
+* Pop
+* Remove
+* While Loop
 
 [2.01 Slide Deck]:
 [2.02 Slide Deck]:

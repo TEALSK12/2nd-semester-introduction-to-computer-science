@@ -1,4 +1,4 @@
-# Unit 7 - Class, Objects, Methods and Inheritence
+# Unit 7 - Introduction to Object Oriented Programming
 
 ## Essential Questions
 
@@ -15,15 +15,30 @@
 
 | Lesson | Days | Resources|
 | ------ | -------------- | ---------|
-| 7.01: | | [7.01 Slide Deck] |
-| 7.02: | | [7.02 Slide Deck] |
-| 7.03: | | [7.03 Slide Deck] |
-| 7.04: | | [7.04 Slide Deck] |
-| 7.05: | | [7.05 Slide Deck] |
-| **Total Days** |  | |
-| **Total Minutes** | | |
+| 7.01: | 1 | [7.01 Slide Deck] |
+| 7.02: | 1 | [7.02 Slide Deck] |
+| 7.03: | 1 | [7.03 Slide Deck] |
+| 7.04: | 1 | [7.04 Slide Deck] |
+| 7.05: | 7 | [7.05 Slide Deck] |
+| **Total Days** | 11 | |
+| **Total Minutes** | 550 | |
 
 ## Key Terms
+
+* Class
+* Instance
+* Object
+* Attributes
+* Self
+* _Init_
+* Method
+* _str_
+* _Add_
+* Operating overloading
+* Inheritance
+* Parent Class
+* Child Class
+* Class Design
 
 [7.01 Slide Deck]:
 [7.02 Slide Deck]:

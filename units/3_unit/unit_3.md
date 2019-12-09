@@ -15,16 +15,29 @@
 
 | Lesson | Days | Resources|
 | ------ | -------------- | ---------|
-| 3.01: | | [3.01 Slide Deck] |
-| 3.02: | | [3.02 Slide Deck] |
-| 3.03: | | [3.03 Slide Deck] |
-| 3.04: | | [3.04 Slide Deck] |
-| 3.05: | | [3.05 Slide Deck] |
-| 3.06: | | [3.06 Slide Deck] |
-| **Total Days** |  | |
-| **Total Minutes** | | |
+| 3.01: | 1 | [3.01 Slide Deck] |
+| 3.02: | 2 | [3.02 Slide Deck] |
+| 3.03: | 1 | [3.03 Slide Deck] |
+| 3.04: | 1 | [3.04 Slide Deck] |
+| 3.05: | 9 | [3.05 Slide Deck] |
+| **Total Days** | 14 | |
+| **Total Minutes** | 700 | |
 
 ## Key Terms
+
+* Function
+* Arguments
+* Calling Functions
+* Importing
+* Returning
+* Abstraction
+* Def
+* Return
+* None
+* Void
+* Scope
+* aliasing
+* stack trace
 
 [3.01 Slide Deck]:
 [3.02 Slide Deck]:

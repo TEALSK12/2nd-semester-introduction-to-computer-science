@@ -15,15 +15,25 @@
 
 | Lesson | Days | Resources|
 | ------ | -------------- | ---------|
-| 4.01: | | [4.01 Slide Deck] |
-| 4.02: | | [4.02 Slide Deck] |
-| 4.03: | | [4.03 Slide Deck] |
-| 4.04: | | [4.04 Slide Deck] |
-| 4.05: | | [4.05 Slide Deck] |
-| **Total Days** |  | |
-| **Total Minutes** | | |
+| 4.01: | 1 | [4.01 Slide Deck] |
+| 4.02: | 1 | [4.02 Slide Deck] |
+| 4.03: | 2 | [4.03 Slide Deck] |
+| 4.04: | 2 | [4.04 Slide Deck] |
+| 4.05: | 1 | [4.05 Slide Deck] |
+| 4.06: | 9 | [4.06 Slide Deck] |
+| **Total Days** | 16 | |
+| **Total Minutes** | 800 | |
 
 ## Key Terms
+
+* For Loop
+* Item
+* Iteration
+* Scope
+* Range
+* Nested For Loops
+* Stack Trace
+* Nested List
 
 [4.01 Slide Deck]:
 [4.02 Slide Deck]:

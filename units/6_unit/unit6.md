@@ -14,16 +14,24 @@
 
 | Lesson | Days | Resources|
 | ------ | -------------- | ---------|
-| 6.01: | | [6.01 Slide Deck] |
-| 6.02: | | [6.02 Slide Deck] |
-| 6.03: | | [6.03 Slide Deck] |
-| 6.04: | | [6.04 Slide Deck] |
-| 6.05: | | [6.05 Slide Deck] |
-| 6.06: | | [6.06 Slide Deck] |
-| **Total Days** |  | |
-| **Total Minutes** | | |
+| 6.01: | 1 | [6.01 Slide Deck] |
+| 6.02: | 1 | [6.02 Slide Deck] |
+| 6.03: | 1 | [6.03 Slide Deck] |
+| 6.04: | 1 | [6.04 Slide Deck] |
+| 6.05: | 7 | [6.05 Slide Deck] |
+| **Total Days** | 11 | |
+| **Total Minutes** | 550 | |
 
 ## Key Terms
+
+* Dictionary
+* Key
+* Value
+* Pop
+* Default Value
+* Update
+* Append
+* Remove
 
 [6.01 Slide Deck]:
 [6.02 Slide Deck]:
