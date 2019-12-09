@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 
 * [Curriculum Map](curriculum_map.md)
+  * [Additional Topics for Certification](cert.md)
 
 * [Unit 1](units/1_unit/unit_1.md) - Introduction to Python
   * [Lesson 1.01: Set Up](units/1_unit/01_lesson/lesson.md)
