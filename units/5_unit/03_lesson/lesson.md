@@ -62,5 +62,5 @@ Students that are moving quickly can read additional documentation on the EarSke
 [Do Now]: do_now.md
 [Lab - EarSketch Control Flow]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/03_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/03_lesson/lab.docx

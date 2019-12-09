@@ -68,6 +68,5 @@ Students that are moving quickly could explore and create alternative song forms
 [Do Now]: do_now.md
 [Lab - User-Defined Functions]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
-
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/04_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/04_lesson/lab.docx

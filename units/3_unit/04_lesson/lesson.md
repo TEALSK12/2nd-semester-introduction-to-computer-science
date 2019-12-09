@@ -101,5 +101,5 @@ If students are moving quickly, they can look ahead at the project spec or resea
 
 [Do Now]:do_now.md
 [Lab - Aliasing & Scope]:lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/04_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/04_lesson/lab.docx

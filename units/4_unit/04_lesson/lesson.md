@@ -105,5 +105,5 @@ Students may struggle with the concept of nested lists. Be prepared to have addi
 [Do Now]: do_now.md
 [Lab - Daily Schedule]: lab.md
 [loop diagram]: http://etutorials.org/shared/images/tutorials/tutorial_169/F05um02.jpg
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/04_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/04_lesson/lab.docx

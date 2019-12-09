@@ -12,10 +12,20 @@ Students will be able to...
 
 * [Do Now]
 * [Lab - Game Show] ([printable lab document]) ([editable lab document])
-
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Associated Readings 2.3](https://tealsk12.gitbook.io/intro-cs-2/readings#2-3)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+* **Microsoft Learn - Conditionals Video**
+
+  [![Conditionals Video](https://img.youtube.com/vi/5pPKYWqkoek/0.jpg)](https://www.youtube.com/watch?v=5pPKYWqkoek)
+
+* **Microsoft Learn - Handling Multiple Conditionals Video**
+
+  [![Multiple Conditionals Video](https://img.youtube.com/vi/oYaGJBMoXok/0.jpg)](https://www.youtube.com/watch?v=oYaGJBMoXok)
+
+* **Microsoft Learn - Complex Conditions Video**
+
+  [![Multiple Conditionals Video](https://img.youtube.com/vi/IBOHc87yFYw/0.jpg)](https://www.youtube.com/watch?v=IBOHc87yFYw)
 
 ## Pacing Guide
 
@@ -100,5 +110,6 @@ If students are moving quickly, this lesson can move onto lists.
 [Do Now]:do_now.md
 [Lab - Game Show]:lab.md
 [TEALS Dashboard]:http://www.tealsk12.org/dashboard
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/03_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/03_lesson/lab.docx

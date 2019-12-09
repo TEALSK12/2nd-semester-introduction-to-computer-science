@@ -73,5 +73,5 @@ There is also an opportunity for a quiz after the game loop lesson and before th
   
 [Do Now]:do_now.md
 [Lab - Tic-Tac-Toe]:lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.docx

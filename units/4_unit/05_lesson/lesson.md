@@ -59,6 +59,5 @@ Make sure to provide extended time on the quiz for any students that have that r
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [Lab - Debugging Practice]: lab.md
 [Coding Example]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/4_unit/05_lesson/longer_coding_sample.py
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
-
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.docx

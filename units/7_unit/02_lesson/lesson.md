@@ -71,6 +71,6 @@ As with the previous lesson, be prepared for some students to struggle with the 
   
 [Do Now]:do_now.md
 [Lab - Pet Class]:lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
 
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/02_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/02_lesson/lab.docx

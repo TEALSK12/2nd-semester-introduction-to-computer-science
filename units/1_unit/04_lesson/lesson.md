@@ -15,6 +15,9 @@ Students will be able to...
 
 * [Associated Readings 1.3](https://tealsk12.gitbook.io/intro-cs-2/readings#1-3)
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students
+* **Microsoft Learn - Comments**
+
+  [![Comments Video](https://img.youtube.com/vi/kEuVvUc1Zec/0.jpg)](https://youtu.be/kEuVvUc1Zec)
 
 ## Pacing Guide
 
@@ -136,5 +139,6 @@ Identify students that may potentially struggle on the quiz and find individual 
 
 [Lesson 1.04: Variables Input (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-04-variables-input)
 
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.docx
+[Comments Video]: https://youtu.be/kEuVvUc1Zec

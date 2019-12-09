@@ -90,5 +90,5 @@ Students will be able to...
 
 [Do Now]: do_now.md
 [Lab - Dictionary of Internet Abbreviations]: lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/01_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/01_lesson/lab.docx

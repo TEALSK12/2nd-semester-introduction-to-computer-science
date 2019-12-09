@@ -93,7 +93,7 @@ Students will be able to...
 
 [Guess Who]:https://en.wikipedia.org/wiki/Guess_Who%3F
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
-[printable project Spec]: project.pdf
-[editable project spec]: project.docx
-[printable projectb Spec]: projectb.pdf
-[editable projectb spec]: projectb.docx
+[printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project.pdf
+[editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project.docx
+[printable projectb Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.pdf
+[editable projectb spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.docx

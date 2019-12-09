@@ -69,5 +69,5 @@ If there is extra time, have students start reading through the project specs an
   
 [Do Now]:do_now.md
 [Lab - Tic-Tac-Toe Revisited]:lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.docx

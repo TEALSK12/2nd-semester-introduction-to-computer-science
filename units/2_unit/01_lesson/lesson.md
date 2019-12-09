@@ -15,6 +15,13 @@ Students will be able to...
 
 * [Associated Readings 2.1](https://tealsk12.gitbook.io/intro-cs-2/readings#2-1)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+* **Microsoft Learn - String Concepts Data Types Video**
+
+  [![Data Types Video](https://img.youtube.com/vi/tSebLz1hNpA/0.jpg)](https://youtu.be/tSebLz1hNpA)
+
+* **Microsoft Learn - Numerical Data Types Video**
+
+  [![Data Types Video](https://img.youtube.com/vi/5yhn0MFLcu8/0.jpg)](https://youtu.be/5yhn0MFLcu8)
 
 ## Pacing Guide
 
@@ -82,5 +89,6 @@ If students are moving quickly, it is possible to introduce the concepts of bool
   
 [Do Now]:do_now.md
 [Lab - Casting]:lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/01_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/01_lesson/lab.docx

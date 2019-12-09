@@ -89,5 +89,5 @@ If students are moving quickly, use this opportunity to go over truth tables (or
 
 [Do Now]:do_now.md
 [Lab - Can I or Can't I?]:lab.md
-[printable lab document]: lab.pdf
-[editable lab document]: lab.docx
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/02_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/02_lesson/lab.docx

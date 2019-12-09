@@ -1,5 +1,13 @@
 # 2nd Semester Introduction to Computer Science Curriculum Map
 
+## Unit Order Considerations
+
+As you implement this curriculum into your program, there are some things to consider when deciding what units best fits progam goals.
+
+* **Preparing students to take [Advanced Placement Computer Science A]** - It is recommended completing the units in the following order 1, 2, 3, 4, 7, 6, 8, 5(Optional)
+* **Preparing students to gain a credential such as the [Microsoft Technology Associate (MTA) certification]** - It is recommended completing the course units in the following order 1, 2, 3, 4, [Additional Topics]. 5(Optional)
+* **Offering this course as a stand alone computer science course** - It is recommended completing the course units in the following order - 1, 2, 3, 4, 5, 6, 7, 8
+
 ## Unit 1
 
 | Lesson | Objectives | Lab |
@@ -44,7 +52,7 @@
 | [4.05: Debugging and Quiz] | Read and understand longer programs involving loops. Demonstrate knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. | Debugging Practice |
 | [4.06: Tic-Tac-Toe] | Use project planning skills to complete a larger project. Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game. | Tic-Tac-Toe |
 
-## Unit 5
+## Unit 5 (Optional)
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -142,3 +150,6 @@
 
 [Supplemental Culture Day Lessons]: supplemental/
 [01: Binary Day]: units/supplemental/01_lesson/lesson.md
+[Additional Topics]: cert.md
+[Microsoft Technology Associate (MTA) certification]: https://www.microsoft.com/en-us/learning/exam-98-381.aspx
+[Advanced Placement Computer Science A]: https://tealsk12.gitbook.io/apcsa/
