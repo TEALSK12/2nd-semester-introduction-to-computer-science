@@ -40,10 +40,8 @@
 * Child Class
 * Class Design
 
-[7.01 Slide Deck]:
-[7.02 Slide Deck]:
-[7.03 Slide Deck]:
-[7.04 Slide Deck]:
-[7.05 Slide Deck]:
-[7.06 Slide Deck]:
-[7.07 Slide Deck]:
+[7.01 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.01%20TEALS.pptx
+[7.02 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.02%20TEALS.pptx
+[7.03 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.03%20TEALS.pptx
+[7.04 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.04%20TEALS.pptx
+[7.05 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.05%20TEALS.pptx
