@@ -15,6 +15,9 @@ Students will be able to...
 * [Lab - Magic 8-Ball] ([printable lab document]) ([editable lab document])
 * Associated Reading - section 3.1 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
+* **Microsoft Learn - Parameterized Functions Video**
+  
+  [![Functions Video](https://img.youtube.com/vi/sKW-zdYZNX4/0.jpg)](https://www.youtube.com/watch?v=sKW-zdYZNX4)
 
 ## Pacing Guide
 
