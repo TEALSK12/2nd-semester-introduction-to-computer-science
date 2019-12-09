@@ -1,4 +1,6 @@
-# Unit 5 - Music Programming
+# Unit 5 - Music Programming (Optional Unit)
+
+This unit is a tremendous unit to learn how to use Python to code Music. If this is a stand alone computer science course, it is a great way to expose students to a great example of the power of Python. If you are preparing your students for the AP Computer Science A course and/or a certification, we recommend prioritizing units 6 and 7 and coming back to unit 5 if there is time at the end of the semester.
 
 ## Essential Questions
 
