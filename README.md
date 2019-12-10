@@ -56,4 +56,4 @@ If you'd like to suggest changes or additions to the curriculum, please submit a
 
 The 2nd Semester Introduction to Computer Science GitBook can be printed by navigating to [PDF Version](https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/intro-cs-2/#).
 
-[Change Log]: Changelog.md
+[Change Log]: changelog.md
