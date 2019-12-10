@@ -14,7 +14,7 @@
   * [Lesson 1.03: Script Mode and Variables](units/1_unit/03_lesson/lesson.md)
     * [Do Now 1.03](units/1_unit/03_lesson/do_now.md)
     * [Lab 1.03](units/1_unit/03_lesson/lab.md)
-  * [Lesson 1.04: Variables Input](units/1_unit/04_lesson/lesson.md)
+  * [Lesson 1.04: # Lesson Plan 1.04: Variables and User Input](units/1_unit/04_lesson/lesson.md)
     * [Do Now 1.04](units/1_unit/04_lesson/do_now.md)
     * [Lab 1.04](units/1_unit/04_lesson/lab.md)
   * [Lesson 1.05: Quiz & Debugging](units/1_unit/05_lesson/lesson.md)
