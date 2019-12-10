@@ -4,14 +4,14 @@
 
 Students will be able to...
 
-* Define and identify: **comments**, **storing**, **mutability**, **variable assignment**,** input**
+* Define and identify: **comments,  storing, mutability, variable assignment, input**
 * Assign and swap variables
 * Store user input into a variable
 
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Magic Genie]([printable lab document]) ([editable lab document])
+* [Lab - Magic Genie]([printable lab document])([editable lab document])
 
 * [Associated Readings 1.3](https://tealsk12.gitbook.io/intro-cs-2/readings#1-3)
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students
