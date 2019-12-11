@@ -21,18 +21,27 @@ Mad Libs are a fun way to tell a story. The story is pre-written except for a fe
 
 * The program should then prompt the user to enter in nouns, verbs, adjectives, proper nouns, and adverbs
 
-  ![Example running](mad_libs_screen_shot.png)
+    ```python
+    Day in New York City: A Mad Lib
+    Instructions. The program will prompt for a type of word to enter. After all words are entered the program will print a story
+    Enter a proper noun: Ariana Grande
+    Enter a place: The Standard
+    Enter another place: Duane Reade
+    Enter an adverb: quickly
+    Enter a noun: donut
+    Enter an adjective: slimy
+    Enter an adverb: foolishly
+    Enter a verb: prance
+    Enter a place: Times Square
+    Enter an adjective: beautiful
+    It was a beautiful day in New York City Our hero Ariana Grande was on a walk from the Standard Duane Reade.Ariana rather than quickly because he/she lived in New York for a few months. Suddenly a slimy donut appeared out of nowhere!!!
+
+    ```
 
 * After all the words have been entered. The program will print out the story.  You will need to create a story of your own choosing.  Keep it clean and fun.  Here is an example of a day in New York City.
 
     ```python
-    A Day in NYC: It was a beautiful day in New York City.
-    Our hero Ariana Grande was on a walk from the Standard to Duane Reade.
-    Ariana Grande was walking rather quickly because he/she had lived in New York for a few months.
-    All of a sudden a slimey donut appeared out of nowhere!!!
-    Ariana Grande decided to prance foolishly instead of dealing with the situation.
-    Thrown off from Duane Reade, Ariana Grande decides to go to Times Square instead.
-    What a beautiful day in New York.
+    A Day in NYC: It was a beautiful day in New York City. Our hero Ariana Grande was on a walk from the Standard to Duane Reade. Ariana Grande was walking rather quickly because he/she had lived in New York for a few months. Suddenly, a slimy donut appeared out of nowhere!!! Ariana Grande decided to prance foolishly instead of dealing with the situation. Thrown off from Duane Reade, Ariana Grande decides to go to Times Square instead. What a beautiful day in New York.
     ```
 
 ### Implementation Details
