@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 
 * [Curriculum Map](curriculum_map.md)
+  * [Additional Topics for Certification](cert.md)
 
 * [Unit 1](units/1_unit/unit_1.md) - Introduction to Python
   * [Lesson 1.01: Set Up](units/1_unit/01_lesson/lesson.md)
@@ -13,13 +14,12 @@
   * [Lesson 1.03: Script Mode and Variables](units/1_unit/03_lesson/lesson.md)
     * [Do Now 1.03](units/1_unit/03_lesson/do_now.md)
     * [Lab 1.03](units/1_unit/03_lesson/lab.md)
-  * [Lesson 1.04: Variables Input](units/1_unit/04_lesson/lesson.md)
+  * [Lesson 1.04: # Lesson Plan 1.04: Variables and User Input](units/1_unit/04_lesson/lesson.md)
     * [Do Now 1.04](units/1_unit/04_lesson/do_now.md)
     * [Lab 1.04](units/1_unit/04_lesson/lab.md)
-   [Lesson 1.05: Quiz & Debugging](units/1_unit/05_lesson/lesson.md)
+  * [Lesson 1.05: Quiz & Debugging](units/1_unit/05_lesson/lesson.md)
   * [Lesson 1.06: MadLibs](units/1_unit/06_lesson/lesson.md)
     * [Project 1: Mad Libs](units/1_unit/06_lesson/project.md)
-
 * [Unit 2](units/2_unit/unit2_md.md) - Data Types, Booleans, Conditionals and Lists.
   * [Lesson 2.01: Data Types & Casting](units/2_unit/01_lesson/lesson.md)
     * [Do Now 2.01](units/2_unit/01_lesson/do_now.md)

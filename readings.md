@@ -3,7 +3,7 @@
 Adapted from **Think Python - How To Think Like A Computer Scientist** by
 Allen Downey ([HTML Version](http://greenteapress.com/thinkpython/html/index.html))([PDF Version](http://www.greenteapress.com/thinkpython/thinkpython.pdf))
 
-## Unit 1
+## Unit 1 - Introduction to Python
 
 ## 1.1
 
@@ -243,7 +243,7 @@ out as a simple program Linus Torvalds used to explore the Intel 80386 chip. Acc
 Greenfield, “One of Linus’s earlier projects was a program that would switch between printing AAAA
 and BBBB. This later evolved to Linux.” (The Linux Users’ Guide Beta Version 1).
 
-## Unit 2
+## Unit 2 - Data Types, Conditionals, Booleans and Lists
 
 ## 2.1
 
@@ -775,7 +775,7 @@ For example, if the starting value is a power of two, then the value of n will b
 through the loop until it reaches 1. The previous example ends with such a sequence, starting with
 16.
 
-## Unit 3
+## Unit 3 - Functions
 
 ## 3.1
 
@@ -1461,7 +1461,7 @@ This function leaves the original list unmodified. Here’s how it is used:
 ['b', 'c']
 ```
 
-## Unit 4
+## Unit 4 - Nested Loops and Lists
 
 ## 4.1
 
@@ -1690,11 +1690,9 @@ the values of i and j indicate characters in word1 and word2.
 Starting with this diagram, execute the program on paper, changing the values of i and j during each
 iteration. Find and fix the second error in this function.
 
-## Unit 6
+## Unit 6 - Dictionaries
 
 ## 6.1
-
-### Dictionaries
 
 A dictionary is like a list, but more general. In a list, the indices have to be integers; in a
 dictionary they can be (almost) any type.
@@ -1952,7 +1950,7 @@ Again, the keys are in no particular order.
 Dictionaries have a method called keys that returns the keys of the dictionary, in no particular
 order, as a list.
 
-## Unit 7
+## Unit 7 - Introduction to Object Oriented Programming
 
 ## 7.1
 

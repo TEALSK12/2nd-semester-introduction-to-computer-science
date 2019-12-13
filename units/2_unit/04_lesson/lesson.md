@@ -13,7 +13,6 @@ Students will be able to...
 
 * [Do Now]
 * [Lab - College Chooser]([printable lab document]) ([editable lab document])
-
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Associated Readings 2.4](https://tealsk12.gitbook.io/intro-cs-2/readings#2-4)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
@@ -41,9 +40,6 @@ Students will be able to...
 * A **list** is a sequence of values. In a list, they can be any type. The values in a list are called elements or **items**.
 * In Python, to create a list you must enclose items in square brackets.
 * Emphasize that you can have lists of any type (int, float, string, etc). You can even have lists within lists (more on that later...)
-* Remind students of lists in Snap!
-
-    ![lists in snap](http://bjc.edc.org/bjc-r/img/3-lists/wordlists.png)
 
 #### Discussion
 
@@ -55,9 +51,6 @@ Students will be able to...
 * **index**: a map from the position in the list to the element stored there.
 * **0-index**: lists are 0 indexed. So the first element in the list is at the 0-index
 * **Out-of-bounds**: what happened when you tried to index into a list that was too long?
-* **Snap Equivalent**:
-
-  ![snap indexing](http://bjc.edc.org/bjc-r/img/3-lists/gs5how_many.png)
 
 #### More Discussion
 

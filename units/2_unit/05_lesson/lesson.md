@@ -11,8 +11,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Tic-Tac-Toe]([printable lab document]) ([editable lab document])
-
+* [Lab - Tic-Tac-Toe] ([printable lab document]) ([editable lab document])
 * [Associated Readings 2.5](https://tealsk12.gitbook.io/intro-cs-2/readings#2-5)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
