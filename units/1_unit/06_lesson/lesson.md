@@ -7,7 +7,7 @@
 
 ## Materials/Preparation
 
-* [Project Spec - Mad Libs] ([printable project Spec]) ([editable project spec])
+* [Project Spec - Mad Libs] ([Printable Project Spec]) ([Editable Project Spec])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Practice running the example code
 * Read through the project specifications so that you can completely communicate the requirements of the project
@@ -15,16 +15,16 @@
 
 ## Day 1 Pacing
 
-| **Duration**   |     **Description**    |
-| ---------- | ------------------ |
-| 5 Minutes  | Quiz Debrief        |
-| 10 Minutes | Project Overview   |
-| 40 Minutes | Project Work       |
+| **Duration** | **Description** |
+| ------------ | --------------- |
+| 5 Minutes | Quiz Debrief |
+| 10 Minutes | Project Overview |
+| 40 Minutes | Project Work |
 
 ## Day 2 Pacing
 
-| **Duration** |    **Description**         |
-|--|--|
+| **Duration** | **Description** |
+|------------- | ------------------- |
 | 45 Minutes | Project Work       |
 | 10 Minutes | Wrap Up - Student Demos          |
 
