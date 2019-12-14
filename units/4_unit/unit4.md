@@ -15,10 +15,10 @@
 
 | Lesson | Days | Resources |
 | ------ | ---- | ----------|
-| 4.01: | 1 | [4.01 Slide Deck] |
-| 4.02: | 1 | [4.02 Slide Deck] |
-| 4.03: | 2 | [4.03 Slide Deck] |
-| 4.04: | 2 | [4.04 Slide Deck] |
+| 4.01 | 1 | [4.01 Slide Deck] |
+| 4.02 | 1 | [4.02 Slide Deck] |
+| 4.03 | 2 | [4.03 Slide Deck] |
+| 4.04 | 2 | [4.04 Slide Deck] |
 | 4.05: | 1 | [4.05 Slide Deck] |
 | 4.06: | 9 | [4.06 Slide Deck] |
 | **Total Days** | 16 | |
