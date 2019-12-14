@@ -46,11 +46,11 @@ Please open an issue in GitHub if you encounter factual, spelling, or grammatica
 
 ## Change Log
 
-Changes to this curriculum will be updated in our [Change Log]
+Changes to this curriculum will be updated in our [Change Log].
 
-## Suggestions
+## Giving feedback on the curriculum
 
-If you'd like to suggest changes or additions to the curriculum, please submit a Github Pull Request containing your changes. As a best practice, each pull request should contain a singular atomic change.
+TEALS intends for this curriculum to be a starting point for teachers. We'll continueto evolve, adapt the curriculum and associated materials. To participate in this process, we invite TEALS volunteers and classroom teachers using this curriculum to submit edits and suggestions via the discussion forum on the TEALS dashboard or in this Github repository issues [page](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science). If you'd like to suggest changes or additions to the curriculum, please submit a Github Pull Request containing your changes. As a best practice, each pull request should contain a singular atomic change.
 
 ## Printing GitBook
 
