@@ -4,13 +4,13 @@ Using variables, functions, and conditionals in Python, students will create an 
 
 ## Overview
 
-We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (2000 miles) by Dec 31st. However, the trail is arduous. Each day costs you food and health. You can hunt and rest, but you have to get there before winter!
+We will be recreating Oregon Trail! The goal is to travel from Independence, Missori to Oregon City, Oregon (2000 miles) by Dec 31st. However, the trail is arduous. Each day costs you food and health. You can hunt and rest, but you have to get there before winter!
 
 ## Details
 
 ### Behavior
 
-* Player starts in NYC on 03/01 with 2,000 miles to go, 500lbs of food, and 5 health.
+* Player starts in Independence, MO on 03/01 with 2,000 miles to go, 500lbs of food, and 5 health.
 * The player must get to Oregon by 12/31
 * At the beginning of the game, user is asked their name.
 * Each turn, the player is asked what action they choose, where the player can type in the following: `travel`, `rest`, `hunt`, `status`, `help`, `quit`
@@ -33,25 +33,7 @@ We will be recreating Oregon Trail! The goal is to travel from NYC to Oregon (20
 
 ## Grading
 
-### Scheme/Rubric
-
-| **Functional Correctness(Behavior)**                                |  |
-| --------------------------------------------------------------- |-----|
-| `travel`, `rest`, `hunt`                                        | 15  |
-| `status`, `help`, and `quit`                                    | 5  |
-| Game ends if food runs out, days run out, or health runs out    | 10  |
-| Days roll over correctly                                    | 10  |
-| Food decreases every day                                        | 5  |
-| Health decreases randomly                              | 5   |
-| **Sub total**                                                   | 50  |
-| **Technical Correctness**                                    |     |
-| Correctly use functions and contracts                           | 20  |
-| Correctly use imported random function                          | 5  |
-| Correctly use global variables                                  | 5  |
-| Correctly use and update variables                              | 5  |
-| Correctly add_days and select_action functions                  | 15  |
-| **Sub total**                                                   | 50  |
-| **Total**                                                       | 100 |
+### Grading Rubric
 
 ## Bonus
 

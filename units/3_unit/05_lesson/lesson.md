@@ -66,6 +66,14 @@ Students will be able to...
 * especially for students who you think may struggle with this project.
 * Provide more guidance and scaffolding to those students that need it.
 
+## Grading Rubric
+
+Feel free to update this rubric to fit with the students and class weighting.
+
+* [Grading rubric]
+* [Editable version (docx)]
+* [Printable version (pdf)]
+
 ## Forum discussion
 
 [Lesson 3.05: Oregon Trail (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-05-oregon-trail)
@@ -77,3 +85,6 @@ Students will be able to...
 
 [printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.pdf
 [editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.docx
+[editable version (docx)]:rubric.docs
+[printable version (pdf)]: rubric.pdf
+[grading rubric]: rubric.md

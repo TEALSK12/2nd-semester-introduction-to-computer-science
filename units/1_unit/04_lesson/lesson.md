@@ -11,7 +11,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - Magic Genie]([printable lab document])([editable lab document])
+* [Lab - Magic Genie] ([printable lab document]) ([editable lab document])
 
 * [Associated Readings 1.3](https://tealsk12.gitbook.io/intro-cs-2/readings#1-3)
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students
