@@ -16,7 +16,7 @@ This unit introduces students to a text based coding IDE, Console and starts to 
 
 1 Day = 50 minute class period
 
-| Lesson | Days | Slide Decks (In development)|
+| Lesson | Days | Slide Decks |
 | ------ | -------------- | ---------|
 | 1.01: Set Up | 1 | [1.01 Slide Deck] |
 | 1.02: Interactive Mode | 1 | [1.02 Slide Deck] |
