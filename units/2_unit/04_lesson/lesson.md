@@ -12,19 +12,23 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Lab - College Chooser]([printable lab document]) ([editable lab document])
+* [Lab - College Chooser] ([printable lab document]) ([editable lab document])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Associated Readings 2.4](https://tealsk12.gitbook.io/intro-cs-2/readings#2-4)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
+### **Video Explanation of Lists**
+
+  [![Video Explanation of Lists](https://img.youtube.com/vi/wO6lG82RbhM/0.jpg)](https://youtu.be/wO6lG82RbhM?t=67)
+
 ## Pacing Guide
 
-| **Duration**   | **Description** |
-| ---------- | ----------- |
-| 5 Minutes  | Do Now      |
-| 10 Minutes | Lesson      |
-| 35 Minutes | Lab         |
-| 5 Minutes | Debrief  |
+| **Duration** | **Description** |
+| ------------ | --------------- |
+| 5 Minutes  | Do Now |
+| 10 Minutes | Lesson |
+| 35 Minutes | Lab |
+| 5 Minutes | Debrief |
 
 ## Instructor's Notes
 
@@ -60,9 +64,6 @@ Students will be able to...
 #### Demonstration
 
 * After accessing any list element you can change it. Take a moment to demonstrate this syntax before starting the lab.
-* Video Explanation of Lists
-
-  [![Video Explanation of Lists](https://img.youtube.com/vi/wO6lG82RbhM/0.jpg)](https://youtu.be/wO6lG82RbhM?t=67)
 
 ### 3. Lab
 
@@ -82,8 +83,8 @@ If students are moving quickly, you can introduce the topic of nested lists. Sta
 
 [Lesson 2.04: Lists (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-04-lists)
   
-[Do Now]:do_now.md
-[Lab - College Chooser]:lab.md
-[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
+[Do Now]: do_now.md
+[Lab - College Chooser]: lab.md
+[TEALS Dashboard]: http:/www.tealsk12.org/dashboard
 [printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/04_lesson/lab.pdf
 [editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/04_lesson/lab.docx

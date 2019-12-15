@@ -5,7 +5,7 @@
 * [Curriculum Map](curriculum_map.md)
   * [Additional Topics for Certification](cert.md)
 
-* [Unit 1](units/1_unit/unit_1.md) - Introduction to Python
+* [Unit 1: Introduction to Python](units/1_unit/unit_1.md)
   * [Lesson 1.01: Set Up](units/1_unit/01_lesson/lesson.md)
     * [IDE Sign Up: Student Version](units/1_unit/01_lesson/python_replit_sign_up.md)
     * [IDE Sign Up: Teacher's Version](units/1_unit/01_lesson/python_replit_sign_up_teacher.md)
@@ -14,13 +14,13 @@
   * [Lesson 1.03: Script Mode and Variables](units/1_unit/03_lesson/lesson.md)
     * [Do Now 1.03](units/1_unit/03_lesson/do_now.md)
     * [Lab 1.03](units/1_unit/03_lesson/lab.md)
-  * [Lesson 1.04: # Lesson Plan 1.04: Variables and User Input](units/1_unit/04_lesson/lesson.md)
+  * [Lesson 1.04: Variables and User Input](units/1_unit/04_lesson/lesson.md)
     * [Do Now 1.04](units/1_unit/04_lesson/do_now.md)
     * [Lab 1.04](units/1_unit/04_lesson/lab.md)
   * [Lesson 1.05: Quiz & Debugging](units/1_unit/05_lesson/lesson.md)
   * [Lesson 1.06: MadLibs](units/1_unit/06_lesson/lesson.md)
     * [Project 1: Mad Libs](units/1_unit/06_lesson/project.md)
-* [Unit 2](units/2_unit/unit2_md.md) - Data Types, Booleans, Conditionals and Lists.
+* [Unit 2: Conditionals](units/2_unit/unit2_md.md)
   * [Lesson 2.01: Data Types & Casting](units/2_unit/01_lesson/lesson.md)
     * [Do Now 2.01](units/2_unit/01_lesson/do_now.md)
     * [Lab 2.01](units/2_unit/01_lesson/lab.md)
@@ -42,7 +42,7 @@
   * [Lesson 2.07: Text Game](units/2_unit/07_lesson/lesson.md)
     * [Project 2: Text Monster](units/2_unit/07_lesson/project.md)
 
-* [Unit 3](units/3_unit/unit_3.md) - Functions, Debugging and Scope
+* [Unit 3: Functions](units/3_unit/unit_3.md)
   * [Lesson 3.01: Built In Functions](units/3_unit/01_lesson/lesson.md)
     * [Do Now 3.01](units/3_unit/01_lesson/do_now.md)
     * [Lab 3.01](units/3_unit/01_lesson/lab.md)
@@ -58,7 +58,7 @@
   * [Lesson 3.05: Oregon Trail](units/3_unit/05_lesson/lesson.md)
     * [Project 3: Oregon Trail](units/3_unit/05_lesson/project.md)
 
-* [Unit 4](units/4_unit/unit4.md) - Loops and Lists
+* [Unit 4: Loops and Lists](units/4_unit/unit4.md)
   * [Lesson 4.01: Looping Basics](units/4_unit/01_lesson/lesson.md)
     * [Do Now 4.01](units/4_unit/01_lesson/do_now.md)
     * [Lab 4.01](units/4_unit/01_lesson/lab.md)
@@ -76,7 +76,7 @@
   * [Lesson 4.06: Tic-Tac-Toe](units/4_unit/06_lesson/lesson.md)
     * [Project 4: Tic-Tac-Toe](units/4_unit/06_lesson/project.md)
 
-* [Unit 5](units/5_unit/unit5.md) - Music Programming
+* [Unit 5: Music Programming](units/5_unit/unit5.md)
   * [Lesson 5.01: Earsketch Intro](units/5_unit/01_lesson/lesson.md)
     * [Do Now 5.01](units/5_unit/01_lesson/do_now.md)
     * [Lab 5.01](units/5_unit/01_lesson/lab.md)
@@ -93,7 +93,7 @@
     * [Do Now 5.05](units/5_unit/05_lesson/do_now.md)
     * [Project 5: EarSketch Song](units/5_unit/05_lesson/project.md)
 
-* [Unit 6](units/6_unit/unit6.md) - Dictionaries
+* [Unit 6: Dictionaries](units/6_unit/unit6.md)
   * [Lesson 6.01: Introduction to Dictionaries](units/6_unit/01_lesson/lesson.md)
     * [Do Now 6.01](units/6_unit/01_lesson/do_now.md)
     * [Lab 6.01](units/6_unit/01_lesson/lab.md)
@@ -111,7 +111,7 @@
     * [Project 6: Guess Who](units/6_unit/05_lesson/project.md)
     * [Project 6b: Buy an Umbrella](units/6_unit/05_lesson/projectb.md)
 
-* [Unit 7](units/7_unit/unit7.md) - Introduction to Object Oriented Programing
+* [Unit 7: Introduction to Object Oriented Programing](units/7_unit/unit7.md)
   * [Lesson 7.01: User-Defined Types (Classes)](units/7_unit/01_lesson/lesson.md)
     * [Do Now 7.01](units/7_unit/01_lesson/do_now.md)
     * [Example](units/7_unit/01_lesson/example.md)
@@ -128,7 +128,7 @@
   * [Lesson 7.05: Pokemon](units/7_unit/05_lesson/lesson.md)
     * [Project 7: Pokemon](units/7_unit/05_lesson/project.md)
 
-* [Unit 8](units/8_unit/unit8.md) - Final Project
+* [Unit 8: Final Project](units/8_unit/unit8.md)
   * [Project 8: Final Project](units/8_unit/project.md)
   * [Lesson 8.01: Final Project Brainstorming and Evaluating](units/8_unit/01_lesson/lesson.md)
     * [Do Now 8.01](units/8_unit/01_lesson/do_now.md)
