@@ -46,7 +46,7 @@ Please open an issue in GitHub if you encounter factual, spelling, or grammatica
 
 ## Change Log
 
-Changes to this curriculum will be updated in our [Change Log].
+Changes to this curriculum will be updated in our [Change Log](changelog.md).
 
 ## Giving feedback on the curriculum
 
@@ -55,5 +55,3 @@ TEALS intends for this curriculum to be a starting point for teachers. We'll con
 ## Printing GitBook
 
 The 2nd Semester Introduction to Computer Science GitBook can be printed by navigating to [PDF Version](https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/intro-cs-2/#).
-
-[Change Log]: changelog.md
