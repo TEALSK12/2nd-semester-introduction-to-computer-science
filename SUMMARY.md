@@ -1,7 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-
+  * [Change Log](changelog.md)
+  
 * [Curriculum Map](curriculum_map.md)
   * [Additional Topics for Certification](cert.md)
 
