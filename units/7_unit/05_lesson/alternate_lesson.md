@@ -5,163 +5,6 @@ specific interests.
 
 ## Overview
 
-### 9 Pokemon
-
-Each Pokemon comes from 1 of 3 types:
-
-1. Grass
-2. fire
-3. water
-
-### Classes
-
-You will be given a base Pokemon class which the grass, fire, and water classes will inherit from.
-
-### Class: User
-
-* You will be given a bare-bones implementation of the base user class.
-
-### Class: Computer
-
-* The computer class should inherit from the user class
-* The computer class will need to overwrite certain methods of the user class.
-
-### Attacks
-
-All Pokemon of the same type have the same set of attacks, one of the following:
-
-1. hp (hit points)
-2. pp(power points)
-3. name.
-
-### Game Loop
-
-Before the battle begins, Ask the user:
-
-1. Name
-2. Computer Name
-
-### Battle Pairing
-
-1. Ask the user to pick 3 Pokemon for their hand
-2. Randomly select the computer's Pokemon from the remaining Pokemon.
-3. Ask the user which Pokemon they would like to use in battle with currently
-4. Randomly select one for the Computer
-5. Battle begins.
-
-### Each Turn
-
-The user will be given the option to
-
-1. `attack`
-2. `heal`
-3. `switch`.
-4. Computer will be randomly selected, but should more frequently be `attack`.
-
-### Attack
-
-Gives the user the options
-
-1. attacks the Pokemon
-2. pick one to attack with
-
-### Attack Name
-
-An attack has a name, and corresponds to a list of the power of the attack and the accuracy.
-
-### An Attack should
-
-1. be a random number in the range between the `attack power(or the pp if that is lower than the attack power) - 20`
-2. the `attack power (or the pp if that is lower than the attack power)`
-3. randomly fail according to the attack's accuracy.
-4. decrease the enemy's hp, and print out a useful description.
-5. The computer randomly selects an attack to use in the battle.
-
-### Heal
-
-1. Gives 20 HP back to the current Pokemon,
-2. Takes away the turn
-
-### Switch
-
-1. Lists the stats (HP, AP, Name) of all Pokemon in the hand, and then
-2. switches the current Pokemon
-3. takes away the turn.
-4. On the computer's turn if this option is randomly selected, choose a random Pokemon to switch with
-5. If either the user's or the computer's current Pokemon is out of HP, they will be required to switch Pokemon
-6. If there are no available Pokemon, that player has lost.
-
-### Continue looping until one player has lost
-
-### Behaviour
-
-#### Game Play
-
-* Ask the user to choose 3 Pokemon: At the beginning of the game the program will list out the pokemon to choose from. Options are the following, HP stands for the health points the pokemon has and AP says the max value of attack
-* Grass Type:
-  * Bulbasoar: 60HP, 40AP
-  * Bellsprout: 40HP, 60AP
-  * Oddish: 50HP, 50AP
-* Fire Type:
-  * Charmainder: 25HP, 70AP
-  * Ninetails: 30HP, 50AP
-  * Ponyta: 40HP, 60AP
-* Water Type:
-  * Squirtle: 80HP, 20AP
-  * Psyduck: 70HP, 40AP
-  * Polywag: 50HP, 50AP
-* Ask the user to choose Pokemon to use in fight
-* Generate Computer's Hand and randomly select a pokemon to start
-* On each turn the player or computer can either `attack`, `heal`, or `switch`
-* At the end of each the turn print out the HP of the current Pokemon, and check if either side has lost the game
-* A player has lost if all their Pokemon are out of HP
-* `switch`: Lists the stats (HP, AP, Name) of all Pokemon in the hand, and asks the user what Pokemon they would like to switch to. Cannot attack until next turn.  
-* `stats`: Lists all the stats of the Pokemon in the hand
-* `heal`: adds 20 hp to the current Pokemon, cannot attack until next turn
-* `attack`: lists all attacks of current Pokemon, prompts the user pick an attack and then inflicts that damage on the Computer's current pokemon. If this K.Os the enemy then the Computer must switch Pokemon on their next turn.
-Should print out the following:
-
-```python
->>> Ash is attacking. Bulbosaur used Leaf Storm and did 20 damage.
-```
-
-#### Computer
-
-* Computer will select between the three options. 2/3 of the time a user should attack. 1/6 of the time they should heal and 1/6 of the time they should switch pokemon.
-* `attack`: Will randomly select an attack and do damage to the User's current Pokemon.
-* `heal`: WIll heal current Pokemon by 20 HP, but cannot attack that turn
-* `switch`: switched current Pokemon, but cannot attack
-
-### Pokemon Attacks
-
-All Pokemon of the same type have the same Attacks.
-
-#### Grass Type
-
-All grass type have the following attacks:
-
-* Leaf Storm: 130 Power, 90% accurate
-* Mega Drain: 50 Power, 100% accurate
-* Razor Leaf: 55 Power, 95% accurate
-Grass Type is 1.5x stronger against Water Type.
-
-#### Fire Type
-
-All fire type have the following attacks
-
-* Ember: 60 Power, 100% accurate
-* Fire Punch: 85 Power, 80% accurate
-* Flame Wheel: 70 Power, 90% accurate
-Fire Type is 1.5x stronger against Grass.
-
-#### Water Type
-
-All fire type have the following attacks:
-
-* Bubble: 40 Power, 100% accurate
-* Hydro Pump: 185 Power, 30% accurate
-* Surf: 70 Power, 90% accurate
-* Water Type is 1.5x stronger against Fire Types.
 
 ### Implementation Details
 
@@ -173,47 +16,117 @@ All fire type have the following attacks:
 * Player's and Computer's Pokemon should be stored using a list
 * Pokemon attacks should be stored using a dictionary from the attack name to a list of [attack's power, attack's accuracy]
 
-### Check Point 1
+## Solution
 
-Implement the following:
+```python
+class Person:
 
-* `get_attack_power` on Pokemon class
-* `attack` on Pokemon class
-* `take_damage` on Pokemon class
-* `heal` on Pokemon class
-* Grass, Fire, and Water type classes
-* `set_type` on Fire, Water and Grass classes
-* `set_attacks` on Fire, Water and Grass classes
-* `get_attack_power` on Fire, Water, and Grass classes
+  def __init__(self, name, email, hobbies):
+    self.name = name
+    self.email = email
+    self.hobbies = hobbies
 
-### Check Point 2
+  def __str__(self):
+    return f'{self.email} {self.name} {self.hobbies}'
 
-Implement the following:
 
-* `list_pokemon` on User Class
-* `switch` on User Class
-* `heal` on User Class
-* `is_end_game` on User Class
-* `print_attacks` on USer Class
-* `attack` on User Class
+class Mailer:
 
-#### Computer class
+  def __init__(self):
+    self.people = []
 
-* `play_turn` on Computer class
-* `set_pokemon` on Computer Class
-* `attack` on Computer Class
-* `switch` on Computer Class
+  def __str__(self):
+    return '\n'.join(str(p) for p in self.people)
+  
+  def send_hobby_mailer(self, hobby):
+    to_send = []
+    for person in self.people:
+      if hobby in person.hobbies:
+        to_send.append(person.email)
+    print('Mailing ' + hobby + ' to: ' + str(to_send))
+    return to_send
+  
+  def count_hobbies(self):
+    results = {}
+    for person in self.people:
+      for hobby in person.hobbies:
+        if hobby in results.keys():
+          results[hobby] += 1
+        else:
+          results[hobby] = 1
+    print('Hobby Results')
+    print(results)
+  
+  def already_present(self, check):
+    for person in self.people:
+      if person.email == check.email:
+        print(person.email + ' is already in our list')
+        return person
+    print(check.email + ' is not in our list')
+    return None
 
-### Check Point 3
+  def add_person(self, check):
+    result = self.already_present(check)
+    if result is None:
+      print(check.email + ' has been added to our list')
+      self.people.append(check)
+    else:
+      for hobby in check.hobbies:
+        if hobby not in result.hobbies:
+          print('Added ' + hobby + ' to ' + check.email + '\' hobbies')
+          result.hobbies.append(hobby)
 
-Implement the following
 
-* a game loop
-* inputs that ask if user would like to attack, heal or switch
-* call correct player function based on inputs
-* check for the end of the game and end game if necessary
+mailer = Mailer()
+while True:
+  command = input('What would you like to do? (add, count, send, display, exit) ')
+  if command == 'add':
+    who = input('Enter name email and hobbies: ').split(' ')
+    mailer.add_person(Person(who[0], who[1], who[2].split(',')))
+  elif command == 'count':
+    mailer.count_hobbies()
+  elif command == 'send':
+    hobby = input('Which hobby? ')
+    mailer.send_hobby_mailer(hobby)
+  elif command == 'display':
+    print(mailer)
+  elif command == 'exit':
+    print('Goodbye')
+    break
+  else:
+    print('Sorry, I did not understand that')
+
+
+mailer = Mailer()
+mailer.add_person(Person('Alice', 'a_dog@host.com', ['dogs', 'animals']))
+mailer.add_person(Person('Bob', 'knitting@host.com', ['knitting', 'surfing', 'painting']))
+mailer.add_person(Person('Carlos', 'filmbuff@host.com', ['movies']))
+mailer.add_person(Person('Daisy', 'soccerfan@host.com', ['soccer', 'tennis', 'dogs']))
+mailer.add_person(Person('Eva', 'everything@host.com', ['surfing', 'movies', 'knitting', 'animals']))
+
+print(mailer)
+
+# all people should be added without problem and printed
+
+#below person should be added without issue. The name is the same but email is different
+mailer.add_person(Person('Bob', 'another_bob@host.com', ['cats', 'tennis']))
+
+# this Bob already exists in the mailer (same email address). Add Bob's NEW hobbies to the list
+mailer.add_person(Person('Bob', 'knitting@host.com', ['surfing', 'animals', 'poetry']))
+
+print(mailer)
+
+mailer.count_hobbies()
+
+mailer.send_hobby_mailer('animals')
+mailer.send_hobby_mailer('tennis')
+mailer.send_hobby_mailer('unique')
+
+```
 
 ## Grading
+
+TO BE UPDATED
 
 ### Scheme/Rubric
 
