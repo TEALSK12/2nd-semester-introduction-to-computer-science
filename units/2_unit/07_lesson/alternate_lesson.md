@@ -1,27 +1,23 @@
 # Alternate Project 2: TODO List
 Created By Brian Weinfeld
 
-Using Python, students will create an interactive TODO list that allows users to add and remove tasks from a list.
+Using Python, you will create an interactive TODO list that allows users to add and remove tasks from a list.
 
 ## Overview
 
-One of the most common tasks we use computers for is to store and track data. Perhaps the most simple form of this task is the TODO list.
-A TODO list is simply a list of tasks that the user wants to track. They can add tasks to the list, remove them when they are complete and
-examine the list as they progress. Have you ever used a Notes app on your phone?
-
-For this project, you are going to recreate the functionality of a simple TODO list app.
+One of the most common tasks we use computers for is to store and track data. Perhaps the most simple form of this task is the TODO list. A TODO list is simply a list of tasks that the user wants to track. They can add tasks to the list, remove them when they are complete and examine the list as they progress. Have you ever used a notes app on your phone?
 
 ## Details
 
 ### Behavior
 
 * The program offers the user 4 options. **add** will add elements to the TODO list. **remove** will remove elements from the list. 
-**list** will display the entire list and **exit** will exit the program Let's examine **add** and **remove** in more detail.
+**list** will display the entire list and **exit** will exit the program. 
 
 * After a user selects **add** they should then be prompted for the item they want added to the list. Be sure to check before
 you add the item to the list. You don't want to add the item twice!
 
-* After a user select **remove** they should then be prompted for the item they want removed from the list. Be sure to check before
+* After a user selects **remove** they should then be prompted for the item they want removed from the list. Be sure to check before
 removing the item from the list. You should let the user know if they are trying to remove an item that isn't in the list!
 
 ```
@@ -69,7 +65,7 @@ This section contains additional components you can add to the project.
 These should only be attemped **after** the project has been completed.
 
 * It is a bit inconvenient to have to type two commands to add or remove an element from the list. Modify the program so that tasks 
-can be added to the TODO list with a single command **add go to gym** or removed **remove go to gym**. 
+can be added or removed from the TODO list with a single command like **add go to gym** or **remove go to gym**. 
 
 ```
 Welcome to your TODO list
@@ -93,7 +89,7 @@ What would you like to do? (add, remove, undo, list, exit) list
 
 * The most common task in a TODO list is to immediately remove the most recently added element to the list. This is often because
 the user made a mistake in adding the element to the list in the first place. Add an **undo** option to the program that will remove
-the most recently added item. If the item is no long in the list, print an error.
+the most recently added item. If the item is no longer in the list, print an error.
 
 ```
 Welcome to your TODO list
@@ -180,35 +176,3 @@ while True:
   else:
     print('Sorry, I did not understand that')
 ```
-
-## Grading
-
-TO BE UPDATED
-
-### Scheme/Rubric
-
-| Functional Correctness (Behavior)                               |     |
-| --------------------------------------------------------------- |-----|
-| Game has three floors                                           | 5   |
-| User can move `left` or `right`, but not beyond the rooms       | 10  |
-| User can only move `up` or `down` at an appropriate staircase   | 5   |
-| `Grab` adds an item to the users collected items                | 5   |
-| User can only collect 3 items                                   | 2   |
-| `Help` lists all possible commands                              | 2   |
-| Monsters either disappear if user has a sword or defeat the user| 5   |
-| A sword can only be used once and then it disappears            | 6   |
-| Boss monster needs sword and magic stones to be defeated        | 5   |
-| Prize is blocked by boss monster                                | 5   |
-| **Sub total**                                                   | 50  |
-| **Technical Correctness**                                       |     |
-| Correctly use of lists                                          | 15  |
-| Correctly appends items to list of users collected items        | 15  |
-| Correctly uses if statements to check items in user's possession | 15  |
-| Correctly using `or` statements and `and` statements            | 15  |
-| **Sub total**                                                   | 60  |
-| **Total**                                                       | 110 |
-
-## Extra Credit
-
-* Add the command `run`, which allows a player to run past a monster instead of fighting. This should work 40% of the time. (Hint: Research the random library.)
-* Implement the board using nested lists (each item of the list is a list.)
