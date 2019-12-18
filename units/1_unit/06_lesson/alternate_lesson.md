@@ -28,18 +28,18 @@ This is called a __Magic Square__ and for this project, you are going to create 
 
 ### Behavior
 
-    ```
-      Welcome to Magic Square
-      Enter a number from 21 to 65: 42
-      You have entered 42
-      
-      Here is your Magic Square:
-      
-      22 01 12 07
-      11 08 21 02
-      05 10 03 24
-      04 23 06 09
-    ```
+```
+  Welcome to Magic Square
+  Enter a number from 21 to 65: 42
+  You have entered 42
+
+  Here is your Magic Square:
+
+  22 01 12 07
+  11 08 21 02
+  05 10 03 24
+  04 23 06 09
+```
 
 ### Implementation Details
 
