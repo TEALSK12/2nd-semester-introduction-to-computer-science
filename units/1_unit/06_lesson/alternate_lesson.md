@@ -1,7 +1,7 @@
-# Alternatve Project 1: Magic Square
+# Alternate Project 1: Magic Square
 Created by Brian Weinfeld
 
-Using Python, students will use variables, input, and printing to create a Magic Square. You will also practice *designing* a project by planning out your Magic Square before implementing it.
+Using Python, you will use variables, input, and casting to create a Magic Square. 
 
 ## Overview
 
@@ -28,17 +28,11 @@ This is called a __Magic Square__ and for this project, you are going to create 
 
 ### Behavior
 
-* The program begins by asking the user to input a number from 21 to 65.
-
     ```
       Welcome to Magic Square
       Enter a number from 21 to 65: 42
       You have entered 42
-    ```
-
-* The program should then create and display a magic square for that number.
-
-    ```
+      
       Here is your Magic Square:
       
       22 01 12 07
@@ -94,23 +88,3 @@ else:
   print('05 10 03 ' + str(magic_number-18).zfill(2))
   print('04 ' + str(magic_number-19).zfill(2) + ' 06 09')
  ```
-
-## Grading
-
-TO BE UPDATED
-
-### Scheme/Rubric
-
-| **Functional Correctness(Behavior)**                                |     |
-| --------------------------------------------------------------- |-----|
-| Program greets user and explains rules  | 3   |
-| Program accurately requests 10 words (1 for word, 1 for correct request)| 20|
-| Program prints full Mad Lib | 10   |
-| Program exhibits creativity               | 2   |
-| **Sub total**                                                   | 35  |
-| **Technical Correctness**                                    |     |
-| Program utilizes variable names to convey meaning               | 5  |
-| Correct order of inputted words                                 | 10  |
-| Only 3 print statements                                         | 10  |
-| **Sub total**                                                   | 25  |
-| **Total**                                                       | 60 |
