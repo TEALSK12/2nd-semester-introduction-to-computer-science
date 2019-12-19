@@ -1,16 +1,15 @@
 # Alternate Project 7: Mailing List
 Created by Brian Weinfeld
 
-In this project, you will create a program that creates mailing lists so that advertisers can send bulk emails to people based on their
-specific interests.
+In this project, you will use dictionaries, lists and objects to create a program that generates mailing lists for advertisers.
 
 ## Overview
 
-Every company stores data on its users and a common use of this data is to send relevant advertisements. If the company can track your interests, they can email you when they are selling something they think you may be interested in. This project consists of several common functions designed to identify which customers you want to send advertisements to.
+Every company stores data on its users and a common use of this data is to send relevant advertisements. If the company can track your interests, they can email you when they are selling something they think you may want to purchase. This project consists of several common functions designed to identify which customers you want to send advertisements to.
 
 ### Implementation Details
 
-* Start by completing the Person class. The person class represents each person your company is tracking. __name__ represents the persons name, __email__ represents their email, and __hobbies__ is a list of string representing the things you know this person is interseted in. The list may be empty but there should never be repeates (you don't want the same hobby for the same person listed twice). While it is possible for many people to have the same __name__ and __hobbies__, we will assume that each __email__ is unique. That is, only one person can have a specific email address.
+* Start by completing the Person class. The person class represents each person your company is tracking. __name__ represents the person's name, __email__ represents their email, and __hobbies__ is a list of strings representing the things you know this person is interseted in. The list may be empty but there should never be repeats (you don't want the same hobby for the same person listed twice). While it is possible for many people to have the same __name__ and __hobbies__, we will assume that each __email__ is unique. That is, only one person can have a specific email address.
 
 ```python
 class Person:
