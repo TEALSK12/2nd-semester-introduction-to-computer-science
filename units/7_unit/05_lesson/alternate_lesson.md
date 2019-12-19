@@ -1,4 +1,5 @@
 # Alternate Project 7: Mailing List
+Created by Brian Weinfeld
 
 In this project, you will create a program that creates mailing lists so that advertisers can send bulk emails to people based on their
 specific interests.
@@ -168,7 +169,21 @@ Goodbye
 
 ## Challenges
 
+This section contains additional components you can add to the project. These should only be attemped after the project has been completed.
 
+* As in previous projects, change the looping code so that all typed information can be done at once, instead of spread over multiple lines
+
+* Create a new function __send_hobby_mailer_any__. The hobby parameter in this function is a list of hobbies. Create a list of emails that includes a person if they enjoy ANY of the hobbies listed. Modify the loop to allow this option to be selected.
+
+* Create a new function __send_hobby_mailer_all__. The hobby parameter in this function is a list of hobbies. Create a list of emails that includes a person if they enjoy ALL of the hobbies listed. Modify the loop to allow this option to be selected.
+
+## Super Challenge
+
+The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
+
+A common problem that data engineers face is unclean data. That is, data that is not perfectly entered by the user. For example, capitialization does not matter in an email address. My_email@host.com and my_email@host.com will go to the same place. Punctuation like periods also does not matter. MyEmail@host.com and My.Email@host.com will go to the same place. Right now, your code cannot tell the difference between these two and will treat them as different people. 
+
+Part of a data engineer's job is to clean all data inputs. Clean all of the emails in your program as they are entered. Standardize how they are stored so that you can now tell if unclean data entrees like those above are actually the same address. What other types of mistakes might a user make? Try to fix those as well!
 
 ## Solution
 
@@ -251,28 +266,3 @@ while True:
     print('Sorry, I did not understand that')
 
 ```
-
-## Grading
-
-TO BE UPDATED
-
-### Scheme/Rubric
-
-| Functional Correctness(Behavior)                                |     |
-| --------------------------------------------------------------- |-----|
-| Players can choose pokemon hand | 15   |
-| Computer randomly picks hand | 5|
-| Player can choose pokemon to battle  | 5   |
-| Stats, Move, and  All stats print properly           | 10  |
-| Attack command decreases HP properly      | 10 |
-| **Sub total**                                                   | 45  |
-| **Technical Correctness**                                    |     |
-| Correct use of classes                                  | 10  |
-| Correct use of inheritance                                  | 10  |
-| Correct use of instances                                  | 10  |
-| Correct use of variables and game loop |10|
-| Correct use of printing/formatting | 10|  
-| **Sub total**                                                   | 50  |
-| **Total**                                                       | 95 |
-
-[starter_code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/7_unit/05_lesson/starter_code.py
