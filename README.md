@@ -23,7 +23,7 @@ We have incliuded with this curriculum Associated Readings to dive deeper into t
 
 ## Curriculum Orientation
 
-[Check out this 1-hour Orientation to the Curriculum video](https://www.youtube.com/watch?v=UHgA_7x6-Qo)
+Check out this 1-hour [Orientation to the Curriculum video](https://www.youtube.com/watch?v=UHgA_7x6-Qo)
 
 ## Python Versions (2 vs 3)
 
