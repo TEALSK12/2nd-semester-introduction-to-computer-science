@@ -13,7 +13,7 @@
 
 1 Day = 50 minute class period
 
-| Lesson | Days | Resources _(In Development)_ |
+| Lesson | Days | Resources |
 | ------ | -------------- | ---------|
 | 2.01: Data Types & Casting | 1 | [2.01 Slide Deck] |
 | 2.02: Booleans & Expressions | 1 | [2.02 Slide Deck] |
