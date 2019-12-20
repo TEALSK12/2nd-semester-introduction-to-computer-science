@@ -111,6 +111,12 @@ What would you like to do? (add, remove, undo, list, exit) list
 ['go to gym']
 ```
 
+### Super Challenge
+
+The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
+
+It is possible to track enough information so that the __undo__ command can be called repeatedly. Modify the __undo__ command so that it will always work by removing the most recently added element in the TODO list that is still in the list. The only time the command should do nothing is when the TODO list is empty.
+
 ## Solution
 
 ```python
