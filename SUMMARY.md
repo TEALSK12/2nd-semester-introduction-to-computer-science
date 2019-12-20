@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-  * [Change Log](changelog.md)
 
 * [Curriculum Map](curriculum_map.md)
   * [Additional Topics for Certification](cert.md)
@@ -145,3 +144,5 @@
 * [Supplemental Lessons](units/supplemental/.md)
   * [Lesson 01: Binary Day](units/supplemental/01_lesson/lesson.md)
     * [Do Now 01](units/supplemental/01_lesson/do_now.md)
+
+* [Change Log](changelog.md)
