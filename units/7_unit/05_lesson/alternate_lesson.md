@@ -62,22 +62,22 @@ Below if an example of the functionality of the four functions.
 a_dog@host.com is not in our list
 a_dog@host.com has been added to our list
 
->mailer.add_person(Person('Bob', 'knitting@host.com', ['knitting', 'surfing', 'painting']))
+> mailer.add_person(Person('Bob', 'knitting@host.com', ['knitting', 'surfing', 'painting']))
 
 knitting@host.com is not in our list
 knitting@host.com has been added to our list
 
->mailer.add_person(Person('Carlos', 'filmbuff@host.com', ['movies']))
+> mailer.add_person(Person('Carlos', 'filmbuff@host.com', ['movies']))
 
 filmbuff@host.com is not in our list
 filmbuff@host.com has been added to our list
 
->mailer.add_person(Person('Daisy', 'soccerfan@host.com', ['soccer', 'tennis', 'dogs']))
+> mailer.add_person(Person('Daisy', 'soccerfan@host.com', ['soccer', 'tennis', 'dogs']))
 
 soccerfan@host.com is not in our list
 soccerfan@host.com has been added to our list
 
->mailer.add_person(Person('Eva', 'everything@host.com', ['surfing', 'movies', 'knitting', 'animals']))
+> mailer.add_person(Person('Eva', 'everything@host.com', ['surfing', 'movies', 'knitting', 'animals']))
 
 everything@host.com is not in our list
 everything@host.com has been added to our list
