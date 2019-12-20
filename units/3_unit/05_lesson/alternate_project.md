@@ -1,4 +1,5 @@
 # Alternate Project 3: Daily Planner
+Created by Brian Weinfeld
 
 Using variables, functions, and conditionals in Python, you will create a daily planner program.
 
@@ -115,6 +116,12 @@ if either the event is critical (overwriting any event already in the planner at
 
 * Combine all the information into one line so that it is easier to interact with the planner. For example, you might add a new event
 by entering "add go to school 8 13 critical" or "add practice lines 14 15 not"
+
+## Super Challenge
+
+The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
+
+Sometimes the time the event is scheduled for is less important than making sure the event is on the schedule. Add a parameter to the functions that add an element to the schedule called __force__. If force is true, the event must be scheduled. If it can't be scheduled at the expected time, find the closest available timeslot in the future and schedule it there instead. If the event is critical, then the displaced event should be moved forward. Be sure to alert the user that the event has been scheduled, but at a different time than expected! The placement will still fail if there are no available timeslots to place the event.
 
 ## Solutions
 
