@@ -533,6 +533,9 @@ above.
 
 ### Rubric
 
+* [Editable Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/rubric.docx)
+* [Printable rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/rubric.pdf)
+
 The project is graded on many aspects, with a total of 100 points available:
 
 | Aspect                                                  | Points |

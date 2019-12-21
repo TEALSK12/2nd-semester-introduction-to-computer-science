@@ -73,6 +73,9 @@ At least three times during the project period, and at least once each week, you
 
 ## Grading Scheme/Rubric
 
+* [Editable Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/rubric.docx)
+* [Printable rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/rubric.pdf)
+
 |Design Phases| |
 |---|---|
 |Brainstorming| 2 points|
