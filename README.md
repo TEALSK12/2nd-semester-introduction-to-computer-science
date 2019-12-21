@@ -2,20 +2,12 @@
 
 A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.gitbook.io/intro-cs/)
 
-Note the change in repository and GitBook locations starting the 2017-18 school year.
-
-- GitHub: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science
-- GitBook: https://tealsk12.gitbooks.io/2nd-semester-introduction-to-computer-science/content/
-
-## Creative Commons Attribution Non-Commercial Share-alike License
-
-[This curriculum is licensed under the Creative Commons Attribution Non-Commercial Share-alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/), which means you may share and adapt this material for non-commercial uses as long as you attribute its original source, and retain these same licensing terms.
+* GitHub: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science
+* GitBook: https://tealsk12.gitbooks.io/2nd-semester-introduction-to-computer-science/content/
 
 ## About this curriculum
 
 Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This curriculum is intended for use by TEALS classrooms teaching Introduction to Computer Science in a yearlong format. We expect that students have completed the content from the [1st semester course](https://www.gitbook.com/book/teals-introcs/introduction-to-computer-science-principles/details) prior to this curriculum.
-
-Please help us complete it by contributing feedback and suggestions via the [GitHub repository](https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles) that contains the source files for this gitbook.
 
 ## Associated Readings
 
@@ -40,14 +32,18 @@ For those knowledgable with Python 2, the following is a list of differences fro
 | Integer arithmetic | 3/2 evaluates to 1 | 3/2 evaluates to 1.5 |
 | Not equal to | <> | != |
 
-## Issues
+## Curriculum Issues
 
 Please open an issue in GitHub if you encounter factual, spelling, or grammatical errors, sequencing problems (topics needed before they are taught), or incomplete/missing materials.
 
 ## Giving feedback on the curriculum
 
-TEALS intends for this curriculum to be a starting point for teachers. We'll continueto evolve, adapt the curriculum and associated materials. To participate in this process, we invite TEALS volunteers and classroom teachers using this curriculum to submit edits and suggestions via the discussion forum on the TEALS dashboard or in this Github repository issues [page](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science). If you'd like to suggest changes or additions to the curriculum, please submit a Github Pull Request containing your changes. As a best practice, each pull request should contain a singular atomic change.
+TEALS intends for this curriculum to be a starting point for teachers. We'll continueto evolve, adapt the curriculum and associated materials. To participate in this process, we invite TEALS volunteers and classroom teachers using this curriculum to submit edits and suggestions via the [TEALS discussion forum](http://forums.tealsk12.org/) or in this [Github repository](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science). If you'd like to suggest changes or additions to the curriculum, please submit a Github Pull Request containing your changes. As a best practice, each pull request should contain a singular atomic change.
 
 ## Printing GitBook
 
 The 2nd Semester Introduction to Computer Science GitBook can be printed by navigating to [PDF Version](https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/intro-cs-2/#).
+
+## Creative Commons Attribution Non-Commercial Share-alike License
+
+[This curriculum is licensed under the Creative Commons Attribution Non-Commercial Share-alike License](http://creativecommons.org/licenses/by-nc-sa/4.0/), which means you may share and adapt this material for non-commercial uses as long as you attribute its original source, and retain these same licensing terms.

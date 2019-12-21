@@ -1,11 +1,11 @@
 # Additional Topics
 
-Below are osme addition topics that will need to be covered in order to prepare students for the [MTA Cerification]. We have gathered some resources to help.
+Below are some addition topics that will need to be covered in order to prepare students for the [MTA Cerification].
 
 ## File Handling and Catching Exceptions
 
 * [Think Python - File Handling] - Sections: 14.1, 14.2, 14.4, 14.5
-* [W3schools - File Handling] - Sections: Python File Handling, Python File Read Files, Python Write and Create Files, Pthon Delete Files
+* [W3schools - File Handling] - Sections: File Handling, Read Files, Write and Create Files, Delete Files
 * **University of Oxford - File Handling**
 
   [Oxford Slide Deck L4] - (Slides 15-19)
@@ -32,7 +32,7 @@ Below are osme addition topics that will need to be covered in order to prepare 
 
 * **University of Oxford - Math Module**
   
-  [Oxford Slide Deck L22] - [Math Example Code]
+  [Oxford Slide Deck L2] - [Math Example Code]
 
   [![University of Oxford - Math Module Video](https://img.youtube.com/vi/fW6MaWqAHFw/0.jpg)](https://youtu.be/fW6MaWqAHFw?t=463)
 
