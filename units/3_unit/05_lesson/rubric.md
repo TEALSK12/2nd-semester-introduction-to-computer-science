@@ -18,6 +18,7 @@ Student Name: _____________________________ Date: __________________
 | Correctly use and update variables | 5 |
 | Correctly add_days and select_action functions | 15 |
 | **Sub total** | 50 |
+| Total | 100 | |
 
 ## Final Grade
 

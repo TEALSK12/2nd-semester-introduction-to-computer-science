@@ -65,6 +65,9 @@ As mentioned above the program must request words from the user. The following *
 
 ### Scheme/Rubric
 
+* [Editable Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)
+* [Printable rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.pdf)
+
 | **Functional Correctness(Behavior)**                                |     |
 | --------------------------------------------------------------- |-----|
 | Program greets user and explains rules  | 3   |

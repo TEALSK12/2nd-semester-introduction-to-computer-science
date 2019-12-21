@@ -32,6 +32,9 @@ Using Python, students will create a Tic-Tac-Toe game. This project has two part
 
 ### Scheme/Rubric
 
+* [Editable Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.docx)
+* [Printable rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.pdf)
+
 | **Functional Correctness (Behavior)**                                |     |
 | --------------------------------------------------------------- |-----|
 | Program prompts user for name | 2   |

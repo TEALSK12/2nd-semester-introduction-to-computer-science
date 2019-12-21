@@ -145,3 +145,5 @@
 * [Supplemental Lessons](units/supplemental/.md)
   * [Lesson 01: Binary Day](units/supplemental/01_lesson/lesson.md)
     * [Do Now 01](units/supplemental/01_lesson/do_now.md)
+
+* [Change Log](changelog.md)

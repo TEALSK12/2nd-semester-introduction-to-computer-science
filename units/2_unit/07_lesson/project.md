@@ -108,7 +108,8 @@ if user_input == "down":
 
 ## Grading
 
-### Scheme/Rubric
+* [Editable Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
+* [Printable rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.pdf)
 
 | Functional Correctness (Behavior)                               |     |
 | --------------------------------------------------------------- |-----|

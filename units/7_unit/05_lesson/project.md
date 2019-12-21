@@ -217,6 +217,10 @@ Implement the following
 
 ### Scheme/Rubric
 
+* [Editable Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.docx)
+* [Printable rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.pdf)
+
+
 | Functional Correctness(Behavior)                                |     |
 | --------------------------------------------------------------- |-----|
 | Players can choose pokemon hand | 15   |

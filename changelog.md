@@ -2,6 +2,13 @@
 
 ## Update Log
 
+-----------------
+
+### 12/20/2019
+
+* Added Slidedecks for Unit 2
+* Added Editable Rubric for Lesson 03.05
+
 ------------------
 
 ### 12/13/2019

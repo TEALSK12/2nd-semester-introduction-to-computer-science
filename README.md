@@ -15,7 +15,7 @@ We have incliuded with this curriculum Associated Readings to dive deeper into t
 
 ## Curriculum Orientation
 
-[Check out this 1-hour Orientation to the Curriculum video](https://www.youtube.com/watch?v=UHgA_7x6-Qo)
+Check out this 1-hour [Orientation to the Curriculum video](https://www.youtube.com/watch?v=UHgA_7x6-Qo)
 
 ## Python Versions (2 vs 3)
 
@@ -32,11 +32,11 @@ For those knowledgable with Python 2, the following is a list of differences fro
 | Integer arithmetic | 3/2 evaluates to 1 | 3/2 evaluates to 1.5 |
 | Not equal to | <> | != |
 
-## Change Log
+## Curriculum Issues
 
-Changes to this curriculum will be updated in our [Change Log](changelog.md).
+Please open an issue in GitHub if you encounter factual, spelling, or grammatical errors, sequencing problems (topics needed before they are taught), or incomplete/missing materials.
 
-## Curriculum Issues and Feedback
+## Giving feedback on the curriculum
 
 TEALS intends for this curriculum to be a starting point for teachers. We'll continueto evolve, adapt the curriculum and associated materials. To participate in this process, we invite TEALS volunteers and classroom teachers using this curriculum to submit edits and suggestions via the [TEALS discussion forum](http://forums.tealsk12.org/) or in this [Github repository](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science). If you'd like to suggest changes or additions to the curriculum, please submit a Github Pull Request containing your changes. As a best practice, each pull request should contain a singular atomic change.
 
