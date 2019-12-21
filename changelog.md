@@ -19,13 +19,13 @@
 * Added Unit Level Day Planning at the beginning of each unit
 * Added resources for help preparing students for the MTA Exam
 * Added Unit Naming
-* Added Key Teams at the Unit LEvel
+* Added Key Teams at the Unit Level
 * Added Asssociated Reading Links to each lesson
 * Added Associated Reading heading links to help with navigation
 * Added links to ThinkPython text and Website resources
 * Updated Teacher instructions for setting it Repl.it
 * Added PDF and docx files for each lab and project
-* Added Units 1-4 Quizzes and answer keys to the Additional Curriculum Materials
+* Added Units 1-4,6,7 Quizzes and answer keys to the Additional Curriculum Materials
 * Added Microsoft Learn Instruction Videos where appropriate
 
 ------------------
