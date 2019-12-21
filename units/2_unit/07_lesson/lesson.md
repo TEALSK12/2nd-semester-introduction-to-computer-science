@@ -14,6 +14,8 @@ Students will be able to...
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem]
 * [Associated Readings 2.7](https://tealsk12.gitbook.io/intro-cs-2/readings#2-7)
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
+
 
 ### Day 1 Pacing Guide
 
@@ -61,6 +63,30 @@ Students will be able to...
 * Identify students that are struggling on the project after the first few days and provide additional scaffolding & support as needed.
 * For any students that are advancing rapidly through the project, give them extension ideas such as adding a new feature or floor to the game.
 * Advanced students can also be paired as tutors/helpers with struggling students.
+
+## Grading
+
+| Functional Correctness (Behavior)                               |     |
+| --------------------------------------------------------------- |-----|
+| Game has three floors                                           | 5   |
+| User can move `left` or `right`, but not beyond the rooms       | 10  |
+| User can only move `up` or `down` at an appropriate staircase   | 5   |
+| `Grab` adds an item to the users collected items                | 5   |
+| User can only collect 3 items                                   | 2   |
+| `Help` lists all possible commands                              | 2   |
+| Monsters either disappear if user has a sword or defeat the user| 5   |
+| A sword can only be used once and then it disappears            | 6   |
+| Boss monster needs sword and magic stones to be defeated        | 5   |
+| Prize is blocked by boss monster                                | 5   |
+| **Sub total**                                                   | 50  |
+| **Technical Correctness**                                       |     |
+| Correctly use of lists                                          | 15  |
+| Correctly appends items to list of users collected items        | 15  |
+| Correctly uses if statements to check items in user's possession | 15  |
+| Correctly using `or` statements and `and` statements            | 15  |
+| **Sub total**                                                   | 60  |
+| **Total**                                                       | 110 |
+
 
 ## Forum discussion
 

@@ -213,29 +213,4 @@ Implement the following
 * call correct player function based on inputs
 * check for the end of the game and end game if necessary
 
-## Grading
-
-### Scheme/Rubric
-
-* [Editable Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.docx)
-* [Printable rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.pdf)
-
-
-| Functional Correctness(Behavior)                                |     |
-| --------------------------------------------------------------- |-----|
-| Players can choose pokemon hand | 15   |
-| Computer randomly picks hand | 5|
-| Player can choose pokemon to battle  | 5   |
-| Stats, Move, and  All stats print properly           | 10  |
-| Attack command decreases HP properly      | 10 |
-| **Sub total**                                                   | 45  |
-| **Technical Correctness**                                    |     |
-| Correct use of classes                                  | 10  |
-| Correct use of inheritance                                  | 10  |
-| Correct use of instances                                  | 10  |
-| Correct use of variables and game loop |10|
-| Correct use of printing/formatting | 10|  
-| **Sub total**                                                   | 50  |
-| **Total**                                                       | 95 |
-
 [starter_code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/7_unit/05_lesson/starter_code.py

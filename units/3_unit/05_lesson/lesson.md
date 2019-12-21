@@ -15,6 +15,7 @@ Students will be able to...
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem]
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
 
 ### Day 1 Pacing
 
@@ -66,13 +67,28 @@ Students will be able to...
 * especially for students who you think may struggle with this project.
 * Provide more guidance and scaffolding to those students that need it.
 
-## Grading Rubric
+## Grading
 
-Feel free to update this rubric to fit with the students and class weighting.
+### Grading Rubric
 
-* [Grading rubric]
-* [Editable version (docx)]
-* [Printable version (pdf)]
+| **Functional Correctness( Behavior)** | Points | Earned |
+| ------------------------------------ |--| --- |
+| `travel`, `rest`, `hunt` | 15 |
+| `status`, `help`, and `quit` | 5 |
+| Game ends if food runs out, days run out, or health runs out | 10 |
+| Days roll over correctly | 10 |
+| Food decreases every day | 5 |
+| Health decreases randomly | 5 |
+| **Sub total** | 50 |
+| **Technical Correctness** | |
+| Correctly use functions and contracts | 20 |
+| Correctly use imported random function | 5 |
+| Correctly use global variables | 5 |
+| Correctly use and update variables | 5 |
+| Correctly add_days and select_action functions | 15 |
+| **Sub total** | 50 |
+| Total | 100 | |
+
 
 ## Forum discussion
 
@@ -85,6 +101,4 @@ Feel free to update this rubric to fit with the students and class weighting.
 
 [printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.pdf
 [editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.docx
-[editable version (docx)]:rubric.docs
-[printable version (pdf)]: rubric.pdf
-[grading rubric]: rubric.md
+
