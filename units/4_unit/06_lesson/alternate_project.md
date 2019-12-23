@@ -111,7 +111,7 @@ After completing and testing the above functions, complete the following steps t
 
 * Instead of a single game, some players may want to play a best-of-5 or best-of-7 series. In such an event, players repeatedly play the game until one player has won a majority of the games in the series. Before the first game is played, prompt the players for the best-of series they want to play. Remember you don't need to play unnecessary games. If 'X' wins the first 3 games in a best-of-5, the last two games don't need to be played. You should still prompt the player's to see if they want to play again (that is, play a new series of games).
 
-## Super Challenge
+### Super Challenge
 
 The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
 
