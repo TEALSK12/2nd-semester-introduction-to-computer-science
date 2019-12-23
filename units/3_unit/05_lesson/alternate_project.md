@@ -109,7 +109,7 @@ def clear_timeframe(planner, timeframe):
 * Once you have finished the above functions, create a script that allows a user to add and remove elements from their planner. The user should have four choices __add__, __clear__, __display__, __exit__. __add__ is used to add events to the planner, __clear__ is used to remove events from the planner, __display__ is used to display the day's events and __exit__ is used to exit the program. You should also automatically print the planner after any changes have been made to it. See the below running example for details.
 
 
-## Challenge
+### Challenge
 
 This section contains additional components you can add to the project. These should only be attemped after the project has 
 been completed.
@@ -121,7 +121,7 @@ if either the event is critical (overwriting any event already in the planner at
 * Combine all the information into one line so that it is easier to interact with the planner. For example, you might add a new event
 by entering "add go to school 8 13 critical" or "add practice lines 14 15 not"
 
-## Super Challenge
+### Super Challenge
 
 The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
 
