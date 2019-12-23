@@ -10,10 +10,10 @@ Using loops, variables and functions in Python, you will create a Tic-Tac-Toe ga
 ### Behavior
 
 ```
+Welcome to Tic-Tac-Toe!
 'X' what is your name: Alice
 'O' what is your name: Bob
 Game Start
-
  | |
  | |
  | |
@@ -165,7 +165,7 @@ def make_move(gameboard, name, symbol):
       gameboard[row][col] = symbol
       return
 
-
+print('Welcome to Tic-Tac-Toe')
 player_1 = input("'X' what is your name: ")
 player_2 = input("'O' what is your name: ")
 turn = player_1
