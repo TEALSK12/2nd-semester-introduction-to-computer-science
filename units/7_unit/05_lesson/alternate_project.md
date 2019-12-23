@@ -1,15 +1,55 @@
 # Alternate Project 7: Mailing List
 Created by Brian Weinfeld
 
-In this project, you will use dictionaries, lists and objects to create a program that generates mailing lists for advertisers.
+In this project, you will use dictionaries, lists and objects with Python to create a program that generates mailing lists for advertisers.
 
 ## Overview
 
 Every company stores data on its users and a common use of this data is to send relevant advertisements. If the company can track your interests, they can email you when they are selling something they think you may want to purchase. This project consists of several common functions designed to identify which customers you want to send advertisements to.
 
+## Details
+
+### Behavior
+
+```
+What would you like to do? (add, count, send, display, exit) add
+Enter name email and hobbies: Alice a_person@host.com horses,traveling
+a_person@host.com is not in our list
+a_person@host.com has been added to our list
+
+What would you like to do? (add, count, send, display, exit) add
+Enter name email and hobbies: Blake myemail@host.com school
+myemail@host.com is not in our list
+myemail@host.com has been added to our list
+
+What would you like to do? (add, count, send, display, exit) display
+a_person@host.com Alice ['horses', 'traveling']
+myemail@host.com Blake ['school']
+
+What would you like to do? (add, count, send, display, exit) add
+Enter name email and hobbies: Alice a_person@host.com sleeping
+a_person@host.com is already in our list
+Added sleeping to a_person@host.com' hobbies
+
+What would you like to do? (add, count, send, display, exit) display
+a_person@host.com Alice ['horses', 'traveling', 'sleeping']
+myemail@host.com Blake ['school']
+
+What would you like to do? (add, count, send, display, exit) count
+Hobby Results
+{'horses': 1, 'traveling': 1, 'sleeping': 1, 'school': 1}
+
+What would you like to do? (add, count, send, display, exit) send
+Which hobby? horses
+Mailing horses to: ['a_person@host.com']
+
+What would you like to do? (add, count, send, display, exit) exit
+Goodbye
+```
+
 ### Implementation Details
 
-* Start by completing the Person class. The person class represents each person your company is tracking. __name__ represents the person's name, __email__ represents their email, and __hobbies__ is a list of strings representing the things you know this person is interseted in. The list may be empty but there should never be repeats (you don't want the same hobby for the same person listed twice). While it is possible for many people to have the same __name__ and __hobbies__, we will assume that each __email__ is unique. That is, only one person can have a specific email address.
+* Begin by completing the Person class. The person class represents each person your company is tracking. __name__ represents the person's name, __email__ represents their email, and __hobbies__ is a list of strings representing the things you know this person is interseted in. The list may be empty but there should never be repeats (you don't want the same hobby for the same person listed twice). While it is possible for many people to have the same __name__ and __hobbies__, we will assume that each __email__ is unique. That is, only one person can have a specific email address.
 
 ```python
 class Person:
@@ -51,7 +91,7 @@ class Mailer:
 
 * __already_present__ has one parameter check that is of type Person. This function determines whether this person is already in our mailing list. If they are not in our mailing list, print a message and return None. If they are in our mailing list, print a message and return the person.
 
-* __add_person__ has one parametr check that is of type Person. This function does one of two actions. If the person is not in the mailing list, add them to the mailing list. If the person is already in the mailing list, we don't want to add them again. Instead, add the hobbies listed to their already identified hobbies to create a new, possibly longer list of hobbies. Be careful to not add any hobbies that are already in the list.
+* __add_person__ has one parameter check that is of type Person. This function does one of two actions. If the person is not in the mailing list, add them to the mailing list. If the person is already in the mailing list, we don't want to add them again. Instead, add the hobbies listed to their already identified hobbies to create a new, possibly longer list of hobbies. Be careful to not add any hobbies that are already in the list.
 
 Below if an example of the functionality of the four functions.
 
@@ -113,7 +153,8 @@ another_bob@host.com Bob ['cats', 'tennis']
 > mailer.count_hobbies()
 
 Hobby Results
-{'dogs': 2, 'animals': 3, 'knitting': 2, 'surfing': 2, 'painting': 1, 'poetry': 1, 'movies': 2, 'soccer': 1, 'tennis': 2, 'cats': 1}
+{'dogs': 2, 'animals': 3, 'knitting': 2, 'surfing': 2, 'painting': 1, 
+'poetry': 1, 'movies': 2, 'soccer': 1, 'tennis': 2, 'cats': 1}
 
 > mailer.send_hobby_mailer('animals')
 
@@ -130,43 +171,7 @@ Mailing unique to: []
 
 * Finally, create a loop that allows a user to enter commands __add__, __count__, __send__, __display__, __exit__ to interact with the code you have already created. 
 
-```
-What would you like to do? (add, count, send, display, exit) add
-Enter name email and hobbies: Alice a_person@host.com horses,traveling
-a_person@host.com is not in our list
-a_person@host.com has been added to our list
-
-What would you like to do? (add, count, send, display, exit) add
-Enter name email and hobbies: Blake myemail@host.com school
-myemail@host.com is not in our list
-myemail@host.com has been added to our list
-
-What would you like to do? (add, count, send, display, exit) display
-a_person@host.com Alice ['horses', 'traveling']
-myemail@host.com Blake ['school']
-
-What would you like to do? (add, count, send, display, exit) add
-Enter name email and hobbies: Alice a_person@host.com sleeping
-a_person@host.com is already in our list
-Added sleeping to a_person@host.com' hobbies
-
-What would you like to do? (add, count, send, display, exit) display
-a_person@host.com Alice ['horses', 'traveling', 'sleeping']
-myemail@host.com Blake ['school']
-
-What would you like to do? (add, count, send, display, exit) count
-Hobby Results
-{'horses': 1, 'traveling': 1, 'sleeping': 1, 'school': 1}
-
-What would you like to do? (add, count, send, display, exit) send
-Which hobby? horses
-Mailing horses to: ['a_person@host.com']
-
-What would you like to do? (add, count, send, display, exit) exit
-Goodbye
-```
-
-## Challenges
+### Challenge
 
 This section contains additional components you can add to the project. These should only be attemped after the project has been completed.
 
@@ -176,7 +181,7 @@ This section contains additional components you can add to the project. These sh
 
 * Create a new function __send_hobby_mailer_all__. The hobby parameter in this function is a list of hobbies. Create a list of emails that includes a person if they enjoy ALL of the hobbies listed. Modify the loop to allow this option to be selected.
 
-## Super Challenge
+### Super Challenge
 
 The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
 
