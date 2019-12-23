@@ -1,44 +1,99 @@
 # Alternate Project 4: Tic-Tac-Toe
 Modified by Brian Weinfeld
 
-Using loops and variables, you will create a Tic-Tac-Toe game. This project has two parts
-
-1. Creating functions which will support the main game loop.
-2. Designing the game loop so that two users can play Tic-Tac-Toe against one another.
+Using loops, variables and functions in Python, you will create a Tic-Tac-Toe game for two human players. 
 
 ## Overview
 
-[Tic-Tac-Toe](http://www.merriam-webster.com/dictionary/tic-tac-toe) is a game in which one player draws X's and another player draws O's inside a set of nine squares and each player tries to be the first to fill a row, column, or diagonal of squares with either X's or O's. We will be writing an interactive Tic-Tac-Toe program. At the end of each turn the computer will check to see if X's have won the game or if the O's have won the game.
+[Tic-Tac-Toe](http://www.merriam-webster.com/dictionary/tic-tac-toe) is a game in which one player draws X's and another player draws O's inside a set of nine squares and each player tries to be the first to fill a row, column, or diagonal of squares with either X's or O's.
 
 ### Behavior
 
-* The gameboard should be stored in a list of lists. Each of the internal lists represents one row of the gameboard. If the element in the list is the empty string (the empty string is ''), then the spot is unoccupied. If the element in the list is an 'X' or an 'O', then it is occupied by that player.
+```
+'X' what is your name: Alice
+'O' what is your name: Bob
+Game Start
 
-* Complete the below method which nicely prints the gameboard.
+ | |
+ | |
+ | |
+ 
+Alice what row is your move: 1
+Alice what col is your move: 1
+ | |
+ |X|
+ | |
+ 
+Bob what row is your move: 0
+Bob what col is your move: 0
+O| |
+ |X|
+ | |
+ 
+Alice what row is your move: 2
+Alice what col is your move: 0
+O| |
+ |X|
+X| |
+
+Bob what row is your move: 2
+Bob what col is your move: 0
+Invalid move. Try again.
+
+Bob what row is your move: 4
+Bob what col is your move: 4
+Invalid move. Try again.
+
+Bob what row is your move: 0
+Bob what col is your move: 1
+O|O|
+ |X|
+X| |
+
+Alice what row is your move: 0
+Alice what col is your move: 2
+O|O|X
+ |X|
+X| |
+
+X wins!
+
+Would you like to play again? no
+Goodbye
+```
+
+### Implementation Details
+
+The gameboard should be stored in a list of lists. Each of the internal lists represents one row of the gameboard. If the element in the list is the empty string (the empty string is ''), then the spot is unoccupied. If the element in the list is an 'X' or an 'O', then it is occupied by that player.
+
+Begin by completing the below functions. Do your best to ensure that these functions work properly before moving onto the rest of the project.
 
 ```python
 def print_gameboard(gameboard):
   # finish
 ```
 
-* Complete the below method which determines whether a player has won or not. Return 'X' or 'O' if either of those players have won and None if neither player has won.
+* print_gameboard takes the gameboard as its only parameter. This function nicely prints the gameboard.
 
 ```python
 def check_winner(gameboard):
   # finish
 ```
-* Complete the below method which determines whether the game has tied (all the spaces are filled and no player has 3 in a row). Return True if the game is tied and False if it has not.
+
+* check_winner uses the gameboard to check whether or not a player has won. Return 'X' or 'O' if either of those players have won the game and None if neither player has won.
 
 ```python
 def check_tied(gameboard):
   # finish
 ```
-* Complete the below method which allows a player to make a move. Prompt the user by their name for a row and column and place their symbol in the indicated spot. If they select an illegal spot, prompt them for a new selection.
+* check_tied is used to determine whether the game is tied (all 9 spaces are filled but no one has won). Return True if the game is tied and False if it has not.
 
 ```python
 def make_move(gameboard, name, symbol):
   # finish
 ```
+
+* make a move is used to filled the gameboard with the current player's move. The name parameter is a string representing the current player's name and symbol is a string representing their game symbol ('X' or 'O'). Prompt the user by their name for a row and column and place their symbol in the indicated spot. If they select an illegal spot, prompt them for a new selection.
 
 After completing and testing the above functions, complete the following steps to create the main game loop.
 
@@ -47,20 +102,22 @@ After completing and testing the above functions, complete the following steps t
 * At the end of each player's turn the program will:
   * check if that player has won using the check_winner function.
   * print the updated game board using the print_gameboard function.
-* If there are no more spots open and nobody has won the game, the program will print `Tie game!`. Check this using the check_tied function.
+* If there are no more spots open and nobody has won the game, the program will print 'Tie game!'. Check this using the check_tied function.
 * After the game is over, prompt the players if they would like to play again or quit.
 
-## Challenge
+### Challenge
 
 * Going first is a big advantage in this game. Modify your game loop so that if the users indicate they want to play again, the players swap who goes first. The players should keep their symbol ('X' or 'O') but the symbol that goes first should swap. Every time the players replay the game, the player who goes first should swap.
 
-* Modify the gameloop so that instead of two human players, either (or both) of the players can be computers. The computer's names can be some variation on "Computer 1". Modify the make_move function so that computer can make an automatic selection. To begin, simply have the computer randomly select an available empty space for their move.
+* Instead of a single game, some players may want to play a best-of-5 or best-of-7 series. In such an event, players repeatedly play the game until one player has won a majority of the games in the series. Before the first game is played, prompt the players for the best-of series they want to play. Remember you don't need to play unnecessary games. If 'X' wins the first 3 games in a best-of-5, the last two games don't need to be played. You should still prompt the player's to see if they want to play again (that is, play a new series of games).
 
 ## Super Challenge
 
 The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
 
-* Continue to build on the above challenge by giving the computer some basic game logic. If the other player is about to win (ie: they have two in a row), then the computer should always select the blocking move. What can of logic can you give the computer for its turn if it doesn't have to make a blocking move?
+* Modify the gameloop so that instead of two human players, either (or both) of the players can be computers. The computer's names can be some variation on "Computer 1". Modify the make_move function so that computer can make an automatic selection. To begin, simply have the computer randomly select an available empty space for their move.
+
+* Continue to build on the above challenge by giving the computer some basic game logic. If the other player is about to win (ie: they have two in a row), then the computer should always select the blocking move. What kind of logic can you give the computer for its turn if it doesn't have to make a blocking move?
 
 ## Solution
 
@@ -110,7 +167,7 @@ def make_move(gameboard, name, symbol):
 
 
 player_1 = input("'X' what is your name: ")
-player_2 = input("'Y' what is your name: ")
+player_2 = input("'O' what is your name: ")
 turn = player_1
 turn_symbol = 'X'
 while True:
@@ -126,7 +183,7 @@ while True:
       break
     if turn == player_1:
       turn = player_2
-      turn_symbol = 'Y'
+      turn_symbol = 'O'
     else:
       turn = player_1
       turn_symbol = 'X'
