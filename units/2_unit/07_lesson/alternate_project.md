@@ -11,15 +11,6 @@ One of the most common tasks we use computers for is to store and track data. Pe
 
 ### Behavior
 
-* The program offers the user 4 options. **add** will add elements to the TODO list. **remove** will remove elements from the list. 
-**list** will display the entire list and **exit** will exit the program. 
-
-* After a user selects **add** they should then be prompted for the item they want added to the list. Be sure to check before
-you add the item to the list. You don't want to add the item twice!
-
-* After a user selects **remove** they should then be prompted for the item they want removed from the list. Be sure to check before
-removing the item from the list. You should let the user know if they are trying to remove an item that isn't in the list!
-
 ```
 Welcome to your TODO list
 What would you like to do? (add, remove, list, exit) list
@@ -58,6 +49,17 @@ What would you like to do? (add, remove, list, exit) list
 What would you like to do? (add, remove, list, exit) exit
 Goodbye
 ```
+
+### Implementation Details
+
+* The program offers the user 4 options. **add** will add elements to the TODO list. **remove** will remove elements from the list. 
+**list** will display the entire list and **exit** will exit the program. 
+
+* After a user selects **add** they should then be prompted for the item they want added to the list. Be sure to check before
+you add the item to the list. You don't want to add the item twice!
+
+* After a user selects **remove** they should then be prompted for the item they want removed from the list. Be sure to check before
+removing the item from the list. You should let the user know if they are trying to remove an item that isn't in the list!
 
 ### Challenge
 
