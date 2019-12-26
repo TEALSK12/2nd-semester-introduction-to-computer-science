@@ -12,6 +12,7 @@
   * Unit 3 Project - Oregon Trail
   * Unit 4 Project - Tic Tac Toe
 * Added Editable Rubrics for Projects
+* Project Ideas added to Final Project (Including Editable version)
 
 -----------------
 
