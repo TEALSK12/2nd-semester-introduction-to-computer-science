@@ -9,13 +9,14 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Project Spec - Text Monster] ([printable project Spec]) ([editable project spec])
+* [Text Monster Starter Code]((https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
+)
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem]
 * [Associated Readings 2.7](https://tealsk12.gitbook.io/intro-cs-2/readings#2-7)
 * [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
-
 
 ### Day 1 Pacing Guide
 

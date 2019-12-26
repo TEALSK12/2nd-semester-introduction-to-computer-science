@@ -1,4 +1,4 @@
-# Lesson 4.06: Project 4
+# Lesson 4.06: Tic Tac Toe
 
 ## Learning Objectives
 
@@ -10,8 +10,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Project Spec - Tic-Tac-Toe] ([printable project Spec]) ([editable project spec])
-[printable project Spec]: project.pdf
-[editable project spec]: project.docx
+* [Tic Tac Toe Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/tictactoe_starter_code.py)
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the handout, lesson, and project so that you are familiar with the requirements and can assist students
 * Try creating your own variation on the Tic-Tac-Toe game so you are familiar with the potential challenges and bugs your students will hit
