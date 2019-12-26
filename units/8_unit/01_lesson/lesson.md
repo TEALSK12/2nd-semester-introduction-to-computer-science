@@ -10,6 +10,10 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [Project Ideas for Students](project_ideas.md)
+* [Editable Project Ideas](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/01_lesson/project_ideas.docx)
+* [Printable Project Ideas](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/01_lesson/project_ideas.pdf)
+
 ## Pacing Guide
 
 | Duration  | Description                                   |
@@ -41,6 +45,7 @@ Students will be able to...
 * Point out that this will involve more than just writing code
 * There will be planning, design, scheduling, and other project management tasks
 * Emphasize that students will be graded on not only the program they produce, but the process they used to design, plan, and implement it
+* Here are some [Project Ideas](projectideas.md)
 
 ##### Demonstration
 
