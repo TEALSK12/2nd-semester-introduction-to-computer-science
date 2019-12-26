@@ -11,6 +11,8 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Project Spec - Oregon Trail] ([printable project Spec]) ([editable project spec])
+* [Oregon Trail Starter Code]((https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/Unit_3_Project_Oregon_Trail_Starter_Code.py)
+)
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard](https://www.tealsk12.org/dashboard/))
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit.
@@ -89,7 +91,6 @@ Students will be able to...
 | **Sub total** | 50 |
 | Total | 100 | |
 
-
 ## Forum discussion
 
 [Lesson 3.05: Oregon Trail (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-05-oregon-trail)
@@ -101,4 +102,3 @@ Students will be able to...
 
 [printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.pdf
 [editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.docx
-

@@ -88,7 +88,6 @@ Students will be able to...
 | **Sub total**                                                   | 60  |
 | **Total**                                                       | 110 |
 
-
 ## Forum discussion
 
 [Lesson 2.07: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-text-game)

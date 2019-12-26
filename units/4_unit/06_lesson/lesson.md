@@ -17,7 +17,6 @@ Students will be able to...
 * Review [4 Steps to Solve Any CS Problem]
 * [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.docx)
 
-
 ## Pacing Guide
 
 ### Day 1

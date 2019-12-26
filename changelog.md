@@ -4,12 +4,23 @@
 
 -----------------
 
+### 12/26/2019
+
+* Added Unit Links to Curriculum Maps
+* Added Starter Code
+  * Unit 2 Project - Text Monster
+  * Unit 3 Project - Oregon Trail
+  * Unit 4 Project - Tic Tac Toe
+* Added Editable Rubrics for Projects
+
+-----------------
+
 ### 12/20/2019
 
 * Added Slidedecks for Unit 2
 * Added Editable Rubric for Lesson 03.05
 
-------------------
+-----------------
 
 ### 12/13/2019
 
@@ -28,7 +39,7 @@
 * Added Units 1-4,6,7 Quizzes and answer keys to the Additional Curriculum Materials
 * Added Microsoft Learn Instruction Videos where appropriate
 
-------------------
+-----------------
 
 ### 12/2/2019
 
@@ -40,4 +51,4 @@
 * Renumbered Unit 2 lessons to reflect these changes
 * Updates to Curriculum Map and Summary.md
 
-------------------
+-----------------
