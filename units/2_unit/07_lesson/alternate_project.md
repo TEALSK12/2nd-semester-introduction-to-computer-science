@@ -5,7 +5,7 @@ Using Python, you will create an interactive TODO list that allows users to add 
 
 ## Overview
 
-One of the most common tasks we use computers for is to store and track data. Perhaps the most simple form of this task is the TODO list. A TODO list is simply a list of tasks that the user wants to track. They can add tasks to the list, remove them when they are complete and examine the list as they progress. Have you ever used a notes app on your phone?
+One of the most common tasks we use computers for is to store and track data. Perhaps the most simple form of this task is the TODO list. A TODO list is simply a list of information (for example, chores that needs to be done) that the user wants to track. They can add tasks to the list, remove them when they are complete and examine the list as they progress. Have you ever used a notes app on your phone?
 
 ## Details
 
@@ -52,22 +52,17 @@ Goodbye
 
 ### Implementation Details
 
-* The program offers the user 4 options. **add** will add elements to the TODO list. **remove** will remove elements from the list. 
-**list** will display the entire list and **exit** will exit the program. 
+* The program offers the user 4 options. **add** will add elements to the TODO list. **remove** will remove elements from the list.  **list** will display the entire list and **exit** will exit the program. 
 
-* After a user selects **add** they should then be prompted for the item they want added to the list. Be sure to check before
-you add the item to the list. You don't want to add the item twice!
+* After a user selects **add** they should then be prompted for the item they want added to the list. Be sure to check before you add the item to the list. You don't want to add the item twice!
 
-* After a user selects **remove** they should then be prompted for the item they want removed from the list. Be sure to check before
-removing the item from the list. You should let the user know if they are trying to remove an item that isn't in the list!
+* After a user selects **remove** they should then be prompted for the item they want removed from the list. Be sure to check before removing the item from the list. You should let the user know if they are trying to remove an item that isn't in the list!
 
 ### Challenge
 
-This section contains additional components you can add to the project.
-These should only be attemped **after** the project has been completed.
+This section contains additional components you can add to the project. These should only be attemped **after** the project has been completed.
 
-* It is a bit inconvenient to have to type two commands to add or remove an element from the list. Modify the program so that tasks 
-can be added or removed from the TODO list with a single command like **add go to gym** or **remove go to gym**. 
+* It is a bit inconvenient to have to type two commands to add or remove an element from the list. Modify the program so that tasks  can be added or removed from the TODO list with a single command like **add go to gym** or **remove go to gym**. 
 
 ```
 Welcome to your TODO list
@@ -89,9 +84,7 @@ What would you like to do? (add, remove, undo, list, exit) list
 ['go to gym']
 ```
 
-* The most common task in a TODO list is to immediately remove the most recently added element to the list. This is often because
-the user made a mistake in adding the element to the list in the first place. Add an **undo** option to the program that will remove
-the most recently added item. If the item is no longer in the list, print an error.
+* It is helpful to have a feature to immediately remove the most recently added element to the list. This is often because the user made a mistake in adding the element to the list in the first place. Add an **undo** option to the program that will remove the most recently added item. If the item is no longer in the list, print an error.
 
 ```
 Welcome to your TODO list
