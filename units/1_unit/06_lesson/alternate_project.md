@@ -14,13 +14,13 @@ Pick a number from 21-65. __42__, you say? OK! Check this out!
 04 23 06 09
 ```
 
-If you add up all the numbers in each row, they total 42.
+If you add up all the numbers in each row, they total 42. (22 + 1 + 12 + 7 = 11 + 8 + 21 + 2 = 42)
 
-If you add up all the numbers in each column, they total 42.
+If you add up all the numbers in each column, they total 42. (22 + 11 + 5 + 4 = 1 + 8 + 10 + 23 = 42)
 
-If you add up all the numbers in each diagonal, they total 42.
+If you add up all the numbers in each diagonal, they total 42. (22 + 8 + 3 + 9 = 7 + 21 + 10 + 4 = 42)
 
-It is the same for each of the four corners, and each 2x2 block as well.
+It is the same for each of the four corners, and each 2x2 block as well. (22 + 4 + 9 + 7 = 42)
 
 This is called a __Magic Square__ and for this project, you are going to create a program that lets users select a number and create a magic square from that number.
 
