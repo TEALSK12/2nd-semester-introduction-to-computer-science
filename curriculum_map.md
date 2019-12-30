@@ -8,7 +8,7 @@ As you implement this curriculum into your program, there are some things to con
 * **Preparing students to gain a credential such as the [Microsoft Technology Associate (MTA) certification]** - It is recommended completing the course units in the following order 1, 2, 3, 4, [Additional Topics]. 5(Optional)
 * **Offering this course as a stand alone computer science course** - It is recommended completing the course units in the following order - 1, 2, 3, 4, 5, 6, 7, 8
 
-## Unit 1 - Introduction to Python
+## [Unit 1 - Introduction to Python](units/1_unit/unit_1.md)
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -19,7 +19,7 @@ As you implement this curriculum into your program, there are some things to con
 | [1.05: Quiz & Debugging] | Demonstrate their understanding of key concepts covered up to this point. Define and identify: debugging, syntax errors. Analyze and respond to error messages. | N/A |
 | [1.06: MadLibs] | Apply basic Python knowledge about inputs/outputs and variables to create a game of madlibs. Practice good debugging skills. | Mad Libs |
 
-## Unit 2 - Data Types, Conditionals, Booleans and Lists
+## [Unit 2 - Data Types and Conditionals](units/2_unit/unit2_md.md)
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -31,7 +31,7 @@ As you implement this curriculum into your program, there are some things to con
 | [2.06: Game Loop] | Define and identify: while loop. Use a while loop to simulate game play. | Tic-Tac-Toe Revisited |
 | [2.07: Text Game] | Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game. | Zork - Text Monster Game |
 
-## Unit 3 - Functions
+## [Unit 3 - Functions](units/3_unit/unit_3.md)
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -41,7 +41,7 @@ As you implement this curriculum into your program, there are some things to con
 | [3.04: Debugging and Scope] | Define and identify: scope, aliasing, stack trace. Understand that changing a list in a function updates the list outside of the function. Understand that updating variables in a function does not affect the variable outside of the function. Understand global variables. Draw a simple stack trace. | Aliasing & Scope |
 | [3.05: Oregon Trail] | Use project planning skills to complete a longer-term project. Create functions to organize a project. Apply skills learned in units 1-3 to create a functioning program. | Oregon Trail |
 
-## Unit 4 - Nested Loops and Lists
+## [Unit 4 - Nested Loops and Lists](units/4_unit/unit4.md)
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -52,7 +52,7 @@ As you implement this curriculum into your program, there are some things to con
 | [4.05: Debugging and Quiz] | Read and understand longer programs involving loops. Demonstrate knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. | Debugging Practice |
 | [4.06: Tic-Tac-Toe] | Use project planning skills to complete a larger project. Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game. | Tic-Tac-Toe |
 
-## Unit 5 (Optional) - Music Programming
+## [Unit 5 (Optional) - Music Programming](units/5_unit/unit5.md)
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -62,7 +62,7 @@ As you implement this curriculum into your program, there are some things to con
 | [5.04: EarSketch User-Defined Functions] | Define and identify: abstraction, section, A-B-A form. Create and apply user-defined functions to create songs with complicated form. | User-Defined Functions |
 | [5.05: EarSketch Project] | Create a complete song in EarSketch with multiple parts. Utilize EarSketch's features and functions. | EarSketch Song |
 
-## Unit 6 - Dictionaries
+## [Unit 6 - Dictionaries](units/6_unit/unit6.md)
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -70,9 +70,9 @@ As you implement this curriculum into your program, there are some things to con
 | [6.02: Dictionaries Methods] | Define and identify: pop, default value. Update values in a dictionary. Add values to a dictionary. Remove values from a dictionary. | Word Counter |
 | [6.03: Dictionaries of Lists] | Create dictionaries with keys and values of different types. Update, append, or remove list values in a dictionary. | Dictionaries Storing Lists |
 | [6.04: Dictionaries Looping] | Use loops to traverse through key/value pairs in a dictionary | Dictionaries Looping |
-| [6.05: Guess Who] | Use dictionaries to create the game Guess Who | Guess Who |
+| [6.05: Guess Who] | Use dictionaries to create the game Guess Who | Buying an Umbrella |
 
-## Unit 7 - Introduction to Object Oriented Programming
+## [Unit 7 - Introduction to Object Oriented Programming](units/7_unit/unit7.md)
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
@@ -82,7 +82,7 @@ As you implement this curriculum into your program, there are some things to con
 | [7.04: Inheritance] | Define and identify: inheritance, parent class, child class. Create a class that inherits from anther class. Overwrite methods of parent class in a child class. | Pokemon Child Classes |
 | [7.05: Pokemon] | Engage in class design before beginning coding. Apply what was learned with respect to classes, methods, and inheritance to create an implementation of Pokemon. | Pokemon |
 
-## Unit 8: Final Project
+## [Unit 8: Final Project](units/8_unit/unit8.md)
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |

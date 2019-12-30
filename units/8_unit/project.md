@@ -71,31 +71,5 @@ In order to show that you have fully mastered all the skills from the course, yo
 
 At least three times during the project period, and at least once each week, you should check in with an instructor to ensure that your project is on track, that you are meeting the project requirements, and that you have the answers to any questions that might have arisen during your work.  The course staff will work with you to set up a schedule for these checkpoints, but it is **your responsibility** to ensure that the meetings take place.
 
-## Grading Scheme/Rubric
-
-* [Editable Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/rubric.docx)
-* [Printable rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/rubric.pdf)
-
-|Design Phases| |
-|---|---|
-|Brainstorming| 2 points|
-|Project Pitches    |6 points|
-|Scenario Definition   |4 points|
-|Flow Chart    |4 points|
-|Project Organizer (Specification)  |8 points|
-|Implementation Plan    |8 points|
-|Spec and plan are updated throughout project   |8 points|
-|_Total_    |_40 points_|
-|**Implementation** | |
-|Project is appropriately complex and creative  |8 points|
-|Program is well-documented and shows good style |4 points|
-|Program uses Python elements effectively, including all required elements | 8 points |
-|Final product meets all requirements and goals laid out in spec    |8 points|
-|Checkpoint 1 | 4 points |
-|Checkpoint 2 | 4 points |
-|Checkpoint 3 | 4 points |
-|_Total_    |_40 points_|
-|**_Total_**|**_80 points_**|
-
 [printable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.pdf
 [editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.docx

@@ -59,6 +59,26 @@ Students will be able to...
 
 Certain students that have a limited music background may need additional assistance during the planning phase of the project. Students may need additional examples demonstrating the difference between a verse, chorus, and bridge.
 
+## Grading
+
+### Scheme/Rubric
+
+| **Functional Correctness(Behavior)**                                |     |
+| --------------------------------------------------------------- |-----|
+| Song Runs and Plays | 5   |
+| Recognizable Chorus vs Verse | 10|
+| Correct Length | 5   |
+| Contains some reoccurring themes| 5  |
+| **Sub total**                                                   | 25  |
+| **Technical Correctness**                                    |     |
+| Correct use of loop                                        | 5  |
+| Correctly uses control flow         | 5  |
+| Correctly use of `fitMedia`, `makeBeat`, `setEffect`                                  | 10  |
+| Use of user defined functions for choruses, forms, verses      | 10  |
+| Keeps track of measure using return statements | 15  |
+| **Sub total**                                                   | 45  |
+| **Total**                                                       | 70 |
+
 ## Forum discussion
 
 [Lesson 5.05: EarSketch Project (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-5-earsketch/lesson-5-05-earsketch-project)

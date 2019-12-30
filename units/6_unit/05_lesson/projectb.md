@@ -529,41 +529,6 @@ Students will have to decide what is the best order to impelment these
 functions in; we hope they will be guided by the Milestones listed
 above.
 
-## Grading
-
-### Rubric
-
-* [Editable Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/rubric.docx)
-* [Printable rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/rubric.pdf)
-
-The project is graded on many aspects, with a total of 100 points available:
-
-| Aspect                                                  | Points |
-| ------------------------------------------------------- |----: |
-| **Functional Correctness(Behavior)**                    |    |
-| Inventory loading                                       | 10 |
-| Inventory browsing ((n)ext and (p)revious)              |  5 |
-| Purchasing ((b)uy)                                      |  2 |
-| Filtering out items not matching search criteria        | 10 |
-| Adding a search criterion ((a)dd filter)                | 10 |
-| Removing a search criterion ((r)emove filter)           |  3 |
-| Modifying a search criterion ((m)odify filter)          | 10 |
-| **Sub total**                                           | **50** |
-| | |
-| **Technical Correctness**                               |    |
-| Correct use of dictionaries                             | 15 |
-| Correct use of lists                                    | 10 |
-| Correct use of printing/formatting                      | 10 |
-| **Sub total**                                           | **35** |
-| | |
-| **Style**                                               |    |
-| Good variable names                                     |  5 |
-| Clear, easy to follow implementations                   |  5 |
-| Clean user interface                                    |  5 |
-| **Sub total**                                           | **15** |
-| | |
-| **Total**                                               |**100** |
-
 ### Bonus
 
 You may earn bonus points on the project by trying some of these ideas:

@@ -31,31 +31,6 @@ We will be recreating Oregon Trail! The goal is to travel from Independence, Mis
 * Use global list to keep track of which months have 31 days and use this in the add_day function (i.e.: MONTHS_WITH_31_DAYS = [1, 3, 5, 7, 8, 10, 12])
 * Create a function select_action which uses a while loop to call add_day function
 
-## Grading
-
-### Grading Rubric
-
-* [Editable Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.docx)
-* [Printable rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.pdf)
-
-| **Functional Correctness( Behavior)** | Points | Earned |
-| ------------------------------------ |--| --- |
-| `travel`, `rest`, `hunt` | 15 |
-| `status`, `help`, and `quit` | 5 |
-| Game ends if food runs out, days run out, or health runs out | 10 |
-| Days roll over correctly | 10 |
-| Food decreases every day | 5 |
-| Health decreases randomly | 5 |
-| **Sub total** | 50 |
-| **Technical Correctness** | |
-| Correctly use functions and contracts | 20 |
-| Correctly use imported random function | 5 |
-| Correctly use global variables | 5 |
-| Correctly use and update variables | 5 |
-| Correctly add_days and select_action functions | 15 |
-| **Sub total** | 50 |
-| Total | 100 | |
-
 ## Bonus
 
 1. Make the rate of food consumption be a function of activity. So if a player hunts for a turn they take up more food, but if they rest they take up less food.

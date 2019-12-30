@@ -1,4 +1,4 @@
-# Lesson 4.06: Project 4
+# Lesson 4.06: Tic Tac Toe
 
 ## Learning Objectives
 
@@ -10,12 +10,12 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Project Spec - Tic-Tac-Toe] ([printable project Spec]) ([editable project spec])
-[printable project Spec]: project.pdf
-[editable project spec]: project.docx
+* [Tic Tac Toe Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/tictactoe_starter_code.py)
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the handout, lesson, and project so that you are familiar with the requirements and can assist students
 * Try creating your own variation on the Tic-Tac-Toe game so you are familiar with the potential challenges and bugs your students will hit
 * Review [4 Steps to Solve Any CS Problem]
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.docx)
 
 ## Pacing Guide
 
@@ -89,6 +89,28 @@ Students will be able to...
 * The checkers can actually be done using one function, taking in the start x and y and the movement of the x and y.
 * The planning phase of this project will be essential, especially for students who you think may struggle with this project.
 * Provide more guidance and scaffolding to those students that need it.
+
+## Grading
+
+### Scheme/Rubric
+
+| **Functional Correctness (Behavior)**                                |     |
+| --------------------------------------------------------------- |-----|
+| Program prompts user for name | 2   |
+| Program marks board where user requested| 5|
+| Program prints a readable board after user's turn| 5|
+| Program won't overwrite value on board | 5   |
+| Program reports who won or if there was a tie             | 15  |
+| Program ends after win, loss, or tie       | 3  |
+| **Sub total**                                                   | 35  |
+| **Technical Correctness**                                    |     |
+| Correct use of game loop                                        | 5  |
+| Correctly indexes into lists of lists to store board            | 5  |
+| Correctly check board for mark                                  | 5  |
+| Check for winners on all three horizontals and verticals        | 20  |
+| Checks for winners on both diagonals                            | 10  |
+| **Sub total**                                                   | 45  |
+| **Total**                                                       | 80 |
 
 ## Forum discussion
 
