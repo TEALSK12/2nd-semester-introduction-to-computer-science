@@ -4,6 +4,19 @@
 
 -----------------
 
+### 12/31/2019
+
+* Added Alternate Projects to units
+  * Unit 1 Alternate Project - Magic Square
+  * Unit 2 Alternate Project - TODO List
+  * Unit 3 Alternate Project - Daily Planner
+  * Unit 4 Alternate Project - 2 Player Tic Tac Toe
+  * Unit 7 Alternate Project - Mailing List
+* Added Sample Solution to Alternate Projects to the Additional Curriculum Materials
+* fixed broken lab and project links
+
+-----------------
+
 ### 12/26/2019
 
 * Added Unit Links to Curriculum Maps
