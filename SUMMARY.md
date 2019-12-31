@@ -78,6 +78,7 @@
     * [Lab 4.05](units/4_unit/05_lesson/lab.md)
   * [Lesson 4.06: Tic-Tac-Toe](units/4_unit/06_lesson/lesson.md)
     * [Project 4: Tic-Tac-Toe](units/4_unit/06_lesson/project.md)
+    * [Alternate Project 4: 2 Player Tic-Tac-Toe](units/4_unit/06_lesson/alternate_project.md)
 
 * [Unit 5: Music Programming](units/5_unit/unit5.md)
   * [Lesson 5.01: Earsketch Intro](units/5_unit/01_lesson/lesson.md)
@@ -111,8 +112,8 @@
     * [Lab 6.04](units/6_unit/04_lesson/lab.md)
   * [Lesson 6.05: Guess Who](units/6_unit/05_lesson/lesson.md)
     * [Do Now 6.05](units/6_unit/05_lesson/do_now.md)
-    * [Project 6: Guess Who](units/6_unit/05_lesson/project.md)
     * [Project 6b: Buy an Umbrella](units/6_unit/05_lesson/projectb.md)
+    * [Project 6: Guess Who](units/6_unit/05_lesson/project.md)
 
 * [Unit 7: Introduction to Object Oriented Programing](units/7_unit/unit7.md)
   * [Lesson 7.01: User-Defined Types (Classes)](units/7_unit/01_lesson/lesson.md)
