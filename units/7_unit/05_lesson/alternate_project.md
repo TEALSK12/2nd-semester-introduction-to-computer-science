@@ -1,4 +1,5 @@
 # Alternate Project 7: Mailing List
+
 Created by Brian Weinfeld
 
 In this project, you will use dictionaries, lists and objects with Python to create a program that generates mailing lists for advertisers.
@@ -11,7 +12,7 @@ Every company stores data on its users and a common use of this data is to send 
 
 ### Behavior
 
-```
+```python
 What would you like to do? (add, count, send, display, exit) add
 Enter name email and hobbies: Alice a_person@host.com horses,traveling
 a_person@host.com is not in our list
@@ -95,7 +96,7 @@ class Mailer:
 
 Below if an example of the functionality of the four functions.
 
-```
+```python
 > mailer = Mailer()
 > mailer.add_person(Person('Alice', 'a_dog@host.com', ['dogs', 'animals']))
 
@@ -153,7 +154,7 @@ another_bob@host.com Bob ['cats', 'tennis']
 > mailer.count_hobbies()
 
 Hobby Results
-{'dogs': 2, 'animals': 3, 'knitting': 2, 'surfing': 2, 'painting': 1, 
+{'dogs': 2, 'animals': 3, 'knitting': 2, 'surfing': 2, 'painting': 1,
 'poetry': 1, 'movies': 2, 'soccer': 1, 'tennis': 2, 'cats': 1}
 
 > mailer.send_hobby_mailer('animals')
@@ -169,7 +170,7 @@ Mailing tennis to: ['soccerfan@host.com', 'another_bob@host.com']
 Mailing unique to: []
 ```
 
-* Finally, create a loop that allows a user to enter commands __add__, __count__, __send__, __display__, __exit__ to interact with the code you have already created. 
+* Finally, create a loop that allows a user to enter commands __add__, __count__, __send__, __display__, __exit__ to interact with the code you have already created.
 
 ### Challenge
 
@@ -185,88 +186,6 @@ This section contains additional components you can add to the project. These sh
 
 The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
 
-A common problem that data engineers face is unclean data. That is, data that is not perfectly entered by the user. For example, capitialization does not matter in an email address. My_email@host.com and my_email@host.com will go to the same place. Punctuation like periods also does not matter. MyEmail@host.com and My.Email@host.com will go to the same place. Right now, your code cannot tell the difference between these two and will treat them as different people. 
+A common problem that data engineers face is unclean data. That is, data that is not perfectly entered by the user. For example, capitialization does not matter in an email address. My_email@host.com and my_email@host.com will go to the same place. Punctuation like periods also does not matter. MyEmail@host.com and My.Email@host.com will go to the same place. Right now, your code cannot tell the difference between these two and will treat them as different people.
 
 Part of a data engineer's job is to clean all data inputs. Clean all of the emails in your program as they are entered. Standardize how they are stored so that you can now tell if unclean data entrees like those above are actually the same address. What other types of mistakes might a user make? Try to fix those as well!
-
-## Solution
-
-```python
-class Person:
-
-  def __init__(self, name, email, hobbies):
-    self.name = name
-    self.email = email
-    self.hobbies = hobbies
-
-  def __str__(self):
-    return f'{self.email} {self.name} {self.hobbies}'
-
-
-class Mailer:
-
-  def __init__(self):
-    self.people = []
-
-  def __str__(self):
-    return '\n'.join(str(p) for p in self.people)
-  
-  def send_hobby_mailer(self, hobby):
-    to_send = []
-    for person in self.people:
-      if hobby in person.hobbies:
-        to_send.append(person.email)
-    print('Mailing ' + hobby + ' to: ' + str(to_send))
-    return to_send
-  
-  def count_hobbies(self):
-    results = {}
-    for person in self.people:
-      for hobby in person.hobbies:
-        if hobby in results.keys():
-          results[hobby] += 1
-        else:
-          results[hobby] = 1
-    print('Hobby Results')
-    print(results)
-  
-  def already_present(self, check):
-    for person in self.people:
-      if person.email == check.email:
-        print(person.email + ' is already in our list')
-        return person
-    print(check.email + ' is not in our list')
-    return None
-
-  def add_person(self, check):
-    result = self.already_present(check)
-    if result is None:
-      print(check.email + ' has been added to our list')
-      self.people.append(check)
-    else:
-      for hobby in check.hobbies:
-        if hobby not in result.hobbies:
-          print('Added ' + hobby + ' to ' + check.email + '\' hobbies')
-          result.hobbies.append(hobby)
-
-
-mailer = Mailer()
-while True:
-  command = input('What would you like to do? (add, count, send, display, exit) ')
-  if command == 'add':
-    who = input('Enter name email and hobbies: ').split(' ')
-    mailer.add_person(Person(who[0], who[1], who[2].split(',')))
-  elif command == 'count':
-    mailer.count_hobbies()
-  elif command == 'send':
-    hobby = input('Which hobby? ')
-    mailer.send_hobby_mailer(hobby)
-  elif command == 'display':
-    print(mailer)
-  elif command == 'exit':
-    print('Goodbye')
-    break
-  else:
-    print('Sorry, I did not understand that')
-
-```

@@ -11,6 +11,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Project Spec - Oregon Trail] ([printable project Spec]) ([editable project spec])
+* [Alternate Project Spec - Daily Planner] ([printable alternate project Spec]) ([editable alternate project spec])
 * [Oregon Trail Starter Code]((https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/Unit_3_Project_Oregon_Trail_Starter_Code.py)
 )
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard](https://www.tealsk12.org/dashboard/))
@@ -96,9 +97,12 @@ Students will be able to...
 [Lesson 3.05: Oregon Trail (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-05-oregon-trail)
 
 [Project Spec - Oregon Trail]:project.md
+[Alternate Project Spec - Daily Planner]:alternate_project.md
 [Oregon Trail - Example Code]:oregon_trail.py
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
 
 [printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.pdf
 [editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.docx
+[printable alternate project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/alternate_project.pdf
+[editable alternate project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/alternate_project.docx

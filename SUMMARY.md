@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-    
+
 * [Curriculum Map](curriculum_map.md)
   * [Additional Topics for Certification](cert.md)
 
@@ -20,6 +20,7 @@
   * [Lesson 1.05: Quiz & Debugging](units/1_unit/05_lesson/lesson.md)
   * [Lesson 1.06: MadLibs](units/1_unit/06_lesson/lesson.md)
     * [Project 1: Mad Libs](units/1_unit/06_lesson/project.md)
+    * [Alternate Project 1: Magic Square](units/1_unit/06_lesson/alternate_project.md)
 * [Unit 2: Conditionals](units/2_unit/unit2_md.md)
   * [Lesson 2.01: Data Types & Casting](units/2_unit/01_lesson/lesson.md)
     * [Do Now 2.01](units/2_unit/01_lesson/do_now.md)
@@ -41,6 +42,7 @@
     * [Lab 2.06](units/2_unit/06_lesson/lab.md)
   * [Lesson 2.07: Text Game](units/2_unit/07_lesson/lesson.md)
     * [Project 2: Text Monster](units/2_unit/07_lesson/project.md)
+    * [Alternate Project 2: Todo List](units/2_unit/07_lesson/alternate_project.md)
 
 * [Unit 3: Functions](units/3_unit/unit_3.md)
   * [Lesson 3.01: Built In Functions](units/3_unit/01_lesson/lesson.md)
@@ -57,6 +59,7 @@
     * [Lab 3.04](units/3_unit/04_lesson/lab.md)
   * [Lesson 3.05: Oregon Trail](units/3_unit/05_lesson/lesson.md)
     * [Project 3: Oregon Trail](units/3_unit/05_lesson/project.md)
+    * [Alternate Project 3: Daily Planner](units/3_unit/05_lesson/alternate_project.md)
 
 * [Unit 4: Loops and Lists](units/4_unit/unit4.md)
   * [Lesson 4.01: Looping Basics](units/4_unit/01_lesson/lesson.md)
@@ -127,6 +130,7 @@
     * [Lab 7.04](units/7_unit/04_lesson/lab.md)
   * [Lesson 7.05: Pokemon](units/7_unit/05_lesson/lesson.md)
     * [Project 7: Pokemon](units/7_unit/05_lesson/project.md)
+    * [Alternate Project 7: Mailing List](units/7_unit/05_lesson/alternate_project.md)
 
 * [Unit 8: Final Project](units/8_unit/unit8.md)
   * [Project 8: Final Project](units/8_unit/project.md)

@@ -1,4 +1,5 @@
 # Alternate Project 2: TODO List
+
 Created By Brian Weinfeld
 
 Using Python, you will create an interactive TODO list that allows users to add and remove tasks from a list.
@@ -11,7 +12,7 @@ One of the most common tasks we use computers for is to store and track data. Pe
 
 ### Behavior
 
-```
+```python
 Welcome to your TODO list
 What would you like to do? (add, remove, list, exit) list
 []
@@ -52,7 +53,7 @@ Goodbye
 
 ### Implementation Details
 
-* The program offers the user 4 options. **add** will add elements to the TODO list. **remove** will remove elements from the list.  **list** will display the entire list and **exit** will exit the program. 
+* The program offers the user 4 options. **add** will add elements to the TODO list. **remove** will remove elements from the list.  **list** will display the entire list and **exit** will exit the program.
 
 * After a user selects **add** they should then be prompted for the item they want added to the list. Be sure to check before you add the item to the list. You don't want to add the item twice!
 
@@ -62,9 +63,9 @@ Goodbye
 
 This section contains additional components you can add to the project. These should only be attemped **after** the project has been completed.
 
-* It is a bit inconvenient to have to type two commands to add or remove an element from the list. Modify the program so that tasks  can be added or removed from the TODO list with a single command like **add go to gym** or **remove go to gym**. 
+* It is a bit inconvenient to have to type two commands to add or remove an element from the list. Modify the program so that tasks  can be added or removed from the TODO list with a single command like **add go to gym** or **remove go to gym**.
 
-```
+```python
 Welcome to your TODO list
 What would you like to do? (add, remove, undo, list, exit) add go to gym
 Successfully added
@@ -86,7 +87,7 @@ What would you like to do? (add, remove, undo, list, exit) list
 
 * It is helpful to have a feature to immediately remove the most recently added element to the list. This is often because the user made a mistake in adding the element to the list in the first place. Add an **undo** option to the program that will remove the most recently added item. If the item is no longer in the list, print an error.
 
-```
+```python
 Welcome to your TODO list
 What would you like to do? (add, remove, undo, list, exit) add go to gym
 Successfully added
@@ -111,69 +112,3 @@ What would you like to do? (add, remove, undo, list, exit) list
 The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
 
 It is possible to track enough information so that the __undo__ command can be called repeatedly. Modify the __undo__ command so that it will always work by removing the most recently added element in the TODO list that is still in the list. The only time the command should do nothing is when the TODO list is empty.
-
-## Solution
-
-```python
-print('Welcome to your TODO list')
-data = []
-while True:
-  command = input('What would you like to do? (add, remove, list, exit) ')
-  if command == 'add':
-    to_add = input('What would you like to add to your list? ')
-    if to_add not in data:
-      data.append(to_add)
-      print('Successfully added')
-    else:
-      print('This is already on your list!')
-  elif command == 'remove':
-    to_remove = input('What would you like to remove? ')
-    if to_remove not in data:
-      print('This is not in the list!')
-    else:
-      del data[data.index(to_remove)]
-      print('Sucessfully removed')
-  elif command == 'list':
-    print(data)
-  elif command == 'exit':
-    print('Goodbye')
-    break
-  else:
-    print('Sorry, I did not understand that')
-
-# extensions
-
-print('Welcome to your TODO list')
-data = []
-last = None
-while True:
-  command = input('What would you like to do? (add, remove, undo, list, exit) ')
-  if command.startswith('add'):
-    to_add = command.split(' ', 1)[1]
-    if to_add not in data:
-      data.append(to_add)
-      last = to_add
-      print('Successfully added')
-    else:
-      print('This is already on your list!')
-  elif command.startswith('remove'):
-    to_remove = command.split(' ', 1)[1]
-    if to_remove not in data:
-      print('This is not in the list!')
-    else:
-      del data[data.index(to_remove)]
-      print('Sucessfully removed')
-  elif command == 'undo':
-    if last not in data:
-      print('Cannot undo. You already removed this item')
-    else:
-      del data[data.index(last)]
-      print('Successfully undid last add.')
-  elif command == 'list':
-    print(data)
-  elif command == 'exit':
-    print('Goodbye')
-    break
-  else:
-    print('Sorry, I did not understand that')
-```

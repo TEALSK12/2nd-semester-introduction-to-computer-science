@@ -1,7 +1,8 @@
 # Alternate Project 4: Tic-Tac-Toe
+
 Modified by Brian Weinfeld
 
-Using loops, variables and functions in Python, you will create a Tic-Tac-Toe game for two human players. 
+Using loops, variables and functions in Python, you will create a Tic-Tac-Toe game for two human players.
 
 ## Overview
 
@@ -9,7 +10,7 @@ Using loops, variables and functions in Python, you will create a Tic-Tac-Toe ga
 
 ### Behavior
 
-```
+```python
 Welcome to Tic-Tac-Toe!
 'X' what is your name: Alice
 'O' what is your name: Bob
@@ -17,19 +18,19 @@ Game Start
  | |
  | |
  | |
- 
+
 Alice what row is your move: 1
 Alice what col is your move: 1
  | |
  |X|
  | |
- 
+
 Bob what row is your move: 0
 Bob what col is your move: 0
 O| |
  |X|
  | |
- 
+
 Alice what row is your move: 2
 Alice what col is your move: 0
 O| |
@@ -86,6 +87,7 @@ def check_winner(gameboard):
 def check_tied(gameboard):
   # finish
 ```
+
 * check_tied is used to determine whether the game is tied (all 9 spaces are filled but no one has won). Return True if the game is tied and False if it has not.
 
 ```python
@@ -118,79 +120,3 @@ The super challenge will require knowledge that has not been taught yet. You wil
 * Modify the gameloop so that instead of two human players, either (or both) of the players can be computers. The computer's names can be some variation on "Computer 1". Modify the make_move function so that computer can make an automatic selection. To begin, simply have the computer randomly select an available empty space for their move.
 
 * Continue to build on the above challenge by giving the computer some basic game logic. If the other player is about to win (ie: they have two in a row), then the computer should always select the blocking move. What kind of logic can you give the computer for its turn if it doesn't have to make a blocking move?
-
-## Solution
-
-```python
-def print_gameboard(gameboard):
-  for r in range(3):
-    for c in range(2):
-      if gameboard[r][c] == '':
-        print(" | ", end='')
-      else:
-        print(gameboard[r][c] + "| ", end='')
-    print(gameboard[r][2])
-
-def check_winner(gameboard):
-  for row in gameboard:
-    if row[0] == row[1] and row[1] == row[2] and row[0] in ['X', 'O']:
-      return row[0]
-  
-  for col in list(zip(*gameboard)):
-    if col[0] == col[1] and col[1] == col[2] and col[0] in ['X', 'O']:
-      return col[0]
-
-  if gameboard[0][0] == gameboard[1][1] and gameboard[1][1] == gameboard[2][2] and gameboard[0][0] in ['X', 'O']:
-    return gameboard[0][0]
-  
-  if gameboard[0][2] == gameboard[1][1] and gameboard[1][1] == gameboard[2][0] and gameboard[0][2] in ['X', 'O']:
-    return gameboard[0][2]
-  
-  return None
-
-def check_tied(gameboard):
-  for r in range(3):
-    for c in range(3):
-      if gameboard[r][c] == '':
-        return False
-  return True
-
-def make_move(gameboard, name, symbol):
-  while True:
-    row = int(input(name + ' what row is your move: '))
-    col = int(input(name + ' what col is your move: '))
-    if not(0 <= row <= 2) or not(0 <= col <= 2) or gameboard[row][col] != '':
-      print('Invalid move. Try again.')
-    else:
-      gameboard[row][col] = symbol
-      return
-
-print('Welcome to Tic-Tac-Toe')
-player_1 = input("'X' what is your name: ")
-player_2 = input("'O' what is your name: ")
-turn = player_1
-turn_symbol = 'X'
-while True:
-  print('Game Start')
-  board = [['']*3 for _ in range(3)]
-  print_gameboard(board)
-  while not check_tied(board):
-    make_move(board, turn, turn_symbol)
-    print_gameboard(board)
-    winner = check_winner(board)
-    if winner is not None:
-      print(winner + " wins!")
-      break
-    if turn == player_1:
-      turn = player_2
-      turn_symbol = 'O'
-    else:
-      turn = player_1
-      turn_symbol = 'X'
-  else:
-    print('Tie Game!')
-  command = input('Would you like to play again? ')
-  if command != 'yes':
-    break
-print('Goodbye')
-```
