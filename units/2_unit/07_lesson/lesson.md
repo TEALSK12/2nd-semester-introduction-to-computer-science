@@ -9,7 +9,12 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Project Spec - Text Monster] ([printable project Spec]) ([editable project spec])
+<<<<<<< HEAD
 * [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
+=======
+* [Alternate Project Spec - Todo List] ([printable Alternate project Spec]) ([editable Alternate project spec])
+* [Text Monster Starter Code]((https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
+>>>>>>> f3dace7f56f6eb84cd15f74a9702f152801ed191
 )
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Update the Project Spec as needed to meet your grading requirements
@@ -93,8 +98,11 @@ Students will be able to...
 [Lesson 2.07: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-text-game)
 
 [Project Spec - Text Monster]: project.md
+[Alternate Project Spec - tODO List]: project.md
 [Text Monster Game - Example Code]: project_file.py
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
 [printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project.pdf
 [editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project.docx
+[printable alternate project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/alternate_project.pdf
+[editable alternate project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/alternate_project.docx
