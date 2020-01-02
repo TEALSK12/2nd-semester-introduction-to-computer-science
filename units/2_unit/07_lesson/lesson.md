@@ -9,7 +9,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Project Spec - Text Monster] ([printable project Spec]) ([editable project spec])
-* [Text Monster Starter Code]((https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
+* [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
 )
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Update the Project Spec as needed to meet your grading requirements
