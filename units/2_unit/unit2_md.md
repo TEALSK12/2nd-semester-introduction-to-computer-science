@@ -1,6 +1,6 @@
 # Unit 2 - Data Types, Arguments, Lists and Loops
 
-## Essentional Questions
+## Essential Questions
 
 * How do you apply Data Types in Python?
 * How do you apply Arguments in Python?
