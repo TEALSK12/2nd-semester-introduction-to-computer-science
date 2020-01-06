@@ -4,6 +4,12 @@
 
 -----------------
 
+### 1/6/2020
+
+Added Unit 6 Slide decks
+
+-----------------
+
 ### 12/31/2019
 
 * Added Alternate Projects to units
