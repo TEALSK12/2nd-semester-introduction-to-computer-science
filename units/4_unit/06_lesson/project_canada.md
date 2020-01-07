@@ -1,9 +1,10 @@
 # Project 4: Tic-Tac-Toe
 
-Using Python, students will create a Tic-Tac-Toe game. This project has two parts: 
+Using Python, students will create a Tic-Tac-Toe game. This project has 3 parts: 
 
 1. Designing the game so that two users can play Tic-Tac-Toe against one another.
 2. Creating a Tic-Tac-Toe checker which will check the board to see if Xs or Os have won the game. 
+3. Enhancement:  replacing the Xs and 0s with two other characters, within another context!
 
 ## Overview
 [Tic-Tac-Toe](http://www.merriam-webster.com/dictionary/tic-tac-toe) is a game in which one player draws X's and another player draws O's inside a set of nine squares and each player tries to be the first to fill a row, column, or diagonal of squares with either X's or O's. We will be writing an interactive Tic-Tac-Toe program. At the end of each turn the computer will check to see if X's have won the game or if the O's have won the game. 
