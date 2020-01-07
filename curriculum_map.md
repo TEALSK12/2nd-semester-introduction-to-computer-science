@@ -23,6 +23,7 @@
 | 2.06b: Lists Recap | Define and identify: index, slice, append, pop, remove. Apply list conditionals to determine if an element is in a list. | N/A |
 | 2.07: Game Loop | Define and identify: while loop. Use a while loop to simulate game play. | Tic-Tac-Toe Revisited |
 | 2.08: Text Game | Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game. | Zork - Text Monster Game |
+| 2.08x: Text Game | Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game. | Ogopogo - Text Monster Game |
 
 ## Unit 3: 
 | Lesson | Objectives | Lab |
@@ -32,6 +33,7 @@
 | 3.03: Return vs Print | Define and identify: return, none, void. Explain and demonstrate the difference between printing and returning. | War (Card Game) |
 | 3.04: Debugging and Scope | Define and identify: scope, aliasing, stack trace. Understand that changing a list in a function updates the list outside of the function. Understand that updating variables in a function does not affect the variable outside of the function. Understand global variables. Draw a simple stack trace. | Aliasing & Scope |
 | 3.05: Oregon Trail | Use project planning skills to complete a longer-term project. Create functions to organize a project. Apply skills learned in units 1-3 to create a functioning program. | Oregon Trail |
+| 3.05x: Crosscountry Canada | Use project planning skills to complete a longer-term project. Create functions to organize a project. Apply skills learned in units 1-3 to create a functioning program. | Crosscountry Canada |
 
 ## Unit 4: 
 | Lesson | Objectives | Lab |
