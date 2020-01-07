@@ -42,9 +42,11 @@ of the following commands:
 ---
 #### Emphasize with students...
 
-#### Curriculum Competencies - Applied Technologies
+#### Curriculum Competencies - Applied Technologies, Applied Design
 
 In this project, we are creating a software simulation of a real-world activity and within a real-world geographical context.   As you design your game, be sure to research the location, roads, and natural resources associated with your chosen locations, so as to make the game as realistic as possible.  One advantage of software is ease of accessibility by internet transfer.  We are able to share digital creations/games with players who live even in remote or un-noticed locations.  At the same time, all players are introduced to, and educated about, the valuable resources of our land and the incredible vastness of the our nation. 
+
+Sharing your digital creation provides opportunity for collecting feedback, cross-polination ideas, and direct future development iterations.  Find a school in another part of the country who might be interested to play / test out some of your class projects.  Provide a quick survey of questions to relating to their user experience, joys and frustrations, together with ideas for future improvements. 
 
 ---
 
