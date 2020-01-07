@@ -34,7 +34,7 @@ of the following commands:
   - travel is always East or West (most populated regions in Canada are along the southern border).
   - limit the map to have only 7-10 major cities
   - limit each city to have only 1-2 commodities
-  * The player's health randomly decreases randomly every few moves. 
+  * The player's health randomly decreases by a random amount every few moves. 
   * The player eats 5kgs of food a day.
   * The truck's gas tank is 10,000 Litres
   * The truck can drive 100km with 10 Litres of gas (reference: https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/oee/pdf/transportation/tools/fuelratings/2018%20Fuel%20Consumption%20Guide.pdf)
@@ -44,12 +44,13 @@ of the following commands:
 
 #### Curriculum Competencies - Applied Technologies
 
-In this project, we are creating a software simulation of a real-world activity and context.   As you design your game, be sure to research the geographiy and natural resources of your chosen city locations, so as to make the game as realistic as possible.  
+In this project, we are creating a software simulation of a real-world activity and within a real-world geographical context.   As you design your game, be sure to research the location, roads, and natural resources associated with your chosen locations, so as to make the game as realistic as possible.  One advantage of software is ease of accessibility by internet transfer.  We are able to share digital creations/games with players who live even in remote or un-noticed locations.  At the same time, all players are introduced to, and educated about, the valuable resources of our land and the incredible vastness of the our nation. 
 
 ---
 
 ### Implementation details 
 * Document the behaviour of your game.  This includes the list of commands, and list of city/commodities.
+* First describe the "basic" version.  Then, optionally, describe "future release" possibilities.
 * Show this proposal to your teacher, to make sure that the scope is suitable.
 
 ---
@@ -62,7 +63,7 @@ your software is supposed to do, or will do.   Before you begin the design and c
 of this game, write down the behaviour of your game.   You can use the suggestions
 above, or modify it to be more unique.  However, keep your scope simple and clear. 
 Resist the urge to overly complicate the game in your scope definition.  Once you
-get a version that is working, you can add new commands or features in a future revision!  Software
+get a basic version that is working, you can add new commands or features in a future revision!  Software
 development is iterative, and scaffolds over time.  
 
 ---
