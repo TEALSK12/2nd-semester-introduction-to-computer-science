@@ -44,6 +44,7 @@
 | 4.04: Nested Lists & Looping | Define and identify: nested list. Use nested for loops to traverse through nested lists. | Shopping List |
 | 4.05: Debugging and Quiz | Read and understand longer programs involving loops. Demonstrate knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. | Debugging Practice |
 | 4.06: Tic-Tac-Toe | Use project planning skills to complete a larger project. Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game. | Tic-Tac-Toe |
+| 4.06x: Tic-Tac-Toe with a Twist| Use project planning skills to complete a larger project. Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game. | Tic-Tac-Toe with a Twist |
 
 ## Unit 5: 
 | Lesson | Objectives | Lab |
