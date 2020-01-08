@@ -30,8 +30,8 @@ Using Python, students will create a Tic-Tac-Toe game. This project has 3 parts:
 * Create a document called a "test plan" to list out how you will test your game. 
 * This should include all the test cases related to game play. 
 * Before you "deliver" (or submit) your game, you should go through all the items on your test plan.
-* Ask yourself:  As a User, what should they be able to do?  What is their goal?  What are some possible inputs?
-* A helpful template is this sentence:  "As a User, I want to ______, so that I can______"
+* Ask yourself:  As a User, what should they be able to do?  What is their goal?  What are the possible inputs?
+* A helpful template is this sentence:  "As a User, I want to ..., so that I can ..."
 * A test plan should include going through all the goals/tasks, and see if they are achieved. 
 * A test plan should include trying bad, or un-intended, input.  How does your game respond?
 
