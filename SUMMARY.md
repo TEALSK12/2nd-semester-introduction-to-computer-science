@@ -20,7 +20,7 @@
     * [Do Now 1.04](units/1_unit/04_lesson/do_now.md)
     * [Lab 1.04](units/1_unit/04_lesson/lab.md)
   * [Lesson 1.05: Quiz & Debugging](units/1_unit/05_lesson/lesson.md)
-  * [Lesson 1.06: MadLibs](units/1_unit/06_lesson/lesson.md)
+  * [Lesson 1.06: Project](units/1_unit/06_lesson/lesson.md)
     * [Project 1: Mad Libs](units/1_unit/06_lesson/project.md)
     * [Alternate Project 1: Magic Square](units/1_unit/06_lesson/alternate_project.md)
     * [Project Grading Rubric](units/1_unit/06_lesson/rubric.md)
@@ -46,7 +46,6 @@
   * [Lesson 2.07: Text Game](units/2_unit/07_lesson/lesson.md)
     * [Project 2: Text Monster](units/2_unit/07_lesson/project.md)
     * [Alternate Project 2: Todo List](units/2_unit/07_lesson/alternate_project.md)
-    * [Project Grading Rubric](units/2_unit/07_lesson/rubric.md)
 
 * [Unit 3: Functions](units/3_unit/unit_3.md)
   * [Lesson 3.01: Built In Functions](units/3_unit/01_lesson/lesson.md)
