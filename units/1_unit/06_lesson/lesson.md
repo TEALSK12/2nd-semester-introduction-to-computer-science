@@ -13,7 +13,7 @@
 * Practice running the example code
 * Read through the project specifications so that you can completely communicate the requirements of the project
 * Review [4 Steps to Solve Any CS Problem]
-* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)
+* <!--[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)-->
 
 ## Day 1 Pacing
 
@@ -74,19 +74,7 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 
 ### Scheme/Rubric
 
-| **Functional Correctness(Behavior)**                                |     |
-| --------------------------------------------------------------- |-----|
-| Program greets user and explains rules  | 3   |
-| Program accurately requests 10 words (1 for word, 1 for correct request)| 20|
-| Program prints full Mad Lib | 10   |
-| Program exhibits creativity               | 2   |
-| **Sub total**                                                   | 35  |
-| **Technical Correctness**                                    |     |
-| Program utilizes variable names to convey meaning               | 5  |
-| Correct order of inputted words                                 | 10  |
-| Only 3 print statements                                         | 10  |
-| **Sub total**                                                   | 25  |
-| **Total**                                                       | 60 |
+[Objective Rubric](rubric.md)
 
 ## Forum discussion
 
