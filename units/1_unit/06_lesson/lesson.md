@@ -1,4 +1,4 @@
-# Lesson 1.06: Mad Libs
+# Lesson 1.06: Project
 
 ## Learning Objectives
 
@@ -13,7 +13,7 @@
 * Practice running the example code
 * Read through the project specifications so that you can completely communicate the requirements of the project
 * Review [4 Steps to Solve Any CS Problem]
-* <!--[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)-->
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)
 
 ## Day 1 Pacing
 
@@ -74,7 +74,7 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 
 ### Scheme/Rubric
 
-[Objective Rubric](rubric.md)
+[Project Grading Rubric](rubric.md) - based on project objectives
 
 ## Forum discussion
 
