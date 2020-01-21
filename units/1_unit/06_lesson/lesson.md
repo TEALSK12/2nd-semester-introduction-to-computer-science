@@ -74,7 +74,8 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 
 ### Scheme/Rubric
 
-[Project Grading Rubric](rubric.md) - based on project objectives
+* [Project Grading Rubric](rubric.md) - based on project objectives
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)
 
 ## Forum discussion
 
