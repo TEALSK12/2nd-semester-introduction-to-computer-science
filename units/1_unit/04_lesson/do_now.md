@@ -1,5 +1,8 @@
 # Do Now 1.04
-Type in the following code into a file and save: 
+
+## 1. In your Console
+
+### Type and run the following code
 
 ```python
 a = input("What is your name? ")
@@ -8,23 +11,26 @@ a = input("What is your name? ")
 print("Hello there, " + a)
 ```
 
+## In your Notebook
+
+### Answer the following questions
+
 1. Read through the code and write down what you expect the printed results to be?
-<br><br>
 2. Run the code and write down the actual printed result?
-<br><br>
-3. Briefly describe what the `#` does? 
-<br><br>
+3. Briefly describe what the `#` does?
 4. Briefly describe what `input` does?
-<br><br>
 
 ## Snap to Python
+
 Convert the following to Python code:
-![Snap Input](snap_input.png)
-<br>
-<br>
+
+  ![Snap Input](snap_input.png)
 
 ## Swapping
-Copy the following code into your editor. 
+
+### 2. In your Console
+
+#### Type and run the following
 
 ```python
 a = "this sentence should go second"
@@ -36,7 +42,5 @@ print(a)
 print(b)
 ```
 
-Run the program. What is the output? 
-<br><br>
-
-Write code to swap the values of variables `a` and `b`.
+1. Run the program. What is the output?
+2. Write code to swap the values of variables `a` and `b`.

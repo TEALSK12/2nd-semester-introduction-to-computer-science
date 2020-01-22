@@ -1,52 +1,16 @@
 # Do Now 2.03
 
-## Part 1
-Open up the console. Type each line of the following code into the interactive editor: 
-```
- >>> 5 < 3
- >>> 5 > 3
- >>> type(5 < 3)
- >>> type(5 > 3) 
- >>> my_favorite_animal = "cats"
- >>> user_favorite_animal = input("What is your favorite animal? ") 
- >>> my_favorite_animal == user_favorite_animal
+In the console, create a schedule program. Given the hour of the day print out where you should be. If you're not doing anything else you should be "sleeping".
+
+```python
+ >>> What hour? 12pm
+ >>> You should be at lunch!
  ```
- What does `5 < 3` evaluate to?  
-<br>
-<br>
-<br>
-What is the type of `5 < 3`? What does that stand for (should be familiar from Snap!)?
-<br>
-<br>
-<br>
 
-What is the difference between `==` and `=` ?
-<br>
-<br>
-<br>
+## In your Notebook
 
-What data type do you think `my_favorite_animal == user_favorite_animal` is? 
-<br>
-<br>
-<br>
+### Answer the following
 
-## Part 2
-Open up the console. Type the following code into the interactive editor. 
- ```
- >>> months_with_driving_permit = 6
- >>> age = 16
- >>> can_get_license = months_with_driving_permit >= 6 and age >= 16
- >>> print(can_get_license) 
- 
-```
-
-What does `and` do here? What type do you think `can_get_license` is? 
-<br>
-<br>
-<br>
-
-Update the code to fit the new driving law: If you are over the age of 18 you don't need to have a permit. The other law still applies for people ages 16-18. 
-<br>
-<br>
-<br>
-
+1. How did you accomplish this? Did you feel like something was missing in your program?  
+2. What if you wanted to add in a weekly functionality? For instance, maybe on Tuesday at 4pm you are at soccer practice, but on Thursday at 4pm you are at math club!
+3. How would you implement this in your program?

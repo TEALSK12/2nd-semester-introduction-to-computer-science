@@ -1,15 +1,17 @@
 # Lab 3.04 - Aliasing & Scope
 
-## Aliasing
-* Will updating b affect a? Explain why or why not?
+## In Your Notebook
+
+### Aliasing
+
+1. Will updating b affect a? Explain why or why not?
 
     ```python
     a = [1, 2, 4]
     b = a
     ```
-    <br>
 
-* Predict what `my_list` list will print out when this code is run. If you are not sure check the code by copying and running it.
+2. Predict what `my_list` list will print out when this code is run. If you are not sure check the code by copying and running it.
 
     ```python
     # input: a list of ints
@@ -22,10 +24,10 @@
     my_list = [1, 2, 3, 4, 5]
     update_list(my_list)
     ```
-    <br>
 
-## Scope
-* Draw a stack diagram for the following:
+### Scope
+
+1. Draw a stack diagram for the following:
 
     ```python
     var_1 = "kittens"
@@ -47,13 +49,14 @@
 
     my_song = my_function_2(var_1, var_2)
     ```
-    <br>
-    <br>
-    <br>
 
-* Write down what (if anything) is wrong with the following code. If there was an issue write out how to fix it. If you are unsure copy and run the code and fix it.
+## Complete the following on your own
 
-1\.
+1. Write down what (if anything) is wrong with the following code.
+2. If there was an issue write out how to fix it.
+3. If you are unsure copy and run the code and fix it
+
+### Problem 1
 
 ```python
 var_1 = 'cat'
@@ -70,7 +73,7 @@ print_out_my_favorite(var_1)
 print(var_2)
 ```
 
-2\.
+### Problem 2
 
 ```python
 var_1 = 'cat'
@@ -88,7 +91,7 @@ print_out_my_favorite(var_1)
 print(var_1 + " " + var_2)
 ```
 
-3\.
+### Problem 3
 
 ```python
 var_1 = 'cat'
@@ -104,17 +107,22 @@ print_out_my_favorite(var_1)
 print(var_2)
 ```
 
-* Write a program that has a global variable, `my_num`. Create three functions that update `my_num`:
+## In your your console
 
-    1. `add2`: this function adds 2 to `my_num`
-    2. `multiply_num`: this function takes in a parameter, `multiplier`, and multiplies `my_num` by that parameter
-    3. `add2_and_multiply`: this function takes in a parameter, `multiplier`, and calls `add2`, then calls `multiply_num`.
-  
-  Complete the program by writing code in the main part of the program that:
-  
-    1. sets `my_num` to some initial value you choose
-    2. prints `my_num`
-    3. calls `add2_and_multiply()` with some argument you choose
-    4. prints the final value of `my_num`
+### Write a program using the following specifications
 
-  Confirm that the printed values match what you expected.
+1. That has a global variable, `my_num`.
+2. Create three functions that update `my_num`
+3. `add2`: this function adds 2 to `my_num`
+4. `multiply_num`: this function takes in a parameter, `multiplier`, and multiplies `my_num` by that parameter
+5. `add2_and_multiply`: this function takes in a parameter, `multiplier`, and calls `add2`, then calls `multiply_num`.
+  
+### Complete the program
+
+Write the following code in the main part of the program.
+
+1. sets `my_num` to some initial value you choose
+2. prints `my_num`
+3. calls `add2_and_multiply()` with some argument you choose
+4. prints the final value of `my_num`
+5. Confirm that the printed values match what you expected.

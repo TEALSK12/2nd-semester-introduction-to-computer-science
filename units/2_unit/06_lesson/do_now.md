@@ -1,66 +1,54 @@
 # Do Now 2.06
 
-## Part 1
-Open up the console. Type the following code using interactive mode:
-```
- >>> a = [123, 'First Item', 456, 'Second Item']
- >>> b = a[0:2]
- >>> print(a)
- >>> print(b)
- 
-```
+## 1. In your Notebook
 
-What happens to a? What is b? What type is b? 
-<br>
-<br>
-<br>
-```
- >>> a = [123, 'First Item', 456]
- >>> a.remove('First Item')
- >>> print(a) 
-```
+### Answer the following
 
-What does `remove` do? What would the length of this list be after `remove`? 
-<br>
-<br>
-<br>
+1. How would you print out something 10 times? What about 100? What about 1,000?
+2. Can you remember something from Snap! that might allow that?
 
-```
- >>> a = [123, 'First Item', 456]
- >>> a.pop()
- >>> print(a) 
-```
+## 2. Open up the console
 
-What does `pop` do? What is the difference between `remove` and `pop`? 
-<br>
-<br>
-<br>
-```
- >>> a = [123, 'First Item', 456, 'Second Item']
- >>> b = a + ['Third Item']
- >>> print(a)
- >>> print(b)
- 
-```
+### Type the following code using interactive mode
 
-What happens to a? What is b? What type is b? 
-<br>
-<br>
-<br>
+```python
+while True:
+    print('a')
 
-```
- >>> a = []
- >>> print(len(a))
- >>> a.append('First Item')
- >>> print(a)
- 
-```
-What was the length of `[]`?
-<br>
-<br>
-<br>
+ ```
 
-What does `append` do? What would the length be after `append`? 
-<br>
-<br>
-<br>
+## 3. In your Notebook
+
+### Write responses for the following
+
+1. What happens when you run this code?
+2. Try using other Boolean expressions instead of `True` (e.g. `4 > 5` and `9 != 2`), and explore what happens.
+
+3. How would you print out something 10 times? What about 100? What about 1,000?
+
+4. Can you remember something from Snap! that might allow that?
+
+## 4. Open up the console
+
+### Type the following code
+
+```python
+while True:
+    print('a')
+ ```
+
+## 5. In your Notebook
+
+### continue  responses for the following
+
+1. What happens when you run this code?
+2. Try using other Boolean expressions instead of `True` (e.g. `4 > 5` and `9 != 2`), and explore what happens.
+
+## 6. Open up the console
+
+### Type and run the following code (Remember this from Unit 2?)
+
+```python
+if animal in ['cat', 'dog']:
+    print("A great pet!")
+ ```

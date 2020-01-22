@@ -1,54 +1,73 @@
-# Lesson 2.06: Lists 2
+# Lesson 2.06: Game Loop
 
 ## Learning Objectives
-Students will be able to... 
 
-* Define and identify: **slice, append, pop, remove**
-* Slice a list
-* Add and remove elements from a list
+Students will be able to...
+
+* Define and identify: **while loop**
+* Use a while loop to simulate game play
 
 ## Materials/Preparation
+
 * [Do Now]
-* [Lab - Tic-Tac-Toe]
-* Associated Reading - section 2.5 of Book
+* [Lab - Tic-Tac-Toe Revisited] ([printable lab document]) ([editable lab document])
+
+* [Associated Readings 2.7](https://tealsk12.gitbook.io/intro-cs-2/readings#2-7)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
+
 | **Duration**   | **Description** |
 | ---------- | ----------- |
-| 10 Minutes  | Do Now      |
+| 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
-| 30 Minutes | Lab         |
+| 35 Minutes | Lab         |
 | 5 Minutes | Debrief  |
 
 ## Instructor's Notes
-1. **Do Now**
-    * Students may need more time than usual to fully go through this lesson's Do Now.
-2. **Lesson**
-    * Ask students what doing `a[0:2]` in the Do Now did.
-        * Define **slicing**: a list operation that gives back a list starting from the index to the left of the colon and going up to the index to the right of the colon. 
-        * Note that slicing doesn't exist in Snap!
-    * Ask students what the list would return if you did `a[1:2]`.
-    * Explore the differences between `remove` and `pop`, asking for student input. 
-    * Ask students what the plus sign and `append` do to a list.
-    * Ask students to write down or brainstorm how they would represent a Tic-Tac-Toe board using lists.
-        * Create a Tic-Tac-Toe board with students in class. 
-3. **Lab**
-    * Students practice slicing, adding, and removing elements from some given lists. 
-    * Students create a single move Tic-Tac-Toe game
-4. **Debrief**
-    * Check student progress and completion of the lab, wrap up by taking any final questions.
 
-### Accommodation/Differentiation
-If students are moving quickly, start the next topic of using a while loop as a game loop. Explore the concept of keeping score for the game.
+### 1. Do Now
 
-If students are moving slowly then spend an extra day reviewing lists and completing lab activities. 
+* Students experiment with creating `while` loops.
 
-There is also an opportunity for a quiz after the game loop lesson and before the project. 
+### 2. Lesson
+
+#### Instruction
+
+* Ask students what the `while` loops that they created did.
+* Go over the syntax of `while` loops. Use this as an opportunity to remind students of **boolean expressions**.
+
+#### Discussion
+
+* Ask: how might while loops be useful?
+* Ask students to consider how they could write a loop using user input, using the following scenario:
+* What if you wanted the loop to stop when the user inputs "quit"?
+
+#### Activity
+
+* Have the students think about and write a solution
+
+#### Student Share
+
+* call students up to the board to write out how they solved it.
+
+### 3. Lab
+
+* Students work to create a Tic-Tac-Toe game that allows turns (up to 9), building on their previous work.
+
+### 4. Debrief
+
+* Check for completion and understanding of the lab.
+
+## Accommodation/Differentiation
+
+If there is extra time, have students start reading through the project specs and thinking about how they will apply what they have learned this unit to complete the project.
 
 ## Forum discussion
-[Lesson 2.06: Lists 2 (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-06-lists-2)
-  
 
+[Lesson 2:06: Game Loop (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-06-game-loop)
+  
 [Do Now]:do_now.md
-[Lab - Tic-Tac-Toe]:lab.md
+[Lab - Tic-Tac-Toe Revisited]:lab.md
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.docx

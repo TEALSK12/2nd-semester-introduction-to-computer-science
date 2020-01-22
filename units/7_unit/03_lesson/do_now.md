@@ -1,20 +1,26 @@
 # Do Now 7.03
 
-1. Type and run the following code. 
-    ```python
-    class Time(object): 
-	    def __init__(self, hour, minute, second): 
-		    self.hour = hour
-		    self.minute = minute
-		    self.second = second
+## In your Console
 
-    time1 = Time(5, 32, 0)
-    time2 = Time(23, 11, 11)
+### Type the following
 
-    print(time1)
-    print(time2)
-    ```
+```python
+class Time(object):
+  def __init__(self, hour, minute, second):
+        self.hour = hour
+        self.minute = minute
+        self.second = second
 
-2. Based on what is output, how can you tell the difference between `time1` and `time2`? 
+time1 = Time(5, 32, 0)
+time2 = Time(23, 11, 11)
 
-3. What happens if you try to add `time1` add `time2`? 
+print(time1)
+print(time2)
+```
+
+## In your Notebook
+
+### Respond to the folllowing
+
+1. Based on what is output, how can you tell the difference between `time1` and `time2`?
+2. What happens if you try to add `time1` add `time2`?

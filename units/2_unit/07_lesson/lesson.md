@@ -1,44 +1,86 @@
-# Lesson 2.07: Game Loop
+# Lesson 2.07: Project 2 - Text Monster
 
 ## Learning Objectives
-Students will be able to... 
-* Define and identify: **while loop**
-* Use a while loop to simulate game play
+
+Students will be able to...
+
+* Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game.
 
 ## Materials/Preparation
-* [Do Now]
-* [Lab - Tic-Tac-Toe Revisited]
-* Associated Reading - section 2.7 of Book
-* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
-## Pacing Guide
+* [Project Spec - Text Monster] ([printable project Spec]) ([editable project spec])
+
+* [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
+* [Alternate Project Spec - Todo List] ([printable Alternate project Spec]) ([editable Alternate project spec])
+* [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
+* Update the Project Spec as needed to meet your grading requirements
+* Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
+* Review [4 Steps to Solve Any CS Problem]
+* [Associated Readings 2.7](https://tealsk12.gitbook.io/intro-cs-2/readings#2-7)
+* <!--[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)-->
+
+### Day 1 Pacing Guide
+
 | **Duration**   | **Description** |
 | ---------- | ----------- |
-| 5 Minutes  | Do Now      |
-| 10 Minutes | Lesson      |
-| 35 Minutes | Lab         |
+| 10 Minutes | Project Overview/Demo|
+| 40 Minutes | Design      |
+| 5 Minutes | Debrief  |
+
+### Days 2 - 9 Pacing Guide
+
+| **Duration**   | **Description** |
+| ---------- | ----------- |
+| 10 Minutes | Review      |
+| 40 Minutes | Project Work|
 | 5 Minutes | Debrief  |
 
 ## Instructor's Notes
-1. **Do Now**
-    * Students experiment with creating `while` loops.
-2. **Lesson**
-  * Ask students what the `while` loops that they created did. 
-    * Go over the syntax of `while` loops. Use this as an opportunity to remind students of **boolean expressions**.
-        * Ask: how might while loops be useful?
-    * Ask students to consider how they could write a loop using user input, using the following scenario:
-        * What if you wanted the loop to stop when the user inputs "quit"? 
-        * Have the students think about and write a solution, then call students up to the board to write out how they solved it.
-3. **Lab**
-    * Students work to create a Tic-Tac-Toe game that allows turns (up to 9), building on their previous work.
-4. **Debrief**
-    * Check for completion and understanding of the lab. 
-### Accommodation/Differentiation
 
-If there is extra time, have students start reading through the project specs and thinking about how they will apply what they have learned this unit to complete the project.
+### 1. 4 Steps to Solve Any CS Problem
+
+* Review [4 Steps to Solve Any CS Problem]
+
+### 2. Project Overview/Demo
+
+* Distribute the project spec to all students and walk them through the goals and requirements of the project.
+* Show a demo of a completed project.
+* Go over specific design considerations from the project spec:
+* Introduce the concept of global variables and how they will be useful here.
+* Identify the importance of the "User Pocket" and how to use a list along with `append` and `remove` for this information.
+
+### 3. Design
+
+* Have students stay at their desks and write down what lists they'll need.
+* They should break up the project into parts: parsing user input, keeping track of players position, returning what is at the player's position .
+
+### 4. Debrief/Review
+
+* During discussion and warp up at the end of class, get a feeling for where students are in the project.
+* During the review the next morning cover the topics/areas that students are struggling on and present tips, suggestions, and goals for that day.
+
+## Accommodation/Differentiation
+
+* Make sure to do status checks with all students throughout the project.
+* Identify students that are struggling on the project after the first few days and provide additional scaffolding & support as needed.
+* For any students that are advancing rapidly through the project, give them extension ideas such as adding a new feature or floor to the game.
+* Advanced students can also be paired as tutors/helpers with struggling students.
+
+## Grading
+
+[Objective Rubric](rubric.md)
 
 ## Forum discussion
-[Lesson 2:07: Game Loop (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-game-loop)
-  
-[Do Now]:do_now.md
-[Lab - Tic-Tac-Toe Revisited]:lab.md
+
+[Lesson 2.07: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-text-game)
+
+[Project Spec - Text Monster]: project.md
+[Alternate Project Spec - tODO List]: project.md
+[Text Monster Game - Example Code]: project_file.py
+[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
+[4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
+[printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project.pdf
+[editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project.docx
+[printable alternate project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/alternate_project.pdf
+[editable alternate project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/alternate_project.docx

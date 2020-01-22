@@ -1,8 +1,12 @@
-Associated Readings adapted from [**Think Python - How To Think Like A Computer Scientist**] by
-Allen Downey
+# Associated Readings
 
-# Unit 1
+Adapted from **Think Python - How To Think Like A Computer Scientist** by
+Allen Downey ([HTML Version](http://greenteapress.com/thinkpython/html/index.html))([PDF Version](http://www.greenteapress.com/thinkpython/thinkpython.pdf))
+
+## Unit 1 - Introduction to Python
+
 ## 1.1
+
 ### Values and Types
 
 A value is one of the basic things a program works with, like a letter or a number. The values we
@@ -65,10 +69,6 @@ exponentiation, as in the following examples:
 20+32   hour-1   hour*60+minute   minute/60   minute//60   5**2   (5+9)*(15-7)
 ```
 
-In some other languages, ^ is used for exponentiation, but in Python it is a bitwise operator called
-XOR. We won’t cover bitwise operators in this book, but you can read about them at
-http://wiki.Python.org/moin/BitwiseOperators. Exponentiation in Python3 is **. 
-
 Python 3 has two division operators. The `/` operator, also known as *true division*, will always produce a floating point answer. The `//` operator, also known as *floor division*, will round the quotient down to the nearest integer:
 
 ```Python
@@ -78,7 +78,6 @@ minute=170
 >>> minute // 60
 2
 ```
-
 
 ### Expressions and Statements
 
@@ -98,6 +97,7 @@ simpler to think of them as different things. The important difference is that a
 value; a statement does not.
 
 ## 1.2
+
 ### Variables
 
 One of the most powerful features of a programming language is the ability to manipulate variables.
@@ -177,7 +177,8 @@ If the interpreter complains about one of your variable names and you don’t kn
 on this list.
 
 ## 1.3
-### What is debugging?
+
+### Debugging
 
 Programming is error-prone. For whimsical reasons, programming errors are called bugs and the
 process of tracking them down is called debugging.
@@ -242,9 +243,9 @@ out as a simple program Linus Torvalds used to explore the Intel 80386 chip. Acc
 Greenfield, “One of Linus’s earlier projects was a program that would switch between printing AAAA
 and BBBB. This later evolved to Linux.” (The Linux Users’ Guide Beta Version 1).
 
-# Unit 2
+## Unit 2 - Data Types, Conditionals, Booleans and Lists
 
-## 2.1 Variables, expressions and statements
+## 2.1
 
 ### Values and types
 
@@ -294,6 +295,7 @@ error message, but it doesn’t do the “right” thing.
 ### Exercises
 
 #### Exercise 1
+
 Assume that we execute the following assignment statements:
 
 ```Python
@@ -314,10 +316,11 @@ of the expression):
 Use the Python interpreter to check your answers.
 
 #### Exercise 2
+
 Practice using the Python interpreter as a calculator:
 
-The volume of a sphere with radius r is 4/3 π r<sup>3</sup>. What is the volume of a sphere with
-radius 5? (Hint: 392.7 is wrong!) 
+The volume of a sphere with radius r is 4/3 π r <sup>3</sup>. What is the volume of a sphere with
+radius 5? (Hint: 392.7 is wrong!)
 
 Suppose the cover price of a book is $24.95, but bookstores get a
 40% discount. Shipping costs $3 for the first copy and 75 cents for each additional copy. What is
@@ -523,6 +526,7 @@ if 0 < x and x < 10:
 ```
 
 ## 2.4
+
 ### A list is a sequence
 
 Like a string, a list is a sequence of values. In a string, the values are characters; in a list,
@@ -604,6 +608,7 @@ If an index has a negative value, it counts backward from the end of the list.
 ## 2.5
 
 ### List operations
+
 The + operator concatenates lists:
 
 ```Python
@@ -699,6 +704,7 @@ If you know the element you want to remove you can use remove:
 ```
 
 ## 2.6
+
 The in operator works on lists.
 
 ```Python
@@ -724,6 +730,7 @@ while n > 0:
     n = n-1
 print('Blastoff!')
 ```
+
 You can almost read the while statement as if it were English. It means, “While n is greater than 0,
 display the value of n and then reduce the value of n by 1. When you get to 0, display the word
 Blastoff!”
@@ -768,12 +775,10 @@ For example, if the starting value is a power of two, then the value of n will b
 through the loop until it reaches 1. The previous example ends with such a sequence, starting with
 16.
 
-The hard question is whether we can prove that this program terminates for all positive values of n.
-So far, no one has been able to prove it or disprove it!
-(See http://en.wikipedia.org/wiki/Collatz_conjecture.)
+## Unit 3 - Functions
 
-# Unit 3
 ## 3.1
+
 ### Function calls
 
 In the context of programming, a function is a named sequence of statements that performs a
@@ -1009,11 +1014,13 @@ function definition generates no output.
 As you might expect, you have to create a function before you can execute it. In other words, the
 function definition has to be executed before the first time it is called.
 
-### Exercise 1
+### Exercise 3.1
+
 Move the last line of this program to the top, so the function call appears before the definitions.
 Run the program and see what error message you get.
 
-### Exercise 2
+### Exercise 3.2
+
 Move the function call back to the bottom and move the definition of `print_lyrics` after the
 definition of `repeat_lyrics`. What happens when you run this program?
 
@@ -1104,6 +1111,7 @@ parameter (bruce). It doesn’t matter what the value was called back home (in t
 `print_twice`, we call everybody bruce.
 
 ## 3.3
+
 ### Return values
 
 Some of the built-in functions we have used, such as the math functions, produce results. Calling
@@ -1147,6 +1155,7 @@ def absolute_value(x):
     else:
         return x
 ```
+
 Since these return statements are in an alternative conditional, only one will be executed.
 
 As soon as a return statement executes, the function terminates without executing any subsequent
@@ -1175,10 +1184,38 @@ None
 
 By the way, Python provides a built-in function called abs that computes absolute values.
 
-#### Exercise 1
+#### Exercise 3.3
+
 Write a compare function that returns 1 if x > y, 0 if x == y, and -1 if x < y.
 
 ## 3.4
+
+### Aliasing
+
+If a refers to an object and you assign b = a, then both variables refer to the same object:
+
+```Python
+>>> a = [1, 2, 3]
+>>> b = a
+>>> b is a
+True
+```
+
+The association of a variable with an object is called a reference. In this example, there are two
+references to the same object.
+
+An object with more than one reference has more than one name, so we say that the object is aliased.
+
+If the aliased object is mutable, changes made with one alias affect the other:
+
+```Python
+>>> b[0] = 17
+>>> print(a)
+[17, 2, 3]
+```
+
+Although this behavior can be useful, it is error-prone. In general, it is safer to avoid aliasing
+when you are working with mutable objects.
 
 ### Variables and parameters are local
 
@@ -1209,6 +1246,7 @@ exception:
 >>> print(cat)
 NameError: name 'cat' is not defined
 ```
+
 Parameters are also local. For example, outside `print_twice`, there is no such thing as bruce.
 
 ### Global variables
@@ -1243,7 +1281,7 @@ use it:
 been_called = False
 
 def example2():
-    global been_called 
+    global been_called
     been_called = True
 ```
 
@@ -1288,6 +1326,7 @@ If a program has a lot of global variables and are modify them frequently, they 
 hard to debug.
 
 ### Stack diagrams
+
 To keep track of which variables can be used where, it is sometimes useful to draw a stack diagram.
 Like state diagrams, stack diagrams show the value of each variable, but they also show the function
 to which each variable belongs.
@@ -1349,39 +1388,7 @@ caused the error.
 Notice the similarity between the traceback and the stack diagram. It’s not a coincidence. In fact,
 another common name for a traceback is a stack trace.
 
-# Aliasing
-If a refers to an object and you assign b = a, then both variables refer to the same object:
-
-```Python
->>> a = [1, 2, 3]
->>> b = a
->>> b is a
-True
-```
-
-The state diagram looks like:
-
-| ![State Diagram](http://www.greenteapress.com/thinkpython/html/thinkpython016.png) |
-|:---:|
-| _State Diagram_ |
-
-The association of a variable with an object is called a reference. In this example, there are two
-references to the same object.
-
-An object with more than one reference has more than one name, so we say that the object is aliased.
-
-If the aliased object is mutable, changes made with one alias affect the other:
-
-```Python
->>> b[0] = 17
->>> print(a)
-[17, 2, 3]
-```
-
-Although this behavior can be useful, it is error-prone. In general, it is safer to avoid aliasing
-when you are working with mutable objects.
-
-# List arguments
+### List arguments
 
 When you pass a list to a function, the function gets a reference to the list. If the function
 modifies a list parameter, the caller sees the change. For example, `delete_head` removes the first
@@ -1454,8 +1461,9 @@ This function leaves the original list unmodified. Here’s how it is used:
 ['b', 'c']
 ```
 
-# Unit 4
-## 4.1 Traversing a list
+## Unit 4 - Nested Loops and Lists
+
+## 4.1
 
 The most common way to traverse the elements of a list is with a for loop. The syntax is the same as
 for strings:
@@ -1499,7 +1507,8 @@ index < len(fruit), so when index is equal to the length of the string, the cond
 the body of the loop is not executed. The last character accessed is the one with the index
 len(fruit)-1, which is the last character in the string.
 
-#### Exercise 1
+#### Exercise 4.1
+
 Write a function that takes a string as an argument and displays the letters backward, one per line.
 
 Another way to write a traversal is with a for loop:
@@ -1527,7 +1536,7 @@ for letter in prefixes:
 
 The output is:
 
-```
+```python
 Jack
 Kack
 Lack
@@ -1540,10 +1549,11 @@ Qack
 
 Of course, that’s not quite right because “Ouack” and “Quack” are misspelled.
 
-#### Exercise 2
+#### Exercise 4.2
+
 Modify the program to fix this error.
 
-## Looping and counting
+### Looping and counting
 
 The following program counts the number of times the letter a appears in a string:
 
@@ -1560,17 +1570,20 @@ This program demonstrates another pattern of computation called a counter. The v
 initialized to 0 and then incremented each time an a is found. When the loop exits, count contains
 the result—the total number of a’s.
 
-#### Exercise 5
+### Exercise 4.3
+
 Encapsulate this code in a function named count, and generalize it so that it accepts the string and
 the letter as arguments.
 
-#### Exercise 6
+### Exercise 4.4
+
 Rewrite this function so that instead of traversing the string, it uses the three-parameter version
 of find from the previous section.
 
 ## 4.2
 
 ### For Loop Using Range
+
 As mentioned, the most common way to traverse the elements of a list is with a for loop. If you want
 to write or update the elements, you need the indices. A common way to do that is to combine the
 functions `range` and `len`:
@@ -1579,12 +1592,13 @@ functions `range` and `len`:
 for i in range(len(numbers)):
     numbers[i] = numbers[i] * 2
 ```
+
 This loop traverses the list and updates each element. `len` returns the number of elements in the
 list. `range` returns a list of indices from 0 to n−1, where n is the length of the list. Each time
 through the loop i gets the index of the next element. The assignment statement in the body uses i
 to read the old value of the element and to assign the new value.
 
-### Debugging
+### Debugging 4
 
 When you use indices to traverse the values in a sequence, it is tricky to get the beginning and end
 of the traversal right. Here is a function that is supposed to compare two words and return True if
@@ -1671,14 +1685,14 @@ the first iteration, the frame for `is_reverse` is shows in Figure 1.
 I took a little license by arranging the variables in the frame and adding dotted lines to show that
 the values of i and j indicate characters in word1 and word2.
 
-#### Exercise
+#### Exercise 5.1
+
 Starting with this diagram, execute the program on paper, changing the values of i and j during each
 iteration. Find and fix the second error in this function.
 
-# Unit 6
+## Unit 6 - Dictionaries
 
 ## 6.1
-### Dictionaries
 
 A dictionary is like a list, but more general. In a list, the indices have to be integers; in a
 dictionary they can be (almost) any type.
@@ -1936,8 +1950,10 @@ Again, the keys are in no particular order.
 Dictionaries have a method called keys that returns the keys of the dictionary, in no particular
 order, as a list.
 
-# Unit 7
+## Unit 7 - Introduction to Object Oriented Programming
+
 ## 7.1
+
 ### User-defined types
 
 We have used many of Python’s built-in types; now we are going to define a new type. As an example,
@@ -1949,9 +1965,9 @@ right and y units up from the origin.
 
 There are several ways we might represent points in Python:
 
-- We could store the coordinates separately in two variables, x and y.
-- We could store the coordinates as elements in a list or tuple.
-- We could create a new type to represent points as objects.
+* We could store the coordinates separately in two variables, x and y.
+* We could store the coordinates as elements in a list or tuple.
+* We could create a new type to represent points as objects.
 
 Creating a new type is (a little) more complicated than the other options, but it has advantages
 that will be apparent soon.
@@ -2050,12 +2066,12 @@ you can pass blank as an argument:
 
 Inside the function, p is an alias for blank, so if the function modifies p, blank changes.
 
-#### Exercises
-Exercise 1
+#### Exercise 6.1
+
 Write a function called `distance_between_points` that takes two Points as arguments and returns the
 distance between them.
 
-###  Rectangles
+### Rectangles
 
 Sometimes it is obvious what the attributes of an object should be, but other times you have to make
 decisions. For example, imagine you are designing a class to represent rectangles. What attributes
@@ -2064,8 +2080,8 @@ simple, assume that the rectangle is either vertical or horizontal.
 
 There are at least two possibilities:
 
-- You could specify one corner of the rectangle (or the center), the width, and the height.
-- You could specify two opposing corners.
+* You could specify one corner of the rectangle (or the center), the width, and the height.
+* You could specify two opposing corners.
 
 At this point it is hard to say whether either is better than the other, so we’ll implement the
 first one, just as an example.
@@ -2156,7 +2172,8 @@ Here is an example that demonstrates the effect:
 
 Inside the function, rect is an alias for box, so if the function modifies rect, box changes.
 
-### Exercise 1
+### Exercise 6.2
+
 Write a function named `move_rectangle` that takes a Rectangle and two numbers named dx and dy. It
 should change the location of the rectangle by adding dx to the x coordinate of corner and adding dy
 to the y coordinate of corner.
@@ -2183,6 +2200,7 @@ statement
 ```Python
         self.hour = hour
 ```
+
 stores the value of the parameter hour as an attribute of self.
 
 The parameters are optional, so if you call Time with no arguments, you get the default values.
@@ -2203,7 +2221,7 @@ If you provide two arguments, they override hour and minute.
 
 And if you provide three arguments, they override all three default values.
 
-### Debugging
+### Debugging 6
 
 It is legal to add attributes to objects at any point in the execution of a program, but if you are
 a stickler for type theory, it is a dubious practice to have objects of the same type with different
@@ -2317,7 +2335,8 @@ examples we have seen so far, it may not be. But sometimes shifting responsibili
 functions onto the objects makes it possible to write more versatile functions, and makes it easier
 to maintain and reuse code.
 
-#### Exercise
+#### Exercise 6.3
+
 ```Python
 def time_to_int(time):
     minutes = time.hour * 60 + time.minute
@@ -2334,7 +2353,7 @@ def int_to_time(seconds):
 Write `time_to_int` as a method. It is probably not appropriate to rewrite `int_to_time` as a
 method; what object you would invoke it on?
 
-## Another example
+### Another example
 
 Here’s a version of increment written as a method:
 
@@ -2373,7 +2392,7 @@ TypeError: increment() takes exactly 2 arguments (3 given)
 The error message is initially confusing, because there are only two arguments in parentheses. But
 the subject is also considered an argument, so all together that’s three.
 
-###  The `__str__` method
+### The `__str__` method
 
 `__str__` is a special method, like `__init__`, that is supposed to return a string representation
 of an object.
@@ -2398,7 +2417,8 @@ When you print an object, Python invokes the `str` method:
 When I write a new class, I almost always start by writing `__init__`, which makes it easier to
 instantiate objects, and `__str__`, which is useful for debugging.
 
-#### Exercise
+#### Exercise 6.4
+
 Write a str method for the Point class. Create a Point object and print it.
 
 ### Operator overloading
@@ -2431,14 +2451,16 @@ result, Python invokes `__str__`. So there is quite a lot happening behind the s
 
 Changing the behavior of an operator so that it works with user-defined types is called operator
 overloading. For every operator in Python there is a corresponding special method, like `__add__`.
-For more details, see http://docs.python.org/2/reference/datamodel.html#specialnames.
+For more details, see [Python Reference](http://docs.python.org/2/reference/datamodel.html#specialnames).
 
-#### Exercise
+#### Exercise 6.5
+
 Write an add method for the Point class.
 
 ## 7.4
 
 ### Inheritance
+
 The language feature most often associated with object-oriented programming is inheritance.
 Inheritance is the ability to define a new class that is a modified version of an existing class.
 
@@ -2561,11 +2583,12 @@ Deck can have any number of Cards.
 A more detailed diagram might show that a Deck actually contains a list of Cards, but built-in types
 like list and dict are usually not included in class diagrams.
 
-#### Exercise 4
+#### Exercise 7.1
+
 Read TurtleWorld.py, World.py and Gui.py and draw a class diagram that shows the relationships among
 the classes defined there.
 
-### Debugging
+### Debugging 7
 
 Inheritance can make debugging a challenge because when you invoke a method on an object, you might
 not know which method will be invoked.
@@ -2610,7 +2633,5 @@ designed to work with an instance of a superclass, like a Deck, will also work w
 subclasses like a Hand or PokerHand.
 
 If you violate this rule, your code will collapse like (sorry) a house of cards.
-
-
 
 [**Think Python - How To Think Like A Computer Scientist**]: http://www.greenteapress.com/thinkpython/thinkpython.pdf

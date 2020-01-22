@@ -1,36 +1,80 @@
 # Do Now 2.05
 
-Open up the console. Type the following code. 
-```
- a_list = ['a', 'b', 'c', 'd', 'e']
- print(len(a_list))
- 
-```
-What type do you think a_list is? (Hint: look at the name of the variable)
-<br>
-<br>
-<br>
+## Part 1 - Open up the console
 
-What does `len` do? 
-<br>
-<br>
-<br>
+### Type the following example code using interactive mode
 
+### Example 1
 
-Brainstorm how you would print the first element from `a_list`?
-<br>
-<br>
-<br>
-
-Type the following into the console. What happens? 
-```
- a_list = ['a', 'b', 'c', 'd', 'e']
- print(a_list[0])
- print(a_list[1])
- print(a_list[2])
- print(a_list[3])
- print(a_list[4])
- print(a_list[5])
- print(a_list[6])
+```python
+ >>> a = [123, 'First Item', 456, 'Second Item']
+ >>> b = a[0:2]
+ >>> print(a)
+ >>> print(b)
 ```
 
+### In your notebook
+
+#### Respond to the following
+
+1. What happens to a?
+2. What is b?
+3. What type is b?
+
+### Example 2
+
+```python
+ >>> a = [123, 'First Item', 456]
+ >>> a.remove('First Item')
+ >>> print(a)
+```
+
+### Continue in your notebook
+
+#### Respond to the following questions
+
+1. What does `remove` do?
+2. What would the length of this list be after `remove`?
+
+### Example 3
+
+```python
+ >>> a = [123, 'First Item', 456]
+ >>> a.pop()
+ >>> print(a)
+```
+
+### Continue your responses in your notebook
+
+1. what does `pop` do?
+2. What is the difference between `remove` and `pop`?
+
+### Example 4
+
+```python
+ >>> a = [123, 'First Item', 456, 'Second Item']
+ >>> b = a + ['Third Item']
+ >>> print(a)
+ >>> print(b)
+```
+
+#### Continue your responses to the following in your notebook
+
+1. What happens to a?
+2. What is b?
+3. What type is b?
+
+### Example 5
+
+```python
+
+ >>> a = []
+ >>> print(len(a))
+ >>> a.append('First Item')
+ >>> print(a)
+```
+
+#### In your Notebook
+
+1. What was the length of `[]`?
+2. What does `append` do? What would the length be after `append`?
