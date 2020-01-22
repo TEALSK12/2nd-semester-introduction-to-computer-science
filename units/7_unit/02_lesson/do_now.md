@@ -6,7 +6,7 @@
 
 ```python
 class Pet(object):
-  Def __init__(self, name):
+  def __init__(self, name):
   self.name = name
 
 my_pet = Pet("Peter")

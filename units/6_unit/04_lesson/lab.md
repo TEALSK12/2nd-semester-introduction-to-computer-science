@@ -19,7 +19,7 @@ Here's an example of the program output with the text passage
 set to the opening lines of Dr. Seuss's poem *Green Eggs and Ham*:
 
 ```python
-I am Sam. I am Sam. Sam I am.
+I am Sam. I am Sam. Sam-I-am.
 
 That Sam-I-am! That Sam-I-am!
 I do not like that Sam-I-am!
@@ -37,7 +37,7 @@ I do not like green eggs and ham.
 I do not like them, Sam-I-am.
 
 Would you like them in a house?
-Would you like then with a mouse?
+Would you like them with a mouse?
 
 I do not like them in a house.
 I do not like them with a mouse.
