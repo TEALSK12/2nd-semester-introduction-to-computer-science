@@ -5,11 +5,11 @@
 ### Type the following
 
 ```python
-class Pet(object):
+class Pet:
   def __init__(self, name):
-  self.name = name
+    self.name = name
 
-my_pet = Pet("Peter")
+my_pet = Pet('Peter')
 print(my_pet.name)
 ```
 

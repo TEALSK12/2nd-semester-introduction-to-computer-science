@@ -5,7 +5,7 @@
 Students will be able to...
 
 * Define and identify: **self**, **`__init__`**
-* Create a class with an init method
+* Create a class with an `init` method
 * Understand and use the `self` argument
 * Instantiate a class with arguments
 
@@ -38,7 +38,7 @@ Students will be able to...
 
 * Ask Students the following
   * What is the name of the class?
-  * where the Pet object get instantiated?
+  * Where does the Pet object get instantiated?
 
 #### Instruction - `__init__`
 
