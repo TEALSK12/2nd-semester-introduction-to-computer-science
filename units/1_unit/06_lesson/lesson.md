@@ -72,10 +72,18 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 
 ## Grading
 
-### Scheme/Rubric
+### Objective Scoring Breakdown
 
-* [Project Grading Rubric](rubric.md) - based on project objectives
-* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)
+[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)
+
+| Points | Percentage | Objective | Unit Location |
+| :---: | :---: | --- | :---: |
+| 2 | 9% | Students can correctly use the IDE | 1.01 |
+| 6 | 27% | Student can correctly identify and store variable types | 1.02 1.04 |
+| 3 | 14% | Student can use the print function | 1.03 |
+| 5 | 23% | Student can decompose a problem to create a program from a brief |
+| 6 | 27% | Student uses naming/ syntax conventions and comments to increase readability |
+| 22 | | Total points | |
 
 ## Forum discussion
 
