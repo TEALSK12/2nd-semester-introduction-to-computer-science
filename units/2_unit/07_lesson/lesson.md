@@ -1,4 +1,4 @@
-# Lesson 2.07: Project 2 - Text Monster
+# Lesson 2.07: Project
 
 ## Learning Objectives
 
@@ -9,7 +9,6 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Project Spec - Text Monster] ([printable project Spec]) ([editable project spec])
-
 * [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
 * [Alternate Project Spec - Todo List] ([printable Alternate project Spec]) ([editable Alternate project spec])
 * [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
@@ -18,7 +17,7 @@ Students will be able to...
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem]
 * [Associated Readings 2.7](https://tealsk12.gitbook.io/intro-cs-2/readings#2-7)
-* <!--[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)-->
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
 
 ### Day 1 Pacing Guide
 
@@ -69,7 +68,23 @@ Students will be able to...
 
 ## Grading
 
-[Objective Rubric](rubric.md)
+### Objective Scoring Breakdown
+[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
+
+Student correctly identifies data types (Lesson 2.01) - Assessed in Unit 3
+
+| Points | Percentage| Objective | Lesson |
+| :---: | :---: | --- | --- |
+| 3 | 12% | Student correctly uses conditionals to maintain flow of control|2.02, 2.03 |
+| 9 | 36% | Student correctly uses lists | 2.04 2.05 |
+| 3 | 12% | Student can correctly use the while loop | 2.06 |
+| 5 | 20% | Student can decompose a problem to create a program from a brief | |
+| 5 | 20% | Student uses naming/ syntax conventions and comments to increase readability | |
+| 25 | | Total | |
+
+### Scoring Consideration
+
+You may need to adjust the points in order to fit your class. Treat the percentages as a guide to determine how to weight the objectives being assessed.
 
 ## Forum discussion
 
