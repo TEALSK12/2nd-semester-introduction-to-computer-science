@@ -85,6 +85,10 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 | 6 | 27% | Student uses naming/ syntax conventions and comments to increase readability |
 | 22 | | Total points | |
 
+### Scoring Consideration
+
+You may need to adjust the points in order to fit your class. Treat the percentages as a guide to determine how to weight the objectives being assessed.
+
 ## Forum discussion
 
 [Lesson 1.06: Mad Libs (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-06-madlibs)
