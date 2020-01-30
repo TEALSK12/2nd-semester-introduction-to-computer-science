@@ -2,18 +2,21 @@
 
 ## Learning Objectives
 
-* Apply basic Python knowledge about inputs/outputs and variables to create a game of madlibs
+* Apply basic Python knowledge about inputs/outputs and variables to create a game of Madlibs
 * Practice good debugging skills
 
-## Materials/Preparation
+## Materials
 
 * [Project Spec - Mad Libs] ([Printable Project Spec]) ([Editable Project Spec])
 * [Alternate Project Spec - Magic Square] ([Printable Alternate Project Spec]) ([Editable Alternate Project Spec])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)
+
+## Preparation
+
 * Practice running the example code
 * Read through the project specifications so that you can completely communicate the requirements of the project
 * Review [4 Steps to Solve Any CS Problem]
-* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)
 
 ## Day 1 Pacing
 
@@ -83,7 +86,7 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 | 3 | 14% | Student can use the print function | 1.03 |
 | 5 | 23% | Student can decompose a problem to create a program from a brief |
 | 6 | 27% | Student uses naming/ syntax conventions and comments to increase readability |
-| 22 | | Total points | |
+| **22** | **Total points** |  | |
 
 ### Scoring Consideration
 
