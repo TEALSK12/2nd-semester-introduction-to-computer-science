@@ -36,9 +36,9 @@ Below are some addition topics that will need to be covered in order to prepare 
 
   [![University of Oxford - Math Module Video](https://img.youtube.com/vi/fW6MaWqAHFw/0.jpg)](https://youtu.be/fW6MaWqAHFw?t=463)
 
-* [Runestone Academy - Randon Module]
+* [Runestone Academy - Random Module]
 
-* **University of Oxfrod - Random Module**
+* **University of Oxford - Random Module**
   
   [Oxford Slide Deck] - [Random Example Code]
 
