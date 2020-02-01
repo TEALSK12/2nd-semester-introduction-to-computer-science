@@ -1,6 +1,6 @@
 # Additional Topics
 
-Below are some addition topics that will need to be covered in order to prepare students for the [MTA Cerification].
+Below are some addition topics that will need to be covered in order to prepare students for the [MTA Certification].
 
 ## File Handling and Catching Exceptions
 
@@ -49,6 +49,25 @@ Below are some addition topics that will need to be covered in order to prepare 
 
   [![Microoft Learn - Datetime Module Video](https://img.youtube.com/vi/o1dlxoHxdHU/0.jpg)](https://youtu.be/o1dlxoHxdHU)
 
+## DocStrings
+
+* [Python Docstring Conventions](https://www.python.org/dev/peps/pep-0257/#what-is-a-docstring)
+* Python 3 Tutorial
+
+  [![DocStrings Video 1](https://img.youtube.com/vi/W9aNB8P01e0/0.jpg)](https://youtu.be/W9aNB8P01e0)
+
+## Multi-Line Docstrings
+
+* Python 3 Tutorial
+[![DocStrings Video 1](https://img.youtube.com/vi/fKbdcz3XtCY/0.jpg)](https://youtu.be/fKbdcz3XtCY)
+
+## Pydoc Module
+
+* [Python Information](https://docs.python.org/2/library/pydoc.html)
+* PyDoc - A Celebration of Documentation
+
+    [![PyDoc - A Celebration of Documentation](https://img.youtube.com/vi/URBSvqib0xw/0.jpg)](https://youtu.be/URBSvqib0xw)
+
 [W3schools - File Handling]: https://www.w3schools.com/python/python_file_handling.asp
 [Think Python - File Handling]: http://greenteapress.com/thinkpython/html/thinkpython015.html
 [W3 Schools - Datetime Module]: https://www.w3schools.com/python/python_datetime.asp
@@ -57,7 +76,7 @@ Below are some addition topics that will need to be covered in order to prepare 
 [Runestone Academy - Math Module]: https://runestone.academy/runestone/books/published/thinkcspy/PythonModules/Themathmodule.html
 [Runestone Academy - Randon Module]: https://runestone.academy/runestone/books/published/thinkcspy/PythonModules/Therandommodule.html
 [Runestone Academy - Exceptions]: https://runestone.academy/runestone/books/published/thinkcspy/Exceptions/toctree.html
-[MTA Cerification]: https://www.microsoft.com/en-us/learning/exam-98-381.aspx
+[MTA Certification]: https://www.microsoft.com/en-us/learning/exam-98-381.aspx
 [Oxford Slide Deck L2]: /cert_assets/lesson_2.odp
 [Math Example Code]: /cert_assets/math_example.py
 [Random Example Code]: /cert_assets/random_example.py
