@@ -147,10 +147,9 @@
   * [Lesson 8.04: Project Implementation](units/8_unit/04_lesson/lesson.md)
     * [Do Now 8.04](units/8_unit/04_lesson/do_now.md)
 
-* [Associated Readings](readings.md)
-
 * [Supplemental Lessons](units/supplemental/.md)
   * [Lesson 01: Binary Day](units/supplemental/01_lesson/lesson.md)
     * [Do Now 01](units/supplemental/01_lesson/do_now.md)
 
+* [Associated Readings](readings.md)
 * [Change Log](changelog.md)

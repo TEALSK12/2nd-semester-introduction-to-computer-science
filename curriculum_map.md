@@ -2,7 +2,7 @@
 
 ## Unit Order Considerations
 
-As you implement this curriculum into your program, there are some things to consider when deciding what units best fits progam goals.
+As you implement this curriculum into your program, there are some things to consider when deciding what units best fits program goals.
 
 * **Preparing students to take [Advanced Placement Computer Science A]** - It is recommended completing the units in the following order 1, 2, 3, 4, 7, 6, 8, 5(Optional)
 * **Preparing students to gain a credential such as the [Microsoft Technology Associate (MTA) certification]** - It is recommended completing the course units in the following order 1, 2, 3, 4, [Additional Topics]. 5(Optional)
@@ -24,12 +24,12 @@ As you implement this curriculum into your program, there are some things to con
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | [2.01: Data Types & Casting] | Define and identify: type, string, casting, floating point number (float), integer. Describe different representations of data in Python. Convert from one data type to another data type. | Casting |
-| [2.02: Booleans & Expressions] | Define and identify: boolean, expression, composition, True, False. Evaluate a boolean expression. Compose boolean expressions using and, or, not, <, >, and ==. | Can I or Can't I? |
+| [2.02: Booleans & Expressions] | Define and identify: Boolean, expression, composition, True, False. Evaluate a Boolean expression. Compose Boolean expressions using and, or, not, <, >, and ==. | Can I or Can't I? |
 | [2.03: Conditionals] | Define and identify: if, else, elif, conditionals, flow of control. Create chaining if statements. Understand how conditional statements alter the flow of control of a program. | Game Show |
 | [2.04: Lists] | Define and identify: list, item, index, integer. Be able to access items from a list using the index. Create lists of different types. Use the length function. | College Chooser |
 | [2.05: Lists 2] | Define and identify: slice, append, pop, remove. Slice a list. Add and remove elements from a list | Tic-Tac-Toe |
 | [2.06: Game Loop] | Define and identify: while loop. Use a while loop to simulate game play. | Tic-Tac-Toe Revisited |
-| [2.07: Text Game] | Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game. | Zork - Text Monster Game |
+| [2.07: Text Game] | Use knowledge of lists, Booleans, conditionals, and while loops to create a text-based adventure game. | Zork - Text Monster Game |
 
 ## [Unit 3 - Functions](units/3_unit/unit_3.md)
 

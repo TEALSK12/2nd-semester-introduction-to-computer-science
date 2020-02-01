@@ -351,7 +351,7 @@ different things. The important difference is that an expression has a value; a 
 
 ### Boolean expressions
 
-A boolean expression is an expression that is either true or false. The following examples use the
+A Boolean expression is an expression that is either true or false. The following examples use the
 operator `==`, which compares two operands and produces True if they are equal and False otherwise:
 
 ```Python
@@ -397,10 +397,10 @@ x is greater than 0 and less than 10.
 The `or` expression is true whenever one of the operands is true and the `and` expression is false
 whenever one of the operands is false.
 
-Finally, the not operator negates a boolean expression, so `not (x > y)` is true if `x > y` is
+Finally, the not operator negates a Boolean expression, so `not (x > y)` is true if `x > y` is
 false, that is, if `x` is less than or equal to `y`.
 
-Strictly speaking, the operands of the logical operators should be boolean expressions, but Python
+Strictly speaking, the operands of the logical operators should be Boolean expressions, but Python
 is not very strict. Any nonzero number is interpreted as “true.”
 
 ```Python
@@ -424,7 +424,7 @@ if x > 0:
     print('x is positive')
 ```
 
-The boolean expression after if is called the condition. If it is true, then the indented statement
+The Boolean expression after if is called the condition. If it is true, then the indented statement
 gets executed. If not, nothing happens.
 
 `if`-statements have the same structure as function definitions: a header followed by an indented
@@ -1257,7 +1257,7 @@ Unlike local variables, which disappear when their function ends, global variabl
 function call to the next.
 
 It is common to use global variables for constants; that is, variables that do not change. For
-example, some programs use constants to indicate the minimun or maximum number of a dataset like the
+example, some programs use constants to indicate the minimum or maximum number of a dataset like the
 max level of a game could be set to 10.
 
 If you try to reassign a global variable, you might be surprised. The following example is supposed
@@ -1904,7 +1904,7 @@ Traceback (most recent call last):
 TypeError: list objects are unhashable
 ```
 
-A dictionary is implemented using a hashtable and that means that the keys have to be hashable.
+A dictionary is implemented using a hash table and that means that the keys have to be hashable.
 
 A hash is a function that takes a value (of any kind) and returns an integer. Dictionaries use these
 integers, called hash values, to store and look up key-value pairs.

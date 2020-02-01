@@ -47,7 +47,7 @@ Below are some addition topics that will need to be covered in order to prepare 
 * [W3 Schools - Datetime Module]
 * **Microsoft Learn - Datetime Module**
 
-  [![Microoft Learn - Datetime Module Video](https://img.youtube.com/vi/o1dlxoHxdHU/0.jpg)](https://youtu.be/o1dlxoHxdHU)
+  [![Microsoft Learn - Datetime Module Video](https://img.youtube.com/vi/o1dlxoHxdHU/0.jpg)](https://youtu.be/o1dlxoHxdHU)
 
 ## DocStrings
 
@@ -74,7 +74,7 @@ Below are some addition topics that will need to be covered in order to prepare 
 [Think Python - Debugging]: http://greenteapress.com/thinkpython/html/thinkpython021.html
 [Python - Handling Exceptions]: https://wiki.python.org/moin/HandlingExceptions
 [Runestone Academy - Math Module]: https://runestone.academy/runestone/books/published/thinkcspy/PythonModules/Themathmodule.html
-[Runestone Academy - Randon Module]: https://runestone.academy/runestone/books/published/thinkcspy/PythonModules/Therandommodule.html
+[Runestone Academy - Random Module]: https://runestone.academy/runestone/books/published/thinkcspy/PythonModules/Therandommodule.html
 [Runestone Academy - Exceptions]: https://runestone.academy/runestone/books/published/thinkcspy/Exceptions/toctree.html
 [MTA Certification]: https://www.microsoft.com/en-us/learning/exam-98-381.aspx
 [Oxford Slide Deck L2]: /cert_assets/lesson_2.odp
