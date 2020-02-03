@@ -11,7 +11,7 @@ Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This 
 
 ## Associated Readings
 
-We have incliuded with this curriculum Associated Readings to dive deeper into topics specific to the instruction of this course. These readings have been adapted from "Think Python: How to Think Like a Computer Scientist" by. Allen B. Downey. ([HTML Version](http://greenteapress.com/thinkpython/html/index.html))([PDF Version](http://www.greenteapress.com/thinkpython/thinkpython.pdf)).They are specifically referenced in the lesson plans and the [full document](readings.md) is included.
+We have included with this curriculum Associated Readings to dive deeper into topics specific to the instruction of this course. These readings have been adapted from "Think Python: How to Think Like a Computer Scientist" by. Allen B. Downey. ([HTML Version](http://greenteapress.com/thinkpython/html/index.html))([PDF Version](http://www.greenteapress.com/thinkpython/thinkpython.pdf)).They are specifically referenced in the lesson plans and the [full document](readings.md) is included.
 
 ## Curriculum Orientation
 
@@ -23,7 +23,7 @@ Python is an evolving language. Python 3 is a major upgrade to the language, rel
 
 ### This class will use Python 3
 
-For those knowledgable with Python 2, the following is a list of differences from Python 3 relevant to the 2nd semester intro course.
+For those knowledgeable with Python 2, the following is a list of differences from Python 3 relevant to the 2nd semester intro course.
 
 | | Python 2 | Python 3 |
 | ------ | ---------- | --- |
@@ -38,7 +38,7 @@ Please open an issue in GitHub if you encounter factual, spelling, or grammatica
 
 ## Giving feedback on the curriculum
 
-TEALS intends for this curriculum to be a starting point for teachers. We'll continue to evolve, adapt the curriculum and associated materials. To participate in this process, we invite TEALS volunteers and classroom teachers using this curriculum to submit edits and suggestions via the [TEALS discussion forum](http://forums.tealsk12.org/) or in this [Github repository](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science). If you'd like to suggest changes or additions to the curriculum, please submit a Github Pull Request containing your changes. As a best practice, each pull request should contain a singular atomic change.
+TEALS intends for this curriculum to be a starting point for teachers. We'll continue to evolve, adapt the curriculum and associated materials. To participate in this process, we invite TEALS volunteers and classroom teachers using this curriculum to submit edits and suggestions via the [TEALS discussion forum](http://forums.tealsk12.org/) or in this [GitHub repository](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science). If you'd like to suggest changes or additions to the curriculum, please submit a GitHub Pull Request containing your changes. As a best practice, each pull request should contain a singular atomic change.
 
 ## Printing GitBook
 

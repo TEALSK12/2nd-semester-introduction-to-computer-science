@@ -6,18 +6,20 @@ Students will be able to...
 
 * Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game.
 
-## Materials/Preparation
+## Materials
 
 * [Project Spec - Text Monster] ([printable project Spec]) ([editable project spec])
 * [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
 * [Alternate Project Spec - Todo List] ([printable Alternate project Spec]) ([editable Alternate project spec])
-* [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
-* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
-* Update the Project Spec as needed to meet your grading requirements
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
+* Sample Solutions (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
+
+## Preparation
+
+* Read through the [Associated Readings 2.7](https://tealsk12.gitbook.io/intro-cs-2/readings#2-7)
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem]
-* [Associated Readings 2.7](https://tealsk12.gitbook.io/intro-cs-2/readings#2-7)
-* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
+* Update the Project Spec of your selected project as needed to meet your grading requirements
 
 ### Day 1 Pacing Guide
 
@@ -69,6 +71,7 @@ Students will be able to...
 ## Grading
 
 ### Objective Scoring Breakdown
+
 [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
 
 Student correctly identifies data types (Lesson 2.01) - Assessed in Unit 3
@@ -80,7 +83,7 @@ Student correctly identifies data types (Lesson 2.01) - Assessed in Unit 3
 | 3 | 12% | Student can correctly use the while loop | 2.06 |
 | 5 | 20% | Student can decompose a problem to create a program from a brief | |
 | 5 | 20% | Student uses naming/ syntax conventions and comments to increase readability | |
-| 25 | | Total | |
+| **25** | **Total Points** | | |
 
 ### Scoring Consideration
 

@@ -43,7 +43,7 @@
   * [Lesson 2.06: Game Loop](units/2_unit/06_lesson/lesson.md)
     * [Do Now 2.06](units/2_unit/06_lesson/do_now.md)
     * [Lab 2.06](units/2_unit/06_lesson/lab.md)
-  * [Lesson 2.07: Text Game](units/2_unit/07_lesson/lesson.md)
+  * [Lesson 2.07: Project](units/2_unit/07_lesson/lesson.md)
     * [Project 2: Text Monster](units/2_unit/07_lesson/project.md)
     * [Alternate Project 2: Todo List](units/2_unit/07_lesson/alternate_project.md)
 
@@ -147,10 +147,9 @@
   * [Lesson 8.04: Project Implementation](units/8_unit/04_lesson/lesson.md)
     * [Do Now 8.04](units/8_unit/04_lesson/do_now.md)
 
-* [Associated Readings](readings.md)
-
 * [Supplemental Lessons](units/supplemental/.md)
   * [Lesson 01: Binary Day](units/supplemental/01_lesson/lesson.md)
     * [Do Now 01](units/supplemental/01_lesson/do_now.md)
 
+* [Associated Readings](readings.md)
 * [Change Log](changelog.md)
