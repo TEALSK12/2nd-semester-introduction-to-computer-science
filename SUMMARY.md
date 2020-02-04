@@ -23,7 +23,6 @@
   * [Lesson 1.06: Project](units/1_unit/06_lesson/lesson.md)
     * [Project 1: Mad Libs](units/1_unit/06_lesson/project.md)
     * [Alternate Project 1: Magic Square](units/1_unit/06_lesson/alternate_project.md)
-    * [Project Grading Rubric](units/1_unit/06_lesson/rubric.md)
 * [Unit 2: Conditionals](units/2_unit/unit2_md.md)
   * [Lesson 2.01: Data Types & Casting](units/2_unit/01_lesson/lesson.md)
     * [Do Now 2.01](units/2_unit/01_lesson/do_now.md)
