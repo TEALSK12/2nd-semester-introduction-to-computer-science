@@ -14,7 +14,7 @@ Students will be able to...
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the project spec so that you are familiar with the requirements and can assist students
 * Try creating your own project so that you can Review [4 Steps to Solve Any CS Problem]
-* <!--[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.docx)-->
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.docx)
 
 ### Day 1 Pacing
 
@@ -80,8 +80,17 @@ Students will be able to...
 ## Grading
 
 ### Scheme/Rubric
-[Objective Rubric](rubric.md)
 
+[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.docx)
+
+| Points | Percentage| Objective | Lesson |
+| :---: | :---: | --- | --- |
+|9|32%| The Student can create a class and an instance|7.01, 7.02|
+|6 | 21%| The student can create methods for classes||
+|3 | 11%| The student can correctly use inheritance||
+|5 |18% | Student can decompose a problem to create a program from a brief||
+|5 |18% | Student uses naming/ syntax conventions and comments to increase readability| |
+| 28 | | **Total Points** ||
 
 ## Forum discussion
 

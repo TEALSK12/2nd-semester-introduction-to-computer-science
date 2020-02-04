@@ -4,9 +4,17 @@
 
 -----------------
 
+### 2/4/2020
+
+* Added objective scoring Rubrics Unit 1,2, 3, 4, 6, and 7 Projects
+* Added points and percentage guidance to project scoring
+* Updated Unit 2 Slide decks to include lesson information
+
+-----------------
+
 ### 1/6/2020
 
-Added Unit 6 Slide decks
+* Added Unit 6 Slide decks
 
 -----------------
 
