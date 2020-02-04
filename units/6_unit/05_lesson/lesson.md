@@ -15,7 +15,7 @@ Students will be able to...
 * Read through the do now and project spec so that you are familiar with the requirements and can assist students.
 * Try creating your own variation on the Guess Who game so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem]
-* <!--[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/rubric.docx)-->
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/rubric.docx)
 
 ## Pacing Guide
 
@@ -85,8 +85,19 @@ Students will be able to...
 
 ## Grading
 
-### Rubric
-[Objective Rubric](rubric.md)
+[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/rubric.docx)
+
+### Objective Scoring Breakdown
+
+| Points | Percentage| Objective | Lesson |
+| :---: | :---: | --- | --- |
+|6 |18% | The Student uses dictionaries to create key-value pairs| 6.01|
+|9 |26% | The Student can use dictionary methods to update, add, and remove values from a dictionary |6.02 |
+|5 | 15%| The Student can utilize dictionaries of different types |6.03 |
+|3 | 11%| The student can use loops to traverse through key/value pairs in a dictionary|6.04 |
+|5 | 15%| Student can decompose a problem to create a program from a brief ||
+|5 | 15%| Student uses naming/ syntax conventions and comments to increase readability| |
+|33| | **Total Points** | |
 
 ## Forums link
 
