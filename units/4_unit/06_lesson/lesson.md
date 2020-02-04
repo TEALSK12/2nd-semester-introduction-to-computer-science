@@ -16,7 +16,7 @@ Students will be able to...
 * Read through the handout, lesson, and project so that you are familiar with the requirements and can assist students
 * Try creating your own variation on the Tic-Tac-Toe game so you are familiar with the potential challenges and bugs your students will hit
 * Review [4 Steps to Solve Any CS Problem]
-* <!--[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.docx)-->
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.docx)
 
 ## Pacing Guide
 
@@ -93,9 +93,19 @@ Students will be able to...
 
 ## Grading
 
-### Scheme/Rubric
+[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.docx)
 
-[Objective Rubric](rubric.md)
+### Objective Scoring Breakdown
+
+| Points | Percentage| Objective | Lesson |
+| :---: | :---: | --- | --- |
+| 6 | 19 | Student uses for loops | 4.01 |
+| 3 | 10 | Students can c use the `range` and `len` functions |4.02 |
+| 3 | 10 | Students can use nested for loops |4.03 |
+| 3 | 10 | Student can use nested lists |4.04 |
+| 5 | 16| Student can decompose a problem to create a program from a brief||
+| 5 | 16 | Student uses naming/ syntax conventions and comments to increase readability |
+| 25 | |**Total Points**|| |
 
 ## Forum discussion
 
