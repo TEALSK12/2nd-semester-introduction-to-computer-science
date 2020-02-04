@@ -18,7 +18,7 @@ Students will be able to...
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem]
-* <!--[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)-->
+* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
 
 ### Day 1 Pacing
 
@@ -72,9 +72,23 @@ Students will be able to...
 
 ## Grading
 
-### Grading Rubric
+### Objective Scoring Breakdown
 
-[Objective Rubric](rubric.md)
+[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
+
+| Points | Percentage| Objective | Lesson |
+| :---: | :---: | --- | --- |
+| 3| 10% | Student correctly identifies data types|2.01|
+| 3 | 10% | Student correctly uses lists |2.04, 2.05|
+| 3 | 10% | Student correctly uses built in functions  | 3.01|
+| 12 | 38% |Student can program using user-defined functions |3.02, 3.03, 3.04|
+| 5| 16% |Student can decompose a problem to create a program from a brief||
+| 5| 16%|Student uses naming/ syntax conventions and comments to increase readability||
+| 31 | | **Total Points** ||
+
+### Scoring Consideration
+
+You may need to adjust the points in order to fit your class. Treat the percentages as a guide to determine how to weight the objectives being assessed.
 
 ## Forum discussion
 
