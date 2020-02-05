@@ -86,7 +86,7 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 | 3 | 14% | Student can use the print function | 1.03 |
 | 5 | 23% | Student can decompose a problem to create a program from a brief |
 | 6 | 27% | Student uses naming/ syntax conventions and comments to increase readability |
-| **22** | **Total points** |  | |
+| **21** | **Total points** |  | |
 
 ### Scoring Consideration
 
