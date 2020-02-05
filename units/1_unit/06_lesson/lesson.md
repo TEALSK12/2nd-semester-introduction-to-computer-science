@@ -81,12 +81,12 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 
 | Points | Percentage | Objective | Unit Location |
 | :---: | :---: | --- | :---: |
-| 2 | 9% | Students can correctly use the IDE | 1.01 |
-| 6 | 27% | Student can correctly identify and store variable types | 1.02 1.04 |
+| 2 | 10% | Students can correctly use the IDE | 1.01 |
+| 6 | 28% | Student can correctly identify and store variable types | 1.02 1.04 |
 | 3 | 14% | Student can use the print function | 1.03 |
-| 5 | 23% | Student can decompose a problem to create a program from a brief |
-| 6 | 27% | Student uses naming/ syntax conventions and comments to increase readability |
-| **22** | **Total points** |  | |
+| 5 | 24% | Student can decompose a problem to create a program from a brief |
+| 5 | 24% | Student uses naming/ syntax conventions and comments to increase readability |
+| **21** | **Total points** |  | |
 
 ### Scoring Consideration
 
