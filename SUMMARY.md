@@ -59,7 +59,7 @@
   * [Lesson 3.04: Debugging and Scope](units/3_unit/04_lesson/lesson.md)
     * [Do Now 3.04](units/3_unit/04_lesson/do_now.md)
     * [Lab 3.04](units/3_unit/04_lesson/lab.md)
-  * [Lesson 3.05: Oregon Trail](units/3_unit/05_lesson/lesson.md)
+  * [Lesson 3.05: Oregon Project](units/3_unit/05_lesson/lesson.md)
     * [Project 3: Oregon Trail](units/3_unit/05_lesson/project.md)
     * [Alternate Project 3: Daily Planner](units/3_unit/05_lesson/alternate_project.md)
 
@@ -78,7 +78,7 @@
     * [Lab 4.04](units/4_unit/04_lesson/lab.md)
   * [Lesson 4.05: Debugging and Quiz](units/4_unit/05_lesson/lesson.md)
     * [Lab 4.05](units/4_unit/05_lesson/lab.md)
-  * [Lesson 4.06: Tic-Tac-Toe](units/4_unit/06_lesson/lesson.md)
+  * [Lesson 4.06: Project](units/4_unit/06_lesson/lesson.md)
     * [Project 4: Tic-Tac-Toe](units/4_unit/06_lesson/project.md)
     * [Alternate Project 4: 2 Player Tic-Tac-Toe](units/4_unit/06_lesson/alternate_project.md)
 
@@ -112,7 +112,7 @@
   * [Lesson 6.04: Dictionaries Looping](units/6_unit/04_lesson/lesson.md)
     * [Do Now 6.04](units/6_unit/04_lesson/do_now.md)
     * [Lab 6.04](units/6_unit/04_lesson/lab.md)
-  * [Lesson 6.05: Guess Who](units/6_unit/05_lesson/lesson.md)
+  * [Lesson 6.05: Project](units/6_unit/05_lesson/lesson.md)
     * [Do Now 6.05](units/6_unit/05_lesson/do_now.md)
     * [Project 6b: Buy an Umbrella](units/6_unit/05_lesson/projectb.md)
     * [Project 6: Guess Who](units/6_unit/05_lesson/project.md)
@@ -131,7 +131,7 @@
   * [Lesson 7.04: Inheritance](units/7_unit/04_lesson/lesson.md)
     * [Do Now 7.04](units/7_unit/04_lesson/do_now.md)
     * [Lab 7.04](units/7_unit/04_lesson/lab.md)
-  * [Lesson 7.05: Pokemon](units/7_unit/05_lesson/lesson.md)
+  * [Lesson 7.05: Project](units/7_unit/05_lesson/lesson.md)
     * [Project 7: Pokemon](units/7_unit/05_lesson/project.md)
     * [Alternate Project 7: Mailing List](units/7_unit/05_lesson/alternate_project.md)
 

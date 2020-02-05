@@ -49,4 +49,4 @@ Student Name: ______________________ Date: _________________________
 
 | Points Possible | Points Earned x Weight | total Points|
 |:-:|:-:|:-:|
-| 28 | ___ X ____||
+| 28 | ___ X ___||
