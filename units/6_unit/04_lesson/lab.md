@@ -53,7 +53,7 @@ i, 22
 like, 17
 not, 13
 do, 11
-them, 11</b>
+them, 12</b>
 ```
 
 ## Bonus
