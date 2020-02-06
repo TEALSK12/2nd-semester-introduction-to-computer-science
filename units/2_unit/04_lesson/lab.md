@@ -1,4 +1,4 @@
-# Lab 2.04 - College Chooser
+# Lab 2.04 - Food Chooser
 
 ## 1. In your notebook
 
@@ -42,12 +42,15 @@ For each example below, predict what will be printed. Next, run the program and 
 
 ## 3. Create a quiz
 
-Choose which college you should go to (or another topic of your choice) The program should ask the user a question and list five possible answers. If the student chooses the first answer, add 1 point to `School[0]`. If they choose the second answer add 1 point to `School[1]`, and so on. At the end print out the schools and the scores for each school.
+Create a food quiz using lists and indexes.
 
-* Create a list of 5 options of colleges.
-* Create a different list of five 0s, representing the user's votes so far.
-* Create 4 questions. Each question should have five different answers. Each answer corresponds to the specific school option.
-* At the end print off the 5 different schools and the score the user got for each of those schools.
+1. List of 6 different foods
+2. Ask the user 8 vague questions to find out what their favorite food it out of the list
+3. Update the score and print their top 2 favorite foods
+
+Hint: google how to find the biggest number in a list python
+
+[Starter code here](Starter_food_chooser.py)
 
 ## Bonus
 
