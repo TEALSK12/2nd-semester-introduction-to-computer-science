@@ -4,6 +4,17 @@
 
 -----------------
 
+### 2/6/2020
+
+* 6.04 - Removed Hyphens from Sample to correct word counts
+* 6.04 - Updates Lab.docx, Slide Deck, and Repl.it Classroom to align with lesson
+* 2.04 - Changed Lab from a College Chooser to Food Chooser to be more inclusive
+* 2.04 - Moved Starter Code from Repl.it to a .py file
+* 2.04 - Aligned Slide Deck, Repl.it classroom and lab.docx file to lesson
+* 7.02 - Fixed Typo in lesson
+
+-----------------
+
 ### 2/4/2020
 
 * Added objective scoring Rubrics Unit 1,2, 3, 4, 6, and 7 Projects
