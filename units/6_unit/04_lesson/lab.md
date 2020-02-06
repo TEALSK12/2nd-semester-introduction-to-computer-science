@@ -53,9 +53,9 @@ i, 22
 like, 17
 not, 13
 do, 11
-them, 12</b>
+them, 12
 ```
-
+bdesfrefrswzc z
 ## Bonus
 
 The process of finding the largest element, printing it, and removing it from the dictionary is a way to sort items. Write a function that will return a sorted list of all the words from most frequent to least frequent.
