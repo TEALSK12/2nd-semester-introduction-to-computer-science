@@ -15,18 +15,17 @@ items however you like and return just one of them.
 
 ## Example
 
-Here's an example of the program output with the text passage
-set to the opening lines of Dr. Seuss's poem *Green Eggs and Ham*:
+Here's an example of the program output with the text passage set to the opening lines of Dr. Seuss's poem *Green Eggs and Ham*:
 
 ```python
-I am Sam. I am Sam. Sam-I-am.
+I am Sam. I am Sam. Sam I am.
 
-That Sam-I-am! That Sam-I-am!
-I do not like that Sam-I-am!
+That Sam I am! That Sam I am!
+I do not like that Sam I am!
 
 Would you like green eggs and ham?
 
-I do not like them, Sam-I-am.
+I do not like them, Sam I am.
 I do not like green eggs and ham.
 
 Would you like them here or there?
@@ -34,7 +33,7 @@ Would you like them here or there?
 I would not like them here or there.
 I would not like them anywhere.
 I do not like green eggs and ham.
-I do not like them, Sam-I-am.
+I do not like them, Sam I am.
 
 Would you like them in a house?
 Would you like them with a mouse?
@@ -44,12 +43,12 @@ I do not like them with a mouse.
 I do not like them here or there.
 I do not like them anywhere.
 I do not like green eggs and ham.
-I do not like them, Sam-I-am.
+I do not like them, Sam I am.
 ```
 
 ```python
 >>> python3 most_frequent_words.py
-i, 22
+I, 22
 like, 17
 not, 13
 do, 11
