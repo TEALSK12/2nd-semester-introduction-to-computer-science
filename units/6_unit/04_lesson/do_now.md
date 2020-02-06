@@ -12,15 +12,15 @@ my_dictionary = {
 'd': 4,
 'e': 5
 }
-print(my_dictionary.keys())
+print(list(my_dictionary))
 ```
 
 ## In your Notebook
 
 ### Respond to the following
 
-1. Write down what `keys()` does.
-2. What type does `keys()` return?
+1. Write down what `list()` does when given a dictionary.
+2. What type does `list()` return?
 3. Write down how you might use a `for` loop to go through and print the values of `my_dictionary`.
 
 ## 2. In your Console
