@@ -1,0 +1,13 @@
+name: Greetings
+
+on: [pull_request, issues]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        issue-message: 'Thank you so much for submitting this issue. We appreciate everything you do for kids in their computer science class. If you are experiences with Github. Consider making a Pull Request on your update. We are small team but we are mighty. We strongly encourage a collective effort to support our curriculum.'' first issue'
+        pr-message: 'Thank you for submitting a Pull Request and your contribution to the TEALS Curriculum. We will review this and may ask for suggestions for additions before merging into the curriculum. Someone from our Curriculum team will make the merge.'' first pr'
