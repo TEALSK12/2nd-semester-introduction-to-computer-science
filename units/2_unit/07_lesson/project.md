@@ -38,6 +38,52 @@ This game takes place in a three story dungeon. The user has to traverse the lev
 * If they try to walk past a monster, they will be killed and the game will end.
 * A sword and magic stones are required to defeat the boss monster.
 
+#### Example Behavior
+
+```python
+What would you like to do? left
+You see sword
+What would you like to do? grab
+Picked up sword
+What would you like to do? left
+You see nothing
+What would you like to do? left
+You see monster
+What would you like to do? fight
+You defeated the monster!
+What would you like to do? left
+You see stairs down
+What would you like to do? down
+You see nothing
+What would you like to do? right
+You see stairs up
+What would you like to do? left
+You see nothing
+What would you like to do? left
+Sorry cant go that way.
+What would you like to do? up
+Cannot go that way.
+What would you like to do? right
+You see nothing
+What would you like to do? up
+Cannot go that way.
+What would you like to do? right
+You see stairs up
+What would you like to do? up
+You see nothing
+What would you like to do? right
+You see nothing
+What would you like to do? right
+You see nothing
+What would you like to do? right
+You see nothing
+What would you like to do? up
+Cannot go that way.
+What would you like to do? left
+You see nothing
+What would you like to do?
+```
+
 ### Implementation Details
 
 * The game should be implemented using lists.
