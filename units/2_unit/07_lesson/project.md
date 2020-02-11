@@ -1,4 +1,4 @@
-# Project 2: Zork - Text Monster Game
+# Project 2: Text Monster Game
 
 Using Python, students will use casting, Boolean expressions, lists and while loops to create a text-based adventure game!
 
@@ -37,6 +37,52 @@ This game takes place in a three story dungeon. The user has to traverse the lev
 * If the user fights without a sword, they will be defeated and the game will end.
 * If they try to walk past a monster, they will be killed and the game will end.
 * A sword and magic stones are required to defeat the boss monster.
+
+#### Example Behavior
+
+```python
+What would you like to do? left
+You see sword
+What would you like to do? grab
+Picked up sword
+What would you like to do? left
+You see nothing
+What would you like to do? left
+You see monster
+What would you like to do? fight
+You defeated the monster!
+What would you like to do? left
+You see stairs down
+What would you like to do? down
+You see nothing
+What would you like to do? right
+You see stairs up
+What would you like to do? left
+You see nothing
+What would you like to do? left
+Sorry cant go that way.
+What would you like to do? up
+Cannot go that way.
+What would you like to do? right
+You see nothing
+What would you like to do? up
+Cannot go that way.
+What would you like to do? right
+You see stairs up
+What would you like to do? up
+You see nothing
+What would you like to do? right
+You see nothing
+What would you like to do? right
+You see nothing
+What would you like to do? right
+You see nothing
+What would you like to do? up
+Cannot go that way.
+What would you like to do? left
+You see nothing
+What would you like to do?
+```
 
 ### Implementation Details
 
@@ -105,6 +151,7 @@ if user_input == "down":
     if current_room != "stairs down":
         print("Can't go downstairs; there are no stairs.")
 ```
+
 ## Extra Credit
 
 * Add the command `run`, which allows a player to run past a monster instead of fighting. This should work 40% of the time. (Hint: Research the random library.)
