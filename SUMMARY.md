@@ -59,7 +59,7 @@
   * [Lesson 3.04: Debugging and Scope](units/3_unit/04_lesson/lesson.md)
     * [Do Now 3.04](units/3_unit/04_lesson/do_now.md)
     * [Lab 3.04](units/3_unit/04_lesson/lab.md)
-  * [Lesson 3.05: Oregon Project](units/3_unit/05_lesson/lesson.md)
+  * [Lesson 3.05: Project](units/3_unit/05_lesson/lesson.md)
     * [Project 3: Oregon Trail](units/3_unit/05_lesson/project.md)
     * [Alternate Project 3: Daily Planner](units/3_unit/05_lesson/alternate_project.md)
 
