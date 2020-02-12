@@ -55,4 +55,4 @@ Student always loops through a dictionary correctly| Sometimes Student loops thr
 
 | Points Possible | Points Earned x Weight | Total Points|
 |:-:|:-:|:-:|
-|31| ______ X ______||
+|33| ______ X ______||
