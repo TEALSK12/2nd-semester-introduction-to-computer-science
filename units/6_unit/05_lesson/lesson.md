@@ -91,13 +91,13 @@ Students will be able to...
 
 | Points | Percentage| Objective | Lesson |
 | :---: | :---: | --- | --- |
-|6 |18% | The Student uses dictionaries to create key-value pairs| 6.01|
-|9 |26% | The Student can use dictionary methods to update, add, and remove values from a dictionary |6.02 |
-|5 | 15%| The Student can utilize dictionaries of different types |6.03 |
-|3 | 11%| The student can use loops to traverse through key/value pairs in a dictionary|6.04 |
-|5 | 15%| Student can decompose a problem to create a program from a brief ||
-|5 | 15%| Student uses naming/ syntax conventions and comments to increase readability| |
-|33| | **Total Points** | |
+|6 |20% | The Student uses dictionaries to create key-value pairs| 6.01|
+|9 |30% | The Student can use dictionary methods to update, add, and remove values from a dictionary |6.02 |
+|3 | 8%| The Student can utilize dictionaries of different types |6.03 |
+|3 | 8%| The student can use loops to traverse through key/value pairs in a dictionary|6.04 |
+|5 | 17%| Student can decompose a problem to create a program from a brief ||
+|5 | 17%| Student uses naming/ syntax conventions and comments to increase readability| |
+|31| | **Total Points** | |
 
 ## Forums link
 
