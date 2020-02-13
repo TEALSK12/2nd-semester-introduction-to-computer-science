@@ -7,7 +7,7 @@ A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.gitbook
 
 ## About this curriculum
 
-Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This curriculum is intended for use by TEALS classrooms teaching Introduction to Computer Science in a yearlong format. We expect that students have completed the content from the [1st semester course](https://www.gitbook.com/book/teals-introcs/introduction-to-computer-science-principles/details) prior to this curriculum.
+Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This curriculum is intended for use by TEALS classrooms teaching Introduction to Computer Science in a yearlong format. We expect that students have completed the content from the [1st semester course](https://tealsk12.gitbook.io/intro-cs/) prior to this curriculum.
 
 ## Associated Readings
 
