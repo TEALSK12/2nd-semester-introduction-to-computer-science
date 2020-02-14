@@ -10,6 +10,50 @@ This game takes place in a three story dungeon. The user has to traverse the lev
 
 ### Behavior
 
+```python
+What would you like to do? left
+You see sword
+What would you like to do? grab
+Picked up sword
+What would you like to do? left
+You see nothing
+What would you like to do? left
+You see monster
+What would you like to do? fight
+You defeated the monster!
+What would you like to do? left
+You see stairs down
+What would you like to do? down
+You see nothing
+What would you like to do? right
+You see stairs up
+What would you like to do? left
+You see nothing
+What would you like to do? left
+Sorry cant go that way.
+What would you like to do? up
+Cannot go that way.
+What would you like to do? right
+You see nothing
+What would you like to do? up
+Cannot go that way.
+What would you like to do? right
+You see stairs up
+What would you like to do? up
+You see nothing
+What would you like to do? right
+You see nothing
+What would you like to do? right
+You see nothing
+What would you like to do? right
+You see nothing
+What would you like to do? up
+Cannot go that way.
+What would you like to do? left
+You see nothing
+What would you like to do?
+```
+
 #### The game has three floors
 
 * Each floor is made up of five rooms, arranged in a line from left to right.
