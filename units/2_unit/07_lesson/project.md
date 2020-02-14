@@ -1,4 +1,4 @@
-# Project 2: Zork - Text Monster Game
+# Project 2: Text Monster Game
 
 Using Python, students will use casting, Boolean expressions, lists and while loops to create a text-based adventure game!
 
