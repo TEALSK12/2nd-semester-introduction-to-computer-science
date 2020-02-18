@@ -149,6 +149,7 @@ if user_input == "down":
     if current_room != "stairs down":
         print("Can't go downstairs; there are no stairs.")
 ```
+
 ## Extra Credit
 
 * Add the command `run`, which allows a player to run past a monster instead of fighting. This should work 40% of the time. (Hint: Research the random library.)

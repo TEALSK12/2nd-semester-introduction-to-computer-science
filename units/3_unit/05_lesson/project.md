@@ -4,7 +4,7 @@ Using variables, functions, and conditionals in Python, students will create an 
 
 ## Overview
 
-We will be recreating Oregon Trail! The goal is to travel from Independence, Missori to Oregon City, Oregon (2000 miles) by Dec 31st. However, the trail is arduous. Each day costs you food and health. You can hunt and rest, but you have to get there before winter!
+We will be recreating Oregon Trail! The goal is to travel from Independence, Missouri to Oregon City, Oregon (2000 miles) by Dec 31st. However, the trail is arduous. Each day costs you food. You can hunt and rest, but you have to get there before winter!
 
 ## Details
 
@@ -14,11 +14,11 @@ We will be recreating Oregon Trail! The goal is to travel from Independence, Mis
 * The player must get to Oregon by 12/31
 * At the beginning of the game, user is asked their name.
 * Each turn, the player is asked what action they choose, where the player can type in the following: `travel`, `rest`, `hunt`, `status`, `help`, `quit`
-* On average, the player's health will randomly decrease twice during a month on any given day.
+* The players health will decrease twice each month.
 * The player eats 5lbs of food a day.
 * `travel`: moves you randomly between 30-60 miles and takes 3-7 days (random).
 * `rest`: increases health 1 level (up to 5 maximum) and takes 2-5 days (random).
-* `hunt`: adds 100 lbs of food and takes 2-5 days (random).
+* `hunt`: adds 100lbs of food and takes 2-5 days (random).
 * `status`: lists food, health, distance traveled, and day.
 * `help`: lists all the commands.
 * `quit`: will end the game.
@@ -26,10 +26,11 @@ We will be recreating Oregon Trail! The goal is to travel from Independence, Mis
 ### Implementation details
 
 * Create functions for all options a player can take
-* Use globals to keep track of player health, food pounds, miles to go, current day, current month
+* Use global variables to keep track of player health, food pounds, miles to go, current day, current month
 * Create a function add_day which updates the day
-* Use global list to keep track of which months have 31 days and use this in the add_day function (i.e.: MONTHS_WITH_31_DAYS = [1, 3, 5, 7, 8, 10, 12])
+* Use a list to keep track of which months have 31 days and use this in the add_day function (i.e.: MONTHS_WITH_31_DAYS = [1, 3, 5, 7, 8, 10, 12])
 * Create a function select_action which uses a while loop to call add_day function
+* Game ends if days run out, health runs out, you get there (Oregon), or the player quits.
 
 ## Bonus
 
