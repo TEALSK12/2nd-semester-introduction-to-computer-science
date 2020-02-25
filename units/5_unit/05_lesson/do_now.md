@@ -26,4 +26,4 @@ Note: No intro or outro in this song.
 
 ## Copyright Note
 
-The above is taken from the earsketch teaching resources.
+The above is taken from the Earsketch teaching resources.

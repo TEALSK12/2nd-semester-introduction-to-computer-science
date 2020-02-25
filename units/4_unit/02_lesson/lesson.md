@@ -53,7 +53,7 @@ Students will be able to...
 
 ### 3. Lab
 
-* Students re-write the fruit pluralizer program from yesterday's do now, but without creating a new list.
+* Students re-write the fruit pluralize program from yesterday's do now, but without creating a new list.
 * Students write a function that reverses the letters in a string.
 
 ### 4. Debrief
@@ -67,7 +67,7 @@ Students will be able to...
 
 ## Accommodation/Differentiation
 
-* If students are having a hard time with the fruit pluralizer, consider altering the fruit program to not allow fruit that ends in y.
+* If students are having a hard time with the fruit pluralize, consider altering the fruit program to not allow fruit that ends in y.
 * Some students may have issues with grabbing the last item of a string, consider providing tips or scaffolding for students that are struggling with this.
 * Go over the bonus question if any students got to it. Discuss having a function inside of the loop and how that operated.
 

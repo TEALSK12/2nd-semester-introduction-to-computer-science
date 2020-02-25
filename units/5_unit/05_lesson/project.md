@@ -25,4 +25,4 @@ Using Python and EarSketch you will create a complete song consisting of 2 verse
 
 ## Copyright Note
 
-The above is adapted from the earsketch teaching resources.
+The above is adapted from the Earsketch teaching resources.

@@ -35,7 +35,7 @@ Students will be able to...
 #### Instruction
 
 * Ask students what the `while` loops that they created did.
-* Go over the syntax of `while` loops. Use this as an opportunity to remind students of **boolean expressions**.
+* Go over the syntax of `while` loops. Use this as an opportunity to remind students of **Boolean expressions**.
 
 #### Discussion
 

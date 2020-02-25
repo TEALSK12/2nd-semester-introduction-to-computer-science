@@ -33,7 +33,7 @@ Students will be able to...
 
 ### 2. Lesson
 
-#### Intruction - Dictionaries
+#### Instruction - Dictionaries
 
 * Ask the students what *type* they think `my_dictionary` is.
 * `my_dictionary` is a **dictionary** or a collection of **key-value** pairs.

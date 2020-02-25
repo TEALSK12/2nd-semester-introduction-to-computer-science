@@ -4,7 +4,7 @@
 
 Students will be able to...
 
-* Define and identify: **if, else, elif, conditionals, flow of control**
+* Define and identify: `if, else, elif, conditionals, flow of control`
 * Create chaining if statements
 * Understand how conditional statements alter the flow of control of a program
 
@@ -50,7 +50,7 @@ Students will be able to...
 * Ask students what they felt like they needed that they had in Snap!
 * Explain that in order to write useful programs, we almost always need the ability to check conditions and change the behavior of the program accordingly.
 * **Conditional** statements give us this ability to affect the **flow of control**.
-* The simplest form is the `if` statement. The boolean expression after `if` is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.
+* The simplest form is the `if` statement. The Boolean expression after `if` is called the condition. If it is true, then the indented statement gets executed. If not, nothing happens.
 
     ```python
     if x > 0:

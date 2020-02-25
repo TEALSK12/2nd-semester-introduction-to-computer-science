@@ -17,7 +17,7 @@ As you implement this curriculum into your program, there are some things to con
 | [1.03: Script Mode and Variables] | Define and identify: script, print, run, output, variable. Write a simple script and run it in the IDE. Print values out to the console (both composed values and from variables). Compare script mode vs interactive mode. Know how to store a value into a variable. | Printing & Variables |
 | [1.04: Variables Input] | Define and identify: comments, storing, mutability, variable assignment, input. Assign and swap variables. Store user input into a variable. | Magic Genie |
 | [1.05: Quiz & Debugging] | Demonstrate their understanding of key concepts covered up to this point. Define and identify: debugging, syntax errors. Analyze and respond to error messages. | N/A |
-| [1.06: MadLibs] | Apply basic Python knowledge about inputs/outputs and variables to create a game of madlibs. Practice good debugging skills. | Mad Libs |
+| [1.06: MadLibs] | Apply basic Python knowledge about inputs/outputs and variables to create a game of Madlibs. Practice good debugging skills. | Mad Libs |
 
 ## [Unit 2 - Data Types and Conditionals](units/2_unit/unit2_md.md)
 
@@ -25,11 +25,11 @@ As you implement this curriculum into your program, there are some things to con
 | ------ | ---------- | --- |
 | [2.01: Data Types & Casting] | Define and identify: type, string, casting, floating point number (float), integer. Describe different representations of data in Python. Convert from one data type to another data type. | Casting |
 | [2.02: Booleans & Expressions] | Define and identify: Boolean, expression, composition, True, False. Evaluate a Boolean expression. Compose Boolean expressions using and, or, not, <, >, and ==. | Can I or Can't I? |
-| [2.03: Conditionals] | Define and identify: if, else, elif, conditionals, flow of control. Create chaining if statements. Understand how conditional statements alter the flow of control of a program. | Game Show |
+| [2.03: Conditionals] | Define and identify: if, else, `elif`, conditionals, flow of control. Create chaining if statements. Understand how conditional statements alter the flow of control of a program. | Game Show |
 | [2.04: Lists] | Define and identify: list, item, index, integer. Be able to access items from a list using the index. Create lists of different types. Use the length function. | College Chooser |
 | [2.05: Lists 2] | Define and identify: slice, append, pop, remove. Slice a list. Add and remove elements from a list | Tic-Tac-Toe |
 | [2.06: Game Loop] | Define and identify: while loop. Use a while loop to simulate game play. | Tic-Tac-Toe Revisited |
-| [2.07: Text Game] | Use knowledge of lists, Booleans, conditionals, and while loops to create a text-based adventure game. | Zork - Text Monster Game |
+| [2.07: Text Game] | Use knowledge of lists, Booleans, conditionals, and while loops to create a text-based adventure game. | Text Monster Game |
 
 ## [Unit 3 - Functions](units/3_unit/unit_3.md)
 
@@ -46,7 +46,7 @@ As you implement this curriculum into your program, there are some things to con
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | [4.01: Looping Basics] | Define and identify: for loop, item, iteration, scope. Recall looping in Snap! and reapply the concept in Python. Loop through (traverse) the items in a list. Be aware of the scope of variables during iteration. | de_vowel |
-| [4.02: For Loops] | Define and identify: range. Use the range and len function to update lists via for loops. | Getting Loopy |
+| [4.02: For Loops] | Define and identify: range. Use the range and `len()` function to update lists via for loops. | Getting Loopy |
 | [4.03: Nested For Loops] | Define and identify: nested for loops, stack trace. Use nested for loops via a function and a for loop. Use nested for loops via two loops nested. Use a stack trace to understand and demonstrate the flow of nested for loops. | Nested For Loops |
 | [4.04: Nested Lists & Looping] | Define and identify: nested list. Use nested for loops to traverse through nested lists. | Shopping List |
 | [4.05: Debugging and Quiz] | Read and understand longer programs involving loops. Demonstrate knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. | Debugging Practice |
@@ -76,9 +76,9 @@ As you implement this curriculum into your program, there are some things to con
 
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
-| [7.01: User-Defined Types] | Define and identify: class, instance, object, attributes. Create a class and instantiate. dd attributes to an instance. Manipulate instances and attributes through a function. | Create a Color Class |
-| [7.02: User-Defined Types, Part 2] | Define and identify: self, __init__. Create a class with an init method. Understand and use the self argument. Instantiate a class with arguments. | Pet Class |
-| [7.03: Methods] | Define and identify: method, __str__, __add__, operator overloading. Create a class with an __init__ method. Understand and use the self argument. Instantiate a class with an argument. | Kangaroo Class |
+| [7.01: User-Defined Types] | Define and identify: class, instance, object, attributes. Create a class and instantiate. attributes to an instance. Manipulate instances and attributes through a function. | Create a Color Class |
+| [7.02: User-Defined Types, Part 2] | Define and identify: self, `init`. Create a class with an `init` method. Understand and use the self argument. Instantiate a class with arguments. | Pet Class |
+| [7.03: Methods] | Define and identify: method, `str`, `add`, operator overloading. Create a class with an `init` method. Understand and use the self argument. Instantiate a class with an argument. | Kangaroo Class |
 | [7.04: Inheritance] | Define and identify: inheritance, parent class, child class. Create a class that inherits from anther class. Overwrite methods of parent class in a child class. | Pokemon Child Classes |
 | [7.05: Pokemon] | Engage in class design before beginning coding. Apply what was learned with respect to classes, methods, and inheritance to create an implementation of Pokemon. | Pokemon |
 

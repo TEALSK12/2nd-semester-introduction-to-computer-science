@@ -69,7 +69,7 @@ Students will be able to...
 ### 3. Lab
 
 * Have students finish up the time adding method.
-* Have students work on kanga roo lab.
+* Have students work on kangaroo lab.
 
 ### 4. Debrief
 

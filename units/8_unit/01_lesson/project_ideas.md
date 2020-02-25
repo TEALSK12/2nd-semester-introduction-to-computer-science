@@ -14,7 +14,7 @@ Battle different monster with different super powers (pokemon)
 
 ## Card game war
 
-where a deck of 52 cards (1-13) are shuffled and dealt out to two players. The cards are played one from each deck and the higher card wins and is added to the winners deck.  If a tie, filip over cards until one player wins all the cards in the war.  The game continues until one player has all cards,
+where a deck of 52 cards (1-13) are shuffled and dealt out to two players. The cards are played one from each deck and the higher card wins and is added to the winners deck.  If a tie, flip over cards until one player wins all the cards in the war.  The game continues until one player has all cards,
 
 ## Card games - Old Maid, Fish
 

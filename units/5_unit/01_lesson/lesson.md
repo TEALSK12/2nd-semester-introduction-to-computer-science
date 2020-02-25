@@ -2,7 +2,7 @@
 # Lesson 5.01: Earsketch Intro
 
 **Note:** Unit 5 involves a tool called EarSketch from Georgia Tech. EarSketch is a Digital Audio
-Workstation with an embedded scripting environment that supports Python or Javascript. Using
+Workstation with an embedded scripting environment that supports Python or JavaScript. Using
 EarSketch, students can create songs by writing Python code. All of the Earsketch activities require
 you to use the EarSketch Editor instead of the IDE you have been using so far (_e.g._ Repl.it).
 
@@ -68,7 +68,7 @@ fitMedia(TECHNO_SYNTHPLUCK_001, 1, 1, 9)
 finish()
 ```
 
-* Have students write in their notebooks an answer to the folloing
+* Have students write in their notebooks an answer to the following
 * What inputs does `fitMedia` take? Press the run button and describe what happened.
 
 ### In their Notebooks,  ensure students have the following terms defined

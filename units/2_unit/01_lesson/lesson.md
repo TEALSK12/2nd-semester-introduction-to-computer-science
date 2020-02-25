@@ -42,13 +42,13 @@ Students will be able to...
 
 #### Discussion
 
-* Ask students to define **type**. Talk about types as a way to represent data (give examples of strings, ints, and floats).
-* Ask students what they thought typing the command str(123) does.
+* Ask students to define **type**. Talk about types as a way to represent data (give examples of `strings`, `int`, and `float`).
+* Ask students what they thought typing the command `str(123)` does.
 
 #### Instruction
 
 * Define this process of changing data types as **casting**.
-* Define the int function if the students were unable to guess it from the do now.
+* Define the `int` function if the students were unable to guess it from the do now.
 * Take a few minutes to have students write down how they would produce the following output:
 
    ```python
@@ -66,7 +66,7 @@ Students will be able to...
 
 * Call on 2-3 students to write their answers on the board.
 * Discuss what would happen if the user types in 1.5 instead of 4.
-* If input is a float, can cast with float(num)
+* If input is a float, can cast with `float(num)`
 * `type`: ask students what they think `type('a')` would output.  
 * Why might you want to use `type`?
 
@@ -81,7 +81,7 @@ Students will be able to...
 
 ## Accommodation/Differentiation
 
-If students are moving quickly, it is possible to introduce the concepts of booleans here. Discuss how students would represent binary (0's and 1's). In practice these translate to True and False. Convert numbers to boolean, and booleans to numbers.
+If students are moving quickly, it is possible to introduce the concepts of Booleans here. Discuss how students would represent binary (0's and 1's). In practice these translate to True and False. Convert numbers to Boolean, and Booleans to numbers.
 
 ## Forum discussion
 

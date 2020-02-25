@@ -20,7 +20,7 @@ print(time2)
 
 ## In your Notebook
 
-### Respond to the folllowing
+### Respond to the following
 
 1. Based on what is output, how can you tell the difference between `time1` and `time2`?
 2. What happens if you try to add `time1` add `time2`?

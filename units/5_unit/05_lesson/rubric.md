@@ -2,7 +2,6 @@
 
 Student Name: _____________________________ Date: __________________
 
-
 | **Functional Correctness(Behavior)** | Points | Points Earned|
 | -------------------------------------| -- |  -- |
 | Song Runs and Plays | 5   |
@@ -17,7 +16,7 @@ Student Name: _____________________________ Date: __________________
 | Use of user defined functions for choruses, forms, verses      | 10  |
 | Keeps track of measure using return statements | 15  |
 | **Sub total**                                                   | 45  |
-| **Total**                                                       | 70 |      
+| **Total**                                                       | 70 |
 
 ## Final Grade
 

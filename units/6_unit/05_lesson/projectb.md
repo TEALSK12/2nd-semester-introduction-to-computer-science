@@ -241,7 +241,7 @@ Showing items 1-5 of 37 items
 
 ### Modifying filters
 
-Sometimes you want to allow mulitple values for a given attribute, say "Nylon or plastic".
+Sometimes you want to allow multiple values for a given attribute, say "Nylon or plastic".
 A user can modify their filter to allow this:
 
 ```python
@@ -334,7 +334,7 @@ and lists of dictionaries!
 
 ### Representing an Umbrella
 
-We'll use a simple dictionary of strings to represent each umbrealla.
+We'll use a simple dictionary of strings to represent each umbrella.
 Here's an example umbrella, represented as a dictionary:
 
 ```python
@@ -363,7 +363,7 @@ umbrellas = [umbrella0, umbrella1, umbrella2, ...]
 
 Each umbrella is a dictionary. Of course, you won't want to create
 this list of dictionaries by hand -- there's over 100 of them. Rather,
-you will use the computer to construct these dicitonaries for you. We
+you will use the computer to construct these dictionaries for you. We
 have provided you with a simple text file named `inventory.txt` that
 lists all the models that Umbrellas Unlimited sells. Here's the
 first few lines of that file.
@@ -441,27 +441,27 @@ below gets students to this milestone "for free".)
 1. Program can load the inventory of umbrella models from the text
 file, and print out a nice representation of the top 10 of them.
 
-1. Program supports the actions (n)ext and (p)revious, allowing
+1. Program supports the actions `(n)ext` and `(p)revious`, allowing
 users to browse through the full inventory of umbrellas.
 
-1. Program supports the (b)uy action, allowing users to select one of
-the shown models and "purchase" it (simply prints a desciprtion of the
+1. Program supports the `(b)uy` action, allowing users to select one of
+the shown models and "purchase" it (simply prints a description of the
 selected item and exits).
 
 1. Temporarily hard code the filter `my_criteria` into your program as above.
 Program applies that filter to the full inventory and displays just
 the subset that match it.
 
-1. Program supports the (a)dd filter action, prompting user for an
+1. Program supports the `(a)dd` filter action, prompting user for an
 attribute and a value, creates a corresponding search criteria
 dictionary, and applies it to the inventory (instead of
 `my_criteria`, which you can now delete).
 
-1. Program supports the (r)emove filter action, displaying the current
+1. Program supports the `(r)emove` filter action, displaying the current
 attributes that are being filtered on and asking the user which one to
 remove.
 
-1. Program supports the (m)odify filter action. First it prompts the
+1. Program supports the `(m)odify` filter action. First it prompts the
 user to choose one of the attributes currently being filtered on, then
 it prompts the user to toggle (switch from allowed to excluded or
 vice-versa) one of the values for that attribute.
@@ -479,7 +479,7 @@ The starter project contains 7 files:
 | File | Description |
 | ---- | ----------- |
 | `inventory.txt` | A CSV file containing descriptions of 100+ models of umbrellas |
-| `main.py` | Contains the top-level logic of the progam, including the action loop and handlers for each action |
+| `main.py` | Contains the top-level logic of the program, including the action loop and handlers for each action |
 | `items.py` | Functions related to representing shopping items as python dictionaries  |
 | `criteria.py` | Functions related to search criteria |
 | `dictionaries.py` | Utilities for manipulating dictionaries |
@@ -493,8 +493,8 @@ loaded at that start of the main program.
 You can run the starter project as-is. It will run without error, but
 it won't do much. In order to make it useful, you will have to
 implement a number of functions. They are already defined in the
-various .py files, but have stub implementation that do little besides
-annouce that they are not yet implemented.
+various `.py` files, but have stub implementation that do little besides
+announce that they are not yet implemented.
 
 The starter code files also contain some fully implemented functions
 that you do not need to change.
@@ -525,7 +525,7 @@ or not.
 Of course you are free to implement additional functions that you find
 useful.
 
-Students will have to decide what is the best order to impelment these
+Students will have to decide what is the best order to implement these
 functions in; we hope they will be guided by the Milestones listed
 above.
 

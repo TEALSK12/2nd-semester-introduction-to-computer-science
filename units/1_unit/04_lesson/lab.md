@@ -9,7 +9,7 @@
 
 * Have the program introduce itself
 * Have the program ask for three separate wishes
-* Print all the wishes togethe
+* Print all the wishes together
 
 ![magic_genie_output](magic_genie_output.png)
 

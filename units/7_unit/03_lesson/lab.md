@@ -11,7 +11,7 @@
 ### Tips to give students
 
 * This exercise is a cautionary tale about one of the most common, and difficult to find, errors in Python
-* TypeError: Can't convert 'list' object to str implicitly
+* TypeError: Can't convert 'list' object to `str` implicitly
 * Use the `str()` function to convert the list object to a string.
 * Test your code by creating two Kangaroo objects
   * assign them to variables named `kanga` and `roo`

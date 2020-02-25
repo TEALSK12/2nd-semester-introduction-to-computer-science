@@ -14,7 +14,7 @@ Predict if each of the following examples will produce a `True` or `False` outpu
 
 | **Predicted Output** | **Actual Output** |
 | --- | --- |
-| <br> | <br>   |
+| Boolean | Boolean   |
 
 ### Example 2
 
@@ -26,7 +26,7 @@ Predict if each of the following examples will produce a `True` or `False` outpu
 
 | **Predicted Output** | **Actual Output** |
 | --- | --- |
-|<br> |<br> |
+|Boolean |Boolean |
 
 ### Example 3
 
@@ -38,7 +38,7 @@ Predict if each of the following examples will produce a `True` or `False` outpu
 
 | **Predicted Output** | **Actual Output** |
 | --- | --- |
-|<br> |<br> |
+|Boolean |Boolean |
 
 ### Example 4
 
@@ -51,7 +51,7 @@ Predict if each of the following examples will produce a `True` or `False` outpu
 
 | **Predicted Output** | **Actual Output** |
 | --- | --- |
-|<br> |<br> |
+|Boolean |Boolean |
 
 ## In your Console
 

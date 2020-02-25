@@ -9,7 +9,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Do Now]
-* [Project Spec - Buy an Umbrella] ([printable projectb Spec])([editable projectb spec])
+* [Project Spec - Buy an Umbrella] ([printable Spec])([editable spec])
 * Alternate Project - [Project Spec - Guess Who] ([printable project Spec]) ([editable project spec])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the do now and project spec so that you are familiar with the requirements and can assist students.
@@ -112,5 +112,5 @@ Students will be able to...
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
 [printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project.pdf
 [editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project.docx
-[printable projectb Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.pdf
-[editable projectb spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.docx
+[printable Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.pdf
+[editable spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.docx

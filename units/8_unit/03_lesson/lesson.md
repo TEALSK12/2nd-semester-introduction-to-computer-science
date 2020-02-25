@@ -48,14 +48,14 @@ Students will be able to...
 * Students should use the details built in their plan organizer to list the tasks necessary on their [Final Project Development Plan].
 * Emphasize to students that tasks should be at a very low level of granularity (hence the time requirement being specified in minutes).
 * If a single task has a time estimate of more than a few hours, the student should try to break the task into smaller pieces.
-* Ensure that students do not skip "trivial" or "simple" tasks (such as building a script they have written before) or non-coding tasks (such as developing graphics) in their pla.
+* Ensure that students do not skip "trivial" or "simple" tasks (such as building a script they have written before) or non-coding tasks (such as developing graphics) in their plan.
 
 ### 4. Debrief
 
 * As class ends, remind students that their spec and implementation plan will be their guides throughout the process.  
 * They should update them each day and keep them with them at all times.
 * Ideally, anytime there is a question about the requirements or scope of the project, the spec should have the answer.  
-* If not, it's a new idea and the spec needs to be updated acordingly.
+* If not, it's a new idea and the spec needs to be updated accordingly.
 
 ## Accommodation/Differentiation
 

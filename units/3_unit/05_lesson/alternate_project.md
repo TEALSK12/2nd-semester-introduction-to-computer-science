@@ -6,7 +6,7 @@ Using variables, functions, and conditionals in Python, you will create a daily 
 
 ## Overview
 
-In this project, you will be creating a daily planner program. A daily planner helps a user track what they need to do today and when they need to do it. This can be thought of as a TODO list that pairs each action with a time when the action is done. A planner can help make sure a person doesn't accidently book two things for the same time. Do you add events to your phone's calander?
+In this project, you will be creating a daily planner program. A daily planner helps a user track what they need to do today and when they need to do it. This can be thought of as a TODO list that pairs each action with a time when the action is done. A planner can help make sure a person doesn't accidently book two things for the same time. Do you add events to your phone's calendar?
 
 ## Details
 
@@ -81,7 +81,7 @@ Goodbye
 
 ### Implementation Details
 
-The planner is a list that has 24 empty strings in it. (The empty string is ''). Each of the 24 indexes reprents 1 hour of time in a day. For example, index 0 represents 12:00AM to 12:59AM, index 1 represents 01:00AM to 01:59AM and index 23 represents 11:00PM to 11:59PM. Your program will allow a user to add events at certain times of the day and prevent conflicts from occuring. All of the events will take exactly 1 hour.
+The planner is a list that has 24 empty strings in it. (The empty string is ''). Each of the 24 indexes represent 1 hour of time in a day. For example, index 0 represents 12:00AM to 12:59AM, index 1 represents 01:00AM to 01:59AM and index 23 represents 11:00PM to 11:59PM. Your program will allow a user to add events at certain times of the day and prevent conflicts from occurring. All of the events will take exactly 1 hour.
 
 Think back to the previous project where you created a TODO list program. All of the code in that program was put into a single script. This is OK when the program is small, but it gets harder and harder to code as the project gets bigger. Did you find the end of that project to be more challenging than the beginning? You can help mitigate this problem by creating functions to handle large amounts of work.
 
@@ -92,7 +92,7 @@ def add_event(planner, event, time, critical):
   # finish function
 ```
 
-* add_event takes the planner (your list), the event you wish to add (a string), the time you want to do the event (an int between 0 to 23 inclusive) and whether the event is critial (a boolean). If there is no event in your planner for the indicated time, add it to the planner. If there is already an event for that time you have a conflict! (You can't do both things at the same time.) Use critical to figure out what to do. If critical is True, then the new event takes priority. Replace the event in the planner at that time with the new event. If critical is False, the event is not more important and instead an error should be printed. No change is made to the list. Return True if a new event is added to the planner and False if no changes were made.
+* add_event takes the planner (your list), the event you wish to add (a string), the time you want to do the event (an `int` between 0 to 23 inclusive) and whether the event is critical (a Boolean). If there is no event in your planner for the indicated time, add it to the planner. If there is already an event for that time you have a conflict! (You can't do both things at the same time.) Use critical to figure out what to do. If critical is True, then the new event takes priority. Replace the event in the planner at that time with the new event. If critical is False, the event is not more important and instead an error should be printed. No change is made to the list. Return True if a new event is added to the planner and False if no changes were made.
 
 ```python
 def display_planner(planner):
@@ -112,7 +112,7 @@ def clear_timeframe(planner, timeframe):
 
 ### Challenge
 
-This section contains additional components you can add to the project. These should only be attemped after the project has
+This section contains additional components you can add to the project. These should only be attempted after the project has
 been completed.
 
 * Some events take longer than one hour. Modify the add_event function so that time is now a slice representing the beginning and

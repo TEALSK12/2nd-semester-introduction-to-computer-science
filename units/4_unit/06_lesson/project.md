@@ -3,7 +3,7 @@
 Using Python, students will create a Tic-Tac-Toe game. This project has two parts
 
 1. Designing the game so that two users can play Tic-Tac-Toe against one another.
-2. Creating a Tic-Tac-Toe checker which will check the board to see if Xs or Os have won the game.
+2. Creating a Tic-Tac-Toe checker which will check the board to see if `Xs` or `Os` have won the game.
 
 ## Overview
 
@@ -27,4 +27,3 @@ Using Python, students will create a Tic-Tac-Toe game. This project has two part
 ***Note: This is a change from our earlier implementations of Tic-Tac-Toe. Why do you think this might be better?***
 * Check for a winner horizontally, vertically, and on both diagonals.
 * Cannot allow a user to overwrite a spot on the board.
-

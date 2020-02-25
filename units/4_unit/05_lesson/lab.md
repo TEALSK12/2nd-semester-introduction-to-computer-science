@@ -1,10 +1,10 @@
 # Lab 4.05 - Debugging Practice
 
-## 1. Read through the following code:
+## 1. Read through the following code
 
 ```python
-def my_looping_function(list): 
-    for i in range(1, len(list)+1): 
+def my_looping_function(list):
+    for i in range(1, len(list)+1):
         print(list[i])
 
 basic_list = [1, 2, 3, 4, 5, 6]
@@ -30,9 +30,9 @@ basic_list = [1, 2, 3, 4]
 my_nested_looping_function(basic_list)
 ```
 
-## Cointinue in your Notebook
+## Continue in your Notebook
 
-### Write down any bugs that you see in the program.
+### Write down any more bugs that you see in the program
 
 ## 3. In your Console
 

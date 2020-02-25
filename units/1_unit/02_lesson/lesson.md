@@ -91,7 +91,7 @@ Give students time to work on section 1,
 * Order of Operations is the same as what students have learned in math class.
 * Discuss why it might be helpful to have an interactive console. How is it different than snap?
 
-### Accomodation/Differentiation
+### Accommodation/Differentiation
 
 If students are moving quickly, have students practice higher order-of-operations problems. You can also have them practice assigning values to variables.
   

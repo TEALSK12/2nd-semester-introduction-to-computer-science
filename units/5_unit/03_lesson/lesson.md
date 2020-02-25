@@ -7,7 +7,7 @@ Students will be able to...
 * Define and identify: **modulo**
 * Demonstrate looping and control structures
 * Demonstrate the use of looping concepts in music making via EarSketch
-* Demostrate using control structures to create music
+* Demonstrate using control structures to create music
 
 ## Materials/Preparation
 
@@ -18,7 +18,7 @@ Students will be able to...
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 * Video Explanation of Modulo in Python (Visual Rhythms)
 
-  [![Video Explanation of Mmodulo in Python](https://img.youtube.com/vi/2Tg9FxIajho/0.jpg)](https://youtu.be/2Tg9FxIajho)
+  [![Video Explanation of Modulo in Python](https://img.youtube.com/vi/2Tg9FxIajho/0.jpg)](https://youtu.be/2Tg9FxIajho)
 
 ## Pacing Guide
 

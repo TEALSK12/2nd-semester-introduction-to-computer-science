@@ -56,7 +56,7 @@ Before students leave, have them answer the following questions on a small piece
     * What is the riskiest remaining task for your project?
 5. These answers will help you determine which students to visit first the next day.
 6. Any student who indicates they are behind should get a consult with an instructor the next day to help get them back on track.
-7. Encourage students to save each day's version of their planning documents with a new name (possibly using the suffix _mmdd) so they can track progress and recover cut tasks if they make up time.
+7. Encourage students to save each day's version of their planning documents with a new name (possibly using the suffix `_mmdd`) so they can track progress and recover cut tasks if they make up time.
 
 ## Accommodation/Differentiation
 

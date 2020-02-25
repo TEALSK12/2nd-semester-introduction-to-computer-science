@@ -48,7 +48,7 @@ As with all previous projects, your program must be well-written, well-documente
 
 * organizing your functions/code so that they can be read and comprehended easily
 * giving your functions, variables, lists, and dictionaries descriptive and meaningful names
-* using the right data type (string, int, bool, float, dictionary, class) for each situation
+* using the right data type (`string`, `int`, `Boolean`, `float`, `dictionary`, `class`) for each situation
 * include comments to describe the structure of your program and track your progress
 * avoiding redundancy with good use of loops, functions, and/or lists, and/or dictionaries, and/or classes
 * practicing good procedural decomposition and abstraction
