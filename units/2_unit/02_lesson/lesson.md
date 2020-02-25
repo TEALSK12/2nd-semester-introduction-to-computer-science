@@ -4,9 +4,9 @@
 
 Students will be able to...
 
-* Define and identify: **boolean, expression, composition, True, False**
-* Evaluate a boolean expression
-* Compose boolean expressions using `and`, `or`, `not`, `<`, `>`, and `==`
+* Define and identify: **Boolean, expression, composition, True, False**
+* Evaluate a Boolean expression
+* Compose Boolean expressions using `and`, `or`, `not`, `<`, `>`, and `==`
 
 ## Materials/Preparation
 
@@ -30,13 +30,13 @@ Students will be able to...
 ### 1. Do Now
 
 * Project the Do Now on the board
-* circulate around the class to check that students are working and understand the instructions.
+* Circulate around the class to check that students are working and understand the instructions
 
 ### 2. Lesson
 
 #### Discussion
 
-* After 5 minutes of students working on the Do Now, ask students to recall what a boolean is and how they used booleans in Snap!
+* After 5 minutes of students working on the Do Now, ask students to recall what a Boolean is and how they used Booleans in Snap!
 * Ask students what values they saw in part 1 of the Do Now (answer should be `True` or `False`)
 
 #### Instruction
@@ -44,20 +44,21 @@ Students will be able to...
 * **Boolean expression**: is an expression that evaluates to either true or false.
 * Ask Students about the difference between `=` and `==`.
 * = is for assignment of value
-* == builds a boolean expression and is a way to compare two values
-* Remind students of boolean expressions in Snap!
+* == builds a Boolean expression and is a way to compare two values
+* Remind students of Boolean expressions in Snap!
 
-  ![Snap boolean Expressions](snap_boolean_expressions.png)
+  ![Snap Boolean Expressions](snap_Boolean_expressions.png)
 
-  ![Snap boolean Expressions =](snap_boolean_expressions_equals.png)
+  ![Snap Boolean Expressions =](snap_Boolean_expressions_equals.png)
 
 * Ask the students to recall what `and`, `or` and `not` did.
 * Give students additional time to finish completing part 2 of the Do Now, if needed.
 * Have a student write up the expression they used to update the `can_get_license` code.
+* Discuss with students part 3 of the Do Now and how 'or' is used two different ways.
 
 #### Poll students -
 
-* how many boolean expressions are used?
+* how many Boolean expressions are used?
   * Answers here may vary depending on the students' code.
 
 #### Instruction Part 2
@@ -85,7 +86,7 @@ If students are moving quickly, use this opportunity to go over truth tables (or
 
 ## Forum discussion
 
-[Lesson 2.02: Booleans & Expressions (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-02-booleans-expressions)
+[Lesson 2.02: Booleans & Expressions (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-02-Booleans-expressions)
 
 [Do Now]:do_now.md
 [Lab - Can I or Can't I?]:lab.md
