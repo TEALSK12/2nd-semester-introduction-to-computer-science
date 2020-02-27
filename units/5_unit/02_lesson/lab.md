@@ -29,4 +29,4 @@ Create a new EarSketch project using the following requirements
 
 ### Copyright Note
 
-The above is taken from the earsketch teaching resources.
+The above is taken from the Earsketch teaching resources.

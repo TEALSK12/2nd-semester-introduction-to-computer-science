@@ -4,7 +4,7 @@
 
 Students will be able to...
 
-* Use knowledge of lists, booleans, conditionals, and while loops to create a text-based adventure game.
+* Use knowledge of lists, Booleans, conditionals, and while loops to create a text-based adventure game.
 
 ## Materials
 

@@ -50,7 +50,7 @@ Believe it or not, Magic Squares are not difficult to make! Watch the following 
 
 ### Challenge
 
-This section contains additional components you can add to the project. These should only be attemped __after__ the project has been completed.
+This section contains additional components you can add to the project. These should only be attempted __after__ the project has been completed.
 
 * What happens if the user enters a number outside the range of 21-65? Try to check for this and print an error message!
 

@@ -2,7 +2,7 @@
 
 ## 1. In your Notebook
 
-### Predict what will be printed then type the program in your consol to confirm
+### Predict what will be printed then type the program in your console to confirm
 
 ### Example 1
 
@@ -12,10 +12,6 @@
         print(a)
 ```
 
-| **Predicted Output** | **Actual Output** |
-| --- | --- |
-|<br> |<br> |
-
 ### Example 2
 
 ```python
@@ -24,10 +20,6 @@
         a = a + 1
         print(a)
 ```
-
-| **Predicted Output** | **Actual Output** |
-| --- | --- |
-|<br> |<br> |
 
 ## 2. In your Notebook
 
@@ -39,14 +31,10 @@
         a = input("Would you like to quit: ")
 ```
 
-| **Predicted Output** | **Actual Output** |
-| --- | --- |
-|<br> |<br> |
-
 ## 3. Implement the Tic Tac Toe game using a while loop
 
 * Allow users to keep playing (max 9 times).
-* Use variables to decide whose turn it is, and greet them as Xs or Os.
+* Use variables to decide whose turn it is, and greet them as `Xs` or `Os`.
 * User picks a location on the board according to the number:
 
 ![tic-tac-toe](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrA_MowUM-KZXl1CpkrQhi8W505dM3cxZG1787i9qFz8KefqFkIQ)

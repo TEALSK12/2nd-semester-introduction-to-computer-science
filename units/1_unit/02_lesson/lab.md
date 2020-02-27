@@ -6,7 +6,7 @@ Using the interpreter, type in the expressions below. Copy and paste the output 
 
 ### Section 1
 
-| |**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**|
+| |**Input** |      **Output**    |**Did it do something unexpected?**|
 |-| ----| ------- | ----------- |
 |a| `5 + 2 * 2` || |
 |b| `2/3` || |
@@ -17,21 +17,21 @@ Using the interpreter, type in the expressions below. Copy and paste the output 
 
 ### Section 2
 
-||**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**|
+||**Input** |     **Output**    |**Did it do something unexpected?**|
 |-| ----| ------- | ----------- |
 |a| `a` || |
 |b|`'a'`|| | |
 
 ### Section 3
 
-||**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**|
+||**Input** |     **Output**    |**Did it do something unexpected?**|
 |-| ----| ------- | ----------- |
 |a| `'a + b'`|| |
 |b| `'a' + 'b'`||| |
 
 ### Section 4
 
-||**Input** | &nbsp; &nbsp; **Output** &nbsp; &nbsp;|**Did it do something unexpected?**|
+||**Input** |     **Output**    |**Did it do something unexpected?**|
 |-| ----| ------- | ----------- |
 |a| `'a' * 'b'` || |
 |b| `'a' * 2` || | |

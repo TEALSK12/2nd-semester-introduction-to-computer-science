@@ -3,8 +3,8 @@
 ## Part 1
 
 Write a function `pluralize_words` that takes in a list of words and updates the values of the list
-to make each one plural. It returns nothing. Making plurals in english has a number of special cases,
-but for this lab we'll use a simple rule: if the word ends in a 'y' remove the 'y' and add 'ies';
+to make each one plural. It returns nothing. Making plurals in English has a number of special cases,
+but for this lab we'll use a simple rule: if the word ends in a `y` remove the `y` and add `ies`;
 otherwise add an 's'.
 
 We'll exercise the function on a list of words.

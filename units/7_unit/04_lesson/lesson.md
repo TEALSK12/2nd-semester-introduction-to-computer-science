@@ -57,9 +57,9 @@ Students will be able to...
 
 ### 4. Debrief
 
-* Go over students' questions. Ask what questions the students have and review instance, class, methods, init, str, etc
+* Go over students' questions. Ask what questions the students have and review instance, class, methods, `init`, `str`, etc.
 
-## Accomodation/Differentiation
+## Accommodation/Differentiation
 
 In the Pokemon lab, students may need clarification regarding how to use `isinstance` and how to manipulate the `defend` method to meet the requirements of each child class. Consider demonstrating the creation of one child class for all students before having students work on the lab.
 

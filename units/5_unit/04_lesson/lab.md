@@ -14,4 +14,4 @@ Create a new EarSketch project that meets the requirements below. Include your n
 
 ## Copyright Note
 
-The above is taken from the earsketch teaching resources.
+The above is taken from the Earsketch teaching resources.

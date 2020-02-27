@@ -7,11 +7,11 @@
 2. Create an EarSketch script using the following requirements. Include your name and a description in comments at the top of the file.
 
     * Create a project with 4 tracks that is at least 16 measures in length.
-    * 2 tracks should be music tracks, containing fitmedia() function calls.
-    * The remaining two tracks should contain makeBeat() function calls.
+    * 2 tracks should be music tracks, containing `fitmedia()` function calls.
+    * The remaining two tracks should contain `makeBeat()` function calls.
     * One track should use a for loop to repeat a rhythm (beat string) for every measure in the song.
     * The other track should use a for loop to repeat a rhythm for every other measure in the song (e.g. 1, 3, 5, 7, 9, 11…).
 
 ## Copyright Note
 
-The above is taken from the earsketch teaching resources.
+The above is taken from the Earsketch teaching resources.

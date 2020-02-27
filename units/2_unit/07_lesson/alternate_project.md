@@ -61,7 +61,7 @@ Goodbye
 
 ### Challenge
 
-This section contains additional components you can add to the project. These should only be attemped **after** the project has been completed.
+This section contains additional components you can add to the project. These should only be attempted **after** the project has been completed.
 
 * It is a bit inconvenient to have to type two commands to add or remove an element from the list. Modify the program so that tasks  can be added or removed from the TODO list with a single command like **add go to gym** or **remove go to gym**.
 

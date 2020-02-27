@@ -26,7 +26,7 @@ If you are not sure what type a value has, the interpreter can tell you.
 <type 'int'>
 ```
 
-Not surprisingly, strings belong to the type str and integers belong to the type int. Less
+Not surprisingly, strings belong to the type `str` and integers belong to the type int. Less
 obviously, numbers with a decimal point belong to a type called float, because these numbers are
 represented in a format called floating-point.
 
@@ -265,7 +265,7 @@ If you are not sure what type a value has, the interpreter can tell you.
 <type 'int'>
 ```
 
-Not surprisingly, strings belong to the type str and integers belong to the type int. Less
+Not surprisingly, strings belong to the type `str` and integers belong to the type int. Less
 obviously, numbers with a decimal point belong to a type called float, because these numbers are
 represented in a format called floating-point.
 
@@ -798,7 +798,7 @@ the return value.
 
 ### Type conversion functions
 
-Python provides built-in functions that convert values from one type to another. The int function
+Python provides built-in functions that convert values from one type to another. The `int` function
 takes any value and converts it to an integer, if it can, or complains otherwise:
 
 ```Python
@@ -808,7 +808,7 @@ takes any value and converts it to an integer, if it can, or complains otherwise
 ValueError: invalid literal for int(): Hello
 ```
 
-int can convert floating-point values to integers, but it doesn’t round off; it chops off the
+`int` can convert floating-point values to integers, but it doesn’t round off; it chops off the
 fraction part:
 
 ```Python
@@ -940,7 +940,7 @@ The strings in the print statements are enclosed in double quotes. Single quotes
 do the same thing; most people use single quotes except in cases like this where a single quote
 (which is also an apostrophe) appears in the string.
 
-If you type a function definition in interactive mode, the interpreter prints ellipses (...) to let
+If you type a function definition in interactive mode, the interpreter prints ellipses to let
 you know that the definition isn’t complete:
 
 ```Python
@@ -1065,7 +1065,7 @@ def print_twice(bruce):
     print(bruce)
 ```
 
-This function assigns the argument to a parameter named bruce. When the function is called, it
+This function assigns the argument to a parameter named Bruce. When the function is called, it
 prints the value of the parameter (whatever it is) twice.
 
 This function works with any value that can be printed.
@@ -1106,9 +1106,9 @@ Eric, the half a bee.
 Eric, the half a bee.
 ```
 
-The name of the variable we pass as an argument (michael) has nothing to do with the name of the
-parameter (bruce). It doesn’t matter what the value was called back home (in the caller); here in
-`print_twice`, we call everybody bruce.
+The name of the variable we pass as an argument (Michael) has nothing to do with the name of the
+parameter (Bruce). It doesn’t matter what the value was called back home (in the caller); here in
+`print_twice`, we call everybody Bruce.
 
 ## 3.3
 
@@ -1247,7 +1247,7 @@ exception:
 NameError: name 'cat' is not defined
 ```
 
-Parameters are also local. For example, outside `print_twice`, there is no such thing as bruce.
+Parameters are also local. For example, outside `print_twice`, there is no such thing as `Bruce`.
 
 ### Global variables
 
@@ -1344,13 +1344,13 @@ The order of the stack shows the flow of execution. `print_twice` was called by 
 create a variable outside of any function, it belongs to `__main__`.
 
 Each parameter refers to the same value as its corresponding argument. So, part1 has the same value
-as chant1, part2 has the same value as chant2, and param has the same value as cat.
+as `chant1`, `part2` has the same value as `chant2`, and `param` has the same value as cat.
 
 If an error occurs during a function call, Python prints the name of the function, and the name of
 the function that called it, and the name of the function that called that, all the way back to the
 top most function.
 
-To see how this works, create a Python script named tryme2.py that looks like this:
+To see how this works, create a Python script named `tryme2.py` that looks like this:
 
 ```Python
 def print_twice(param):
@@ -1503,9 +1503,9 @@ while index < len(fruit):
 ```
 
 This loop traverses the string and displays each letter on a line by itself. The loop condition is
-index < len(fruit), so when index is equal to the length of the string, the condition is false, and
+index `len(fruit)`, so when index is equal to the length of the string, the condition is false, and
 the body of the loop is not executed. The last character accessed is the one with the index
-len(fruit)-1, which is the last character in the string.
+`len(fruit)-1`, which is the last character in the string.
 
 #### Exercise 4.1
 
@@ -1523,7 +1523,7 @@ loop continues until no characters are left.
 
 The following example shows how to use concatenation (string addition) and a for loop to generate an
 abecedarian series (that is, in alphabetical order). In Robert McCloskey’s book Make Way for
-Ducklings, the names of the ducklings are Jack, Kack, Lack, Mack, Nack, Ouack, Pack, and Quack. This
+Ducklings, the names of the ducklings are `Jack, Kack, Lack, Mack, Nack, Ouack, Pack, and Quack`. This
 loop outputs these names in order:
 
 ```Python
@@ -1547,7 +1547,7 @@ Pack
 Qack
 ```
 
-Of course, that’s not quite right because “Ouack” and “Quack” are misspelled.
+Of course, that’s not quite right because `Ouack` and `Quack` are misspelled.
 
 #### Exercise 4.2
 
@@ -1595,7 +1595,7 @@ for i in range(len(numbers)):
 
 This loop traverses the list and updates each element. `len` returns the number of elements in the
 list. `range` returns a list of indices from 0 to n−1, where n is the length of the list. Each time
-through the loop i gets the index of the next element. The assignment statement in the body uses i
+through the loop `i` gets the index of the next element. The assignment statement in the body uses `i`
 to read the old value of the element and to assign the new value.
 
 ### Debugging 4
@@ -1625,7 +1625,7 @@ The first if statement checks whether the words are the same length. If not, we 
 immediately and then, for the rest of the function, we can assume that the words are the same
 length. This is an example of the guardian pattern in Section 6.8.
 
-i and j are indices: i traverses word1 forward while j traverses word2 backward. If we find two
+`i` and `j` are indices: `i` traverses `word1` forward while `j` traverses `word2` backward. If we find two
 letters that don’t match, we can return False immediately. If we get through the whole loop and all
 the letters match, we return True.
 
@@ -1663,7 +1663,7 @@ IndexError: string index out of range
 ```
 
 The first time through the loop, the value of j is 4, which is out of range for the string 'pots'.
-The index of the last character is 3, so the initial value for j should be len(word2)-1.
+The index of the last character is 3, so the initial value for j should be `len(word2)-1`.
 If I fix that error and run the program again, I get:
 
 ```Python
@@ -1683,11 +1683,11 @@ the first iteration, the frame for `is_reverse` is shows in Figure 1.
 | _Figure 1: State diagram._ |
 
 I took a little license by arranging the variables in the frame and adding dotted lines to show that
-the values of i and j indicate characters in word1 and word2.
+the values of `i` and `j` indicate characters in word1 and word2.
 
 #### Exercise 5.1
 
-Starting with this diagram, execute the program on paper, changing the values of i and j during each
+Starting with this diagram, execute the program on paper, changing the values of `i` and `j` during each
 iteration. Find and fix the second error in this function.
 
 ## Unit 6 - Dictionaries
@@ -1704,7 +1704,7 @@ pair or sometimes an item.
 As an example, we’ll build a dictionary that maps from English to Spanish words, so the keys and the
 values are all strings.
 
-The function dict creates a new dictionary with no items. Because dict is the name of a built-in
+The function `dict` creates a new dictionary with no items. Because `dict` is the name of a built-in
 function, you should avoid using it as a variable name.
 
 ```Python
@@ -1721,7 +1721,7 @@ You can create a new dictionary with three items:
 >>> eng2sp = {'one': 'uno', 'two': 'dos', 'three': 'tres'}
 ```
 
-But if you print eng2sp, you might be surprised:
+But if you print `eng2sp`, you might be surprised:
 
 ```Python
 >>> print(eng2sp)
@@ -1790,7 +1790,7 @@ To add items to the dictionary, you can use square brackets:
 >>> eng2sp['one'] = 'uno'
 ```
 
-This line creates an item that maps from the key ’one’ to the value 'uno'. If we print the
+This line creates an item that maps from the key `one` to the value `uno`. If we print the
 dictionary again, we see a key-value pair with a colon between the key and value:
 
 ```Python
@@ -1808,7 +1808,7 @@ string and, for each character, increment the corresponding counter, probably us
 conditional.
 
 You could create a list with 26 elements. Then you could convert each character to a number (using
-the built-in function ord), use the number as an index into the list, and increment the appropriate
+the built-in function `ord`), use the number as an index into the list, and increment the appropriate
 counter.
 
 You could create a dictionary with characters as keys and counters as the corresponding values. The
@@ -1876,7 +1876,7 @@ def invert_dict(d):
     return inverse
 ```
 
-Each time through the loop, key gets a key from d and val gets the corresponding value. If val is
+Each time through the loop, key gets a key from `d` and `val` gets the corresponding value. If `val` is
 not in inverse, that means we haven’t seen it before, so we create a new item and initialize it with
 a singleton (a list that contains a single element). Otherwise we have seen this value before, so we
 append the corresponding key to the list.
@@ -1904,7 +1904,7 @@ Traceback (most recent call last):
 TypeError: list objects are unhashable
 ```
 
-A dictionary is implemented using a hash table and that means that the keys have to be hashable.
+A dictionary is implemented using a hash table and that means that the keys have to be `hashable`.
 
 A hash is a function that takes a value (of any kind) and returns an integer. Dictionaries use these
 integers, called hash values, to store and look up key-value pairs.
@@ -1915,7 +1915,7 @@ the corresponding location. If you modify the key and then hash it again, it wou
 location. In that case you might have two entries for the same key, or you might not be able to find
 a key. Either way, the dictionary wouldn’t work correctly.
 
-That’s why the keys have to be hashable, and why mutable types like lists aren’t.
+That’s why the keys have to be `hashable`, and why mutable types like lists aren’t.
 
 Since lists and dictionaries are mutable, they can’t be used as keys, but they can be used as
 values.
@@ -2022,8 +2022,8 @@ This syntax is similar to the syntax for selecting a variable from a module, suc
 string.whitespace. In this case, though, we are assigning values to named elements of an object.
 These elements are called attributes.
 
-As a noun, “AT-trib-ute” is pronounced with emphasis on the first syllable, as opposed to
-“a-TRIB-ute,” which is a verb.
+As a noun, `AT-trib-ute` is pronounced with emphasis on the first syllable, as opposed to
+`a-TRIB-ute`, which is a verb.
 
 You can read the value of an attribute using the same syntax:
 
@@ -2147,7 +2147,7 @@ box.height = box.width + 100
 ```
 
 You can also write functions that modify objects. For example, `grow_rectangle` takes a Rectangle
-object and two numbers, dwidth and dheight, and adds the numbers to the width and height of the
+object and two numbers, `width` and `dheight`, and adds the numbers to the width and height of the
 rectangle:
 
 ```Python
@@ -2170,21 +2170,21 @@ Here is an example that demonstrates the effect:
 300.0
 ```
 
-Inside the function, rect is an alias for box, so if the function modifies rect, box changes.
+Inside the function, `rect` is an alias for box, so if the function modifies `rect`, box changes.
 
 ### Exercise 6.2
 
 Write a function named `move_rectangle` that takes a Rectangle and two numbers named dx and dy. It
-should change the location of the rectangle by adding dx to the x coordinate of corner and adding dy
-to the y coordinate of corner.
+should change the location of the rectangle by adding dx to the x coordinate of corner and adding `dy`
+to the `y` coordinate of corner.
 
 ## 7.2
 
-### The init method
+### The `init` method
 
-The init method (short for “initialization”) is a special method that gets invoked when an object is
-instantiated. Its full name is `__init__` (two underscore characters, followed by init, and then two
-more underscores). An init method for the Time class might look like this:
+The `__init__` method (short for “initialization”) is a special method that gets invoked when an object is
+instantiated. Its full name is `__init__` (two underscore characters, followed by `__init__`, and then two
+more underscores). An `__init__` method for the Time class might look like this:
 
 ```Python
 class Time(object):
@@ -2225,11 +2225,11 @@ And if you provide three arguments, they override all three default values.
 
 It is legal to add attributes to objects at any point in the execution of a program, but if you are
 a stickler for type theory, it is a dubious practice to have objects of the same type with different
-attribute sets. It is usually a good idea to initialize all of an object’s attributes in the init
+attribute sets. It is usually a good idea to initialize all of an object’s attributes in the `init`
 method.
 
 If you are not sure whether an object has a particular attribute, you can use the built-in function
-hasattr (see Section 15.7).
+`hasattr` (see Section 15.7).
 
 Another way to access the attributes of an object is through the special attribute `__dict__`,
 which is a dictionary that maps attribute names (as strings) and values:
@@ -2251,7 +2251,7 @@ def print_attributes(obj):
 `print_attributes` traverses the items in the object’s dictionary and prints each attribute name and
 its corresponding value.
 
-The built-in function getattr takes an object and an attribute name (as a string) and returns the
+The built-in function `getattr` takes an object and an attribute name (as a string) and returns the
 attribute’s value.
 
 ## 7.3
@@ -2397,7 +2397,7 @@ the subject is also considered an argument, so all together that’s three.
 `__str__` is a special method, like `__init__`, that is supposed to return a string representation
 of an object.
 
-For example, here is a str method for Time objects:
+For example, here is a `str` method for Time objects:
 
 ```Python
     # inside class Time:
@@ -2419,7 +2419,7 @@ instantiate objects, and `__str__`, which is useful for debugging.
 
 #### Exercise 6.4
 
-Write a str method for the Point class. Create a Point object and print it.
+Write a `str` method for the Point class. Create a Point object and print it.
 
 ### Operator overloading
 
@@ -2490,7 +2490,7 @@ This definition indicates that Hand inherits from Deck; that means we can use me
 `pop_card` and `add_card` for Hands as well as Decks.
 
 Hand also inherits `__init__` from Deck, but it doesn’t really do what we want: instead of
-populating the hand with 52 new cards, the init method for Hands should initialize cards with an
+populating the hand with 52 new cards, the `init` method for Hands should initialize cards with an
 empty list.
 
 If we provide an `__init__` method in the Hand class, it overrides the one in the Deck class:
@@ -2503,7 +2503,7 @@ If we provide an `__init__` method in the Hand class, it overrides the one in th
         self.label = label
 ```
 
-So when you create a Hand, Python invokes this init method:
+So when you create a Hand, Python invokes this `init` method:
 
 ```Python
 >>> hand = Hand('new hand')
@@ -2581,11 +2581,11 @@ multiplicity can be a simple number, like 52, a range, like 5..7 or a star, whic
 Deck can have any number of Cards.
 
 A more detailed diagram might show that a Deck actually contains a list of Cards, but built-in types
-like list and dict are usually not included in class diagrams.
+like `list` and `dict` are usually not included in class diagrams.
 
 #### Exercise 7.1
 
-Read TurtleWorld.py, World.py and Gui.py and draw a class diagram that shows the relationships among
+Read `TurtleWorld.py`, `World.py` and `Gui.py` and draw a class diagram that shows the relationships among
 the classes defined there.
 
 ### Debugging 7

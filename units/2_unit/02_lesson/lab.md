@@ -12,10 +12,6 @@ Predict if each of the following examples will produce a `True` or `False` outpu
     >>> a > 75 and b == "science"
 ```
 
-| **Predicted Output** | **Actual Output** |
-| --- | --- |
-| <br> | <br>   |
-
 ### Example 2
 
 ```python
@@ -23,10 +19,6 @@ Predict if each of the following examples will produce a `True` or `False` outpu
     >>> b = "science"
     >>> a > 75 and b != "science"
 ```
-
-| **Predicted Output** | **Actual Output** |
-| --- | --- |
-|<br> |<br> |
 
 ### Example 3
 
@@ -36,10 +28,6 @@ Predict if each of the following examples will produce a `True` or `False` outpu
     >>> a > 75 or b != "science"
 ```
 
-| **Predicted Output** | **Actual Output** |
-| --- | --- |
-|<br> |<br> |
-
 ### Example 4
 
 ```python
@@ -48,10 +36,6 @@ Predict if each of the following examples will produce a `True` or `False` outpu
     >>> c = True
     >>> not c and a > 75 and b == "science"
 ```
-
-| **Predicted Output** | **Actual Output** |
-| --- | --- |
-|<br> |<br> |
 
 ## In your Console
 

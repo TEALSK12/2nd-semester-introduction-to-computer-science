@@ -25,7 +25,7 @@ shopping_cart = [
 
 `view item`
 
-* The program asks which shopping list the item is on and which position i occupies, then prints the items name.
+* The program asks which shopping list the item is on and which position `i` occupies, then prints the items name.
 
 `view list`
 
@@ -39,11 +39,11 @@ shopping_cart = [
 
 `print_item`
 
-* Takes an int representing the index of the shopping list followed by an int representing the index of the item to print.
+* Takes an `int` representing the index of the shopping list followed by an `int` representing the index of the item to print.
 
 `print_list`
 
-* Takes an int representing the index of the shopping list to print.
+* Takes an `int` representing the index of the shopping list to print.
 * Feel free to add more functions as you see fit
 
 ### Example

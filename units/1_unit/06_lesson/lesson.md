@@ -63,7 +63,7 @@
 ### 4. Wrap Up - Student Demos
 
 * Celebrate and showcase student work once projects are completed.
-* Have students demonstrate their Mad Libs for the class, with the class choosing what nouns/verbs/etc to use for the story.
+* Have students demonstrate their Mad Libs for the class, with the class choosing what nouns/verbs/etc. to use for the story.
 
 ## SNAP Flashback - MadLibs
 

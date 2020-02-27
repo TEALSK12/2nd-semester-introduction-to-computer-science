@@ -4,7 +4,7 @@
 
 * How do you iterate through the items of a  list using a for loop?
 * How do you use a nested for loop to do a stack trace?
-* How do you use for loops to travese a list?
+* How do you use for loops to traverse a list?
 * How do you debug programs utilizing nested for loops and lists?"
 
 ## Pacing Guide

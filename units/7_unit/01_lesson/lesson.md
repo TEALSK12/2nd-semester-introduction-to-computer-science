@@ -40,17 +40,17 @@ Students will be able to...
 * They probably noticed that this was going to be difficult to do concisely without some other data type.
 * Acknowledge that we need something that says "I am type Pet, which has three different qualities or attributes".
 
-#### Intruction - Class
+#### Instruction - Class
 
 * a user-defined type.
 * On board write syntax for creating a class: `class Pet(object):`
 
-#### Intruction - Object
+#### Instruction - Object
 
 * The basis of object-oriented programming (OOP).
 * Objects correspond to a real world thing that has certain attributes associated with it.
 
-#### Intruction - Instantiated
+#### Instruction - Instantiated
 
 * You can create **instances** of a class by using `Pet()` (`my_pet_1` is an instance of the `Pet` class).
 * If you check the type of an instance it will be `Pet`.
@@ -65,7 +65,7 @@ Students will be able to...
 * Ask students what they think `pet.full_name` will do.
 * This is a good time to explain the concept of an attribute.
 
-#### Intruction - Attribute
+#### Instruction - Attribute
 
 * Values assigned to an instance.
 * Note that you can also create functions that take in classes and use their attributes.

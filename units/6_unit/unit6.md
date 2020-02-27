@@ -2,7 +2,7 @@
 
 ## Essential Questions
 
-* How do you use Dictionaaries to create key-value pairs in Python?
+* How do you use Dictionaries to create key-value pairs in Python?
 * How do you add, remove and append list values in a dictionary?
 * How do you use loops to travers the key/value pairs of a dictionary?
 
