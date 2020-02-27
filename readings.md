@@ -2182,9 +2182,9 @@ to the `y` coordinate of corner.
 
 ### The `init` method
 
-The `init` method (short for “initialization”) is a special method that gets invoked when an object is
-instantiated. Its full name is `init` (two underscore characters, followed by `init`, and then two
-more underscores). An `init` method for the Time class might look like this:
+The `__init__` method (short for “initialization”) is a special method that gets invoked when an object is
+instantiated. Its full name is `__init__` (two underscore characters, followed by `__init__`, and then two
+more underscores). An `__init__` method for the Time class might look like this:
 
 ```Python
 class Time(object):

@@ -77,8 +77,8 @@ As you implement this curriculum into your program, there are some things to con
 | Lesson | Objectives | Lab |
 | ------ | ---------- | --- |
 | [7.01: User-Defined Types] | Define and identify: class, instance, object, attributes. Create a class and instantiate. attributes to an instance. Manipulate instances and attributes through a function. | Create a Color Class |
-| [7.02: User-Defined Types, Part 2] | Define and identify: self, `init`. Create a class with an `init` method. Understand and use the self argument. Instantiate a class with arguments. | Pet Class |
-| [7.03: Methods] | Define and identify: method, `str`, `add`, operator overloading. Create a class with an `init` method. Understand and use the self argument. Instantiate a class with an argument. | Kangaroo Class |
+| [7.02: User-Defined Types, Part 2] | Define and identify: self, `__init__`. Create a class with an `__init__` method. Understand and use the self argument. Instantiate a class with arguments. | Pet Class |
+| [7.03: Methods] | Define and identify: method, `__str__`, `__add__`, operator overloading. Create a class with an `__init__` method. Understand and use the self argument. Instantiate a class with an argument. | Kangaroo Class |
 | [7.04: Inheritance] | Define and identify: inheritance, parent class, child class. Create a class that inherits from anther class. Overwrite methods of parent class in a child class. | Pokemon Child Classes |
 | [7.05: Pokemon] | Engage in class design before beginning coding. Apply what was learned with respect to classes, methods, and inheritance to create an implementation of Pokemon. | Pokemon |
 

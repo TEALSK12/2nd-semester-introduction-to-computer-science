@@ -30,10 +30,10 @@
 * Object
 * Attributes
 * Self
-* `Init`
+* `__Init__`
 * Method
-* `str`
-* `Add`
+* `__str__`
+* `__Add__`
 * Operating overloading
 * Inheritance
 * Parent Class
