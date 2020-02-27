@@ -42,7 +42,7 @@ TEALS intends for this curriculum to be a starting point for teachers. We'll con
 
 ## Printing GitBook
 
-The 2nd Semester Introduction to Computer Science GitBook can be printed by navigating to [PDF Version](https://pdf.gitbook.cloud/preview?url=https://tealsk12.gitbook.io/intro-cs-2/#).
+The 2nd Semester Introduction to Computer Science GitBook can be printed by navigating to https://aka.ms/TEALS2ndSemesterPDF.
 
 ## Creative Commons Attribution Non-Commercial Share-alike License
 
