@@ -15,7 +15,7 @@ Rank the following from easiest to hardest:
 1. Importing built-in functions
 2. Using `randint`
 3. Abstraction/creating functions
-4. Passing `int/str/float/Boolean` arguments into functions
+4. Passing `int/str/float/bool` arguments into functions
 5. Calling a function
 6. List syntax
 7. Return vs print
