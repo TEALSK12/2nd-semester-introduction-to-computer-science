@@ -1,4 +1,4 @@
-# Lesson 5.05: Multilingual EarSketch Project
+# Lesson 5.05: EarSketch Pair Programming Project
 
 ## Learning Objectives
 
@@ -78,7 +78,6 @@ others in the class for some feedback.
 
 * Review the terminology, topics, and skills that students have learned from this unit. Talk about any questions or things the students are struggling with.
 * Discuss the parts of the song mentioned in the Do Now (chorus, bridge, and verses) and how they fit into building a song.
-* Ask students to 
 * Distribute the project spec and talk students through the requirements and scoring rubric.
 * A the end of each iteration (or work day), invite a few teams to do a preliminary demo of 
   what they have so far.  
@@ -106,6 +105,9 @@ If the project is 5 works days, each day might be an "iteration".
 The plan for each day should be to get "something working", or "something presentable".
 In product development, we call it a "minimum viable product", or MVP.
 Daily sharing of peer progress allows for the cross-pollination of ideas as well. 
+Finally, when the final project is presented, provide a chance for
+students to share about their creation journey and project learnings. 
+This prepares them to be smarter and wiser for their next project. 
 
 ---
 
