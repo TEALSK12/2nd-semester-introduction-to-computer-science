@@ -14,23 +14,15 @@ Students will be able to...
 
 #### Curriculum Competencies - Collaborative, Iterative
 
-Creative output like music is best done in collaboration and in the context of 
-community.  Music is meant to be enjoyed and shared.  
-For this project encourage students to work together in pairs for the whole development process:
-understanding context, defining, ideating, prototyping, testing, making and sharing.  
+Creative output like music is best done in collaboration and in the context of community.  Music is meant to be enjoyed and shared.  For this project encourage students to work together in pairs for the whole development process: understanding context, defining, ideating, prototyping, testing, making and sharing.  
 
 Studies have shown that pair programming has many benefits  https://stackify.com/pair-programming-advantages/
   https://collaboration.csc.ncsu.edu/laurie/Papers/XPSardinia.PDF  
-  Typically, one student is the "driver", who types on the keyboard while the other person
-is the "navigator", who helps directs and watches what the driver is doing.   
+  Typically, one student is the "driver", who types on the keyboard while the other person is the "navigator", who helps directs and watches what the driver is doing.   
 
-It breaks the stereotype that programmers work alone in front of the computer all day.
-Pair programming makes learning how to code into a more fun and sociable experience. 
-This model is particularly helpful for students who may feel shy or intimidated in front
-of peers who have more experience with computers. 
+It breaks the stereotype that programmers work alone in front of the computer all day.  Pair programming makes learning how to code into a more fun and sociable experience.  This model is particularly helpful for students who may feel shy or intimidated in front of peers who have more experience with computers. 
 
-As students progress through the song, encourage them to swap roles for each iteration.  
-This way, both students have a chance to experience being the "driver", and "navigator". 
+As students progress through the song, encourage them to swap roles for each iteration.  This way, both students have a chance to experience being the "driver", and "navigator". 
 
 ---
 
@@ -99,15 +91,11 @@ that can be shared with peers each day.
 
 #### Curriculum Competencies - Collaborative, Iterative, Sharing
 
-In Agile project management, developers stay focussed on creating something that works
-in small cycles, and take time to reflect on client feedback and team experience. 
-If the project is 5 works days, each day might be an "iteration".
-The plan for each day should be to get "something working", or "something presentable".
-In product development, we call it a "minimum viable product", or MVP.
-Daily sharing of peer progress allows for the cross-pollination of ideas as well. 
-Finally, when the final project is presented, provide a chance for
-students to share about their creation journey and project learnings. 
-This prepares them to be smarter and wiser for their next project. 
+In Agile project management, developers stay focussed on creating something that works in small cycles, and take time to reflect on client feedback and team experience.  If the project is 5 works days, each day might be an "iteration". 
+
+The goal for each iteration should be to have "something working", or "something presentable". In product development, we call it a "minimum viable product", or MVP. Daily sharing of peer progress allows for the cross-pollination of ideas as well. 
+
+Finally, when the final project is presented, provide a chance for students to share about their creation journey and project learnings.  This prepares them to be smarter and wiser for their next project. 
 
 ---
 
