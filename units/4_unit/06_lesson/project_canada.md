@@ -67,10 +67,10 @@ next iteration:  colour, size, font, layout, game play, words of encouragement (
 * Consider aspects that the design that be changed so that the game can have a fresh look/feel?
 * Consider context that is relevant to your community, or daily life.  
 * Instead of X's and O's, for example:
-** If you live by the West Coast, you can use:  B (beach) or M (mountain)
-** If you have multi-cultural community, you can use: 是 (yes) 否 (no) 
-** If you are into emoticons, you can use:  😍 or  😭
-** Find two animals that are hunted by the First Nations people in your area.
+    * If you live by the West Coast, you can use:  B (beach) or M (mountain)
+    * If you have multi-cultural community, you can use: 是 (yes) 否 (no) 
+    * If you are into emoticons, you can use:  😍 or  😭
+    * Find two animals that are hunted by the First Nations people in your area.
 
 ---
 #### Emphasize with students...
