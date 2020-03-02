@@ -27,9 +27,21 @@ Students will be able to...
 
 #### Curriculum Competencies - Understanding Context, Defining, Ideating
 
-Have a game day party!  Invite others to come to your classroom.  Send your game to friends.  Create a few user experience survey 
-questions to gather from anyone, and everyone, who plays your game.   Ask questions related to anything that may help your
-next iteration:  colour, size, font, layout, game play, words of encouragement (or lack of!), intuitiveness, and so on. 
+Sofware is as useful as its abibility to connect with the lives of people,
+and do something purposeful, or be relevant in a real-life context.
+
+Brainstorming can be hard for a project idea can be hard. 
+Start by observing the world around you, and people in daily life.
+The computer is great at doing repetitive tasks, complex tasks, and keeping track of data.
+What repetitive, or complex task, can you create a solution for?
+
+To help trigger some ideas:
+* What are some calculations that a computer can help do for you?
+* When was the last time you used a calculator?  What was it used for? 
+* What are some solutions that may exist, but don't work very well?
+* Are there areas that could benefit from custom-tailored software in your school, club, family, community, etc?
+* What are some current events or hot topics that affects your lives right now?
+Examples:  climate change, the spread of virus, high host of housing, school elections, sports team tryouts, etc. 
 
 ---
 
@@ -66,6 +78,30 @@ next iteration:  colour, size, font, layout, game play, words of encouragement (
     * Give students 3-4 minutes to brainstorm and write down as many project ideas as they can.  This should be done mostly in silence.
         * At this point, there should be minimal detail, no evaluation or rejection of ideas, and no discussion.  In particular, students should not think about the difficulty or "coolness" of the project yet.  Just write down ideas.
         * If desired, have each student share one idea.  Do not allow discussion, criticism, or explanation-- each idea should be summarized in only a few words or a single sentence.
+
+---
+#### Emphasize with students...
+
+#### Curriculum Competencies - Understanding Context, Defining, Ideating
+
+Sofware is as useful as its abibility to connect with the lives of people,
+and do something purposeful, or be relevant in a real-life context.
+
+Brainstorming can be hard for a project idea can be hard. 
+Start by observing the world around you, and people in daily life.
+The computer is great at doing repetitive tasks, complex tasks, and keeping track of data.
+What repetitive, or complex task, can you create a solution for?
+
+To help trigger some ideas:
+* What are some calculations that a computer can help do for you?
+* When was the last time you used a calculator?  What was it used for? 
+* What are some solutions that may exist, but don't work very well?
+* Are there areas that could benefit from custom-tailored software in your school, club, family, community, etc?
+* What are some current events or hot topics that affects your lives right now?
+Examples:  climate change, the spread of virus, high host of housing, school elections, sports team tryouts, etc. 
+
+---
+
 4. ** Pitch writing ** 
     * Have students look at their list of ideas and spend a few minutes thinking about them. Then, each student should pick their **3** favorite ideas and write a "pitch" for the project.  A pitch should be no more than a short paragraph and should describe the basic, high-level features of the project.  The pitch should _not_ include any implementation details (scripts, sprites, etc.).
         * Pitches should include a moderate level of specificity-- enough for someone to imagine how the app will work, but not so much to get bogged down.  Enforce the "one short paragraph" restriction.
@@ -79,8 +115,26 @@ next iteration:  colour, size, font, layout, game play, words of encouragement (
 6. ** Debrief ** 
     * At this points, students should have between one and three pitches that are well-defined and reasonably well fleshed-out.  Overnight, students should consider their pitches and rank them in order or which they would most like to pursue as their final project.
         * Make sure students don't just pick the "coolest" sounding idea, but also consider the technical challenges, amount of time available, and their own interest in and willingness to see the project through to completion.
+7. ** User-Centred Research **
+    * After students pick on idea, it's time to conduct some user-centred research to help validate the 
+    problem/solution, and get a better understand of user goals and behavior.  
+    * Create a short survey (5-6 questions) using Google Forms, or Monkey Survey
+    that can be done with peers or target user group.  
+    * The survey questions are intended to help you define requirements for your software solution.
+---
 
+#### Emphasize with students...
 
+#### Curriculum Competencies - Understanding Context, Defining, Ideating
+
+One method of User-Centred Research is to conduct a survey amongst potential users.  
+What are some design decisions needed to help scope the requirements of the app you will build?
+Create some survey questions to help you make these decisions! 
+A survey can also be done to help validate if a project idea or solution is worth pursuing.
+If this is the case, create some questions to see if your app idea is something that might be helpful.
+
+---
+  
 ## Accommodation/Differentiation
 * If students are having difficulty coming up with project ideas, encourage them to think about existing software.  While simply recreating an existing app should be a last resort, thinking about apps they already know can help students come up with functionality they might like to include.
 * If your class is fairly self-sufficient and mature, you can consider allowing students to "borrow" an idea from a classmate if they find one they like better than any of their own.  Make sure the person who had the idea is OK with it being borrowed, and emphasize that the students must each build their own version.
