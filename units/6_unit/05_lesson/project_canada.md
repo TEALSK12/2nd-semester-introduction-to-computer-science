@@ -37,7 +37,7 @@ When the game begins, a character should be randomly selected by the computer. T
 ```
 What would you like to do? list
 Fin (Vancouver Canucks): 
-['black', 'blue', "mammal", 'near waters', 'love swimming']
+['black', 'blue', "mammal", 'near waters', 'loves swimming']
 Carlton (Toronto Maple Leafs): 
 ['white', 'blue', 'furry', 'near waters', 'drafted 1995']
 Hunter (Edmonton Oilers): 
