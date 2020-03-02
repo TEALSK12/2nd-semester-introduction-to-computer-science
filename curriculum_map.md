@@ -54,7 +54,7 @@
 | 5.03: Earsketch Control Flow | Define and identify: modulo. Review looping and control structures. Use looping concepts in music making via EarSketch. Use control structures to create music. | Earsketch Control Flow |
 | 5.04: EarSketch User-Defined Functions | Define and identify: abstraction, section, A-B-A form. Create and apply user-defined functions to create songs with complicated form. | User-Defined Functions |
 | 5.05: EarSketch Project | Create a complete song in EarSketch with multiple parts. Utilize EarSketch's features and functions. | EarSketch Song |
-
+| 5.05x: EarSketch Project | Create a complete song in EarSketch with multiple parts. Utilize EarSketch's features and functions. | EarSketch Song with Pair Programming |
 
 ## Unit 6: 
 | Lesson | Objectives | Lab |
@@ -64,6 +64,7 @@
 | 6.03: Dictionaries of Lists | Create dictionaries with keys and values of different types. Update, append, or remove list values in a dictionary. | Dictionaries Storing Lists |
 | 6.04: Dictionaries Looping | Use loops to traverse through key/value pairs in a dictionary | Dictionaries Looping |
 | 6.05: Guess Who | Use dictionaries to create the game Guess Who | Guess Who |
+| 6.05x: Guess Who | Use dictionaries to create the game Guess Who (the Mascot Is) | Guess Who (Hockey Canada Edition)|
 
 ## Unit 7: 
 | Lesson | Objectives | Lab |
@@ -81,3 +82,4 @@
 | 8.02: Defining Requirements | Define key scenarios for a project and the features required to implement each scenario. Explain the importance of wireframing when designing an application. | N/A |
 | 8.03: Building a Plan | Identify the main components of a functional project specification and explain the purpose of each section. Develop a project idea into a full, detailed specification. | N/A |
 | 8.04: Project Implementation | Use the skills developed throughout the course to implement a medium- to large-scale software project. Realistically evaluate progress during software development and identify when cuts are necessary. Prioritize features and scenarios and choose which should be eliminated or modified if/when resources and/or time become limited. | N/A |
+| 8.04x: Project Implementation | Use the skills developed throughout the course to implement a medium- to large-scale software project. Realistically evaluate progress during software development and identify when cuts are necessary. Prioritize features and scenarios and choose which should be eliminated or modified if/when resources and/or time become limited. User-centred research is used to better understand user goals and behaviors. | N/A |
