@@ -28,23 +28,8 @@ while True:
 
 4. Can you remember something from Snap! that might allow that?
 
+
 ## 4. Open up the console
-
-### Type the following code
-
-```python
-while True:
-    print('a')
- ```
-
-## 5. In your Notebook
-
-### continue  responses for the following
-
-1. What happens when you run this code?
-2. Try using other Boolean expressions instead of `True` (e.g. `4 > 5` and `9 != 2`), and explore what happens.
-
-## 6. Open up the console
 
 ### Type and run the following code (Remember this from Unit 2?)
 
