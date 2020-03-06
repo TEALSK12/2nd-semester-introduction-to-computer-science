@@ -32,6 +32,10 @@ For those knowledgeable with Python 2, the following is a list of differences fr
 | Integer arithmetic | 3/2 evaluates to 1 | 3/2 evaluates to 1.5 |
 | Not equal to | <> | != |
 
+### IDE Selection
+
+As with all software services, it is the school's sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school's responsibility to ensure the tool meets it's IT policies.
+
 ## Curriculum Issues
 
 Please open an issue in GitHub if you encounter factual, spelling, or grammatical errors, sequencing problems (topics needed before they are taught), or incomplete/missing materials.

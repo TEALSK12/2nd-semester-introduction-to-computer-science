@@ -6,18 +6,17 @@ Students will be able to...
 
 * Define and identify: **IDE**, **Python**
 * Identify the key concepts that will be covered in the course
-* Set up and log into an account for the course's online IDE
-* Save and turn in a file via the online IDE
+* Set up and log into an account for the course's IDE
+* Save and turn in a file
 
 ## Materials/Preparation
 
 * Update the collaboration policy, IDE information, grading percentages, and general syllabus based on your preferences and your school's requirements
-* Create an account on online IDE and update the student Sign Up Guide with your username
-* Update the student Sign Up Guide with file naming and turn-in conventions for your course
-* [Sign Up Guide](python_replit_sign_up.md) [Sign Up Guide (Word)], [Sign Up Guide (pdf)]: the IDE guide for students
-* [Sign Up Guide Teachers]: the IDE guide for teachers
+* With your teaching team determine which IDE to use with your class.
 * [Python Code]: code to display and have students submit online
 * Student Notebooks
+* Decide which IDE will be used for the classroom for the semester
+* Note: As with all software services, it is the school's sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school's responsibility to ensure the tool meets it's IT policies.
 
 ## Pacing Guide
 
@@ -32,7 +31,7 @@ Students will be able to...
 
 ### 1. Do Now
 
-* Hand out syllabus for students to begin reading [Sign Up Guide](python_replit_sign_up.md)
+* Students download and install IDE to be used for class this semester.
 
 ### 2. Syllabus
 
@@ -77,7 +76,3 @@ This explains to students how to sign up for the IDE, step-by-step. Make sure to
 [Lesson 0.1: The First Day (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-01-set-up)
 
 [Python Code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/hello_world.py
-
-[Sign Up Guide (Word)]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/replit_student.docx
-[Sign Up Guide Teachers]:python_replit_sign_up_teacher.md
-[Sign Up Guide (pdf)]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/replit_student.pdf
