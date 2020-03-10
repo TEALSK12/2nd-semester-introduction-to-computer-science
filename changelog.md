@@ -4,6 +4,15 @@
 
 -----------------
 
+### 3/10/2020
+
+* Added Unit 5 Slide Decks
+* Added Unit 5 Quiz and Answer Key to Additional Curriculum Materials
+* Removed Repl.it Classroom Instructions
+* Spelling fixes across the entire Repo
+
+-----------------
+
 ### 2/4/2020
 
 * Added objective scoring Rubrics Unit 1,2, 3, 4, 6, and 7 Projects
