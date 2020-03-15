@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:800i');
-
 body#md {
     position: absolute;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -20,7 +18,7 @@ body#md {
 .md .longTOC {
     width: 170px;
     display: block;
-    border-right: 3px solid #00c8c8;
+    border-right: 3px solid #008575;
     overflow-y:scroll;
     font-size: 15px;
     font-family: inherit;
@@ -63,12 +61,12 @@ body#md {
 
 
 .md div.title, .md h1, .md h2, .md h3, .md h4 {
-    font-family: 'Raleway', Arial;
+    font-family: Segoe, Arial;
     font-weight: 800;
 }
 
 .md h1, .md h2, .md h3, .md h4, .md h5, .md h6 {
-    color: #00c8c8;
+    color: #008575;
     border-color: inherit;
 }
 
