@@ -41,7 +41,7 @@ body#md {
 
 
 /* no numbering of headings */
-.md h1:before, .md h2:before, .md h3:before, .md h4:before, .md h5:before, .md h6:before { content: none; }
+.md h2:before, .md h3:before, .md h4:before, .md h5:before, .md h6:before { content: none; }
 
 .md .longTOC a {
     color: #000;
