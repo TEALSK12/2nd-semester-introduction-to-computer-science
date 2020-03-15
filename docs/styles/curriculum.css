@@ -16,7 +16,7 @@ body#md {
 
 
 .md .longTOC {
-    width: 170px;
+    width: 290px;
     display: block;
     border-right: 3px solid #008575;
     overflow-y:scroll;
