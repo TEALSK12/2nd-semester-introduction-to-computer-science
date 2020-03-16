@@ -1,0 +1,2 @@
+<meta charset="utf-8"><meta charset="utf-8"><link rel="stylesheet" href="https://raw.githubusercontent.com/TEALSK12/2nd-semester-introduction-to-computer-science/master/styles/curriculum.css">
+
