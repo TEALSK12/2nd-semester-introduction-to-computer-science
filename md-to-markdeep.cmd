@@ -1,7 +1,7 @@
 @REM echo off & setlocal
 
 @REM -- Set up the GitHub pages directory structure by copying curriculum content.
-robocopy /mir .\curriculum .\docs
+robocopy /mir .\units .\docs
 
 @REM -- Move to docs directory
 cd .\docs
