@@ -10,8 +10,8 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Lab - Using the Interpreter] ([printable lab document]) ([editable lab document])
-* [Associated Reading - section 1.1](https://tealsk12.gitbook.io/intro-cs-2/readings#1-1)
+* [Lab - Using the Interpreter] ([printable lab document][]) ([editable lab document][])
+* [Associated Reading - section 1.1][](https://tealsk12.gitbook.io/intro-cs-2/readings#1-1)
 * Ensure all students are able to log into the system
 * Go through the lab so that you are familiar with the requirements/results and can assist students
 
@@ -50,7 +50,7 @@ Give students time to work on section 1,
 #### Discussion Section 1
 
 * What does the // do? How is that different from /? And how are those different from %?
-* What’s the difference between 3.0 and 3?
+* What's the difference between 3.0 and 3?
 * Go over the following two terms
   1. **Floats**: a data type, number with a decimal point.
   2. **Integers**: a data type, number without a decimal point.
@@ -68,7 +68,7 @@ Give students time to work on section 1,
 * What was the difference between the two inputs?
 * Strings can be combined using `+`.
 * What do you think the error message means?
-* You can’t combine different types!
+* You can't combine different types!
 * Now, give students time to work on section 4
 
 #### Discussion Section 4
