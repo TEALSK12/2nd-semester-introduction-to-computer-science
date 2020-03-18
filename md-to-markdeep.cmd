@@ -22,4 +22,6 @@ for /r . %%f in (*.md) do (
     type >>%%f.html markdeep-footer.txt
 )
 
+rename summary.md.html index.html
+
 Exit /B
