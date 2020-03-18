@@ -1,0 +1,148 @@
+<meta charset="utf-8"><link rel="stylesheet" href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/styles/curriculum.css">
+
+# Lesson Plan 1.04: Variables and User Input
+
+## Learning Objectives
+
+Students will be able to...
+
+* Define and identify: **comments,  storing, mutability, variable assignment, input**
+* Assign and swap variables
+* Store user input into a variable
+
+## Materials/Preparation
+
+* [Do Now]
+* [Lab - Magic Genie] ([printable lab document]) ([editable lab document])
+
+* [Associated Readings 1.3](https://tealsk12.gitbook.io/intro-cs-2/readings#1-3)
+* Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students
+* **Microsoft Learn - Comments**
+
+  [![Comments Video](https://img.youtube.com/vi/kEuVvUc1Zec/0.jpg)](https://youtu.be/kEuVvUc1Zec)
+
+## Pacing Guide
+
+| **Duration**   |     **Description**    |
+| ---------- | ------------------ |
+| 5 Minutes  | Do Now             |
+| 20 Minutes  | Continue Do Now & Discussion |
+| 20 Minutes | Magic Genie Lab|
+| 10 Minutes | Debrief/Quiz Prep         |
+
+## Instructor's Notes
+
+### 1. Do Now
+
+* Project the Do Now on the board, circulate around the class to check that students are working and understand the instructions.
+* Only allow 5 minutes. Additional time will be given to complete
+
+### 2. Do Now Work & Discussion
+
+* Input Discussion
+* Discuss answers to the questions written in the Do Now.
+* Explain that **comments** are not executed by the interpreter
+
+#### Discussion
+
+1. What did `input` do?
+2. What did the string between the parentheses do?
+3. What would changing that string do? (it changes the prompt given to the user
+
+#### Instruction
+
+* Define **input**: user data given to the app.
+* Explain that in Python `input` lets a program take input from the console and use it in the code. Recall using input from snap.
+
+#### More Discussion
+
+* Display on the screen:
+
+![Snap Input](snap_input.png)
+
+1. Ask students what things from Python they will need to create this program.
+2. Ask students to take 3 minutes to convert this to Python.
+
+#### Student Sharing
+
+* Call some students up to write their answers on the board.
+
+#### More Instruction
+
+* Practice changing the argument to input function in class. (ex. How would you have the computer ask what month the students were born in?)
+* Python 3 is strongly typed.  'input' returns a string.
+* Demonstrate by typing in the following:
+
+```python
+n = input()
+9
+type(n)
+<class 'str'>
+```
+
+* Demonstrate casting `string` to `int` by typing in the following:
+
+```python
+n = int(input())
+9
+type(n)
+<class 'int'>
+```
+
+* Because Python 3 is strongly typed, concatenating strings and numbers requires casting.  Demonstrate by typing the following:
+
+```python
+n = int(input())
+9
+print ("You entered " + n)
+TypeError: Can't convert 'int' object to str implicitly
+```
+
+* Cast the integer to a string. Demonstrate by typing the following:
+
+```python
+n = int(input())
+9
+print ("You entered " + str(n))
+You entered 9
+```
+
+* Swapping Variables Discussion
+* Provide students with additional time to work on this portion of the Do Now worksheet.
+* Discuss student results.
+* Have students write answers on the board, or call on students to give you answers line by line and you write the code on board or type out.
+* Discuss the idea of setting variables to be other values.
+* What would happen if you don’t store a into c in this program?
+* **Mutability**: you can change an existing value
+
+### 3. Magic Genie Lab
+
+* Make sure students feel comfortable saving things as variables and can print multiple things.
+* Troubleshoot with students and try to recognize early which students are struggling.
+
+### 4. Debrief/Quiz Prep
+
+* Discuss any issues that came up in the magic genie program.
+* Were there any error messages? What do they mean?
+* Did anyone use more than one variable?
+* Let students know about
+* Review concepts so far: **variables, interpreter, console, string, integer, float, run, output, variable swapping**
+
+### Accommodation/Differentiation
+
+Advanced students that are finished early can be paired with students who are struggling. Be careful to give clear guidance about how to effectively help another student, especially emphasizing that helping *never* involves using someone else's keyboard/mouse.
+
+Identify students that may potentially struggle on the quiz and find individual time with them to emphasize key concepts during the magic genie lab.
+
+[Do Now]:do_now.md.html
+[Lab - Magic Genie]:lab.md.html
+
+## Forum discussion
+
+[Lesson 1.04: Variables Input (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-04-variables-input)
+
+[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.pdf
+[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.docx
+[Comments Video]: https://youtu.be/kEuVvUc1Zec
+
+<!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js" charset="utf-8"></script><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
