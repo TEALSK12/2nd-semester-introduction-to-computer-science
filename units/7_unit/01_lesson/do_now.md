@@ -28,5 +28,5 @@ for pet in my_pets:
 
 ### Respond to the following
 
-1. In the above code, write a quick description of how you would print out each of the pet's names.
+1. Write a quick description of how you would print out each of the pet's names.
 2. Write down some other data structures you could use to make this easier.

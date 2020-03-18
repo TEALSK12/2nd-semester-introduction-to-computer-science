@@ -42,8 +42,8 @@ Students will be able to...
 
 #### Instruction - Class
 
-* a user-defined type.
-* On board write syntax for creating a class: `class Pet(object):`
+* A user-defined type.
+* On board write syntax for creating a class: `class Pet:`
 
 #### Instruction - Object
 
