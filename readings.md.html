@@ -1,14 +1,15 @@
-<meta charset="utf-8"><link rel="stylesheet" href="styles/curriculum.css">
-**2nd Semester - Intro to Computer Science - Associated Readings**
+<meta charset="utf-8"><link rel="stylesheet" href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/styles/curriculum.css">
+
+# Associated Readings
 
 Adapted from **Think Python - How To Think Like A Computer Scientist** by
 Allen Downey ([HTML Version](http://greenteapress.com/thinkpython/html/index.html))([PDF Version](http://www.greenteapress.com/thinkpython/thinkpython.pdf))
 
-# Unit 1 - Introduction to Python
+## Unit 1 - Introduction to Python
 
-# 1.1
+## 1.1
 
-## Values and Types
+### Values and Types
 
 A value is one of the basic things a program works with, like a letter or a number. The values we
 have seen so far are 1, 2, and 'Hello, World!'.
@@ -58,7 +59,7 @@ Well, that’s not what we expected at all! Python interprets 1,000,000 as a com
 of integers. This is the first example we have seen of a semantic error: the code runs without
 producing an error message, but it doesn’t do the “right” thing.
 
-## Operators and Operands
+### Operators and Operands
 
 Operators are special symbols that represent computations like addition and multiplication. The
 values the operator is applied to are called operands.
@@ -80,7 +81,7 @@ minute=170
 2
 ```
 
-## Expressions and Statements
+### Expressions and Statements
 
 An expression is a combination of values, variables, and operators. A value all by itself is
 considered an expression, and so is a variable, so the following are all legal expressions (assuming
@@ -97,9 +98,9 @@ statement: print and assignment. Technically an expression is also a statement, 
 simpler to think of them as different things. The important difference is that an expression has a
 value; a statement does not.
 
-# 1.2
+## 1.2
 
-## Variables
+### Variables
 
 One of the most powerful features of a programming language is the ability to manipulate variables.
 A variable is a name that refers to a value.
@@ -132,7 +133,7 @@ The type of a variable is the type of the value it refers to.
 <type 'float'>
 ```
 
-## Variable names and keywords
+### Variable names and keywords
 
 Programmers generally choose names for their variables that are meaningful—they document what the
 variable is used for.
@@ -177,9 +178,9 @@ In Python 3, exec is no longer a keyword, but nonlocal is. You might want to kee
 If the interpreter complains about one of your variable names and you don’t know why, see if it is
 on this list.
 
-# 1.3
+## 1.3
 
-## Debugging
+### Debugging
 
 Programming is error-prone. For whimsical reasons, programming errors are called bugs and the
 process of tracking them down is called debugging.
@@ -187,7 +188,7 @@ process of tracking them down is called debugging.
 Three kinds of errors can occur in a program: syntax errors, runtime errors, and semantic errors. It
 is useful to distinguish between them in order to track them down more quickly.
 
-### Syntax errors
+#### Syntax errors
 
 Python can only execute a program if the syntax is correct; otherwise, the interpreter displays an
 error message. Syntax refers to the structure of a program and the rules about that structure. For
@@ -201,7 +202,7 @@ able to run your program. During the first few weeks of your programming career,
 spend a lot of time tracking down syntax errors. As you gain experience, you will make fewer errors
 and find them faster.
 
-### Runtime errors
+#### Runtime errors
 
 The second type of error is a runtime error, so called because the error does not appear until after
 the program has started running. These errors are also called exceptions because they usually
@@ -210,7 +211,7 @@ indicate that something exceptional (and bad) has happened.
 Runtime errors are rare in the simple programs you will see in the first few chapters, so it might
 be a while before you encounter one.
 
-### Semantic errors
+#### Semantic errors
 
 The third type of error is the semantic error. If there is a semantic error in your program, it will
 run successfully in the sense that the computer will not generate any error messages, but it will
@@ -220,7 +221,7 @@ The problem is that the program you wrote is not the program you wanted to write
 program (its semantics) is wrong. Identifying semantic errors can be tricky because it requires you
 to work backward by looking at the output of the program and trying to figure out what it is doing.
 
-### Experimental debugging
+#### Experimental debugging
 
 One of the most important skills you will acquire is debugging. Although it can be frustrating,
 debugging is one of the most intellectually rich, challenging, and interesting parts of programming.
@@ -244,11 +245,11 @@ out as a simple program Linus Torvalds used to explore the Intel 80386 chip. Acc
 Greenfield, “One of Linus’s earlier projects was a program that would switch between printing AAAA
 and BBBB. This later evolved to Linux.” (The Linux Users’ Guide Beta Version 1).
 
-# Unit 2 - Data Types, Conditionals, Booleans and Lists
+## Unit 2 - Data Types, Conditionals, Booleans and Lists
 
-# 2.1
+## 2.1
 
-## Values and types
+### Values and types
 
 A value is one of the basic things a program works with, like a letter or a number. The values we
 have seen so far are `1`, `2`, and `'Hello, World!'`.
@@ -293,9 +294,9 @@ Well, that’s not what we expected at all! Python interprets 1,000,000 as a com
 of integers. This is an example we have seen of a semantic error: the code runs without producing an
 error message, but it doesn’t do the “right” thing.
 
-## Exercises
+### Exercises
 
-### Exercise 1
+#### Exercise 1
 
 Assume that we execute the following assignment statements:
 
@@ -316,7 +317,7 @@ of the expression):
 
 Use the Python interpreter to check your answers.
 
-### Exercise 2
+#### Exercise 2
 
 Practice using the Python interpreter as a calculator:
 
@@ -330,9 +331,9 @@ the total wholesale cost for 60 copies?
 If I leave my house at 6:52 am and run 1 mile at an easy pace (8:15 per mile), then 3 miles at tempo
 (7:12 per mile) and 1 mile at easy pace again, what time do I get home for breakfast?
 
-# 2.2
+## 2.2
 
-## Expressions and statements
+### Expressions and statements
 
 An expression is a combination of values, variables, and operators. A value all by itself is
 considered an expression, and so is a variable, so the following are all legal expressions (assuming
@@ -350,7 +351,7 @@ statement: print and assignment.
 Technically an expression is also a statement, but it is probably simpler to think of them as
 different things. The important difference is that an expression has a value; a statement does not.
 
-## Boolean expressions
+### Boolean expressions
 
 A Boolean expression is an expression that is either true or false. The following examples use the
 operator `==`, which compares two operands and produces True if they are equal and False otherwise:
@@ -386,7 +387,7 @@ mathematical symbols. A common error is to use a single equal sign (`=`) instead
 sign (`==`). Remember that `=` is an assignment operator and `==` is a relational operator. There is
 no such thing as `=<` or `=>`.
 
-## Logical operators
+### Logical operators
 
 There are three logical operators: `and`, `or`, and `not`. The semantics (meaning) of these
 operators is similar to their meaning in English. For example, `x > 0` and `x < 10` is true only if
@@ -412,9 +413,9 @@ True
 This flexibility can be useful, but there are some subtleties to it that might be confusing. You
 might want to avoid it (unless you know what you are doing).
 
-# 2.3
+## 2.3
 
-## Conditional execution
+### Conditional execution
 
 In order to write useful programs, we almost always need the ability to check conditions and change
 the behavior of the program accordingly. Conditional statements give us this ability. The simplest
@@ -456,7 +457,7 @@ a message to that effect. If the condition is false, the second set of statement
 the condition must be true or false, exactly one of the alternatives will be executed. The
 alternatives are called branches, because they are branches in the flow of execution.
 
-## Chained conditionals
+### Chained conditionals
 
 Sometimes there are more than two possibilities and we need more than two branches. One way to
 express a computation like that is a chained conditional:
@@ -487,7 +488,7 @@ Each condition is checked in order. If the first is false, the next is checked, 
 them is true, the corresponding branch executes, and the statement ends. Even if more than one
 condition is true, only the first true branch executes.
 
-## Nested conditionals
+### Nested conditionals
 
 One conditional can also be nested within another. We could have written the trichotomy example like
 this:
@@ -526,9 +527,9 @@ if 0 < x and x < 10:
     print('x is a positive single-digit number.')
 ```
 
-# 2.4
+## 2.4
 
-## A list is a sequence
+### A list is a sequence
 
 Like a string, a list is a sequence of values. In a string, the values are characters; in a list,
 they can be any type. The values in a list are called elements or sometimes items.
@@ -564,7 +565,7 @@ As you might expect, you can assign list values to variables:
 ['Cheddar', 'Edam', 'Gouda'] [17, 123] []
 ```
 
-## Lists are mutable
+### Lists are mutable
 
 The syntax for accessing the elements of a list is the same as for accessing the characters of a
 string—the bracket operator. The expression inside the brackets specifies the index. Remember that
@@ -606,9 +607,9 @@ Any integer expression can be used as an index.
 If you try to read or write an element that does not exist, you get an IndexError.
 If an index has a negative value, it counts backward from the end of the list.
 
-# 2.5
+## 2.5
 
-## List operations
+### List operations
 
 The + operator concatenates lists:
 
@@ -632,7 +633,7 @@ Similarly, the * operator repeats a list a given number of times:
 The first example repeats `[0]` four times. The second example repeats the list `[1, 2, 3]` three
 times.
 
-## List slices
+### List slices
 
 The slice operator works on lists:
 
@@ -666,7 +667,7 @@ A slice operator on the left side of an assignment can update multiple elements:
 ['a', 'x', 'y', 'd', 'e', 'f']
 ```
 
-## List methods
+### List methods
 
 Python provides methods that operate on lists. For example, append adds a new element to the end of
 a list:
@@ -678,7 +679,7 @@ a list:
 ['a', 'b', 'c', 'd']
 ```
 
-## Deleting elements
+### Deleting elements
 
 There are several ways to delete elements from a list. If you know the index of the element you
 want, you can use pop:
@@ -704,7 +705,7 @@ If you know the element you want to remove you can use remove:
 ['a', 'c']
 ```
 
-# 2.6
+## 2.6
 
 The in operator works on lists.
 
@@ -716,9 +717,9 @@ True
 False
 ```
 
-# 2.7
+## 2.7
 
-## The while statement
+### The while statement
 
 Computers are often used to automate repetitive tasks. Repeating identical or similar tasks without
 making errors is something that computers do well and people do poorly.
@@ -776,11 +777,11 @@ For example, if the starting value is a power of two, then the value of n will b
 through the loop until it reaches 1. The previous example ends with such a sequence, starting with
 16.
 
-# Unit 3 - Functions
+## Unit 3 - Functions
 
-# 3.1
+## 3.1
 
-## Function calls
+### Function calls
 
 In the context of programming, a function is a named sequence of statements that performs a
 computation. When you define a function, you specify the name and the sequence of statements. Later,
@@ -797,7 +798,7 @@ function. The result, for this function, is the type of the argument.
 It is common to say that a function “takes” an argument and “returns” a result. The result is called
 the return value.
 
-## Type conversion functions
+### Type conversion functions
 
 Python provides built-in functions that convert values from one type to another. The `int` function
 takes any value and converts it to an integer, if it can, or complains otherwise:
@@ -829,7 +830,7 @@ Finally, str converts its argument to a string:
 '3.14159'
 ```
 
-## Math functions
+### Math functions
 
 Python has a math module that provides most of the familiar mathematical functions. A module is a
 file that contains a collection of related functions.
@@ -884,7 +885,7 @@ of two divided by two:
 0.707106781187
 ```
 
-## Composition
+### Composition
 
 So far, we have looked at the elements of a program—variables, expressions, and statements—in
 isolation, without talking about how to combine them.
@@ -909,9 +910,9 @@ side is a syntax error (we will see exceptions to this rule later).
 SyntaxError: can't assign to operator
 ```
 
-# 3.2
+## 3.2
 
-## Adding new functions
+### Adding new functions
 
 So far, we have only been using the functions that come with Python, but it is also possible to add
 new functions. A function definition specifies the name of a new function and the sequence of
@@ -991,7 +992,7 @@ I sleep all night and I work all day.
 But that’s not really how the song goes.
 ```
 
-## Definitions and uses
+### Definitions and uses
 
 Pulling together the code fragments from the previous section, the whole program looks like this:
 
@@ -1015,17 +1016,17 @@ function definition generates no output.
 As you might expect, you have to create a function before you can execute it. In other words, the
 function definition has to be executed before the first time it is called.
 
-## Exercise 3.1
+### Exercise 3.1
 
 Move the last line of this program to the top, so the function call appears before the definitions.
 Run the program and see what error message you get.
 
-## Exercise 3.2
+### Exercise 3.2
 
 Move the function call back to the bottom and move the definition of `print_lyrics` after the
 definition of `repeat_lyrics`. What happens when you run this program?
 
-## Flow of execution
+### Flow of execution
 
 In order to ensure that a function is defined before its first use, you have to know the order in
 which statements are executed, which is called the flow of execution.
@@ -1051,7 +1052,7 @@ program, it terminates.
 What’s the moral of this sordid tale? When you read a program, you don’t always want to read from
 top to bottom. Sometimes it makes more sense if you follow the flow of execution.
 
-## Parameters and arguments
+### Parameters and arguments
 
 Some of the built-in functions we have seen require arguments. For example, when you call math.sin
 you pass a number as an argument. Some functions take more than one argument: math.pow takes two,
@@ -1111,9 +1112,9 @@ The name of the variable we pass as an argument (Michael) has nothing to do with
 parameter (Bruce). It doesn’t matter what the value was called back home (in the caller); here in
 `print_twice`, we call everybody Bruce.
 
-# 3.3
+## 3.3
 
-## Return values
+### Return values
 
 Some of the built-in functions we have used, such as the math functions, produce results. Calling
 the function generates a value, which we usually assign to a variable or use as part of an
@@ -1185,13 +1186,13 @@ None
 
 By the way, Python provides a built-in function called abs that computes absolute values.
 
-### Exercise 3.3
+#### Exercise 3.3
 
 Write a compare function that returns 1 if x > y, 0 if x == y, and -1 if x < y.
 
-# 3.4
+## 3.4
 
-## Aliasing
+### Aliasing
 
 If a refers to an object and you assign b = a, then both variables refer to the same object:
 
@@ -1218,7 +1219,7 @@ If the aliased object is mutable, changes made with one alias affect the other:
 Although this behavior can be useful, it is error-prone. In general, it is safer to avoid aliasing
 when you are working with mutable objects.
 
-## Variables and parameters are local
+### Variables and parameters are local
 
 When you create a variable inside a function, it is local, which means that it only exists inside
 the function. For example:
@@ -1250,7 +1251,7 @@ NameError: name 'cat' is not defined
 
 Parameters are also local. For example, outside `print_twice`, there is no such thing as `Bruce`.
 
-## Global variables
+### Global variables
 
 Variables created outside the function, so it belongs to the special frame called `__main__`.
 Variables in `__main__` are sometimes called global because they can be accessed from any function.
@@ -1326,7 +1327,7 @@ def example4():
 If a program has a lot of global variables and are modify them frequently, they can make programs
 hard to debug.
 
-## Stack diagrams
+### Stack diagrams
 
 To keep track of which variables can be used where, it is sometimes useful to draw a stack diagram.
 Like state diagrams, stack diagrams show the value of each variable, but they also show the function
@@ -1389,7 +1390,7 @@ caused the error.
 Notice the similarity between the traceback and the stack diagram. It’s not a coincidence. In fact,
 another common name for a traceback is a stack trace.
 
-## List arguments
+### List arguments
 
 When you pass a list to a function, the function gets a reference to the list. If the function
 modifies a list parameter, the caller sees the change. For example, `delete_head` removes the first
@@ -1462,9 +1463,9 @@ This function leaves the original list unmodified. Here’s how it is used:
 ['b', 'c']
 ```
 
-# Unit 4 - Nested Loops and Lists
+## Unit 4 - Nested Loops and Lists
 
-# 4.1
+## 4.1
 
 The most common way to traverse the elements of a list is with a for loop. The syntax is the same as
 for strings:
@@ -1489,7 +1490,7 @@ length of this list is four:
 ['spam', 1, ['Brie', 'Roquefort', 'Pol le Veq'], [1, 2, 3]]
 ```
 
-## Traversing a String
+### Traversing a String
 
 A lot of computations involve processing a string one character at a time. Often they start at the
 beginning, select each character in turn, do something to it, and continue until the end. This
@@ -1508,7 +1509,7 @@ index `len(fruit)`, so when index is equal to the length of the string, the cond
 the body of the loop is not executed. The last character accessed is the one with the index
 `len(fruit)-1`, which is the last character in the string.
 
-### Exercise 4.1
+#### Exercise 4.1
 
 Write a function that takes a string as an argument and displays the letters backward, one per line.
 
@@ -1550,11 +1551,11 @@ Qack
 
 Of course, that’s not quite right because `Ouack` and `Quack` are misspelled.
 
-### Exercise 4.2
+#### Exercise 4.2
 
 Modify the program to fix this error.
 
-## Looping and counting
+### Looping and counting
 
 The following program counts the number of times the letter a appears in a string:
 
@@ -1571,19 +1572,19 @@ This program demonstrates another pattern of computation called a counter. The v
 initialized to 0 and then incremented each time an a is found. When the loop exits, count contains
 the result—the total number of a’s.
 
-## Exercise 4.3
+### Exercise 4.3
 
 Encapsulate this code in a function named count, and generalize it so that it accepts the string and
 the letter as arguments.
 
-## Exercise 4.4
+### Exercise 4.4
 
 Rewrite this function so that instead of traversing the string, it uses the three-parameter version
 of find from the previous section.
 
-# 4.2
+## 4.2
 
-## For Loop Using Range
+### For Loop Using Range
 
 As mentioned, the most common way to traverse the elements of a list is with a for loop. If you want
 to write or update the elements, you need the indices. A common way to do that is to combine the
@@ -1599,7 +1600,7 @@ list. `range` returns a list of indices from 0 to n−1, where n is the length o
 through the loop `i` gets the index of the next element. The assignment statement in the body uses `i`
 to read the old value of the element and to assign the new value.
 
-## Debugging 4
+### Debugging 4
 
 When you use indices to traverse the values in a sequence, it is tricky to get the beginning and end
 of the traversal right. Here is a function that is supposed to compare two words and return True if
@@ -1686,14 +1687,14 @@ the first iteration, the frame for `is_reverse` is shows in Figure 1.
 I took a little license by arranging the variables in the frame and adding dotted lines to show that
 the values of `i` and `j` indicate characters in word1 and word2.
 
-### Exercise 5.1
+#### Exercise 5.1
 
 Starting with this diagram, execute the program on paper, changing the values of `i` and `j` during each
 iteration. Find and fix the second error in this function.
 
-# Unit 6 - Dictionaries
+## Unit 6 - Dictionaries
 
-# 6.1
+## 6.1
 
 A dictionary is like a list, but more general. In a list, the indices have to be integers; in a
 dictionary they can be (almost) any type.
@@ -1780,7 +1781,7 @@ True
 False
 ```
 
-# 6.2
+## 6.2
 
 To add items to the dictionary, you can use square brackets:
 
@@ -1799,7 +1800,7 @@ dictionary again, we see a key-value pair with a colon between the key and value
 {'one': 'uno'}
 ```
 
-## Dictionary as a set of counters
+### Dictionary as a set of counters
 
 Suppose you are given a string and you want to count how many times each letter appears. There are
 several ways you could do it:
@@ -1854,9 +1855,9 @@ Here’s how it works:
 The histogram indicates that the letters `'a'` and `'b'` appear once; `'o'` appears twice, and so
 on.
 
-# 6.3
+## 6.3
 
-## Dictionaries and lists
+### Dictionaries and lists
 
 Lists can appear as values in a dictionary. For example, if you were given a dictionary that maps
 from letters to frequencies, you might want to invert it; that is, create a dictionary that maps
@@ -1921,9 +1922,9 @@ That’s why the keys have to be `hashable`, and why mutable types like lists ar
 Since lists and dictionaries are mutable, they can’t be used as keys, but they can be used as
 values.
 
-# 6.4
+## 6.4
 
-## Looping and dictionaries
+### Looping and dictionaries
 
 If you use a dictionary in a for statement, it traverses the keys of the dictionary. For example,
 `print_hist` prints each key and the corresponding value:
@@ -1951,11 +1952,11 @@ Again, the keys are in no particular order.
 Dictionaries have a method called keys that returns the keys of the dictionary, in no particular
 order, as a list.
 
-# Unit 7 - Introduction to Object Oriented Programming
+## Unit 7 - Introduction to Object Oriented Programming
 
-# 7.1
+## 7.1
 
-## User-defined types
+### User-defined types
 
 We have used many of Python’s built-in types; now we are going to define a new type. As an example,
 we will create a type called Point that represents a point in two-dimensional space.
@@ -2010,7 +2011,7 @@ is called instantiation, and the object is an instance of the class.
 When you print an instance, Python tells you what class it belongs to and where it is stored in
 memory (the prefix 0x means that the following number is in hexadecimal).
 
-## Attributes
+### Attributes
 
 You can assign values to an instance using dot notation:
 
@@ -2067,12 +2068,12 @@ you can pass blank as an argument:
 
 Inside the function, p is an alias for blank, so if the function modifies p, blank changes.
 
-### Exercise 6.1
+#### Exercise 6.1
 
 Write a function called `distance_between_points` that takes two Points as arguments and returns the
 distance between them.
 
-## Rectangles
+### Rectangles
 
 Sometimes it is obvious what the attributes of an object should be, but other times you have to make
 decisions. For example, imagine you are designing a class to represent rectangles. What attributes
@@ -2115,7 +2116,7 @@ box.corner.y = 0.0
 The expression box.corner.x means, “Go to the object box refers to and select the attribute named
 corner; then go to that object and select the attribute named x.”
 
-## Instances as return values
+### Instances as return values
 
 Functions can return instances. For example, `find_center` takes a Rectangle as an argument and
 returns a Point that contains the coordinates of the center of the Rectangle:
@@ -2136,7 +2137,7 @@ Here is an example that passes box as an argument and assigns the resulting Poin
 (50.0, 100.0)
 ```
 
-## Objects are mutable
+### Objects are mutable
 
 You can change the state of an object by making an assignment to one of its attributes. For example,
 to change the size of a rectangle without changing its position, you can modify the values of width
@@ -2173,15 +2174,15 @@ Here is an example that demonstrates the effect:
 
 Inside the function, `rect` is an alias for box, so if the function modifies `rect`, box changes.
 
-## Exercise 6.2
+### Exercise 6.2
 
 Write a function named `move_rectangle` that takes a Rectangle and two numbers named dx and dy. It
 should change the location of the rectangle by adding dx to the x coordinate of corner and adding `dy`
 to the `y` coordinate of corner.
 
-# 7.2
+## 7.2
 
-## The `init` method
+### The `init` method
 
 The `__init__` method (short for “initialization”) is a special method that gets invoked when an object is
 instantiated. Its full name is `__init__` (two underscore characters, followed by `__init__`, and then two
@@ -2222,7 +2223,7 @@ If you provide two arguments, they override hour and minute.
 
 And if you provide three arguments, they override all three default values.
 
-## Debugging 6
+### Debugging 6
 
 It is legal to add attributes to objects at any point in the execution of a program, but if you are
 a stickler for type theory, it is a dubious practice to have objects of the same type with different
@@ -2255,9 +2256,9 @@ its corresponding value.
 The built-in function `getattr` takes an object and an attribute name (as a string) and returns the
 attribute’s value.
 
-# 7.3
+## 7.3
 
-## Printing objects
+### Printing objects
 
 We defined a class named Time and a function `print_time`:
 
@@ -2336,7 +2337,7 @@ examples we have seen so far, it may not be. But sometimes shifting responsibili
 functions onto the objects makes it possible to write more versatile functions, and makes it easier
 to maintain and reuse code.
 
-### Exercise 6.3
+#### Exercise 6.3
 
 ```Python
 def time_to_int(time):
@@ -2354,7 +2355,7 @@ def int_to_time(seconds):
 Write `time_to_int` as a method. It is probably not appropriate to rewrite `int_to_time` as a
 method; what object you would invoke it on?
 
-## Another example
+### Another example
 
 Here’s a version of increment written as a method:
 
@@ -2393,7 +2394,7 @@ TypeError: increment() takes exactly 2 arguments (3 given)
 The error message is initially confusing, because there are only two arguments in parentheses. But
 the subject is also considered an argument, so all together that’s three.
 
-## The `__str__` method
+### The `__str__` method
 
 `__str__` is a special method, like `__init__`, that is supposed to return a string representation
 of an object.
@@ -2418,11 +2419,11 @@ When you print an object, Python invokes the `str` method:
 When I write a new class, I almost always start by writing `__init__`, which makes it easier to
 instantiate objects, and `__str__`, which is useful for debugging.
 
-### Exercise 6.4
+#### Exercise 6.4
 
 Write a `str` method for the Point class. Create a Point object and print it.
 
-## Operator overloading
+### Operator overloading
 
 By defining other special methods, you can specify the behavior of operators on user-defined types.
 For example, if you define a method named `__add__` for the Time class, you can use the `+` operator
@@ -2454,13 +2455,13 @@ Changing the behavior of an operator so that it works with user-defined types is
 overloading. For every operator in Python there is a corresponding special method, like `__add__`.
 For more details, see [Python Reference](http://docs.python.org/2/reference/datamodel.html#specialnames).
 
-### Exercise 6.5
+#### Exercise 6.5
 
 Write an add method for the Point class.
 
-# 7.4
+## 7.4
 
-## Inheritance
+### Inheritance
 
 The language feature most often associated with object-oriented programming is inheritance.
 Inheritance is the ability to define a new class that is a modified version of an existing class.
@@ -2542,7 +2543,7 @@ In some games, cards are moved from one hand to another, or from a hand back to 
 use `move_cards` for any of these operations: self can be either a Deck or a Hand, and hand, despite
 the name, can also be a Deck.
 
-## Class diagrams
+### Class diagrams
 
 So far we have seen stack diagrams, which show the state of a program, and object diagrams, which
 show the attributes of an object and their values. These diagrams represent a snapshot in the
@@ -2584,12 +2585,12 @@ Deck can have any number of Cards.
 A more detailed diagram might show that a Deck actually contains a list of Cards, but built-in types
 like `list` and `dict` are usually not included in class diagrams.
 
-### Exercise 7.1
+#### Exercise 7.1
 
 Read `TurtleWorld.py`, `World.py` and `Gui.py` and draw a class diagram that shows the relationships among
 the classes defined there.
 
-## Debugging 7
+### Debugging 7
 
 Inheritance can make debugging a challenge because when you invoke a method on an object, you might
 not know which method will be invoked.
