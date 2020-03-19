@@ -4,11 +4,11 @@ In this lab, we will create a Pet class that will keep track of the type of anim
 
 ## Create a class called Pet that has the following attributes
 
-* Animal (i.e. dog, cat, fish)
-* Color (i.e. spotted, black, tabby, white)
-* Food (i.e. kibbles, tuna, fish flakes)
-* Noise (i.e. meow, woof, bark)
-* Name (i.e. Sparky, Scooby Doo)
+* Animal (e.g., dog, cat, fish)
+* Color (e.g., spotted, tabby, gold)
+* Food (e.g., kibbles, tuna, fish flakes)
+* Noise (e.g., meow, woof, splash)
+* Name (e.g., Scooby Doo, Fluffy, Bubbles)
 
 ## Specifications
 
