@@ -19,7 +19,7 @@ for %%f in (*.md) do (
     %sed% >>%%f.html "s/\.md/.md.html/g" %%f
     type >>%%f.html markdeep-footer.txt
     @REM -- Create .pdf version of markdown files
-    pandoc --pdf-engine=xelatex -V geometry:margin=2cm "%%f" -o "%%~nf.pdf"    
+    pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "%%f" -o ".\pdf\%%~nf.pdf"    
    
 )
 
@@ -30,7 +30,7 @@ for /r . %%f in (*.md) do (
     %sed% >>%%f.html "s/\.md/.md.html/g" %%f
     type >>%%f.html ..\markdeep-footer.txt 
     @REM -- Create .pdf version of markdown files
-    pandoc --pdf-engine=xelatex -V geometry:margin=2cm "%%f" -o "%%~nf.pdf"
+    pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "%%f" -o "%%~nf.pdf"
 )
 
 rename summary.md.html index.html
