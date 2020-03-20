@@ -38,7 +38,7 @@ Students will be able to...
 
 * Ask Students the following
   * What is the name of the class?
-  * where the Pet object get instantiated?
+  * Where does the Pet object get instantiated?
 
 #### Instruction - `__init__`
 

@@ -4,7 +4,7 @@
 
 ```python
 
-class Pet(object):
+class Pet:
     """Represents a pet"""
 
 my_pet_1 = Pet()
