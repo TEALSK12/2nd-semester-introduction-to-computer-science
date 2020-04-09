@@ -4,19 +4,19 @@ Below are some addition topics that will need to be covered in order to prepare 
 
 ## File Handling and Catching Exceptions
 
-* [Think Python - File Handling] - Sections: 14.1, 14.2, 14.4, 14.5
-* [W3schools - File Handling] - Sections: File Handling, Read Files, Write and Create Files, Delete Files
+* [Think Python - File Handling][] - Sections: 14.1, 14.2, 14.4, 14.5
+* [W3schools - File Handling][] - Sections: File Handling, Read Files, Write and Create Files, Delete Files
 * **University of Oxford - File Handling**
 
-  [Oxford Slide Deck L4] - (Slides 15-19)
+  [Oxford Slide Deck L4][] - (Slides 15-19)
 
   [![University of Oxford - Math Module Video](https://img.youtube.com/vi/N__JNieQL5c/0.jpg)](https://youtu.be/N__JNieQL5c?t=1155)
 
 ## Error Handling
 
 * [Runestone Academy - Exceptions]
-* [Think Python - Debugging] - Sections: Syntax errors, Run time Errors, Semantic Errors
-* [Python - Handling Exceptions] - Topics: Try, except, else, finally, raise
+* [Think Python - Debugging][] - Sections: Syntax errors, Run time Errors, Semantic Errors
+* [Python - Handling Exceptions][] - Topics: Try, except, else, finally, raise
 
 * **Microsoft Learn - Error Handling Video**
 
@@ -28,23 +28,23 @@ Below are some addition topics that will need to be covered in order to prepare 
 
 ## Built-In Modules
 
-* [Runestone Academy - Math Module]
+* [Runestone Academy - Math Module][]
 
 * **University of Oxford - Math Module**
   
-  [Oxford Slide Deck L2] - [Math Example Code]
+  [Oxford Slide Deck L2][] - [Math Example Code][]
 
   [![University of Oxford - Math Module Video](https://img.youtube.com/vi/fW6MaWqAHFw/0.jpg)](https://youtu.be/fW6MaWqAHFw?t=463)
 
-* [Runestone Academy - Random Module]
+* [Runestone Academy - Random Module][]
 
 * **University of Oxford - Random Module**
   
-  [Oxford Slide Deck] - [Random Example Code]
+  [Oxford Slide Deck][] - [Random Example Code][]
 
   [![University of Oxford - Math Module Video](https://img.youtube.com/vi/fW6MaWqAHFw/0.jpg)](https://youtu.be/fW6MaWqAHFw?t=732)
 
-* [W3 Schools - Datetime Module]
+* [W3 Schools - Datetime Module][]
 * **Microsoft Learn - Datetime Module**
 
   [![Microsoft Learn - Datetime Module Video](https://img.youtube.com/vi/o1dlxoHxdHU/0.jpg)](https://youtu.be/o1dlxoHxdHU)

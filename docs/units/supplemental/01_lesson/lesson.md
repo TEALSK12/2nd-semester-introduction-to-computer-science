@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Do Now]
+* [Do Now][]
 * Associated Reading - section 2.1 of Book
 * Index cards for binary activity (at least 1 per student)
 * Scissors
@@ -19,7 +19,7 @@ Students will be able to...
 
 ## Additional Resources
 
-* [CS Unplugged Binary Numbers]
+* [CS Unplugged Binary Numbers][]
 
 ## Pacing Guide
 

@@ -18,12 +18,12 @@ This unit introduces students to a text based coding IDE, Console and starts to 
 
 | Lesson | Days | Slide Decks |
 | ------ | -------------- | ---------|
-| 1.01: Set Up | 1 | [1.01 Slide Deck] |
-| 1.02: Interactive Mode | 1 | [1.02 Slide Deck] |
-| 1.03: Script Mode and Variables | 1 | [1.03 Slide Deck] |
-| 1.04: Variables Input | 1 | [1.04 Slide Deck] |
-| 1.05: Quiz & Debugging | 1 | [1.05 Slide Deck] |
-| 1.06: MadLibs | 2 | [1.06 Slide Deck] |
+| 1.01: Set Up | 1 | [1.01 Slide Deck][] |
+| 1.02: Interactive Mode | 1 | [1.02 Slide Deck][] |
+| 1.03: Script Mode and Variables | 1 | [1.03 Slide Deck][] |
+| 1.04: Variables Input | 1 | [1.04 Slide Deck][] |
+| 1.05: Quiz & Debugging | 1 | [1.05 Slide Deck][] |
+| 1.06: MadLibs | 2 | [1.06 Slide Deck][] |
 | **Total Days** | 7 | |
 | **Total Minutes** | 350 | |
 
