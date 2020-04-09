@@ -10,9 +10,9 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Do Now]
-* [Lab - EarSketch Music] ([printable lab document]) ([editable lab document])
-* [EarSketch Editor]
+* [Do Now][]
+* [Lab - EarSketch Music][] ([printable lab document][]) ([editable lab document][])
+* [EarSketch Editor][]
 * Associated Reading in EarSketch
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 

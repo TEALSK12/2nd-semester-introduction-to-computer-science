@@ -9,11 +9,11 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Project Spec - Pokemon] ([printable project Spec]) ([editable project spec])
-* [Alternate Project Spec - Mailing List] ([printable alternate project Spec]) ([editable alternate project spec])
-* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
+* [Project Spec - Pokemon][] ([printable project Spec][]) ([editable project spec][])
+* [Alternate Project Spec - Mailing List][] ([printable alternate project Spec][]) ([editable alternate project spec][])
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
 * Read through the project spec so that you are familiar with the requirements and can assist students
-* Try creating your own project so that you can Review [4 Steps to Solve Any CS Problem]
+* Try creating your own project so that you can Review [4 Steps to Solve Any CS Problem][]
 * [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.docx)
 
 ### Day 1 Pacing
