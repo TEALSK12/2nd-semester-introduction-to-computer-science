@@ -97,45 +97,45 @@ As you implement this curriculum into your program, there are some things to con
 | ------    | ---------- | --- |
 | [01: Binary Day][] | Define and identify: binary. Describe different representations of data. Represent decimal numbers in binary. | N/A |
 
-[1.01: Set Up]: /units/1_unit/01_lesson/lesson.md
-[1.02: Interactive Mode]: /units/1_unit/02_lesson/lesson.md
-[1.03: Script Mode and Variables]: /units/1_unit/03_lesson/lesson.md
-[1.04: Variables Input]: /units/1_unit/04_lesson/lesson.md
-[1.05: Quiz & Debugging]: /units/1_unit/05_lesson/lesson.md
-[1.06: MadLibs]:  /units/1_unit/06_lesson/lesson.md
+[1.01: Set Up]: units/1_unit/01_lesson/lesson.md
+[1.02: Interactive Mode]: units/1_unit/02_lesson/lesson.md
+[1.03: Script Mode and Variables]: units/1_unit/03_lesson/lesson.md
+[1.04: Variables Input]: units/1_unit/04_lesson/lesson.md
+[1.05: Quiz & Debugging]: units/1_unit/05_lesson/lesson.md
+[1.06: MadLibs]:  units/1_unit/06_lesson/lesson.md
 
-[2.01: Data Types & Casting]: /units/2_unit/01_lesson/lesson.md
-[2.02: Booleans & Expressions]: /units/2_unit/02_lesson/lesson.md
-[2.03: Conditionals]: /units/2_unit/03_lesson/lesson.md
-[2.04: Lists]: /units/2_unit/04_lesson/lesson.md
-[2.05: Lists 2]: /units/2_unit/05_lesson/lesson.md
-[2.06: Game Loop]: /units/2_unit/06_lesson/lesson.md
-[2.07: Text Game]: /units/2_unit/07_lesson/lesson.md
+[2.01: Data Types & Casting]: units/2_unit/01_lesson/lesson.md
+[2.02: Booleans & Expressions]: units/2_unit/02_lesson/lesson.md
+[2.03: Conditionals]: units/2_unit/03_lesson/lesson.md
+[2.04: Lists]: units/2_unit/04_lesson/lesson.md
+[2.05: Lists 2]: units/2_unit/05_lesson/lesson.md
+[2.06: Game Loop]: units/2_unit/06_lesson/lesson.md
+[2.07: Text Game]: units/2_unit/07_lesson/lesson.md
 
-[3.01: Built In Functions]: /units/3_unit/01_lesson/lesson.md
-[3.02: User-Defined Functions]: /units/3_unit/02_lesson/lesson.md
-[3.03: Return vs Print]: /units/3_unit/03_lesson/lesson.md
-[3.04: Debugging and Scope]: /units/3_unit/04_lesson/lesson.md
-[3.05: Oregon Trail]: /units/3_unit/05_lesson/lesson.md
+[3.01: Built In Functions]: units/3_unit/01_lesson/lesson.md
+[3.02: User-Defined Functions]: units/3_unit/02_lesson/lesson.md
+[3.03: Return vs Print]: units/3_unit/03_lesson/lesson.md
+[3.04: Debugging and Scope]: units/3_unit/04_lesson/lesson.md
+[3.05: Oregon Trail]: units/3_unit/05_lesson/lesson.md
 
-[4.01: Looping Basics]: /units/4_unit/01_lesson/lesson.md
-[4.02: For Loops]: /units/4_unit/02_lesson/lesson.md
-[4.03: Nested For Loops]: /units/4_unit/03_lesson/lesson.md
-[4.04: Nested Lists & Looping]: /units/4_unit/04_lesson/lesson.md
-[4.05: Debugging and Quiz]: /units/4_unit/05_lesson/lesson.md
-[4.06: Tic-Tac-Toe]: /units/4_unit/01_lesson/lesson.md
+[4.01: Looping Basics]: units/4_unit/01_lesson/lesson.md
+[4.02: For Loops]: units/4_unit/02_lesson/lesson.md
+[4.03: Nested For Loops]: units/4_unit/03_lesson/lesson.md
+[4.04: Nested Lists & Looping]: units/4_unit/04_lesson/lesson.md
+[4.05: Debugging and Quiz]: units/4_unit/05_lesson/lesson.md
+[4.06: Tic-Tac-Toe]: units/4_unit/01_lesson/lesson.md
 
-[5.01: Earsketch Intro]: /units/5_unit/01_lesson/lesson.md
-[5.02: EarSketch Music]: /units/5_unit/02_lesson/lesson.md
-[5.03: Earsketch Control Flow]: /units/5_unit/03_lesson/lesson.md
-[5.04: EarSketch User-Defined Functions]: /units/5_unit/04_lesson/lesson.md
-[5.05: EarSketch Project]: /units/5_unit/05_lesson/lesson.md
+[5.01: Earsketch Intro]: units/5_unit/01_lesson/lesson.md
+[5.02: EarSketch Music]: units/5_unit/02_lesson/lesson.md
+[5.03: Earsketch Control Flow]: units/5_unit/03_lesson/lesson.md
+[5.04: EarSketch User-Defined Functions]: units/5_unit/04_lesson/lesson.md
+[5.05: EarSketch Project]: units/5_unit/05_lesson/lesson.md
 
-[6.01: Introduction to Dictionaries]: /units/6_unit/01_lesson/lesson.md
-[6.02: Dictionaries Methods]: /units/6_unit/02_lesson/lesson.md
-[6.03: Dictionaries of Lists]: /units/6_unit/03_lesson/lesson.md
-[6.04: Dictionaries Looping]: /units/6_unit/04_lesson/lesson.md
-[6.05: Guess Who]: /units/6_unit/05_lesson/lesson.md
+[6.01: Introduction to Dictionaries]: units/6_unit/01_lesson/lesson.md
+[6.02: Dictionaries Methods]: units/6_unit/02_lesson/lesson.md
+[6.03: Dictionaries of Lists]: units/6_unit/03_lesson/lesson.md
+[6.04: Dictionaries Looping]: units/6_unit/04_lesson/lesson.md
+[6.05: Guess Who]: units/6_unit/05_lesson/lesson.md
 
 [7.01: User-Defined Types]: /units/7_unit/01_lesson/lesson.md
 [7.02: User-Defined Types, Part 2]: /units/7_unit/03_lesson/lesson.md
@@ -143,10 +143,10 @@ As you implement this curriculum into your program, there are some things to con
 [7.04: Inheritance]: /units/7_unit/04_lesson/lesson.md
 [7.05: Pokemon]: /units/7_unit/05_lesson/lesson.md
 
-[8.01: Final Project Brainstorming and Evaluating]: /units/8_unit/01_lesson/lesson.md
-[8.02: Defining Requirements]: /units/8_unit/02_lesson/lesson.md
-[8.03: Building a Plan]: /units/8_unit/03_lesson/lesson.md
-[8.04: Project Implementation]: /units/8_unit/04_lesson/lesson.md
+[8.01: Final Project Brainstorming and Evaluating]: units/8_unit/01_lesson/lesson.md
+[8.02: Defining Requirements]: units/8_unit/02_lesson/lesson.md
+[8.03: Building a Plan]: units/8_unit/03_lesson/lesson.md
+[8.04: Project Implementation]: units/8_unit/04_lesson/lesson.md
 
 [Supplemental Culture Day Lessons]: supplemental/
 [01: Binary Day]: units/supplemental/01_lesson/lesson.md
