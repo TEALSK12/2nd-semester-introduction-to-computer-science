@@ -10,12 +10,12 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* Download quiz and Answer key(access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
+* Download quiz and Answer key(access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
 * [Associated Readings 1.3](https://tealsk12.gitbook.io/intro-cs-2/readings#1-3)
 * Take the quiz
 * After taking the quiz yourself, take a look at the answer key provided in the additional curriculum materials.
 * Create a scoring rubric
-* Look through [http://tinyurl.com/TEALS-Python-Errors] web tutorial to dig deeper yourself into analyzing and responding to errors
+* Look through [http://tinyurl.com/TEALS-Python-Errors][] web tutorial to dig deeper yourself into analyzing and responding to errors
 
 ## Pacing Guide
 
@@ -55,7 +55,7 @@ Students will be able to...
 * Indentation Errors: Errors the students are most likely to have seen
 * "IndentationError: unindent does not match any outer indentation level"
 * Ask student why these errors are caused and how they find/fix this type of error? Suggest using the tab key to indent and the shift-tab to remove an indent as ways to avoid the error.
-* Direct students to work through and complete this web tutorial on [debugging]
+* Direct students to work through and complete this web tutorial on [debugging][]
 
 ### Accommodation/Differentiation
 

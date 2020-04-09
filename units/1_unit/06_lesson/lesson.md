@@ -7,8 +7,8 @@
 
 ## Materials
 
-* [Project Spec - Mad Libs] ([Printable Project Spec]) ([Editable Project Spec])
-* [Alternate Project Spec - Magic Square] ([Printable Alternate Project Spec]) ([Editable Alternate Project Spec])
+* [Project Spec - Mad Libs][] ([Printable Project Spec][]) ([Editable Project Spec][])
+* [Alternate Project Spec - Magic Square][] ([Printable Alternate Project Spec][]) ([Editable Alternate Project Spec][])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)
 

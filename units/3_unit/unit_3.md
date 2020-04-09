@@ -15,11 +15,11 @@
 
 | Lesson | Days | Resources |
 | ------ | ---- | --------- |
-| 3.01: Built In Functions | 1 | [3.01 Slide Deck] |
-| 3.02: User-Defined Functions | 2 | [3.02 Slide Deck] |
-| 3.03: Return vs Print | 1 | [3.03 Slide Deck] |
-| 3.04: Debugging and Scope | 1 | [3.04 Slide Deck] |
-| 3.05: Oregon Trail | 9 | [3.05 Slide Deck] |
+| 3.01: Built In Functions | 1 | [3.01 Slide Deck][] |
+| 3.02: User-Defined Functions | 2 | [3.02 Slide Deck][] |
+| 3.03: Return vs Print | 1 | [3.03 Slide Deck][] |
+| 3.04: Debugging and Scope | 1 | [3.04 Slide Deck][] |
+| 3.05: Oregon Trail | 9 | [3.05 Slide Deck][] |
 | **Total Days** | 14 | |
 | **Total Minutes** | 700 | |
 

@@ -53,7 +53,7 @@ Students will be able to...
 * An **IDE** is an application that allows you to create, edit, save, and run programs.
 * Point out that for this course we will be using an online IDE.
 * Note that with Python, we can't use drag and drop blocks anymore - it is a language that must be typed into an IDE.
-* Talk to students about the different areas and parts of the IDE, use the [Python Code] to demo once more how it looks/works.
+* Talk to students about the different areas and parts of the IDE, use the [Python Code][] to demo once more how it looks/works.
 
 #### Activity (instructor should demonstrate while students are following along on their computers)
 
