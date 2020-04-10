@@ -89,7 +89,7 @@ As you implement this curriculum into your program, there are some things to con
 | [8.01: Final Project Brainstorming and Evaluating][] | Recall project planning basics from last semester. Identify factors to use when choosing between project ideas. Rank a group of proposed project ideas using the identified factors. | N/A |
 | [8.02: Defining Requirements][] | Define key scenarios for a project and the features required to implement each scenario. Explain the importance of wireframing when designing an application. | N/A |
 | [8.03: Building a Plan][] | Identify the main components of a functional project specification and explain the purpose of each section. Develop a project idea into a full, detailed specification. | N/A |
-| [8.04: Project Implementation][] | Use the skills developed throughout the course to implement a medium- to large-scale software project. Realistically evaluate progress during software development and identify when cuts are necessary. Prioritize features and scenarios and choose which should be eliminated or modified if/when resources and/or time become limited. | N/A |#
+| [8.04: Project Implementation][] | Use the skills developed throughout the course to implement a medium- to large-scale software project. Realistically evaluate progress during software development and identify when cuts are necessary. Prioritize features and scenarios and choose which should be eliminated or modified if/when resources and/or time become limited. | N/A |
 
 ## Supplemental Culture Day Lessons
 
