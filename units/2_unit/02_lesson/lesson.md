@@ -10,8 +10,8 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Do Now]
-* [Lab - Can I or Can't I?] ([printable lab document]) ([editable lab document])
+* [Do Now][]
+* [Lab - Can I or Can't I?][] ([printable lab document][]) ([editable lab document][])
 
 * [Associated Readings 2.2](https://tealsk12.gitbook.io/intro-cs-2/readings#2-2)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.

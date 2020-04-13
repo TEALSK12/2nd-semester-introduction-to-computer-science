@@ -1,4 +1,5 @@
 @echo off & setlocal
+echo %time%
 
 robocopy /mir .\ .\docs
 cd .\docs
@@ -10,30 +11,50 @@ del "C:\Users\v-anspi\Documents\GitHub\2nd-semester-introduction-to-computer-sci
 rmdir /Q /S nonemptydir "C:\Users\v-anspi\Documents\GitHub\2nd-semester-introduction-to-computer-science\docs\docs\
 
 set sed="C:\Program Files\Git\usr\bin\sed.exe"
+set chrome="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 
 
 @REM -- Convert files at the root of the repo.
 for %%f in (*.md) do (
     @echo %%f
+
+    @REM -- Create .pdf version of markdown files with no toc
+    @REM -- type >%%f-pdf.html markdeep-header.txt
+    @REM -- %sed% >>%%f-pdf.html "s/\.md/.md.html/g" %%f
+    @REM -- type >>%%f-pdf.html markdeep-footer-tocstyle-none.txt
+    @REM -- %chrome% --headless --no-margins --print-to-pdf="%%~pf%%~nf.pdf" "%%f-pdf.html"
+    @REM -- del "%%f-pdf.html"
+
     type >%%f.html markdeep-header.txt
     %sed% >>%%f.html "s/\.md/.md.html/g" %%f
     type >>%%f.html markdeep-footer.txt
     @REM -- Create .pdf version of markdown files
-    pandoc --pdf-engine=xelatex -V geometry:margin=2cm "%%f" -o "%%~nf.pdf"    
+    @REM -- pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "%%f" -o ".\pdf\%%~nf.pdf"    
    
 )
 
 @REM -- Convert files at the Units of the repo.
 for /r . %%f in (*.md) do (
     @echo %%f
+
+    @REM -- Create .pdf version of markdown files with no toc
+    @REM -- type >%%f-pdf.html \markdeep-header.txt
+    @REM -- %sed% >>%%f-pdf.html "s/\.md/.md.html/g" %%f
+    @REM -- type >>%%f-pdf.html \markdeep-footer-tocstyle-none.txt
+    @REM -- %chrome% --headless --no-margins --print-to-pdf="%%~pf%%~nf.pdf" "%%f-pdf.html"
+    @REM -- del "%%f-pdf.html"
+
     type >%%f.html ..\markdeep-header.txt
     %sed% >>%%f.html "s/\.md/.md.html/g" %%f
     type >>%%f.html ..\markdeep-footer.txt 
     @REM -- Create .pdf version of markdown files
-    pandoc --pdf-engine=xelatex -V geometry:margin=2cm "%%f" -o "%%~nf.pdf"
+    @REM -- pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "%%f" -o "%%~nf.pdf"
+    
 )
 
-rename summary.md.html index.html
+rename curriculum_map.md.html index.html
+@REM pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "summary.md" -o "summary.pdf"
 
+echo %time%
 
 Exit /B

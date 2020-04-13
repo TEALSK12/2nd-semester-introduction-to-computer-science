@@ -11,8 +11,8 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Do Now]
-* [Lab - de_vowel] ([printable lab document]) ([editable lab document])
+* [Do Now][]
+* [Lab - de_vowel][] ([printable lab document][]) ([editable lab document][])
 
 * [Associated Reading - section 4.1](https://tealsk12.gitbook.io/intro-cs-2/readings#4-1)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students

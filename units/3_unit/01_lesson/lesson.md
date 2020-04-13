@@ -11,8 +11,8 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Do Now]
-* [Lab - Magic 8-Ball] ([printable lab document]) ([editable lab document])
+* [Do Now][]
+* [Lab - Magic 8-Ball][] ([printable lab document][]) ([editable lab document][])
 * Associated Reading - section 3.1 of Book
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 * **Microsoft Learn - Parameterized Functions Video**
@@ -43,7 +43,7 @@ Students will be able to...
 
   ![Snap Custom Block](https://i.ytimg.com/vi/Bbl2fh3igQ4/maxresdefault.jpg)
 
-* **Function**:  a named sequence of statements. You can use functions to perform complex calculations, graphical operations, and various other purposes. When you define a function, you specify the name and the sequence of statements. Later, you can “**call**” the function by name.
+* **Function**:  a named sequence of statements. You can use functions to perform complex calculations, graphical operations, and various other purposes. When you define a function, you specify the name and the sequence of statements. Later, you can "**call**" the function by name.
 * In SNAP! functions are blocks
 
 #### Function Contract

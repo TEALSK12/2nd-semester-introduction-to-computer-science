@@ -1,7 +1,7 @@
 # Project- Final Project
 
-* [printable project spec]
-* [editable project spec]
+* [printable project spec][]
+* [editable project spec][]
 
 Students will design, plan, and implement a medium- to large-scale final project of their own choosing.
 

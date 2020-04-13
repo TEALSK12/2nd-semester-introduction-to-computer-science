@@ -1,0 +1,43 @@
+<meta charset="utf-8"><link rel="stylesheet" media="screen" href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/styles/curriculum.css">
+**Introduction to Computer Science - Python Programming**
+
+## [Curriculum Map](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/) | [Introduction](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readme.md.html) | [Additional Readings](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html) | [Change Log](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/changelog.md.html)
+# Lab 7.04 - `Pokemon` Child Classes
+
+## Overview
+
+Given the following [example], practice using inheritance to create specific child classes for different types of `Pokemon`.
+
+### Create the three child classes below
+
+#### 1. Water Type
+
+* When attacking a fire type, the attack is more effective
+* When attacking a grass type the effect is less effective
+* When `growl` is called print out `Splish Splash`
+
+#### 2. Fire Type
+
+* When attacking a water type, the attack is less effective
+* When attacking a grass type the effect is more effective
+* When `growl` is called print out "Fire Fire"
+
+#### 3. Grass Type
+
+* When attacking a water type, the attack is more effective
+* When attacking a fire type the effect is less effective
+* When `growl` is called print out "Cheep Cheep"
+
+**Note**: In order to check what type an object is you can use `isinstance` which takes in an object, a class and returns a Boolean if the object is the type of the inputted class.
+
+### Example Code
+
+```python
+my_pet = Pet()
+isinstance(my_pet, Pet) # returns true
+isinstance(my_pet, Dog) # returns false
+```
+
+[example]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/7_unit/04_lesson/example.py
+
+<!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>

@@ -9,13 +9,13 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [Project Spec - Tic-Tac-Toe] ([printable project Spec]) ([editable project spec])
-* [Alternate Project Spec - 2 Player Tic-Tac-Toe] ([printable alternate project Spec]) ([editable alternate project spec])
+* [Project Spec - Tic-Tac-Toe][] ([printable project Spec][]) ([editable project spec][])
+* [Alternate Project Spec - 2 Player Tic-Tac-Toe][] ([printable alternate project Spec][]) ([editable alternate project spec][])
 * [Tic Tac Toe Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/tictactoe_starter_code.py)
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the handout, lesson, and project so that you are familiar with the requirements and can assist students
 * Try creating your own variation on the Tic-Tac-Toe game so you are familiar with the potential challenges and bugs your students will hit
-* Review [4 Steps to Solve Any CS Problem]
+* Review [4 Steps to Solve Any CS Problem][]
 * [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.docx)
 
 ## Pacing Guide
