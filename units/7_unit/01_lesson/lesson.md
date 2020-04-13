@@ -4,16 +4,17 @@
 
 Students will be able to...
 
-* Define and identify: **class**, **instance**, **object**, **attributes**
+* Define and identify: **class**, **instance**, **object**, **attribute**
 * Create a class and instantiate
 * Add attributes to an instance
+* Create an embedded object
 * Manipulate instances and attributes through a function
 
 ## Materials/Preparation
 
-* [Do Now][]
-* [Example][]
-* [Lab - Create a Color Class][] ([printable lab document][]) ([editable lab document][])
+* [Do Now]
+* [Example]
+* [Lab] ([printable lab document]) ([editable lab document])
 * [Associated Reading - section 7.1](https://tealsk12.gitbook.io/intro-cs-2/readings#7-1)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -30,7 +31,9 @@ Students will be able to...
 
 ### 1. Do Now
 
-* Display the Do Now on the board.
+* Display the Do Now. 
+* Give the students at least five minutes to think about the questions posed in the Do Now. 
+* This might be a good time for a think-pair-share. 
 
 ### 2. Lesson
 
@@ -42,19 +45,24 @@ Students will be able to...
 
 #### Instruction - Class
 
-* A user-defined type.
-* On board write syntax for creating a class: `class Pet:`
+* A **class** is a user-defined type.
+* Syntax for creating a **class**:
+    ```python
+    class Pet:
+        """Represents a pet."""
+    ```
 
-#### Instruction - Object
+#### Instruction - Instantiation and Objects
 
-* The basis of object-oriented programming (OOP).
-* Objects correspond to a real world thing that has certain attributes associated with it.
+* You can create an **instance** by calling the class as if it were a function. Usually the instance is named by assigning it to a variable.
 
-#### Instruction - Instantiated
-
-* You can create **instances** of a class by using `Pet()` (`my_pet_1` is an instance of the `Pet` class).
-* If you check the type of an instance it will be `Pet`.
+    ```python
+    my_pet = Pet()
+    ```
+* If you check the type of the instance it will be `Pet`.
 * Instances are mutable, they can be changed or updated.
+* An instance can also be referred to as an **object**.
+* Objects form the basis for object-oriented programming.
 
 #### Demonstration
 
@@ -67,19 +75,52 @@ Students will be able to...
 
 #### Instruction - Attribute
 
-* Values assigned to an instance.
-* Note that you can also create functions that take in classes and use their attributes.
+* Values assigned to an instance are **attributes** of those objects. As an example:
+
+    ```python
+    class Pet:
+        """Represents a pet."""
+
+    my_pet = Pet()
+    my_pet.type = 'dog'
+    my_pet.noise = 'bark'
+    my_pet.full_name = 'Lassie'
+    ```
+* An object can be visualized with an **object diagram**.
+![An object diagram for a Pet object.](images/object_diagram.png)
+* Objects can be attributes for another object. These are **embedded objects**. The following example illustrates this.
+    ```python
+    class Pet:
+        """Represents a pet."""
+
+    class Owner:
+        """Represents a pet owner."""
+
+    # Instantiate a pet.
+    my_pet = Pet()
+    my_pet.type = 'unicorn'
+    my_pet.noise = 'neigh'
+    my_pet.full_name = 'Rainbow'
+    my_pet.owner = Owner()
+    me.owner.full_name = 'Princess Firebolt'
+    ```
+* An object diagram for an embedded object looks like the following.
+![An object diagram with an embedded object.](images/embedded_object_diagram.png)
+
+#### Instruction - Debugging objects
+* Objects have their own unique bugs that can arise.
+  * Declaring a class without any code in the body (even if that code is the docstring, which is good practice anyhow), will throw a syntax error.
+  * Calling an attribute that hasn't been defined will throw an attribute error.
 
 ### 3. Lab
 
-* Students will create RGB colors using a `Color` class.
-* They will then create a function to merge two colors.  
-* They can check their colors on the linked RGB website in the lab.
+* Have the students work on the lab described in the handout.
+* In the lab, the students will create classes, objects, attributes and functions that take objects as arguments.
 
 ### 4. Debrief
 
 * Write down any questions you still have about the new terms you learned today?
-* Is there anything you still need more clarification on?
+* Is there anything that needs more clarification?
 
 ## Accommodation/Differentiation
 
@@ -92,7 +133,7 @@ For students that are quickly picking up the concepts, have them create their ow
 [Lesson 7.01: User-Defined Types (Classes) (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-01-user-defined-types-classes)
 
 [Do Now]:do_now.md
-[Lab - Create a Color Class]:lab.md
+[Lab]:lab.md
 [Example]:example.md
 [printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.pdf
 [editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.docx
