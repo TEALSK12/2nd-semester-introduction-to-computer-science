@@ -14,7 +14,7 @@ Students will be able to...
 
 * [Do Now]
 * [Example]
-* [Lab]([printable lab document]) ([editable lab document])
+* [Lab] ([printable lab document]) ([editable lab document])
 * [Associated Reading - section 7.1](https://tealsk12.gitbook.io/intro-cs-2/readings#7-1)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -31,7 +31,9 @@ Students will be able to...
 
 ### 1. Do Now
 
-* Display the Do Now on the board.
+* Display the Do Now. 
+* Give the students at least five minutes to think about the questions posed in the Do Now. 
+* This might be a good time for a think-pair-share. 
 
 ### 2. Lesson
 
@@ -53,6 +55,7 @@ Students will be able to...
 #### Instruction - Instantiation and Objects
 
 * You can create an **instance** by calling the class as if it were a function. Usually the instance is named by assigning it to a variable.
+
     ```python
     my_pet = Pet()
     ```
@@ -73,6 +76,7 @@ Students will be able to...
 #### Instruction - Attribute
 
 * Values assigned to an instance are **attributes** of those objects. As an example:
+
     ```python
     class Pet:
         """Represents a pet."""
