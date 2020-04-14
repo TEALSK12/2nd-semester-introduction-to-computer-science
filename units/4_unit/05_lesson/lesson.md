@@ -59,7 +59,7 @@ Provide an [Additional Coding Example]) for students that finish the lab exercis
 
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [Lab - Debugging Practice]: lab.md
-[Coding Example]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/4_unit/05_lesson/coding_exmple.py
-[Additional Coding Example]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/4_unit/05_lesson/longer_coding_sample.py
+[Coding Example]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/coding_exmple.py
+[Additional Coding Example]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/longer_coding_sample.py
 [printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.pdf
 [editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.docx
