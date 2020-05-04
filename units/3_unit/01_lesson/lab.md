@@ -23,7 +23,7 @@ Look at the [documentation] of the random library — Experiment with another fu
 
 ## Video Explanation
 
-  [![Magic 8 Ball](https://img.youtube.com/vi/gMSPH1Cnwwo/0.jpg)](https://www.youtube.com/watch?v=gMSPH1Cnwwo)
+  [![Magic 8 Ball](https://img.youtube.com/vi/vZRrg6Nl-1E/0.jpg)](https://www.youtube.com/watch?v=vZRrg6Nl-1E)
 
 ## Bonus
 

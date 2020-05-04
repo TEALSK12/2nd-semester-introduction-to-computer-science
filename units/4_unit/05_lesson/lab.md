@@ -3,12 +3,12 @@
 ## 1. Read through the following code
 
 ```python
-def my_looping_function(list):
+def print_numbers(list):
     for i in range(1, len(list)+1):
         print(list[i])
 
-basic_list = [1, 2, 3, 4, 5, 6]
-my_looping_function(basic_list)
+num_list = [1, 2, 3, 4, 5, 6]
+print_numbers(num_list)
 
 ```
 
@@ -19,15 +19,15 @@ my_looping_function(basic_list)
 ## 2. Read through the following code
 
 ```python
-def my_nested_looping_function(a_list):
-for i in range(0, len(a_list)):
-  value = a_list[a]
-for j in range(0, i):
-value += j
-print(value)
-
-basic_list = [1, 2, 3, 4]
-my_nested_looping_function(basic_list)
+def swapping_stars():
+line_str = ""
+    for line in range(0, 6):
+        for char in range(0,6):
+            if line % 2 == char % 2:
+                line_str += "*"
+            else:
+                line_str += "-"
+print(line_str)
 ```
 
 ## Continue in your Notebook
