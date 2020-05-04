@@ -549,5 +549,5 @@ You may earn bonus points on the project by trying some of these ideas:
   main program in a corresponding way to create a shopping site for a
   different product line.
 
-[1]: /starter_code
+[1]: /starter_code/
 [2]: /starter_code/inventory.csv
