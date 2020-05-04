@@ -1,12 +1,15 @@
+## Lesson 4.05 Debugging - Sample Code 
+## Packs of 20, 5 and 3. The user needs 96.
+## Expected output: [4, 3, 1]
+
 def boxes_to_buy(num_needed, sizes):
-    result = {}
+    result = []
+    index = 0
     remaining = num_needed
 
     for size in sizes:
-        result[size] = remaining // size
+        result.append(remaining // size)
         remaining = remaining % size
-
-    if remaining > 0:
-        result[min(sizes)] += 1  # add one of the smallest pack-size if there are any left :)
+        index += 1
 
 boxes_to_buy(96, [20, 5, 3])

@@ -478,7 +478,7 @@ The starter project contains 7 files:
 
 | File | Description |
 | ---- | ----------- |
-| `inventory.txt` | A CSV file containing descriptions of 100+ models of umbrellas |
+| `inventory.csv` | A CSV file containing descriptions of 100+ models of umbrellas |
 | `main.py` | Contains the top-level logic of the program, including the action loop and handlers for each action |
 | `items.py` | Functions related to representing shopping items as python dictionaries  |
 | `criteria.py` | Functions related to search criteria |
@@ -549,5 +549,5 @@ You may earn bonus points on the project by trying some of these ideas:
   main program in a corresponding way to create a shopping site for a
   different product line.
 
-[1]: starter_code
-[2]: starter_code/inventory.txt
+[1]: /starter_code/
+[2]: /starter_code/inventory.csv
