@@ -4,6 +4,12 @@
 
 -----------------
 
+### 5/14/2020
+
+* Added Unit 7 Slide Decks
+
+-----------------
+
 ### 3/10/2020
 
 * Added Unit 5 Slide Decks
