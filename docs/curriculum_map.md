@@ -137,11 +137,11 @@ As you implement this curriculum into your program, there are some things to con
 [6.04: Dictionaries Looping]: units/6_unit/04_lesson/lesson.md
 [6.05: Project]: units/6_unit/05_lesson/lesson.md
 
-[7.01: User-Defined Types]: /units/7_unit/01_lesson/lesson.md
-[7.02: User-Defined Types, Part 2]: /units/7_unit/03_lesson/lesson.md
-[7.03: Methods]: /units/7_unit/03_lesson/lesson.md
-[7.04: Inheritance]: /units/7_unit/04_lesson/lesson.md
-[7.05: Project]: /units/7_unit/05_lesson/lesson.md
+[7.01: User-Defined Types]: units/7_unit/01_lesson/lesson.md
+[7.02: User-Defined Types, Part 2]: units/7_unit/03_lesson/lesson.md
+[7.03: Methods]: units/7_unit/03_lesson/lesson.md
+[7.04: Inheritance]: units/7_unit/04_lesson/lesson.md
+[7.05: Project]: units/7_unit/05_lesson/lesson.md
 
 [8.01: Final Project Brainstorming and Evaluating]: units/8_unit/01_lesson/lesson.md
 [8.02: Defining Requirements]: units/8_unit/02_lesson/lesson.md
