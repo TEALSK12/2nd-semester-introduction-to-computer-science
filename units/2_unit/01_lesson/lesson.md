@@ -73,7 +73,7 @@ Students will be able to...
 ### 3. Lab
 
 * Practice predicting what casting will do to inputs.
-* Create a halving program as well as program that halves to whole numbers.
+* Create a halving program and a program that converts halves to whole numbers.
 
 ### 4. Debrief
 
