@@ -66,4 +66,4 @@ Students will be able to...
 
 [Lesson 0.1: The First Day (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-01-set-up)
 
-[Python Code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/hello_world.py
+[Python Code]:https://raw.githubusercontent.com/TEALSK12/2nd-semester-introduction-to-computer-science/master/units/1_unit/01_lesson/hello_world.py

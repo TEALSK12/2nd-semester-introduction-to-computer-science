@@ -12,7 +12,7 @@ Students will be able to...
 
 * Update the collaboration policy, IDE information, grading percentages, and general syllabus based on your preferences and your school's requirements
 * With your teaching team determine which IDE to use with your class.
-* [Python Code]: code to display
+* [Python Code][]: code to display
 * Student Notebooks
 * Decide which IDE will be used for the classroom for the semester
 * Note: As with all software services, it is the school's sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school's responsibility to ensure the tool meets it's IT policies.
@@ -66,4 +66,4 @@ Students will be able to...
 
 [Lesson 0.1: The First Day (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-01-set-up)
 
-[Python Code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/1_unit/01_lesson/hello_world.py
+[Python Code]:https://raw.githubusercontent.com/TEALSK12/2nd-semester-introduction-to-computer-science/master/units/1_unit/01_lesson/hello_world.py
