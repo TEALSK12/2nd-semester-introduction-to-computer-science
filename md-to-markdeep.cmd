@@ -30,7 +30,7 @@ for %%f in (*.md) do (
     type >>%%f.html markdeep-footer.txt
     @REM -- Create .pdf version of markdown files
     @REM -- pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "%%f" -o ".\pdf\%%~nf.pdf"    
-   
+    del %%f
 )
 
 @REM -- Convert files at the Units of the repo.
@@ -49,10 +49,11 @@ for /r . %%f in (*.md) do (
     type >>%%f.html ..\markdeep-footer.txt 
     @REM -- Create .pdf version of markdown files
     @REM -- pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "%%f" -o "%%~nf.pdf"
+    del %%f
     
 )
 
-rename curriculum_map.md.html index.html
+rename README.md.html index.html
 @REM pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "summary.md" -o "summary.pdf"
 
 echo %time%
