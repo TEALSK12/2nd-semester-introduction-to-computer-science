@@ -30,7 +30,6 @@ for %%f in (*.md) do (
     type >>%%f.html markdeep-footer.txt
     @REM -- Create .pdf version of markdown files
     @REM -- pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "%%f" -o ".\pdf\%%~nf.pdf"    
-    del %%f
 )
 
 @REM -- Convert files at the Units of the repo.
