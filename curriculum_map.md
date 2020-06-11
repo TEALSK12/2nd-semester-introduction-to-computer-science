@@ -5,7 +5,6 @@
 As you implement this curriculum into your program, there are some things to consider when deciding what units best fits program goals.
 
 * **Preparing students to take [Advanced Placement Computer Science A][]** - It is recommended completing the units in the following order 1, 2, 3, 4, 7, 6, 8, 5(Optional)
-* **Preparing students to gain a credential such as the [Microsoft Technology Associate (MTA) certification][]** - It is recommended completing the course units in the following order 1, 2, 3, 4, [Additional Topics][]. 5(Optional)
 * **Offering this course as a stand alone computer science course** - It is recommended completing the course units in the following order - 1, 2, 3, 4, 5, 6, 7, 8
 
 ## [Unit 1 Map - Introduction to Python](units/1_unit/unit_1.md)
