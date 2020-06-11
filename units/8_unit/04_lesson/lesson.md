@@ -10,8 +10,8 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* Students should each have their [Final Project Plan Organizer] and [Final Project Development Plan]
-* Review [4 Steps to Solve Any CS Problem]
+* Students should each have their [Final Project Plan Organizer][]and [Final Project Development Plan][]
+* Review [4 Steps to Solve Any CS Problem][]
 
 ## Pacing Guide
 

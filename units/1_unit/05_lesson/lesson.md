@@ -11,7 +11,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * Download quiz and Answer key(access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
-* [Associated Readings 1.3](https://tealsk12.gitbook.io/intro-cs-2/readings#1-3)
+* [Associated Readings 1.3](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html#associatedreadings/1.3)
 * Take the quiz
 * After taking the quiz yourself, take a look at the answer key provided in the additional curriculum materials.
 * Create a scoring rubric

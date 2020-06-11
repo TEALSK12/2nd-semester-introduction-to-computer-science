@@ -14,12 +14,8 @@ Students will be able to...
 * [Do Now][]
 * [Lab - College Chooser][] ([printable lab document][]) ([editable lab document][])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
-* [Associated Readings 2.4](https://tealsk12.gitbook.io/intro-cs-2/readings#2-4)
+* [Associated Readings 2.4](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html#associatedreadings/2.4)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
-
-### **Video Explanation of Lists**
-
-  [![Video Explanation of Lists](https://img.youtube.com/vi/wO6lG82RbhM/0.jpg)](https://youtu.be/wO6lG82RbhM?t=67)
 
 ## Pacing Guide
 
