@@ -12,8 +12,7 @@ Students will be able to...
 * [Project Spec - Oregon Trail][] ([printable project Spec][]) ([editable project spec][])
 * [Alternate Project Spec - Daily Planner][] ([printable alternate project Spec][]) ([editable alternate project spec][])
 * [Oregon Trail Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/Unit_3_Project_Oregon_Trail_Starter_Code.py)
-)
-* [Project Spec - Crosscountry Canada] 
+* [Project Spec - Crosscountry Canada][] 
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard](https://www.tealsk12.org/dashboard/))
 * Update the Project Spec as needed to meet your grading requirements
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit.

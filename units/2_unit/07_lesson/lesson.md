@@ -9,7 +9,7 @@ Students will be able to...
 
 * [Project Spec - Text Monster][] ([printable project Spec][]) ([editable project spec][])
 * [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
-* [Project Spec - Canadian Variation]
+* [Project Spec - Canadian Variation][]
 * [Alternate Project Spec - Todo List][] ([printable Alternate project Spec][]) ([editable Alternate project spec][])
 * [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
 * Sample Solutions (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
