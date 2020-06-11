@@ -3,13 +3,13 @@
 ## Learning Objectives
 
 Students will be able to...
-
 * Use knowledge of lists, Booleans, conditionals, and while loops to create a text-based adventure game.
 
 ## Materials
 
 * [Project Spec - Text Monster][] ([printable project Spec][]) ([editable project spec][])
 * [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
+* [Project Spec - Canadian Variation]
 * [Alternate Project Spec - Todo List][] ([printable Alternate project Spec][]) ([editable Alternate project spec][])
 * [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
 * Sample Solutions (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
@@ -93,6 +93,7 @@ You may need to adjust the points in order to fit your class. Treat the percenta
 
 [Lesson 2.07: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-text-game)
 
+[Project Spec - Canadian Variation]: project_canada.md
 [Project Spec - Text Monster]: project.md
 [Alternate Project Spec - tODO List]: project.md
 [Text Monster Game - Example Code]: project_file.py
