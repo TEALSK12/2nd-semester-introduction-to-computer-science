@@ -49,8 +49,8 @@ Predict if each of the following examples will produce a `True` or `False` outpu
     * You must be a Canadian Citizen.
     * You must be at least 18 years old on election day.
     * You have been elected as the leader of a Political Party.
-    * If you are not part of a Party, then you can run as an Independent.
-    * You cannot be in more than one Party.
+    * If you are not a member of a Party, then you must run as an Independent.
+    * You cannot be a member of more than one Party.
     * Print `True` if the person could be Prime Minister and `False` if they can't be Prime Minister
 
 2. Create a "I can't be Prime Minister?" program. Print `True` if the user cannot be Prime Minister and `False` if they can be Prime Minister.
@@ -62,7 +62,7 @@ Predict if each of the following examples will produce a `True` or `False` outpu
 #### BC Mathematics Computer Science 12 and ADST Computer Programming 12 - Connecting and Reflecting
 
 Adapt this program to connect with other forms of leadership in your community:  Civic level (Major);  Provincial level (Premier);  
-First People's Elders or Band leaders.  How are these positions elected or chosen?  
+First People's Elders or Band leaders.  How are these positions elected or chosen?  What is the reason for the logic behind some of these requirements?
 
 ---
 
