@@ -71,7 +71,7 @@ Here is an example of a day in Coquitlam, BC.
     ```python    
     A Day in Quarantine:  
     It was a beautiful day in Coquitlam. Our hero Shawn Mendes was not allowed to leave the house.
-    The only place our hero sent to for groceries was Rocky Point Ice Cream Shop. 
+    The only place our hero went to for groceries was Rocky Point Ice Cream Shop. 
     Today was shopping day.  Shawn quickly walked out with a cyan face mask, and Nike shoes. 
     Suddenly a slimy donut appeared out of nowhere!!!
     Our hero foolishly pranced all the way home to post on instagram.
