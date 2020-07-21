@@ -1,4 +1,4 @@
-# Project 1: Mad Libs (The True North Version)
+# Project 1: Mad Libs (True North Edition)
 
 Using Python, students will use variables, input, and printing to create a Mad Lib. You will also practice *designing* a project by planning out your Mad Lib before implementing it.  
 Part of the project is to use your creativity to design your own unique story.
