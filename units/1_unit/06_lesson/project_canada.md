@@ -16,9 +16,8 @@ Then the story is read off with the user's words mixed in!
 #### Curriculum Competencies - Applied Design, Testing
 
 Use this opportunity to create a Mad Lib that tells the stories of our times. 
-Connect with some current events relevant to your community and to our lives.
 Technology is used to connect people with the things they care about.
-The field Digital Media, for example, is where we digital artifacts are created to communicate messages to the world. 
+The field Digital Media, for example, is where digital artifacts are created to communicate messages to the world. 
 
 Some possible story themes:
 * Current events in the world
