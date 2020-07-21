@@ -61,8 +61,8 @@ Predict if each of the following examples will produce a `True` or `False` outpu
 
 #### BC Mathematics Computer Science 12 and ADST Computer Programming 12 - Connecting and Reflecting
 
-Adapt this program to connect with other forms of leadership in your community:  Civic level (Major);  Provincial level (Premier);  
-First People's Elders or Band leaders.  How are these positions elected or chosen?  What is the reason for the logic behind some of these requirements?
+Adapt this program to connect with other forms of leadership in your community:  Civic level (Mayor);  Provincial level (Premier);  
+First People's Elders or Band leaders.  How are these positions elected or chosen?  What is the reason for the logic behind some of these requirements?  
 
 ---
 
