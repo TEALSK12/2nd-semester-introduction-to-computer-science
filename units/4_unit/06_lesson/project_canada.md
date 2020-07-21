@@ -70,7 +70,7 @@ next iteration:  colour, size, font, layout, game play, words of encouragement (
     * If you live by the West Coast, you can use:  B (beach) or M (mountain)
     * If you have second language learners, you can use foreign language characters, such as: 是 (yes) 否 (no) 
     * If you are into emoticons, you can use:  😍 or  😭
-    * Find two animals that are hunted by the First Nations people in your area.
+    * Find two animals that are treasured by the First Peoples communities in your area.
 
 ---
 #### Emphasize with students...
