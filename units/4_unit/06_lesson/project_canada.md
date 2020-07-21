@@ -62,13 +62,13 @@ next iteration:  colour, size, font, layout, game play, words of encouragement (
 
 ---
 
-### Enhancments
+### Enhancements
 * Now that you have a basic version created, how can it be made unique?
 * Consider aspects that the design that be changed so that the game can have a fresh look/feel?
 * Consider context that is relevant to your community, or daily life.  
-* Instead of X's and O's, for example:
+* Consider alternatives to X's and O's, for example:
     * If you live by the West Coast, you can use:  B (beach) or M (mountain)
-    * If you have multi-cultural community, you can use: 是 (yes) 否 (no) 
+    * If you have second language learners, you can use foreign language characters, such as: 是 (yes) 否 (no) 
     * If you are into emoticons, you can use:  😍 or  😭
     * Find two animals that are hunted by the First Nations people in your area.
 
@@ -95,6 +95,52 @@ or unicode encodings.  Students can explore and use these codes in their Python 
 Other language characters:  https://realpython.com/python-encodings-guide/ 
 
 ---
+
+### Challenge  
+* Implement "fairness".  Going first is a big advantage in this game. Modify your game loop so that if the users indicate they want to play again, the players swap who goes first. The players should keep their symbol ('X' or 'O') but the symbol that goes first should swap. Every time the players replay the game, the player who goes first should swap.
+
+* Implement a Tournament.  Instead of a single game, some players may want to play a best-of-5 or best-of-7 series. In such an event, players repeatedly play the game until one player has won a majority of the games in the series. Before the first game is played, prompt the players for the best-of series they want to play. Remember you don't need to play unnecessary games. If 'X' wins the first 3 games in a best-of-5, the last two games don't need to be played. You should still prompt the player's to see if they want to play again (that is, play a new series of games).
+
+* In your classroom hold a Live Tournament.  Keep a record of tournmanet details such as:  games played, and wins and losses.   In groups, reflect on the design of the game in terms of:  usability, fairness, strategy.   How can some shortcomings, or mistakes, be improved or fixed to improve this simple game?   What might be a good target audience for this game?
+    
+---
+#### Emphasize with students...
+
+#### BC Mathematics 12 Computer Science Curriculum Competencies - Reasoning and modelling (strategic thinking to analyze and create algorithms), Connecting and reflecting
+
+The goal of fairness is interesting in game design.  Discuss these questions with students:  Should game design be fair?  What does fairness mean?  Brainstorm ways in which a game can be "fair"?    
+
+To develop the "take turns to start" strategy, or the "tournament" feature decribed above, begin with designing the logic with pen and paper first:  sketch a flow chart, write the pseudocode.  Have students (in partners) examine each other's design logic before implementating anything in Python code.  Create a test plan with a variety of inputs and expected output.  Have all posibilities been considered?  Is the logic solid?  
+
+Finally, have a tournament day!   Aside from having fun, also gather data from game play to reflect on the validity of your design.  How can things be fixed or improved?  What are some strengths and weaknesses of your design? 
+
+---
+
+### Super Challenge - Building an AI algorithm
+
+The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
+
+* Modify the gameloop so that instead of two human players, either (or both) of the players can be computers. The computer's names can be some variation on "Computer 1". Modify the make_move function so that computer can make an automatic selection. To begin, simply have the computer randomly select an available empty space for their move.
+
+* Continue to build on the above challenge by giving the computer some basic game logic. If the other player is about to win (ie: they have two in a row), then the computer should always select the blocking move. What kind of logic can you give the computer for its turn if it doesn't have to make a blocking move?
+
+---
+
+#### Emphasize with students...
+
+#### BC Mathematics 12 Computer Science Big Ideas - Algorithms, Computational Thinking, Problem Solving
+
+Artificial intelligence begins with imagining what a human being would do.  
+At each move: 
+* What goes through the mind of a player? 
+* What are the considerations and possible steps that a player at take?
+* Which sequence of upcomings steps would lead to a winning situation?
+
+Sketch the decision tree to represent your proposed algorithm.  Do your logic design with pen and paper first (flow chart and pseudocode).
+Finally, have peer testing, have a class tournament, and reflect together on the the game logic.   Was the computer as good as a human?
+
+---
+    
 
 ## Grading 
 ### Scheme/Rubric
