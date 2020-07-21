@@ -18,8 +18,8 @@ Then the story is read off with the user's words mixed in!
 Use this opportunity to create a Mad Lib that tells the stories of our times. 
 Technology is used to connect people with the things they care about.
 The field Digital Media, for example, is where digital artifacts are created to communicate messages to the world. 
-In a Mad Lib, the computer software engages the audience by asking for word inputs. 
-This add a twist, and possibly some humour, into the story. 
+In a Mad Lib, the user in engaged by providing word inputs. 
+This add a random twist, and possibly some humour, into the story. 
 
 Some possible story themes:
 * Current events in the world
