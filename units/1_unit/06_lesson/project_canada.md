@@ -28,6 +28,7 @@ Some possible story themes:
 * Daily life in your part of the world 
 * Amazing race adventure
 * Master chef cooking adventure
+* A camping adventure
 
 ---
 
