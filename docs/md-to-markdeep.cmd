@@ -1,7 +1,9 @@
+@REM -- This file is no longer in use to convert curiculum to Markdeep. Changes need to be made directly in /docs/ folder.
+
 @echo off & setlocal
 echo %time%
 
-robocopy /mir .\ .\docs
+robocopy /E .\ .\docs /XD %CD%\docs
 cd .\docs
 
 @REM -- Remove unnecessary files that are copied
@@ -52,7 +54,7 @@ for /r . %%f in (*.md) do (
     
 )
 
-rename README.md.html index.html
+COPY /Y  README.md.html index.html
 @REM pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "summary.md" -o "summary.pdf"
 
 echo %time%
