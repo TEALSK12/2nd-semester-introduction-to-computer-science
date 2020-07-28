@@ -16,7 +16,7 @@ Students will be able to...
 
 ## Preparation
 
-* Read through the [Associated Readings 2.7](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html#associatedreadings/2.7)
+* Read through the [Associated Readings 2.7](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.7)
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem]
 * Update the Project Spec of your selected project as needed to meet your grading requirements

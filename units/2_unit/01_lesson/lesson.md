@@ -12,7 +12,7 @@ Students will be able to...
 
 * [Do Now][]
 * [Lab - Casting][] ([printable lab document][]) ([editable lab document][])
-* [Associated Readings 2.1](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html#associatedreadings/2.1)
+* [Associated Readings 2.1](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.1)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide

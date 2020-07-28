@@ -14,7 +14,7 @@ Students will be able to...
 
 * [Do Now][]
 * [Lab - Printing & Variables][] ([printable lab document][]) ([editable lab document][])
-* [Associated Reading - section 1.2](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html#associatedreadings/1.2)
+* [Associated Reading - section 1.2](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/1.2)
 * Read through the Do Now, Lab, and Lesson so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide

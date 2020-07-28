@@ -13,7 +13,7 @@ Students will be able to...
 
 * [Do Now][]
 * [Lab - Magic 8-Ball][] ([printable lab document][]) ([editable lab document][])
-* [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html#associatedreadings/3.1)
+* [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.1)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide

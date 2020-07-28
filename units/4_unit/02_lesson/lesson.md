@@ -11,7 +11,7 @@ Students will be able to...
 
 * [Do Now][]
 * [Lab - Getting Loopy][] ([printable lab document][]) ([editable lab document][])
-* [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html#associatedreadings/4.2)
+* [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/4.2)
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
 
 ## Pacing Guide
