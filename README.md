@@ -1,6 +1,8 @@
-# A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.gitbook.io/intro-cs/)
+# A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
 
 * GitHub: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science
+
+The following has been deprecated after the 2019/20 school year:
 * GitBook: https://tealsk12.gitbooks.io/2nd-semester-introduction-to-computer-science/content/
 
 ## About this curriculum
