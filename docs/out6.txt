@@ -1,51 +1,0 @@
-
-C:\Users\kencha\Documents\GitHub\2nd-semester-introduction-to-computer-science>echo 10:32:23.20 
-10:32:23.20
-
-C:\Users\kencha\Documents\GitHub\2nd-semester-introduction-to-computer-science>robocopy /E .\ .\docs /XD C:\Users\kencha\Documents\GitHub\2nd-semester-introduction-to-computer-science\docs 
-
--------------------------------------------------------------------------------
-   ROBOCOPY     ::     Robust File Copy for Windows                              
--------------------------------------------------------------------------------
-
-  Started : Tuesday, July 28, 2020 10:32:23 AM
-   Source : C:\Users\kencha\Documents\GitHub\2nd-semester-introduction-to-computer-science\
-     Dest : C:\Users\kencha\Documents\GitHub\2nd-semester-introduction-to-computer-science\docs\
-
-    Files : *.*
-	    
- Exc Dirs : C:\Users\kencha\Documents\GitHub\2nd-semester-introduction-to-computer-science\docs
-	    
-  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
-
-------------------------------------------------------------------------------
-
-	                  16	C:\Users\kencha\Documents\GitHub\2nd-semester-introduction-to-computer-science\
-	  *EXTRA File 		  10.3 m	2ndSemPython.pdf
-	  *EXTRA File 		    4858	cert.md-pdf.html
-	  *EXTRA File 		    4588	cert.md.html
-	  *EXTRA File 		  270748	cert.pdf
-	  *EXTRA File 		    3987	changelog.md-pdf.html
-	  *EXTRA File 		    3697	changelog.md.html
-	  *EXTRA File 		   83240	changelog.pdf
-	  *EXTRA File 		   22289	curriculum_map.md-pdf.html
-	  *EXTRA File 		   21641	curriculum_map.md.html
-	  *EXTRA File 		  159316	curriculum_map.pdf
-	  *EXTRA File 		    5056	index.html
-	  *EXTRA File 		   87638	readings.md-pdf.html
-	  *EXTRA File 		   84814	readings.md.html
-	  *EXTRA File 		  333644	readings.pdf
-	  *EXTRA File 		    5297	README.md-pdf.html
-	  *EXTRA File 		    5054	README.md.html
-	  *EXTRA File 		   98217	README.pdf
-	  *EXTRA File 		    4905	Sample_weighted_rubric.md-pdf.html
-	  *EXTRA File 		    4661	Sample_weighted_rubric.md.html
-	  *EXTRA File 		   90866	Sample_weighted_rubric.pdf
-	  *EXTRA File 		   10955	SUMMARY.md-pdf.html
-	  *EXTRA File 		    9926	SUMMARY.md.html
-	  *EXTRA File 		  122038	SUMMARY.pdf
-	    New File  		    3723	cert.md  0%  100%  
-	    New File  		    2842	changelog.md  0%  100%  
-	    New File  		   20624	curriculum_map.md  0%  100%  
-	    Newer     		    6041	md-to-pdf.cmd  0%  100%  
-	    New File  		       0	out6.txt
