@@ -54,7 +54,7 @@ for /r . %%f in (*.md) do (
     
 )
 
-COPY /Y  README.md.html index.html
+MOVE /Y README.md.html index.html
 @REM pandoc --pdf-engine=xelatex -V geometry:margin=2cm -V colorlinks -V urlcolor=NavyBlue "summary.md" -o "summary.pdf"
 
 echo %time%
