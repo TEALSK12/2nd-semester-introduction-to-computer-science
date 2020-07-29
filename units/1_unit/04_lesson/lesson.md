@@ -12,7 +12,7 @@ Students will be able to...
 
 * [Do Now][]
 * [Lab - Magic Genie][] ([printable lab document][]) ([editable lab document][])
-* [Associated Readings 1.3](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html#associatedreadings/1.3)
+* [Associated Readings 1.3](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/1.3)
 * Read through the Do Now, Lab, and lesson so that you are familiar with the requirements and can assist students
 
 

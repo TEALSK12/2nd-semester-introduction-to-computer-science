@@ -1,11 +1,13 @@
-# A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.gitbook.io/intro-cs/)
+# A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
 
 * GitHub: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science
+
+The following has been deprecated after the 2019/20 school year:
 * GitBook: https://tealsk12.gitbooks.io/2nd-semester-introduction-to-computer-science/content/
 
 ## About this curriculum
 
-Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This curriculum is intended for use by TEALS classrooms teaching Introduction to Computer Science in a yearlong format. We expect that students have completed the content from the [1st semester course](https://tealsk12.gitbook.io/intro-cs/) prior to this curriculum.
+Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This curriculum is intended for use by TEALS classrooms teaching Introduction to Computer Science in a yearlong format. We expect that students have completed the content from the [1st semester course](https://tealsk12.github.io/introduction-to-computer-science/) prior to this curriculum.
 
 ## Associated Readings
 
@@ -42,9 +44,9 @@ Please open an issue in GitHub if you encounter factual, spelling, or grammatica
 
 TEALS intends for this curriculum to be a starting point for teachers. We'll continue to evolve, adapt the curriculum and associated materials. To participate in this process, we invite TEALS volunteers and classroom teachers using this curriculum to submit edits and suggestions via the [TEALS discussion forum](http://forums.tealsk12.org/) or in this [GitHub repository](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science). If you'd like to suggest changes or additions to the curriculum, please submit a GitHub Pull Request containing your changes. As a best practice, each pull request should contain a singular atomic change.
 
-## Printing GitBook
+## Printing
 
-The 2nd Semester Introduction to Computer Science GitBook can be printed by navigating to https://aka.ms/TEALS2ndSemesterPDF.
+The 2nd Semester Introduction to Computer Science can be printed by navigating to https://aka.ms/TEALS2ndSemesterPDF.
 
 ## Creative Commons Attribution Non-Commercial Share-alike License
 

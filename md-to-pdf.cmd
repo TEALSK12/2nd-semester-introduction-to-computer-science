@@ -10,7 +10,7 @@ echo %time%
 @REM usage to capture output and errors: md-tomarkdeep > out.txt 2>&1
 
 @REM -- Set up the GitHub pages directory structure by copying curriculum content.
-robocopy /E .\ .\docs
+robocopy /E .\ .\docs /XD %CD%\docs
 
 @REM -- Move to docs directory
 cd .\docs
@@ -23,9 +23,9 @@ for /r . %%f in (*.md) do (
     @echo %%f
 
     @REM -- Create .pdf version of markdown files with no toc
-    type >"%%f-pdf.html" ..\markdeep-header.txt
+    type >"%%f-pdf.html" .\markdeep-header.txt
     %sed% >>"%%f-pdf.html" "s/\.md/.md.-pdf.html/g" "%%f"
-    type >>"%%f-pdf.html" ..\markdeep-footer-tocstyle-none.txt
+    type >>"%%f-pdf.html" .\markdeep-footer-tocstyle-none.txt
     
     @REM --no-margins does not work, had to edit the javascript
     @REM %chrome% --headless --print-to-pdf="%%~pf%%~nf.pdf" --no-margins "%%f-pdf.html"
@@ -37,7 +37,7 @@ for /r . %%f in (*.md) do (
 
 )
 
-pdftk README.pdf curriculum_map.pdf units/2_unit/unit1_md.pdf units/1_unit/01_lesson/lesson.pdf units/1_unit/02_lesson/lesson.pdf units/1_unit/02_lesson/lab.pdf units/1_unit/03_lesson/lesson.pdf units/1_unit/03_lesson/do_now.pdf ^
+pdftk README.pdf curriculum_map.pdf units/1_unit/unit_1.pdf units/1_unit/01_lesson/lesson.pdf units/1_unit/02_lesson/lesson.pdf units/1_unit/02_lesson/lab.pdf units/1_unit/03_lesson/lesson.pdf units/1_unit/03_lesson/do_now.pdf ^
 units/1_unit/03_lesson/lab.pdf units/1_unit/04_lesson/lesson.pdf units/1_unit/04_lesson/do_now.pdf units/1_unit/04_lesson/lab.pdf units/1_unit/05_lesson/lesson.pdf units/1_unit/06_lesson/lesson.pdf ^
 units/1_unit/06_lesson/project.pdf units/1_unit/06_lesson/alternate_project.pdf units/2_unit/unit2_md.pdf units/2_unit/01_lesson/lesson.pdf units/2_unit/01_lesson/do_now.pdf units/2_unit/01_lesson/lab.pdf ^
 units/2_unit/02_lesson/lesson.pdf units/2_unit/02_lesson/do_now.pdf units/2_unit/02_lesson/lab.pdf units/2_unit/03_lesson/lesson.pdf units/2_unit/03_lesson/do_now.pdf units/2_unit/03_lesson/lab.pdf ^
@@ -58,7 +58,7 @@ units/7_unit/unit7.pdf units/7_unit/01_lesson/lesson.pdf units/7_unit/01_lesson/
 units/7_unit/02_lesson/do_now.pdf units/7_unit/02_lesson/lab.pdf units/7_unit/03_lesson/lesson.pdf units/7_unit/03_lesson/do_now.pdf units/7_unit/03_lesson/lab.pdf units/7_unit/04_lesson/lesson.pdf ^
 units/7_unit/04_lesson/do_now.pdf units/7_unit/04_lesson/lab.pdf units/7_unit/05_lesson/lesson.pdf units/7_unit/05_lesson/project.pdf units/7_unit/05_lesson/alternate_project.pdf units/8_unit/unit8.pdf ^
 units/8_unit/project.pdf units/8_unit/01_lesson/lesson.pdf units/8_unit/01_lesson/do_now.pdf units/8_unit/02_lesson/lesson.pdf units/8_unit/02_lesson/do_now.pdf units/8_unit/03_lesson/lesson.pdf ^
-units/8_unit/03_lesson/do_now.pdf units/8_unit/04_lesson/lesson.pdf units/8_unit/04_lesson/do_now.pdf units/supplemental/.pdf units/supplemental/01_lesson/lesson.pdf units/supplemental/01_lesson/do_now.pdf ^
+units/8_unit/03_lesson/do_now.pdf units/8_unit/04_lesson/lesson.pdf units/8_unit/04_lesson/do_now.pdf units/supplemental/01_lesson/lesson.pdf units/supplemental/01_lesson/do_now.pdf ^
 readings.pdf cat output 2ndSemPython.pdf
 
 @REM delete all temporary .pdf files  
