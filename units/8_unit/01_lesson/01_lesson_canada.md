@@ -72,7 +72,7 @@ Students will be able to...
 ---
 #### Emphasize with students...
 
-#### Curriculum Competencies - Understanding Context, Defining, Ideating
+#### BC ADST Computer Programming 11 Curriculum Competencies - Understanding Context, Defining, Ideating
 
 Brainstorming can be hard.
 
@@ -131,7 +131,7 @@ Bottom line is:  software should do something "useful".
 
 #### Emphasize with students...
 
-#### Curriculum Competencies - Understanding Context, Defining, Ideating
+#### BC ADST Computer Programming 11 Curriculum Competencies - Understanding Context, Defining, Ideating
 
 One method of User-Centred Research is to conduct a survey amongst potential users.  
 What are some design decisions needed to help scope the requirements of the app you will build?
@@ -153,7 +153,7 @@ If this is the case, create some questions to see if your app idea is something 
 
 #### Emphasize with students...
 
-#### Curriculum Competencies - Applied Technologies, Sharing, Collaboration
+#### BC ADST Computer Programming 11 Curriculum Competencies - Applied Technologies, Sharing, Collaboration
 
 Studies show that pair programming encourages female computer science students, and benefitial in educational settings   https://www.researchgate.net/publication/220094545_Pair-Programming_Helps_Female_Computer_Science_Students
 
