@@ -38,7 +38,7 @@ Using Python, students will create a Tic-Tac-Toe game. This project has 3 parts:
 ---
 #### Emphasize with students...
 
-#### ADST Computer Programming 11 Curriculum Competencies - Applied Design, Testing
+#### BC ADST Computer Programming 11 Curriculum Competencies - Applied Design, Testing
 
 In this project, we are creating a familiar game.  Nonetheless, it is wise to create a test plan, even before implementation begins. 
 As the students progress, they should refer back to their plan to stay focussed on tasks/features of the game. 
@@ -54,7 +54,7 @@ to a successful agile project management process.
 ---
 #### Emphasize with students...
 
-#### ADST Computer Programming 11 Curriculum Competencies - Applied Design, Sharing
+#### BC ADST Computer Programming 11 Curriculum Competencies - Applied Design, Sharing
 
 Have a game day party!  Invite others to come to your classroom.  Send your game to friends.  Create a few user experience survey 
 questions to gather from anyone, and everyone, who plays your game.   Ask questions related to anything that may help your
@@ -75,7 +75,7 @@ next iteration:  colour, size, font, layout, game play, words of encouragement (
 ---
 #### Emphasize with students...
 
-#### ADST Computer Programming 11 Curriculum Competencies - Applied Design, Ideating
+#### BC ADST Computer Programming 11 Curriculum Competencies - Applied Design, Ideating
 
 A simple game like Tic-Tac-Toe can bring on new life when applied to a new context.  
 It can be used to bring awareness to current issues or interests in our daily life. 
@@ -87,7 +87,7 @@ Be creative!
 ---
 #### Emphasize with students...
 
-#### ADST Computer Programming 11 Curriculum Competencies - Applied Technologies
+#### BC ADST Computer Programming 11 Curriculum Competencies - Applied Technologies
 
 Characters we see on the screen (console) are simply digital encodings of 0's and 1's.  
 When we print characters in Python or any other language, we are using the ascii 
