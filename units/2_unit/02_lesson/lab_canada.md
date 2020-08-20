@@ -64,6 +64,8 @@ Predict if each of the following examples will produce a `True` or `False` outpu
 Adapt this program to connect with other levels of leadership or influence in your community:  Civic level (Mayor);  Provincial level (Premier);  
 First People's Elders or Band leaders.  How are these positions elected or chosen?  What is the reason for the logic behind some of these requirements?  While the path to becoming Prime Minister may seem complicated, we can use boolean logic and democratic reasoning to better understand the process and its merits. 
 
+Extension: Many of your students may have career paths in mind, and post-secondary goals.  Ask students to consider the path to becoming a .... [insert a oost-secondary/position/career/job here] (Examples: Engineering students at UBC, optometrist, a professional hockey player).   There are many requirements, or "ducks to align" along the way.   What pre-requisite courses do you need?  Do you need highschool graduation?  What language or science courses do you need?  What is the university's admissions requirement, and the faculty's admission requirement?   What is the tuition or savings required?  Are you staying in residence or at home?   Life is full of boolean logic!  
+
 ---
 
 3. Create a "Can I ride the roller coaster?" program. A roller coaster has the rule that a rider has to be over the height of 50 inches. Because of a legal loophole, if you are over the age of 18 you can ride regardless of your height. If you are allowed to ride, the coaster costs 4 quarters (although the operator accepts tips so more money is appreciated).
