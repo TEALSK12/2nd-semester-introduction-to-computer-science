@@ -58,7 +58,7 @@ Sharing your digital creation provides opportunity for collecting feedback, cros
 ---
 #### Emphasize with students...
 
-#### BC ADST Computer Programming 11 Curriculum Competencies - Applied Technologies
+#### BC ADST Computer Programming 11 Big Idea - Design Cycle
 
 Every project must have a scope.  This is an initial document or plan of what 
 your software is supposed to do, or will do.   Before you begin the design and coding
@@ -108,9 +108,9 @@ The game can provide hints or feedback on the routes chosen based on various fac
   ---
 #### Emphasize with students...
 
-#### BC Mathematics Computer Science 11 and BC ADST Computer Programming 11 Curriculum Competencies:  Computer Science and Mathematics
+#### BC Mathematics Computer Science 11:  Algorithms, Computational Thinking, Solving Problems
 
-Pathfinding is the job of finding the shortest (based on a weight or cost associated with each path segment) path between two points on a network graph.  The weight or cost would be based on some criteria (such as distance, time, scenery).  Pathfinding algorithms are used in many applications:  artificial intelligence, navigation, transportation, game design, virtual reality, etc.   
+Pathfinding is the job of finding the shortest (based on a weight or cost associated with each path segment) path between two points on a network graph.  The weight or cost would be based on some criteria (such as distance, time, scenery).  Pathfinding algorithms are used in many applications:  artificial intelligence, navigation, transportation, game design, virtual reality, etc.  Ask students to discuss possibible solutions and the reasoning behind them.  Use graphs to visualize. 
 
 As our networks become bigger, the steps for finding a good path are compuationally expensive.  This is an ideal job for the computer!
 
