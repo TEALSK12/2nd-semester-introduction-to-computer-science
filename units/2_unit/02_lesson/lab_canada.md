@@ -42,7 +42,7 @@ Predict if each of the following examples will produce a `True` or `False` outpu
 ### Complete the following coding challenge
 
 1. Create a "Can I be Prime Minister?" program, which determines if the user meets the minimum requirements for becoming the Prime Minister of Canada. Have the user input the information needed.
-   In Canada, the PM is not directly elected.  Political parties try to win a majority of seats in a general election to form a government. 
+   In Canada, the PM is not directly elected.  Political parties try to win a majority of parliamentary seats in a general election to form a government.  Each person votes for a Member of Parliament in their area of residence (riding). 
    
     **The minimum requirements to be Prime Minister of Canada are:**
 
