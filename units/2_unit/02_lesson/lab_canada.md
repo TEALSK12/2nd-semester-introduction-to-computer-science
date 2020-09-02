@@ -42,7 +42,7 @@ Predict if each of the following examples will produce a `True` or `False` outpu
 ### Complete the following coding challenge
 
 1. Create a "Can I be Prime Minister?" program, which determines if the user meets the minimum requirements for becoming the Prime Minister of Canada. Have the user input the information needed.
-   In Canada, the PM is not directly elected.  Political parties try to win a majority of seats in a general election to form a government. 
+   In Canada, the PM is not directly elected.  Political parties try to win a majority of parliamentary seats in a general election to form a government.  Each citizen votes for a Member of Parliament in their area of residence (riding). 
    
     **The minimum requirements to be Prime Minister of Canada are:**
 
@@ -59,10 +59,13 @@ Predict if each of the following examples will produce a `True` or `False` outpu
 
 #### Emphasize with students...
 
-#### BC Mathematics Computer Science 12 and ADST Computer Programming 12 - Connecting and Reflecting
+#### BC Mathematics Computer Science 11 and ADST Computer Programming 11 - Connecting and Reflecting
+#### BC Core Competencies - Social Responsibility
 
 Adapt this program to connect with other levels of leadership or influence in your community:  Civic level (Mayor);  Provincial level (Premier);  
 First People's Elders or Band leaders.  How are these positions elected or chosen?  What is the reason for the logic behind some of these requirements?  While the path to becoming Prime Minister may seem complicated, we can use boolean logic and democratic reasoning to better understand the process and its merits. 
+
+Extension: Many of your students may have career paths in mind, and post-secondary goals.  Ask students to consider the path to becoming a .... [insert a post-secondary/position/career/job here] (Examples: Engineering students at UBC, optometrist, a professional hockey player).   There are many requirements, or "ducks to align" along the way.   What pre-requisite courses do you need?  Do you need highschool graduation?  What language or science courses do you need?  What is the university's admissions requirement, and the faculty's admission requirement?   What is the tuition or savings required?  Are you staying in residence or at home?   Life is full of boolean logic!  
 
 ---
 

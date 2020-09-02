@@ -38,7 +38,7 @@ Using Python, students will create a Tic-Tac-Toe game. This project has 3 parts:
 ---
 #### Emphasize with students...
 
-#### Curriculum Competencies - Applied Design, Testing
+#### BC ADST Computer Programming 11 Curriculum Competencies - Applied Design, Testing
 
 In this project, we are creating a familiar game.  Nonetheless, it is wise to create a test plan, even before implementation begins. 
 As the students progress, they should refer back to their plan to stay focussed on tasks/features of the game. 
@@ -54,7 +54,7 @@ to a successful agile project management process.
 ---
 #### Emphasize with students...
 
-#### Curriculum Competencies - Applied Design, Sharing
+#### BC ADST Computer Programming 11 Curriculum Competencies - Applied Design, Sharing
 
 Have a game day party!  Invite others to come to your classroom.  Send your game to friends.  Create a few user experience survey 
 questions to gather from anyone, and everyone, who plays your game.   Ask questions related to anything that may help your
@@ -75,7 +75,7 @@ next iteration:  colour, size, font, layout, game play, words of encouragement (
 ---
 #### Emphasize with students...
 
-#### Curriculum Competencies - Applied Design, Ideating
+#### BC ADST Computer Programming 11 Curriculum Competencies - Applied Design, Ideating
 
 A simple game like Tic-Tac-Toe can bring on new life when applied to a new context.  
 It can be used to bring awareness to current issues or interests in our daily life. 
@@ -87,7 +87,7 @@ Be creative!
 ---
 #### Emphasize with students...
 
-#### Curriculum Competencies - Applied Technologies
+#### BC ADST Computer Programming 11 Curriculum Competencies - Applied Technologies
 
 Characters we see on the screen (console) are simply digital encodings of 0's and 1's.  
 When we print characters in Python or any other language, we are using the ascii 
@@ -106,7 +106,7 @@ Other language characters:  https://realpython.com/python-encodings-guide/
 ---
 #### Emphasize with students...
 
-#### BC Mathematics 12 Computer Science Curriculum Competencies - Reasoning and modelling (strategic thinking to analyze and create algorithms), Connecting and reflecting
+#### BC Mathematics 11 Computer Science Curriculum Competencies - Reasoning and modelling (strategic thinking to analyze and create algorithms), Connecting and reflecting
 
 The goal of fairness is interesting in game design.  Discuss these questions with students:  Should game design be fair?  What does fairness mean?  Brainstorm ways in which a game can be "fair"?    
 
@@ -128,7 +128,7 @@ The super challenge will require knowledge that has not been taught yet. You wil
 
 #### Emphasize with students...
 
-#### BC Mathematics 12 Computer Science Big Ideas - Algorithms, Computational Thinking, Problem Solving
+#### BC Mathematics 11 Computer Science Big Ideas - Algorithms, Computational Thinking, Problem Solving
 
 Artificial intelligence begins with imagining what a human being would do.  
 At each move: 
