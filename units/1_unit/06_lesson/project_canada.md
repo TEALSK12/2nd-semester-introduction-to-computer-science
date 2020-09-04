@@ -13,7 +13,7 @@ Then the story is read off with the user's words mixed in!
 
 ### Emphasize with students ...
 
-#### Curriculum Competencies - Connecting and reflecting
+#### BC ADST Computer Programming 11 - Connecting and Reflecting
 
 Use this opportunity to create a Mad Lib that tells the stories of our times. 
 Technology is used to connect people with the things they care about.
