@@ -25,9 +25,10 @@ Some possible story themes:
 * Current events in the world
 * First People's heritage, where learning is embedded in memory, history, and story  (Resource: http://firstnationstories.com/)
 * Daily life in your part of the world 
-* Amazing race adventure
-* Master chef cooking adventure
 * A camping adventure
+* Amazing race adventure (Reference:  https://en.wikipedia.org/wiki/The_Amazing_Race_Canada)
+* Adventure challenge (Reference: https://en.wikipedia.org/wiki/Eco-Challenge)
+* Master chef cooking adventure (Reference: https://en.wikipedia.org/wiki/MasterChef_Canada)
 
 ---
 
