@@ -70,7 +70,13 @@ The project includes these applied design phases:
 
 Software development process is iterative and agile process.
 The actual "coding" is done during Phase 5 "Making".  
-Before the designer divides into coding, it is crucial to spend enough time flushing through the idea, and doing some sketches of what using the program will look like.  The Prototype phase is meant to be quick and efficient, using materials that are easily available.   This can be a pencil and paper sketch of a flowchart, and sketch of the software interface, what things will look like when the client uses the software.   What does input (and data format) does it prompt from the user?  What output will it generate?  The Testing phase here refers to testing the design, and not seeing if your code works.   It means getting others (possibly potential users) to look at your prototype, and see if its usage makes sense.  Give the tester a scenario, and ask them what they would do, and then tell them what result or action would happen next.  The tester's response and feedback should be observed and used to make a new iteration of the design. 
+Before the designer dives into coding, it is crucial to spend enough time flushing through the idea, and doing some sketches of what using the program will look like.  
+
+The Prototype phase is meant to be quick and efficient, using materials that are easily available.   This can be a pencil and paper sketch of a flowchart, and sketch of the software interface, what things will look like when the client uses the software.   What does input (and data format) does it prompt from the user?  What output will it generate?  
+
+The Testing phase here refers to testing the prototype design, and not seeing if your code works.   It means getting others (possibly potential users) to look at your prototype, and see if its usage makes sense.  Give the tester a scenario, and ask them what they would do, and then tell them what result or action would happen next.  The tester's response and feedback should be observed and used to make a new iteration of the design. 
+
+Note: Generally, using the console to type/read input/output is not user-friendly.  Therefore, in this project, we can solve this problem by learning how to read/write data from a file.  (See note about parsing CSV files below).   It may not be as pretty as a graphical interface, but as least it's efficient.  In fact, when a scientist or financial analyst is focussed on crunching numbers and analyzing results, they prefer skipping the graphical interface, and working with data that is create/provided in a simple text format.   It is also common practice in business applications to interface data with a program like Excel, which is why the CSV format is convenient. 
 
 ---
 
@@ -94,7 +100,7 @@ For both the complexity and creativity requirements, you should talk to the inst
 
 #### BC ADST Mathematics Computer Science 11 Curricular Competencies - Understanding and solving; Apply flexible and strategic appoaches to solving problems.
 
-In the Python course, students know how to use the console to get input from a user, and to display output. 
+In our course so far, students know how to use the console to get input from a user, and to display output. 
 In an actual financial application, a GUI (graphical user interface) is needed to make it easy for a client to use the software,
 especially when more than one piece of input information is required from the user. 
 Another possible approach is to read the information (input data) from a file that the user prepares ahead of time.
