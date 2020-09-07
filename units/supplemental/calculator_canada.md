@@ -54,10 +54,10 @@ To help you through this process, there will be several steps to this project.  
 
 The project includes these applied design phases: 
 
-1. _Understanding Context_ - conduct user centred research to understand design opportunities and barriers
-2. _Ideating_ - establish point of view, generate and prioritize ideas, analyze competing social, ethical, and sustainability considerations; list out user stories and features
-3. _Prototyping_ - choose an appropriate form, scale, and level of detail for prototyping multiple ideas; analyse the design for the life cycle, and construct prototype, making changes to tools, materials, and procesures as needed; record iterations of prototyping
-4. _Testing_ - identify feedback, develop an appropriate way to test prototype, collect feedback and critically evaluate design and makes changes; iterate or abandon design idea
+1. _Understanding Context_ - Conduct user centred research to understand design opportunities and barriers
+2. _Ideating_ - Establish point of view, generate and prioritize ideas, analyze competing social, ethical, and sustainability considerations; list out user stories and features
+3. _Prototyping_ - Choose an appropriate form, scale, and level of detail for prototyping multiple ideas; analyse the design for the life cycle, and construct prototype, making changes to tools, materials, and procesures as needed; record iterations of prototyping
+4. _Testing_ - Identify feedback, develop an appropriate way to test prototype, collect feedback and critically evaluate design and makes changes; iterate or abandon design idea
 5. _Making_ - Task project management processes (task management schedule) to work collaboratively to coordinate production, ensuring that your software goals are met
 6. _Sharing_ - Share progress; design an how to promote product with end-users; critically reflect on design thinking and processes, identify new design goals and future work
 
