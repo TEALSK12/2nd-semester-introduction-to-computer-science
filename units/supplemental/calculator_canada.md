@@ -27,8 +27,9 @@ and possible provide output via a file as well.
 #### BC ADST Mathematics Computer Science 11 Content - Use of Computing for Financial Analysis
 
 Use this opportunity to apply software to do financial calculations.
-Afterall, what's tedious for a human, is easy for a computer.
-It's up to the software developer to design a product that is helpful.  
+Afterall, what's tedious for a human, may be easy for a computer.
+It's up to the software developer to design a product that takes advance of the computer's powers,
+to give the user a smooth experience and helpful product. 
 
 Think about the most recent times when you used a calcuator. 
 These are possible candidates.  When and why did you need to use calculator?
