@@ -1,4 +1,4 @@
-# Project- Final Project Alternative or Supplement - True North Edition
+# Project- Final Project Alternative or Supplement (True North Edition)
 # The Financial Calculator Project
 
 * [printable project spec][]
@@ -17,6 +17,8 @@ planning, and project management, to build a relatively large and
 complex financial application that _you_ choose.  
 You should 
 ultimately produce a project that is interesting, useful, and challenging.
+To enhance the efficacy of the financial application, you will learn how to read user input data from a CSV file, 
+and possible provide output via a file as well. 
 
 ---
 
@@ -24,7 +26,7 @@ ultimately produce a project that is interesting, useful, and challenging.
 
 #### BC ADST Mathematics Computer Science 11 Content - Use of Computing for Financial Analysis
 
-Use this opportunity to apply software to do financial calucations.
+Use this opportunity to apply software to do financial calculations.
 Afterall, what's tedious for a human, is easy for a computer.
 It's up to the software developer to design a product that is helpful.  
 
@@ -34,9 +36,9 @@ The computer is also great to processing lots of data with accuracy and speed.
 What are some financial scenarios where we need to record and analyze lots of data?
 
 Here are some examples:
-- student loan calculator and tracker
-- holiday budget planner, currency convertor, and expense tracker
-- personal budget and expense/income tracker
+- Student loan calculator and tracker
+- Holiday budget planner, currency convertor, and expense tracker
+- Personal budget and expense/income tracker
 
 ---
 
@@ -98,7 +100,7 @@ Another possible approach is to read the information (input data) from a file th
 
 One popular input data format is the CSV (comma separated file) that can be created by a spreadsheet program like excel.
 Python has a built in CSV parser library that we can use.  
-Students should first try these practice exercises:  https://realpython.com/python-csv/
+Students should first try these exercises as practice:  https://realpython.com/python-csv/
 
 ---
 
