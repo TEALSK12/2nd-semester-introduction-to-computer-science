@@ -3,20 +3,20 @@
 ## Learning Objectives
 
 Students will be able to...
-
 * Use knowledge of lists, Booleans, conditionals, and while loops to create a text-based adventure game.
 
 ## Materials
 
 * [Project Spec - Text Monster][] ([printable project Spec][]) ([editable project spec][])
+* [Project Spec - Canadian Variation][]
+* [Project Spec - Todo List][] ([printable Alternate project Spec][]) ([editable Alternate project spec][])
 * [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
-* [Alternate Project Spec - Todo List][] ([printable Alternate project Spec][]) ([editable Alternate project spec][])
 * [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
 * Sample Solutions (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
 
 ## Preparation
 
-* Read through the [Associated Readings 2.7](https://tealsk12.gitbook.io/intro-cs-2/readings#2-7)
+* Read through the [Associated Readings 2.7](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.7)
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem]
 * Update the Project Spec of your selected project as needed to meet your grading requirements
@@ -93,8 +93,9 @@ You may need to adjust the points in order to fit your class. Treat the percenta
 
 [Lesson 2.07: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-text-game)
 
+[Project Spec - Canadian Variation]: project_canada.md
 [Project Spec - Text Monster]: project.md
-[Alternate Project Spec - tODO List]: project.md
+[Project Spec - Todo List]: alternate_project.md
 [Text Monster Game - Example Code]: project_file.py
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf

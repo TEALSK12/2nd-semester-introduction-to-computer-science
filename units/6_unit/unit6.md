@@ -12,7 +12,7 @@
 
 1 Day = 50 minute class period
 
-| Lesson | Days | Resources (In Development)|
+| Lesson | Days | Resources |
 | ------ | -------------- | ---------|
 | 6.01: | 1 | [6.01 Slide Deck][] |
 | 6.02: | 1 | [6.02 Slide Deck][] |

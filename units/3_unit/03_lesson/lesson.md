@@ -11,8 +11,7 @@ Students will be able to...
 
 * [Do Now][]
 * [Lab - War (Card Game)][] ([printable lab document][]) ([editable lab document][])
-
-* [Associated Reading - section 3.3](https://tealsk12.gitbook.io/intro-cs-2/readings#3-3)
+* [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.3)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 * Note that this lesson may take two days.
 
