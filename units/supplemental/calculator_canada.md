@@ -142,14 +142,14 @@ At least three times during the project period, and at least once each week, you
 
 #### Suggested Pacing Plan
 
-Day 1 - project introduction, team formation (if working with partner), brainstorm, prepare some survey or interview questions to help validate your caluclator idea. 
-Day 2 - prototype and testing, sketch out solution and input/outputs, do a small example of what the input CSV would look like, and what the output would look like;  get feedback from peers
-Day 3 - start of learning how to read and write data with CSV files, re-visit your design to see that it still make sense, ie
+- Day 1 - project introduction, team formation (if working with partner), brainstorm, prepare some survey or interview questions to help validate your caluclator idea. 
+- Day 2 - prototype and testing, sketch out solution and input/outputs, do a small example of what the input CSV would look like, and what the output would look like;  get feedback from peers
+- Day 3 - start of learning how to read and write data with CSV files, re-visit your design to see that it still make sense, ie
    * is it easy and convenient for the user?
    * does the sequence of events make sense?
    * is the output meaningful and useful?
-Day 4-6 - provide detailed breakdown of tasks to focus on getting one feature at a time working; as the students are coding, they should test small amounts of code at a time, and revisit the initial design plan to see if everything still makes sense for the user
-Day 7 - sharing and presentation day to external clients and friends
+- Day 4-6 - provide detailed breakdown of tasks to focus on getting one feature at a time working; as the students are coding, they should test small amounts of code at a time, and revisit the initial design plan to see if everything still makes sense for the user
+- Day 7 - sharing and presentation day to external clients and friends
 
 [printable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.pdf
 [editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.docx
