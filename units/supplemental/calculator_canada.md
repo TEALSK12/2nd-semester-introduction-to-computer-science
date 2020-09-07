@@ -40,6 +40,7 @@ Here are some examples:
 - Student loan calculator and tracker
 - Holiday budget planner, currency convertor, and expense tracker
 - Personal budget and expense/income tracker
+- Post-secondary "Dream School" financial cost calculator and analyzer and planner 
 
 ---
 
