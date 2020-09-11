@@ -1,0 +1,101 @@
+Aligning TEALS Python Teaching Resources with the BC Curriculum
+--------
+
+The intended use is of this course is for TEALS classrooms teaching Introduction to Computer Science in a yearlong format. For schools in BC, Canada, the course can be adapted to align with BC’s grade 11 [Computer Programming](https://curriculum.gov.bc.ca/curriculum/adst/11/computer-programming) or [Computer Science](https://curriculum.gov.bc.ca/curriculum/mathematics/11/computer-science) courses. Since 2018, our community partner BCIT has been supporting the curriculum alignment work. Here are highlights of the changes:
+
+* Added Culture Days
+* Created alternative, open-ended unit projects
+* Incorprated BC curriculum's core competencies: communication, creative and critical thinking, personal and social responsibilities
+* Included components of BC courses learning standards: big ideas, curricular competencies and content
+* Incorporated opportunities to learn about First People’s heritage and culture. For example, in the Unit 2 project, the “Can I be a Prime Minister” program can be adapted for students to learn more about other levels of leadership, such as Elders of First Nation, Métis, and Inuit communities. 
+
+For Computer Programming 11 (Applied Design, Skills and Technologies)
+--------
+#### Curricular Competencies
+* Curricular competencies under Applied Skills, such as ideating, prototyping and testing, are incorporated into the alternative projects and throughout the course.
+* Activities involved conducting user-centred research are added to the course.
+
+#### Content
+* Students learn advance programming structure, documentation, error handling and debugging, etc.
+* In the open-ended projects, students apply design thinking skills and programming concepts.
+* In the supplementary Financial Calculator project, students can use mathematics concepts and tools to solve real-life problems and connect to personal interests 
+
+For Computer Science 11 (Mathematics)
+--------
+#### Curricular Competencies
+* Reasoning and analyzing: Students explore, analyze, and apply mathematical ideas and computer science concepts in various exercises and projects in the course.
+* Understanding and solving: Throughout the course, students represent computer science ideas in concrete, pictorial, and symbolic forms, such as writing psudocode or creating diagrams.
+* Communicating and representing: Students have opportunities, through various lesson activities, explain and justify computer science ideas. Teaching strategies such as Think-Pair-Share or pair-programming are encourged in the teaching guides 
+* Connecting and reflecting: Students have opportunities throughout the course to reflect on mathematical and computational thinking
+
+#### Content
+* In the Unit 3 Project - Cross Country Canada, students can apply mathematics in situational contexts. Students can use graphs to visualize the problem.
+* In Unit 4 Project - Tic-Tac-Toe, students can apply algorithmic thinking and explore the idea of fairness in game design. 
+* The Supplementary lesson Binary Day covers the learning outcome of the number systems. 
+* In the supplementary Financial Calculator project, students can use mathematics concepts and tools to solve real-life problems and connect to personal interests. 
+
+
+Pacing
+--------
+This course is originally designed for use in 50-min long classes for a semestered course. Below please see a sample pacing guide for using the course for 75-80 min long classes, with the assumption that there are about 85 instructional days for the year-long course.
+
+#### Unit 1: Introduction to Python (6 days)
+* Day 1: 1.01 + 1.02
+* Day 2: 1.03
+* Day 3: 1.04
+* Day 4: 1.05
+* Day 5-6: 1.06 Mad Libs Project
+
+#### Unit 2 - Data Types and Conditionals (11 days)
+* Day 1: 2.01 + 2.02
+* Day 2: 2.03
+* Day 3: 2.04
+* Day 4: 2.05
+* Day 5: 2.06
+* Day 6-11: 2.07 Ogopogo - Text Monster Game Project
+
+#### Unit 3 – Functions (10 days)
+* Day 1: 3.01
+* Day 2: 3.02
+* Day 3: 3.03
+* Day 4: 3.04
+* Day 5-10: 3.06 Cross Country Canada Project
+
+#### Unit 4 - Nested Loops and Lists (11 days)
+* Day 1: 4.01 + 4.02
+* Day 2: 4.03
+* Day 3: 4.04
+* Day 5: 4.05
+* Day 6-11: 4.06 Tic-Tac-Toe Project
+
+#### Supplementary Lesson: Binary Day (1 day)
+
+#### Unit 5: Music Programming (7 days)
+* Day 1: 5.01
+* Day 2: 5.02
+* Day 3: 5.03
+* Day 4: 5.04
+* Day 5-7: 5.05 EarSketch Song Project
+
+#### Unit 6 – Dictionaries (8 Days)
+* Day 1: 6.01 + 6.02
+* Day 2: 6.03
+* Day 3: 6.04
+* Day 4-8: 6.05 – Guess Who Hockey Canada Project
+
+#### Unit 7 - Introduction to Object Oriented Programming (9 days)
+* Day 1: 7.01 + 7.02
+* Day 2: 7.03
+* Day 3: 7.04
+* Day 5-9: 7.05 Pokémon Project
+
+#### Supplementary Unit or Alternative Final Project – Financial Calculator (7 days)
+* Day 1: Project introduction, researching and brainstorming
+* Day 2: Prototyping
+* Day 3-6: Project Implementation
+* Day 7: Project Presentation
+
+#### Unit 8 – Final Project (10 days)
+* Day 1: 8.01 
+* Day 2: 8.02 + 8.03
+* Day 3-10: 8.04 Final Project Implementation
