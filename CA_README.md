@@ -3,22 +3,20 @@ Aligning TEALS Python Teaching Resources with the BC Curriculum
 
 The intended use is of this course is for TEALS classrooms teaching Introduction to Computer Science in a yearlong format. For schools in BC, Canada, the course can be adapted to align with BC’s grade 11 [Computer Programming](https://curriculum.gov.bc.ca/curriculum/adst/11/computer-programming) or [Computer Science](https://curriculum.gov.bc.ca/curriculum/mathematics/11/computer-science) courses. Since 2018, our community partner BCIT has been supporting the curriculum alignment work. Here are highlights of the changes:
 
-* Added Culture Days
 * Created alternative, open-ended unit projects
 * Incorprated BC curriculum's core competencies: communication, creative and critical thinking, personal and social responsibilities
 * Included components of BC courses learning standards: big ideas, curricular competencies and content
-* Incorporated opportunities to learn about First People’s heritage and culture. For example, in the Unit 2 project, the “Can I be a Prime Minister” program can be adapted for students to learn more about other levels of leadership, such as Elders of First Nation, Métis, and Inuit communities. 
+* Incorporated opportunities to learn about First People’s heritage and culture. For example, in Lab 2.02, [the “Can I be a Prime Minister” program](units/2_unit/02_lesson/lab_canada.md) can be adapted for students to learn more about other levels of leadership, such as Elders of First Nation, Métis, and Inuit communities. 
 
 For Computer Programming 11 (Applied Design, Skills and Technologies)
 --------
 #### Curricular Competencies
-* Curricular competencies under Applied Skills, such as ideating, prototyping and testing, are incorporated into the alternative projects and throughout the course.
-* Activities involved conducting user-centred research are added to the course.
+* Curricular competencies under Applied Skills, such as ideating, prototyping and testing, are incorporated into the alternative projects and throughout the course. Students learn that the design cycle is an ongoing reflective process.
+* Activities involved conducting user-centred research are added to the course. For example, the [Unit 8 Open-Ended project](units/8_unit/01_lesson/01_lesson_canada.md) covers project planning and brainstorming, user-centred research, and evaluating.
 
 #### Content
-* Students learn advance programming structure, documentation, error handling and debugging, etc.
+* Students learn programming language constructs to support input/output, logic, decision structure, and loops, etc.
 * In the open-ended projects, students apply design thinking skills and programming concepts.
-* In the supplementary Financial Calculator project, students can use mathematics concepts and tools to solve real-life problems and connect to personal interests 
 
 For Computer Science 11 (Mathematics)
 --------
@@ -29,10 +27,10 @@ For Computer Science 11 (Mathematics)
 * Connecting and reflecting: Students have opportunities throughout the course to reflect on mathematical and computational thinking
 
 #### Content
-* In the Unit 3 Project - Cross Country Canada, students can apply mathematics in situational contexts. Students can use graphs to visualize the problem.
-* In Unit 4 Project - Tic-Tac-Toe, students can apply algorithmic thinking and explore the idea of fairness in game design. 
-* The Supplementary lesson Binary Day covers the learning outcome of the number systems. 
-* In the supplementary Financial Calculator project, students can use mathematics concepts and tools to solve real-life problems and connect to personal interests. 
+* In [Unit 3 Project - Cross Country Canada](units/3_unit/05_lesson/project_canada.md), students can apply mathematics in situational contexts. Students can use graphs to visualize the problem.
+* In [Unit 4 Project - Tic-Tac-Toe](units/4_unit/06_lesson/project_canada.md), students can apply algorithmic thinking and explore the idea of fairness in game design. 
+* The [Supplementary lesson Binary Day](units/supplemental/01_lesson/lesson.md) covers the learning outcome of number systems. 
+* In the supplementary [Financial Calculator project](units/supplemental/calculator_canada.md), students can use mathematics concepts and tools to solve real-life problems and connect to personal interests 
 
 
 Pacing
