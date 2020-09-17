@@ -11,6 +11,7 @@ Students will be able to...
 * [Do Now][]
 * [Project Spec - Buy an Umbrella][] ([printable Spec][])([editable spec][])
 * [Project Spec - Guess Who][] ([printable project Spec][]) ([editable project spec][])
+* [Project Spec - Guess Who (Hockey Canada Edition)][] 
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
 * Read through the do now and project spec so that you are familiar with the requirements and can assist students.
 * Try creating your own variation on the Guess Who game so you are familiar with the potential challenges and bugs your students will hit.
@@ -105,6 +106,7 @@ Students will be able to...
 
 [Do Now]: do_now.md
 [Project Spec - Guess Who]: project.md
+[Project Spec - Guess Who (Hockey Canada Edition)]: project_canada.md
 [Project Spec - Buy an Umbrella]: projectb.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 
