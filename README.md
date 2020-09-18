@@ -10,6 +10,8 @@ The following has been deprecated after the 2019/20 school year:
 
 Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This curriculum is intended for use by TEALS classrooms teaching Introduction to Computer Science in a yearlong format. We expect that students have completed the content from the [1st semester course](https://tealsk12.github.io/introduction-to-computer-science/) prior to this curriculum.
 
+For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Resources with the BC Curriculum](CA_README.md).
+
 ## Associated Readings
 
 We have included with this curriculum Associated Readings to dive deeper into topics specific to the instruction of this course. These readings have been adapted from "Think Python: How to Think Like a Computer Scientist" by. Allen B. Downey. ([HTML Version](http://greenteapress.com/thinkpython/html/index.html))([PDF Version](http://www.greenteapress.com/thinkpython/thinkpython.pdf)).They are specifically referenced in the lesson plans and the [full document](readings.md) is included.
