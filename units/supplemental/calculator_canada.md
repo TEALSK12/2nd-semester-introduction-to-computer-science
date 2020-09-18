@@ -24,7 +24,7 @@ and possible provide output via a file as well.
 
 ### Emphasize with students ...
 
-#### BC ADST Mathematics Computer Science 11 Content - Use of Computing for Financial Analysis
+#### BC Mathematics Computer Science 11 Content - Use of Computing for Financial Analysis
 
 Use this opportunity to apply software to do financial calculations.
 Afterall, what's tedious for a human, may be easy for a computer.
@@ -99,7 +99,7 @@ For both the complexity and creativity requirements, you should talk to the inst
 
 ### Emphasize with students ...
 
-#### BC ADST Mathematics Computer Science 11 Curricular Competencies - Understanding and solving; Apply flexible and strategic appoaches to solving problems.
+#### BC Mathematics Computer Science 11 Curricular Competencies - Understanding and solving; Apply flexible and strategic appoaches to solving problems.
 
 In our course so far, students know how to use the console to get input from a user, and to display output. 
 In an actual financial application, a GUI (graphical user interface) is needed to make it easy for a client to use the software,
