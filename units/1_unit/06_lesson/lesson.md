@@ -106,4 +106,4 @@ You may need to adjust the points in order to fit your class. Treat the percenta
 [printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/project.pdf
 [editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/project.docx
 [printable project Spec - magic square]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/alternate_project.pdf
-[editable project spec - magine square]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/alternate_project.docx
+[Editable Project Spec - Magic Square]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/alternate_project.docx
