@@ -6,6 +6,7 @@ As you implement this curriculum into your program, there are some things to con
 
 * **Preparing students to take [Advanced Placement Computer Science A][]** - It is recommended completing the units in the following order 1, 2, 3, 4, 7, 6, 8, 5(Optional)
 * **Offering this course as a stand alone computer science course** - It is recommended completing the course units in the following order - 1, 2, 3, 4, 5, 6, 7, 8
+* For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Resources with the BC Curriculum](CA_README.md).
 
 ## [Unit 1 Map - Introduction to Python](units/1_unit/unit_1.md)
 
@@ -95,6 +96,8 @@ As you implement this curriculum into your program, there are some things to con
 | Lesson    | Objectives | Lab |
 | ------    | ---------- | --- |
 | [01: Binary Day][] | Define and identify: binary. Describe different representations of data. Represent decimal numbers in binary. | N/A |
+| [02: Financial Calculator][] | Design, plan, and implement a medium to large scale final project involving financial literacy. | N/A |
+
 
 [1.01: Set Up]: units/1_unit/01_lesson/lesson.md
 [1.02: Interactive Mode]: units/1_unit/02_lesson/lesson.md
@@ -191,6 +194,7 @@ As you implement this curriculum into your program, there are some things to con
 
 [Supplemental Culture Day Lessons]: supplemental/
 [01: Binary Day]: units/supplemental/01_lesson/lesson.md
+[02: Financial Calculator]: units/supplemental/calculator_canada.md
 [Additional Topics]: cert.md
 [Microsoft Technology Associate (MTA) certification]: https://www.microsoft.com/en-us/learning/exam-98-381.aspx
 [Advanced Placement Computer Science A]: https://tealsk12.gitbook.io/apcsa/
