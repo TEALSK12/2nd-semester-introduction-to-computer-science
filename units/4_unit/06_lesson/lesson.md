@@ -10,7 +10,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Project Spec - Tic-Tac-Toe][] ([printable project Spec][]) ([editable project spec][])
-  * [Teacher's guide for BC curriculum alignment](projec_canada.md)
+  * [Teacher's guide for BC curriculum alignment](project_canada.md)
 * [Alternate Project Spec - 2 Player Tic-Tac-Toe][] ([printable alternate project Spec][]) ([editable alternate project spec][])
 * [Tic Tac Toe Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/tictactoe_starter_code.py)
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
