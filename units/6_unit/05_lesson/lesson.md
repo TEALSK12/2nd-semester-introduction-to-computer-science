@@ -11,7 +11,7 @@ Students will be able to...
 * [Do Now][]
 * [Project Spec - Buy an Umbrella][] ([printable Spec][])([editable spec][])
 * [Project Spec - Guess Who][] ([printable project Spec][]) ([editable project spec][])
-* [Project Spec - Guess Who (Hockey Canada Edition)][] 
+* [Project Spec - Guess Who (Hockey Canada Edition)][]([printable project Canada Spec][]) ([editable project Canada spec][])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
 * Read through the do now and project spec so that you are familiar with the requirements and can assist students.
 * Try creating your own variation on the Guess Who game so you are familiar with the potential challenges and bugs your students will hit.
@@ -116,3 +116,5 @@ Students will be able to...
 [editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project.docx
 [printable Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.pdf
 [editable spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.docx
+[printable project Canada Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project_canada.pdf
+[editable project Canada spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project_canada.docx
