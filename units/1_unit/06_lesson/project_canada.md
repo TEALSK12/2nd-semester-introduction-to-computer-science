@@ -6,26 +6,27 @@ Part of the project is to use your creativity to design your own unique story.
 ## Overview
 
 Mad Libs are a fun way to tell a story. The story is pre-written except for a few missing words.  The story is hidden from the user.  
-The user is asked a series of questions in order to fill in the missing words before seeing the story. 
-Then the story is read off with the user's words mixed in!   
+The user is asked a series of questions in order to fill in the missing words before seeing the story.
+Then the story is read off with the user's words mixed in!
 
 ---
 
-### Emphasize with students ...
+### Emphasize with students
 
 #### BC ADST Computer Programming 11 - Connecting and Reflecting
 
-Use this opportunity to create a Mad Lib that tells the stories of our times. 
+Use this opportunity to create a Mad Lib that tells the stories of our times.
 Technology is used to connect people with the things they care about.
-The field Digital Media, for example, is where digital artifacts are created to communicate messages to the world. 
-In a Mad Lib, the user in engaged by providing word input. 
-This adds a random twist, and possibly some humour, into the story. 
+The field Digital Media, for example, is where digital artifacts are created to communicate messages to the world.
+In a Mad Lib, the user in engaged by providing word input.
+This adds a random twist, and possibly some humour, into the story.
 
 Some possible story themes:
-* Current events in the world
+
+* Current events in the world/
 * First People's heritage, where learning is embedded in memory, history, and story  (Resource: http://firstnationstories.com/)
-* Daily life in your part of the world 
-* A camping adventure
+* Daily life in your part of the world.
+* A camping adventure.
 * Amazing race adventure (Reference:  https://en.wikipedia.org/wiki/The_Amazing_Race_Canada)
 * Adventure challenge (Reference: https://en.wikipedia.org/wiki/Eco-Challenge)
 * Master chef cooking adventure (Reference: https://en.wikipedia.org/wiki/MasterChef_Canada)
@@ -60,7 +61,7 @@ Some possible story themes:
     Enter an adjective: slimy
     Enter an adverb: foolishly
     Enter a verb (past tense): pranced
-    Enter a social media: instagram
+    Enter a social media: Instagram
     Enter an adjective: interesting
 
     ```
@@ -68,18 +69,18 @@ Some possible story themes:
 * After all the words have been entered. The program will print out the story.  
 You will need to create a story of your own choosing.  
 Keep it clean and fun.  
-Tips: Have a mix questions that more general, and more specific. 
+Tips: Have a mix questions that more general, and more specific.
 Here is an example of a day in Coquitlam, BC.
 
-    ```python    
-    A Summer Day: a Mad Lib 
+    ```python
+    A Summer Day: a Mad Lib
     It was a beautiful day in Coquitlam. Our hero Shawn Mendes went out to explore the great outdoors.
-    First, he went to get some essentials from Rocky Point Ice Cream Shop. 
-    Shawn quickly walked through the shop, in green coloured Nike shoes. 
-    Suddenly a slimy donut appeared out of nowhere!!!
-    Our hero foolishly pranced all the way home, eager to post on instagram.
-    He didn't make it to the park.
-    It was an interesting day indeed. 
+    First, he went to get some essentials from Rocky Point Ice Cream Shop.
+    Shawn quickly walked through the shop, in green coloured Nike shoes.
+    Suddenly a slimy donut appeared out of nowhere!!!
+    Our hero foolishly pranced all the way home, eager to post on Instagram.
+    He did not make it to the park.
+    It was an interesting day indeed.
     ```
 
 ### Implementation Details
