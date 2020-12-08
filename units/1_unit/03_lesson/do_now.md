@@ -34,7 +34,6 @@ Write down the result. Explain what `print` does. Try printing out 3 different v
 
     ![Open a project](trinket_new.png)
 
-2. Repl.it autosaves projects
-3. Run the program
+2. Run the program
 
     ![Run Python 3](donow103_run.png)

@@ -29,7 +29,7 @@ Students will be able to...
 
 ### 1. Do Now
 
-* Display the online IDE and asks students to identify the key parts (menu bar items [run, console, +], code panel, console panel) of the IDE.
+* Display the IDE and asks students to identify the key parts (menu bar items [run, console, +], code panel, console panel).
 * After going over the three parts of the IDE have students check that they can still log into their IDE account.
 
 ### 2. Lesson
