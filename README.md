@@ -33,7 +33,6 @@ For those knowledgeable with Python 2, the following is a list of differences fr
 | Printing to console | print 3.14 | print (3.14) |
 | User input | raw_input()/input() | input () |
 | Integer arithmetic | 3/2 evaluates to 1 | 3/2 evaluates to 1.5 |
-| Not equal to | <> | != |
 
 ### IDE Selection
 
