@@ -25,22 +25,20 @@ the destination, within 30 days.
 * Each turn, the player is asked what action they choose, where the player can type in one
 of the following commands:
 
-* `travel (East or West)`: moves you randomly between 100-200km and takes 3-7 days (random)
-* `rest`: increases health 1 level (up to 5 maximum) and takes 2-5 days (random).
-* `eat`: eat at a restaurant 1-3 kgs of food  (random).:  
-* 'get (commodity name)':  pickup the commodity
-* 'fill up':  fills up your gas tank
-* `status`: lists city, health, distance traveled, and day.
+* `travel`: moves you randomly between 500-1200km and takes 1-3 days (random).
+* `rest`: increases health 1 level (up to 5 maximum) and takes 1-3 days (random).
+* `buy food`: buys food between 50-150 kg (random) and takes 1 day.  
+* `get`:  pickup a commodity.
+* `status`: lists location, health level, distance traveled, food available, commodity picked up (if any) and number of days travelled.
 * `help`: lists all the commands.
 * `quit`: will end the game.
 * Some possible assumptions:
-  * travel is always East or West (most populated regions in Canada are along the southern border).
-  * limit the map to have only 7-10 major cities
-  * limit each city to have only 1-2 commodities
-  * The player's health randomly decreases by a random amount every few moves.
-  * The player eats 5kgs of food a day.
-  * The truck's gas tank is 10,000 Litres
-  * The truck can drive 100km with 10 Litres of gas (reference: [https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/oee/pdf/transportation/tools/fuelratings/2018%20Fuel%20Consumption%20Guide.pdf](https://www.nrcan.gc.ca/sites/www.nrcan.gc.ca/files/oee/pdf/transportation/tools/fuelratings/2018%20Fuel%20Consumption%20Guide.pdf)
+* Limit the map to have only 7-10 major cities.
+* Limit each city to have only 1 commodity
+* The player eats 5 kgs of food a day.
+* The player's health decreases by a random amount every few moves.
+
+
   
 ---
 
@@ -83,31 +81,36 @@ development is iterative, and scaffolds over time.
 
 ## Grading
 
-### Scheme/Rubric
 
-| **Functional Correctness(Behavior)**                                |     |
+| **Evaluation Rubric**                                           |     |
 | --------------------------------------------------------------- |-----|
-| `travel`, `rest`, `eat`, 'fill up'                             | 15  |
-| `status`, `help`, and `quit`                                    | 5  |
-| Game ends if food runs out, days run out, or health runs out    | 10  |
-| Days roll over correctly                                       | 10  |
-| Gas decreases accordingly                                      | 5  |
+| **Functional Correctness(Behavior)**                            |     |
+| `travel`, `rest`, `buy food`, `get`                             | 15  |
+| `status`, `help`, and `quit`                                    | 5   |
+| Game ends according to criteria defined in the documentation    | 10  |
+| Days roll over correctly                                        | 10  |
+| Gas decreases accordingly                                       | 5   |
 | Health decreases randomly                                       | 5   |
-| **Sub total**                                                   | 50  |
-| **Technical Correctness**                                    |     |
+| *Sub total*                                                   | 50  |
+| **Technical Correctness**                                       |     |
 | Correctly use functions and contracts                           | 20  |
-| Correctly use imported random function                          | 5  |
-| Correctly use global variables                                  | 5  |
-| Correctly use and update variables                              | 5  |
-| Correctly add_days and select_action functions                  | 15  |
-| **Sub total**                                                   | 50  |
+| Correctly use imported random function                          | 5   |
+| Correctly use global variables                                  | 5   |
+| Correctly use and update variables                              | 5   |
+| *Sub total*                                                   | 35  |
+| **Design and Documentation**                                    |     |
+| Clearly states game rules and assumptions                       | 5   |
+| Provides good comments and documentation to the code            | 10  |
+| *Sub total*                                                   | 15  |
 | **Total**                                                       | 100 |
 
 ## Extra Credit
 
-1. Make the rate of food consumption be a function of the day of the week.
-2. Make a rate of fuel consumption to be a function of the location/climate/season.  For example, colder regions burn more gas.
-3. Create a random event that occurs randomly, like a forest fire roadblock, that will affect health, gas, and time.
+1.	Add a fill up command that includes gas consumption as part of the game.
+2.	Create events that occur randomly, like a forest fire roadblock, that will affect health and time.
+3.	Allow the user to travel East or West. Implement the travel east (te) and travel west (tw) commands. 
+4.	Allow the user to choose the number of commodities to deliver, and make sure that the commodities assigned are all different. 
+5.	Make the rate of food consumption be a function of the day of the week
 
 ## Extension
 
