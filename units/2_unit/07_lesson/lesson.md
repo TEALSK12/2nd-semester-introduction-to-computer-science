@@ -8,6 +8,7 @@ Students will be able to...
 
 ## Materials
 
+* [2.07 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.07%20TEALS.pptx)
 * [Project Spec - Text Monster][] ([printable Text Monster project spec][]) ([editable Text Monster spec][])
 * [Project Spec - Ogopogo - Text Monster (Canadian version)][] ([printable Ogopogo - Text Monster (Canadian version)][]) ([editable Ogopogo - Text Monster (Canadian version)][])
 * [Project Spec - To-do List][] ([printable To-do List project spec][]) ([editable To-do List project spec][])
