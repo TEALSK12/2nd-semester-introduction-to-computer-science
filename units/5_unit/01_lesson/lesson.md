@@ -17,6 +17,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [5.01 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%205.01%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Intro to EarSketch][] ([printable lab document][]) ([editable lab document][])
 * [EarSketch Editor][]

@@ -10,6 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [4.05 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%204.05%20TEALS.pptx)
 * Quiz (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
 * [Lab - Debugging Practice][] ([printable lab document][]) ([editable lab document][])
 * [Coding Example][]
