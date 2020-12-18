@@ -9,11 +9,14 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [3.3 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.03%20TEALS.pptx)
 * [Do Now][]
 * [Lab - War (Card Game)][] ([printable lab document][]) ([editable lab document][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.3)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
-* Note that this lesson may take two days.
+* Video Resources
+  * [Parameterized Functions](https://youtu.be/sKW-zdYZNX4)
+  * [Parameterized Function Demo](https://youtu.be/LtKAXFRtxhQ)
 
 ## Day 1 Pacing
 
