@@ -10,6 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [1.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.02%20TEALS.pptx)
 * [Lab - Using the Interpreter][] ([printable lab document][]) ([editable lab document][])
 * [Associated Reading - section 1.1](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/1.1)
 * Ensure all students are able to log into the system

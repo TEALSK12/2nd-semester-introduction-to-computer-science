@@ -10,6 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [1.01 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.01%20TEALS.pptx)
 * Update the collaboration policy, IDE information, grading percentages, and general syllabus based on your preferences and your school's requirements
 * With your teaching team determine which IDE to use with your class.
 * [Python Code][]: code to display
@@ -18,6 +19,14 @@ Students will be able to...
 * [Install Visual Studio Code and the Python Extension](https://code.visualstudio.com/docs/python/python-tutorial)
 * Note: As with all software services, it is the school's sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school's responsibility to ensure the tool meets it's IT policies.
 * Review how to run [Hello World using Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial#_run-hello-world).
+* Video Resources
+
+  * [Programming with Python](https://youtu.be/jFCNu1-Xdsw)
+  * [Introducing Python](https://youtu.be/7XOhibxgBlQ)
+  * [Getting Started](https://youtu.be/CXZYvNRIAKM)
+  * [Configuring VS Code](https://youtu.be/EU8eayHWoZg)
+  * [Using Print - Hello World](https://youtu.be/FhoASwgvZHk)
+  * [Using Print - Hello World Demo](https://youtu.be/wWwr0tDSqnE)
 
 ## Pacing Guide
 
@@ -63,7 +72,6 @@ Students will be able to...
 * Save file as "hello_world.py"
 * Have students type in the displayed code into the blank `hello_world.py` file
 * If students finish early, encourage them to explore the interface and to try creating a program that prints their name.
-* 
 
 ## Forum discussion
 

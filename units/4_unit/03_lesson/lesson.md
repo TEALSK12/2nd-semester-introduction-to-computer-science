@@ -11,6 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [4.03 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%204.03%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Nested For Loops][] ([printable lab document][]) ([editable lab document][])
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students

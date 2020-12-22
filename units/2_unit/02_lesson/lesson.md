@@ -10,6 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [2.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.02%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Can I or Can't I?][] ([printable lab document][]) ([editable lab document][])
 * [Associated Readings 2.2](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.2)

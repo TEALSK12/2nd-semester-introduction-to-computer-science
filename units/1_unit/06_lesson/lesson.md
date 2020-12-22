@@ -7,6 +7,7 @@
 
 ## Materials
 
+* [1.06 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.06%20TEALS.pptx)
 * [Project Spec - Mad Libs][] ([Printable Project Spec][]) ([Editable Project Spec][])
 * [Project Spec - Mad Libs (Canadian version)][] ([Printable Project Spec - Mad Libs (Canadian version)][]) ([Editable Project Spec - Mad Libs (Canadian version)][])
 * [Project Spec - Magic Square][] ([Printable Project Spec - Magic Square][]) ([Editable Project Spec - Magic Square][])

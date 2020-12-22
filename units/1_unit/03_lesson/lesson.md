@@ -12,10 +12,14 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [1.03 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.03%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Printing & Variables][] ([printable lab document][]) ([editable lab document][])
 * [Associated Reading - section 1.2](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/1.2)
 * Read through the Do Now, Lab, and Lesson so that you are familiar with the requirements and can assist students.
+* Video Resource -
+  * [Comments Instruction](https://youtu.be/kEuVvUc1Zec)
+  * [Comments Demo](https://youtu.be/fbek7n6ecWM)
 
 ## Pacing Guide
 

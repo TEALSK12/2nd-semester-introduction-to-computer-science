@@ -10,6 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [7.04 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%207.04%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Pokemon Child Classes][] ([printable lab document][]) ([editable lab document][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/7.4)

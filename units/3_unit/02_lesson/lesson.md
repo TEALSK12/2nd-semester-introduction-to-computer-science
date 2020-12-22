@@ -9,10 +9,14 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [3.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.02%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Birthday Song & Random Cards][] ([printable lab document][]) ([editable lab document][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.2)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
+* Video Resources
+  * [Intro to Functions](https://youtu.be/nrCAxXfRU28)
+  * [Functions Demo](https://youtu.be/C9ZEGqGHXms)
 
 ## Pacing Guide
 

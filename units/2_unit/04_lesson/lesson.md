@@ -11,11 +11,15 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* [2.03 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.04%20TEALS.pptx)
 * [Do Now][]
 * [Lab - College Chooser][] ([printable lab document][]) ([editable lab document][])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
 * [Associated Readings 2.4](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.4)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+* Video Resources
+  * [Collections (Lists)](https://youtu.be/beA8IsY3mQs)
+  * [Collections (Lists) Demo](https://youtu.be/4PaSlXNjawM)
 
 ## Pacing Guide
 

@@ -2,11 +2,9 @@
 
 ## Unit Order Considerations
 
-As you implement this curriculum into your program, there are some things to consider when deciding what units best fits program goals.
+For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Resources with the BC Curriculum](CA_README.md).
 
-* **Preparing students to take [Advanced Placement Computer Science A][]** - It is recommended completing the units in the following order 1, 2, 3, 4, 7, 6, 8, 5(Optional)
-* **Offering this course as a stand alone computer science course** - It is recommended completing the course units in the following order - 1, 2, 3, 4, 5, 6, 7, 8
-* For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Resources with the BC Curriculum](CA_README.md).
+[Computer Science Teachers Association Standards Mapping](CSTA_standards_mapping.md)
 
 ## [Unit 1 Map - Introduction to Python](units/1_unit/unit_1.md)
 
@@ -98,7 +96,6 @@ As you implement this curriculum into your program, there are some things to con
 | [01: Binary Day][] | Define and identify: binary. Describe different representations of data. Represent decimal numbers in binary. | N/A |
 | [02: Financial Calculator][] | Design, plan, and implement a medium to large scale final project involving financial literacy. | N/A |
 
-
 [1.01: Set Up]: units/1_unit/01_lesson/lesson.md
 [1.02: Interactive Mode]: units/1_unit/02_lesson/lesson.md
 [1.03: Script Mode and Variables]: units/1_unit/03_lesson/lesson.md
@@ -127,7 +124,6 @@ As you implement this curriculum into your program, there are some things to con
 [2.06]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.06%20TEALS.pptx
 [2.07]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.07%20TEALS.pptx
 
-
 [3.01: Built In Functions]: units/3_unit/01_lesson/lesson.md
 [3.02: User-Defined Functions]: units/3_unit/02_lesson/lesson.md
 [3.03: Return vs Print]: units/3_unit/03_lesson/lesson.md
@@ -138,7 +134,6 @@ As you implement this curriculum into your program, there are some things to con
 [3.03]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.03%20TEALS.pptx
 [3.04]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.04%20TEALS.pptx
 [3.05]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.05%20TEALS.pptx
-
 
 [4.01: Looping Basics]: units/4_unit/01_lesson/lesson.md
 [4.02: For Loops]: units/4_unit/02_lesson/lesson.md
@@ -163,7 +158,6 @@ As you implement this curriculum into your program, there are some things to con
 [5.03]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.03%20TEALS.pptx
 [5.04]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.04%20TEALS.pptx
 [5.05]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.05%20TEALS.pptx
-
 
 [6.01: Introduction to Dictionaries]: units/6_unit/01_lesson/lesson.md
 [6.02: Dictionaries Methods]: units/6_unit/02_lesson/lesson.md
