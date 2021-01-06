@@ -29,7 +29,7 @@ Students will be able to...
 
 ### 1. Do Now
 
-* Display the Do Now on the board.
+* Display the [Do Now][] on the board.
 * Students will copy and edit code involving creating a dictionary and accessing items from that dictionary.
 
 ### 2. Lesson

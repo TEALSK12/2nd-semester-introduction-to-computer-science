@@ -4,6 +4,8 @@
 
 For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Resources with the BC Curriculum](CA_README.md).
 
+[Template Syllabus](IntrotoCSSyllabusExample.docx): Feel free to use this template to build a syllabus for your class.
+
 [Computer Science Teachers Association Standards Mapping](CSTA_standards_mapping.md)
 
 ## [Unit 1 Map - Introduction to Python](units/1_unit/unit_1.md)
