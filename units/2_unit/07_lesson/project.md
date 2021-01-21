@@ -4,7 +4,7 @@ Using Python, Boolean expressions, lists and while loops to create a text-based 
 
 ## Overview
 
-This game takes place in a three story virtual space. Each story (or floor) can have as many rooms as desired for game play. The player has to navigate the levels in search of the prize. Along the way they collect items and fight monsters. On each move the player has seven possible commands: `left`, `right`, `up`, `down`, `grab`, `fight`. If the input is invalid (not one of these commands,) the game will let the player know. Otherwise, the game will execute the player's command. The goal of the game is to collect the prize guarded by the monster.
+This game takes place in a three-story virtual space. Each story (or floor) can have as many rooms as desired for game play. The player must navigate the levels in search of the prize. Along the way they collect items and fight monsters. On each move the player has seven possible commands: `left`, `right`, `up`, `down`, `grab`, `fight`. If the input is invalid (not one of these commands,) the game will let the player know. Otherwise, the game will execute the player's command. The goal of the game is to collect the prize guarded by the monster.
 
 ## Details
 
