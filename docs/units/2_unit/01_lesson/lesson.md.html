@@ -53,6 +53,35 @@ Students will be able to...
 
 * Define this process of changing data types as **casting**.
 * Define the `int` function if the students were unable to guess it from the do now.
+* Demonstrate casting `string` to `int` by typing in the following:
+
+```python
+n = int(input())
+9
+type(n)
+<class 'int'>
+```
+
+* Because Python 3 is strongly typed, concatenating strings and numbers requires casting.  Demonstrate by typing the following:
+
+```python
+n = int(input())
+9
+print ("You entered " + n)
+TypeError: Can't convert 'int' object to str implicitly
+```
+
+* Cast the integer to a string. Demonstrate by typing the following:
+
+```python
+n = int(input())
+9
+print ("You entered " + str(n))
+You entered 9
+```
+
+* Swapping Variables Discussion
+
 * Take a few minutes to have students write down how they would produce the following output:
 
    ```python
