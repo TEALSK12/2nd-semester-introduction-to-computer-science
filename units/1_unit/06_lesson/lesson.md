@@ -2,8 +2,8 @@
 
 ## Learning Objectives
 
-* Apply basic Python knowledge about inputs/outputs and variables to create a game of Madlibs
-* Practice good debugging skills
+* Apply basic Python knowledge about inputs/outputs and variables to create a game of Madlibs.
+* Practice good debugging skills.
 
 ## Materials
 
@@ -16,9 +16,9 @@
 
 ## Preparation
 
-* Practice running the example code
-* Read through the project specifications so that you can completely communicate the requirements of the project
-* Review [4 Steps to Solve Any CS Problem]
+* Practice running the example code.
+* Read through the project specifications so that you can completely communicate the requirements of the project.
+* Review [4 Steps to Solve Any CS Problem][].
 
 ## Day 1 Pacing
 
@@ -39,7 +39,7 @@
 
 ### 1. 4 Steps to Solve Any CS Problem
 
-* Introduce students to the [4 Steps to Solve Any CS Problem]
+* Introduce students to the [4 Steps to Solve Any CS Problem][].
 
 ### 2.  Project Overview
 
@@ -48,8 +48,8 @@
 * Emphasize that prompts must ask for the correct noun-verb combinations.
 * Encourage students to look at the grading rubric on page two repeatedly throughout the project to ensure they are meeting all the requirements.
 * Demo a sample project solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard](https://www.tealsk12.org/dashboard/)) for students to see how a completed program should function.
-* Identify the sub problems of Mad Libs
-* Have students list what variables, inputs, and print statements they will need  
+* Identify the sub problems of Mad Libs.
+* Have students list what variables, inputs, and print statements they will need  .
 
 ### 3.  Project Work
 
@@ -59,8 +59,8 @@
 * Adjust the amount of time allowed for the project to fit the needs of your students
 * It is vital that nearly all students complete the project before moving on
 * If most students have the ability to work on assignments at home, the amount of in-class time provided can be reduced if necessary.
-* If this approach is taken, be sure to make accommodations for students who not able to work at home, such as after school lab hours
-* Ensure that students are able to ask questions in class throughout the project
+* If this approach is taken, be sure to make accommodations for students who not able to work at home, such as after school lab hours.
+* Ensure that students are able to ask questions in class throughout the project.
 
 ### 4. Wrap Up - Student Demos
 
@@ -83,12 +83,12 @@ Ask students to research casting. Have them add, subtract, or multiply values as
 
 | Points | Percentage | Objective | Unit Location |
 | :---: | :---: | --- | :---: |
-| 2 | 10% | Students can correctly use the IDE | 1.01 |
-| 6 | 28% | Student can correctly identify and store variable types | 1.02 1.04 |
-| 3 | 14% | Student can use the print function | 1.03 |
-| 5 | 24% | Student can decompose a problem to create a program from a brief | |
-| 5 | 24% | Student uses naming/ syntax conventions and comments to increase readability | |
-| **21** | **Total points** |  | |
+| 3 | 13.5% | Students can correctly use the IDE | 1.01 |
+| 6 | 27% | Student can correctly identify and store variable types | 1.02 1.04 |
+| 3 | 13.5% | Student can use the print function | 1.03 |
+| 5 | 23% | Student can decompose a problem to create a program from a brief | |
+| 5 | 23% | Student uses naming/ syntax conventions and comments to increase readability | |
+| **22** | **Total points** |  | |
 
 ### Scoring Consideration
 
