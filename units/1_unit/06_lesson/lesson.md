@@ -49,7 +49,7 @@
 * Encourage students to look at the grading rubric on page two repeatedly throughout the project to ensure they are meeting all the requirements.
 * Demo a sample project solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard](https://www.tealsk12.org/dashboard/)) for students to see how a completed program should function.
 * Identify the sub problems of Mad Libs.
-* Have students list what variables, inputs, and print statements they will need  .
+* Have students list what variables, inputs, and print statements they will need.
 
 ### 3.  Project Work
 
