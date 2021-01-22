@@ -2,7 +2,7 @@
 
 ## 1. In your notebook
 
-For each example below, predict what will be printed. Next, run the program and confirm what was output.
+For each example below, predict what will be printed. Run the program and write down the output in your notebook.
 
 ### Example 1
 
@@ -34,7 +34,7 @@ For each example below, predict what will be printed. Next, run the program and 
     print(a)
 ```
 
-## 2. Create this game again using lists and indexes. Updated rules below
+## 2. Create this game again using lists and indexes
 
 * Declare 10 prizes (prize0, prize1, prize2 at the top of your file), but store them all in a list.
 * User picks a number.
@@ -44,17 +44,17 @@ For each example below, predict what will be printed. Next, run the program and 
 
 Create a food quiz using lists and indexes.
 
-1. List of 6 different foods
-2. Ask the user 8 vague questions to find out what their favorite food it out of the list
-3. Update the score and print their top 2 favorite foods
+1. List of 6 different foods.
+2. Ask the user 8 vague questions to find out what their favorite food is using the list.
+3. Update the score and print their top 2 favorite foods.
 
-Hint: google how to find the biggest number in a list python
+Hint: Use a search engine to find the largest number in a python list.
 
 [Starter code here](Starter_food_chooser.py)
 
 ## Bonus
 
-Research nested lists and work through the following:
+Research nested lists and work through the following Bonus Examples:
 
 ### Bonus Example 1
 
@@ -73,4 +73,4 @@ print(b)
 
 ### Bonus - In your Notebook
 
-How would you access 'd' from the list `a`?
+How would you access `d` from the list `a`?
