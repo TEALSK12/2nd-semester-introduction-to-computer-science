@@ -25,22 +25,3 @@ print("Hello there, " + a)
 Convert the following to Python code:
 
   ![Snap Input](snap_input.png)
-
-## Swapping
-
-### 2. In your Console
-
-#### Type and run the following
-
-```python
-a = "this sentence should go second"
-b = "this sentence should go first."  
-# your code starts here
-
-# your code ends here
-print(a)
-print(b)
-```
-
-1. Run the program. What is the output?
-2. Write code to swap the values of variables `a` and `b`.
