@@ -64,7 +64,6 @@ Students will be able to...
 #### Video explanation on Python Lists being Mutable
 
 [![Mutable Python Lists](https://img.youtube.com/vi/_y3PqL4lIzw/0.jpg)](https://youtu.be/_y3PqL4lIzw?t=181)
-
 ## Accommodation/Differentiation
 
 * If students are having a hard time with the fruit pluralize, consider altering the fruit program to not allow fruit that ends in y.

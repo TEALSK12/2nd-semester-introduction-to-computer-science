@@ -40,9 +40,11 @@ Students will be able to...
 * Go over part 2 of the Do Now. Ask the students what happened. Ask if they remember something similar from Snap!
 * Introduce the **for loop** as a way to deal with issues associated with part 1 of the Do Now.
 
-#### Video Explanation of For Loops
+#### Optional video Explanation of Loops, For Loops and While loops using Mnemonics
 
-[![For Loops Explanation](https://img.youtube.com/vi/KosrKNJK9Sw/0.jpg)](https://youtu.be/KosrKNJK9Sw)
+[![Loop Mnemonoics](https://img.youtube.com/vi/KosrKNJK9Sw/0.jpg)](https://youtu.be/KosrKNJK9Sw)
+
+Note: This video is great for introducing mnemonics to loops but it does include While loops and mentions Juniper Notebooks at the end of it. We recommend ending the video prior to the statement at the end about Juniper Notebooks.
 
 * From the Code in the Do Now: `for num in list_of_numbers:`
 * Emphasize that the body of the for loop is the indented part
