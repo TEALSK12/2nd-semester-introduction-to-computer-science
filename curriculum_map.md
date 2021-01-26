@@ -17,7 +17,7 @@ For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Reso
 | [1.03: Script Mode and Variables][] | Define and identify: script, print, run, output, variable. Write a simple script and run it in the IDE. Print values out to the console (both composed values and from variables). Compare script mode vs interactive mode. Know how to store a value into a variable. | Printing & Variables | 1 | [1.03][] |
 | [1.04: Variables Input][] | Define and identify: comments, storing, mutability, variable assignment, input. Assign and swap variables. Store user input into a variable. | Magic Genie | 1 | [1.04][] |
 | [1.05: Quiz & Debugging][] | Demonstrate their understanding of key concepts covered up to this point. Define and identify: debugging, syntax errors. Analyze and respond to error messages. | N/A | 1 | [1.05][] |
-| [1.06: Project][] | Apply basic Python knowledge about inputs/outputs and variables to create a game of Madlibs. Practice good debugging skills. | Mad Libs | 2 | [1.06][] |
+| [1.06: Project][] | Apply basic Python knowledge about inputs/outputs and variables to create a game of Madlibs. Practice good debugging skills. | Unit Project | 2 | [1.06][] |
 
 ## [Unit 2 Map - Data Types and Conditionals](units/2_unit/unit2_md.md)
 
@@ -29,7 +29,7 @@ For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Reso
 | [2.04: Lists][] | Define and identify: list, item, index, integer. Be able to access items from a list using the index. Create lists of different types. Use the length function. | College Chooser | 1 | [2.04][] |
 | [2.05: Lists 2][] | Define and identify: slice, append, pop, remove. Slice a list. Add and remove elements from a list | Tic-Tac-Toe | 1 | [2.05][] |
 | [2.06: Game Loop][] | Define and identify: while loop. Use a while loop to simulate game play. | Tic-Tac-Toe Revisited | 1 | [2.06][] |
-| [2.07: Project][] | Use knowledge of lists, Booleans, conditionals, and while loops to create a text-based adventure game. | Text Monster Game | 9 | [2.07][] |
+| [2.07: Project][] | Use knowledge of lists, Booleans, conditionals, and while loops to create a text-based adventure game. | Unit Project| 9 | [2.07][] |
 
 ## [Unit 3 Map - Functions](units/3_unit/unit_3.md)
 
@@ -50,7 +50,7 @@ For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Reso
 | [4.03: Nested For Loops][] | Define and identify: nested for loops, stack trace. Use nested for loops via a function and a for loop. Use nested for loops via two loops nested. Use a stack trace to understand and demonstrate the flow of nested for loops. | Nested For Loops | 2 | [4.03][] |
 | [4.04: Nested Lists & Looping][] | Define and identify: nested list. Use nested for loops to traverse through nested lists. | Shopping List | 2 | [4.04][] |
 | [4.05: Debugging and Quiz][] | Read and understand longer programs involving loops. Demonstrate knowledge of looping, lists, and nested loops/lists. Debug programs involving for loops and lists. | Debugging Practice | 1 | [4.05][] |
-| [4.06: Project][] | Use project planning skills to complete a larger project. Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game. | Tic-Tac-Toe | 9 | [4.06][] |
+| [4.06: Project][] | Use project planning skills to complete a larger project. Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game. | Unit Project | 9 | [4.06][] |
 
 ## [Unit 5 Map (Optional) - Music Programming](units/5_unit/unit5.md)
 
@@ -60,7 +60,7 @@ For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Reso
 | [5.02: EarSketch Music][] | Define and identify: rhythm, beat, tempo, measures, setEffect(), makeBeat(). Play beats using the functions. Loop through items in a list. Be aware of the scope of variables during iteration. | EarSketch Music | 1 | [5.02][] |
 | [5.03: Earsketch Control Flow][] | Define and identify: modulo. Review looping and control structures. Use looping concepts in music making via EarSketch. Use control structures to create music. | Earsketch Control Flow | 1 | [5.03][] |
 | [5.04: EarSketch User-Defined Functions][] | Define and identify: abstraction, section, A-B-A form. Create and apply user-defined functions to create songs with complicated form. | User-Defined Functions | 1 | [5.04][] |
-| [5.05: Project][] | Create a complete song in EarSketch with multiple parts. Utilize EarSketch's features and functions. | EarSketch Song | 5 | [5.05][] |
+| [5.05: Project][] | Create a complete song in EarSketch with multiple parts. Utilize EarSketch's features and functions. | Unit Project | 5 | [5.05][] |
 
 ## [Unit 6 Map - Dictionaries](units/6_unit/unit6.md)
 
@@ -70,7 +70,7 @@ For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Reso
 | [6.02: Dictionaries Methods][] | Define and identify: pop, default value. Update values in a dictionary. Add values to a dictionary. Remove values from a dictionary. | Word Counter | 1 | [6.02][] |
 | [6.03: Dictionaries of Lists][] | Create dictionaries with keys and values of different types. Update, append, or remove list values in a dictionary. | Dictionaries Storing Lists | 1 | [6.03][] |
 | [6.04: Dictionaries Looping][] | Use loops to traverse through key/value pairs in a dictionary | Dictionaries Looping | 1 | [6.04][] |
-| [6.05: Project][] | Use dictionaries to create the game Guess Who | Buying an Umbrella | 7 | [6.05][] |
+| [6.05: Project][] | Use dictionaries to create the game Guess Who | Unit Project | 7 | [6.05][] |
 
 ## [Unit 7 Map - Introduction to Object Oriented Programming](units/7_unit/unit7.md)
 
@@ -80,7 +80,7 @@ For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Reso
 | [7.02: User-Defined Types, Part 2][] | Define and identify: self, `__init__`. Create a class with an `__init__` method. Understand and use the self argument. Instantiate a class with arguments. | Pet Class | 1 | [7.02][] |
 | [7.03: Methods][] | Define and identify: method, `__str__`, `__add__`, operator overloading. Create a class with an `__init__` method. Understand and use the self argument. Instantiate a class with an argument. | Kangaroo Class | 1 | [7.03][] |
 | [7.04: Inheritance][] | Define and identify: inheritance, parent class, child class. Create a class that inherits from anther class. Overwrite methods of parent class in a child class. | Pokemon Child Classes | 1 | [7.04][] |
-| [7.05: Project][] | Engage in class design before beginning coding. Apply what was learned with respect to classes, methods, and inheritance to create an implementation of Pokemon. | Pokemon | 7 | [7.05][] |
+| [7.05: Project][] | Engage in class design before beginning coding. Apply what was learned with respect to classes, methods, and inheritance to create an implementation of Pokemon. | Unit Project | 7 | [7.05][] |
 
 ## [Unit 8 Map - Final Project](units/8_unit/unit8.md)
 

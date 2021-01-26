@@ -4,18 +4,18 @@
 
 Students will be able to...
 
-* Define and identify: **self**, **`__init__`**
-* Create a class with an `init` method
-* Understand and use the `self` argument
-* Instantiate a class with arguments
+* Define and identify: **self**, **`__init__`**.
+* Create a class with an `init` method.
+* Understand and use the `self` argument.
+* Instantiate a class with arguments.
 
 ## Materials/Preparation
 
 * [7.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%207.02%20TEALS.pptx)
 * [Do Now][]
-* [Lab - Pet Class][] ([printable lab document][]) ([editable lab document][])
+* [Lab - Pet Class][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/7.2)
-* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 
@@ -37,7 +37,7 @@ Students will be able to...
 
 #### Discuss the Do Now
 
-* Ask Students the following
+* Ask Students the following:
   * What is the name of the class?
   * Where does the Pet object get instantiated?
 
@@ -60,7 +60,7 @@ Students will be able to...
 ### 4. Debrief
 
 * Check for student understanding and completion of the lab.
-* Review the two key concepts introduced today (`self` and `__init__`)
+* Review the two key concepts introduced today (`self` and `__init__`).
 
 ## Accommodation/Differentiation
 
@@ -73,5 +73,5 @@ As with the previous lesson, be prepared for some students to struggle with the 
 [Do Now]:do_now.md
 [Lab - Pet Class]:lab.md
 
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/02_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/02_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/02_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/02_lesson/lab.docx

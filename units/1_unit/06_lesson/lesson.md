@@ -8,9 +8,9 @@
 ## Materials
 
 * [1.06 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.06%20TEALS.pptx)
-* [Project Spec - Mad Libs][] ([Printable Project Spec][]) ([Editable Project Spec][])
-* [Project Spec - Mad Libs (Canadian version)][] ([Printable Project Spec - Mad Libs (Canadian version)][]) ([Editable Project Spec - Mad Libs (Canadian version)][])
-* [Project Spec - Magic Square][] ([Printable Project Spec - Magic Square][]) ([Editable Project Spec - Magic Square][])
+* [Project Spec - Mad Libs][] ([docx][1]) ([pdf][2])
+* [Project Spec - Mad Libs (Canadian version)][] ([docx][3]) ([pdf][4])
+* [Project Spec - Magic Square][] ([docx][5]) ([pdf][6])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
 * [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/rubric.docx)
 
@@ -104,9 +104,9 @@ You may need to adjust the points in order to fit your class. Treat the percenta
 [Project Spec - Magic Square]: projecta.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
-[printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/project.pdf
-[editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/project.docx
-[printable project Spec - Magic square]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/projecta.pdf
-[Editable Project Spec - Magic Square]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/projecta.docx
-[printable project Spec - Mad Libs (Canadian version)]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/project_canada.pdf
-[Editable Project Spec - Mad Libs (Canadian version)]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/project_canada.docx
+[1]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/project.docx
+[2]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/project.pdf
+[3]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/project_canada.docx
+[4]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/project_canada.pdf
+[5]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/projecta.docx
+[6]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/06_lesson/projecta.pdf

@@ -67,9 +67,9 @@ Students will be able to...
 
 ### 3. Lab
 
-* Practice accessing and updating items in a list
-* Implement program from last lab using lists
-* Create a quiz program
+* Practice accessing and updating items in a list.
+* Implement program from last lab using lists.
+* Create a quiz program.
 
 ### 4. Debrief
 

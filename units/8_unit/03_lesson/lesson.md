@@ -4,8 +4,8 @@
 
 Students will be able to...
 
-* Identify the main components of a functional project specification and explain the purpose of each section
-* Develop a project idea into a full, detailed specification
+* Identify the main components of a functional project specification and explain the purpose of each section.
+* Develop a project idea into a full, detailed specification.
 
 ## Materials/Preparation
 
@@ -45,7 +45,7 @@ Students will be able to...
 
 ### 3. Implementation plan
 
-* Students should use the details built in their plan organizer to list the tasks necessary on their [Final Project Development Plan].
+* Students should use the details built in their plan organizer to list the tasks necessary on their [Final Project Development Plan][].
 * Emphasize to students that tasks should be at a very low level of granularity (hence the time requirement being specified in minutes).
 * If a single task has a time estimate of more than a few hours, the student should try to break the task into smaller pieces.
 * Ensure that students do not skip "trivial" or "simple" tasks (such as building a script they have written before) or non-coding tasks (such as developing graphics) in their plan.

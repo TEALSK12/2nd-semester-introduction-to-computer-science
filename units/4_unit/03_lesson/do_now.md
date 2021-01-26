@@ -16,7 +16,7 @@ print(my_string)
 2. Write a function  `print_star_square` that calls `print_6_stars` in a loop to produce the following output.
 
     ```python
-    >>>python3 print_stars.py
+    >>>python print_stars.py
     * * * * * *
     * * * * * *
     * * * * * *

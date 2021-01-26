@@ -4,16 +4,16 @@
 
 Students will be able to...
 
-* Define and identify: **range**
-* Use the `range` and `len` function to to update lists via for loops
+* Define and identify: **range**.
+* Use the `range` and `len` function to to update lists via for loops.
 
 ## Materials/Preparation
 
 * [4.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%204.02%20TEALS.pptx)
 * [Do Now][]
-* [Lab - Getting Loopy][] ([printable lab document][]) ([editable lab document][])
+* [Lab - Getting Loopy][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/4.2)
-* Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 
@@ -77,5 +77,5 @@ Students will be able to...
 
 [Do Now]: do_now.md
 [Lab - Getting Loopy]: lab.md
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/02_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/02_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/02_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/02_lesson/lab.docx

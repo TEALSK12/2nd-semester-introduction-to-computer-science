@@ -4,17 +4,17 @@
 
 Students will be able to...
 
-* Define and identify: **index, slice, append, pop, remove**
-* Slice a list
-* Add and remove elements from a list
+* Define and identify: **index, slice, append, pop, remove**.
+* Slice a list.
+* Add and remove elements from a list.
 
 ## Materials/Preparation
 
 * [2.05 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.05%20TEALS.pptx)
 * [Do Now][]
-* [Lab - Tic-Tac-Toe][] ([printable lab document][]) ([editable lab document][])
+* [Lab - Tic-Tac-Toe][] ([docx][]) ([pdf][])
 * [Associated Readings 2.5](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.5)
-* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 
@@ -52,7 +52,7 @@ Students will be able to...
 ### 3. Lab
 
 * Students practice slicing, adding, and removing elements from some given lists.
-* Students create a single move Tic-Tac-Toe game
+* Students create a single move Tic-Tac-Toe game.
 
 ### 4. Debrief
 
@@ -73,5 +73,5 @@ There is also an opportunity for a quiz after the game loop lesson and before th
   
 [Do Now]:do_now.md
 [Lab - Tic-Tac-Toe]:lab.md
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.docx

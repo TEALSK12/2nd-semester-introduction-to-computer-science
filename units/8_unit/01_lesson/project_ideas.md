@@ -10,11 +10,11 @@
 
 ## Battle
 
-Battle different monster with different super powers (pokemon)
+Battle different monster with different super powers (pokemon).
 
 ## Card game war
 
-where a deck of 52 cards (1-13) are shuffled and dealt out to two players. The cards are played one from each deck and the higher card wins and is added to the winners deck.  If a tie, flip over cards until one player wins all the cards in the war.  The game continues until one player has all cards,
+where a deck of 52 cards (1-13) are shuffled and dealt out to two players. The cards are played one from each deck and the higher card wins and is added to the winners deck.  If a tie, flip over cards until one player wins all the cards in the war.  The game continues until one player has all cards.
 
 ## Card games - Old Maid, Fish
 
@@ -24,7 +24,7 @@ where a deck of 52 cards (1-13) are shuffled and dealt out to two players. The c
 
 ## Simple baseball/soccer game
 
-Use random numbers and  batting averages for two teams, probabilities of hits, outs, double play, errors, etc., play for 9 innings or until a team wins
+Use random numbers and  batting averages for two teams, probabilities of hits, outs, double play, errors, etc., play for 9 innings or until a team wins.
 
 ## Additive persistence
 
@@ -32,20 +32,20 @@ Additive Persistence is a property of the sum of the digits of an integer. The s
 
 ## Some Other Ideas
 
-1. A 2-player game
-2. A single-player game (player vs computer)
-3. A calculator with buttons
-4. A choose your own adventure novel (use buttons to make a choice.)
-5. A jigsaw puzzle (or other type of puzzle)
+1. A 2-player game.
+2. A single-player game (player vs computer).
+3. A calculator with buttons.
+4. A choose your own adventure novel (use buttons to make a choice).
+5. A jigsaw puzzle (or other type of puzzle).
 6. Tic-tac-toe [we have since made this Project 3]
 7. A shopping list (With choice to add items and to mark them as purchased)
 8. A program that randomly picks a person from the class, using bouncing balls to represent each person (does this ring a bell?)
-9. A car racing simulation where you can put a bet on one of the cars
-10. A physics simulation showing the effect of gravity on different (real) planets
-11. A Jeopardy-style gameshow quiz
+9. A car racing simulation where you can put a bet on one of the cars.
+10. A physics simulation showing the effect of gravity on different (real) planets.
+11. A Jeopardy-style game show quiz.
 12. A virtual pet
-13. A "spin-the-wheel" app that does something depending on where the w4eel randomly spins
+13. A "spin-the-wheel" app that does something depending on where the wheel randomly spins.
 14. A recipe book which lets you click on a recipe to show the steps, with multiple possible recipes (and images)
 15. A command-line calculator program using Python.
-16. A quiz game with multiple wacky and nonsensical questions (basically a guessing game) which also had a bunch of random minigames like "catch the ball" to cleverly incorporate some of the block requirements we expected.
-17. A science trivia game
+16. A quiz game with multiple wacky and nonsensical questions (basically a guessing game) which also had a bunch of random mini-games like "catch the ball" to cleverly incorporate some of the block requirements we expected.
+17. A science trivia game.

@@ -4,18 +4,18 @@
 
 Students will be able to...
 
-* Define and identify: **method**, **`__str__`**, **`__add__`**, **operator overloading**
-* Create a class with an `__init__` method
-* Understand and use the `self` argument
-* Instantiate a class with an argument
+* Define and identify: **method**, **`__str__`**, **`__add__`**, **operator overloading**.
+* Create a class with an `__init__` method.
+* Understand and use the `self` argument.
+* Instantiate a class with an argument.
 
 ## Materials/Preparation
 
 * [7.03 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%207.03%20TEALS.pptx)
 * [Do Now][]
-* [Lab - Kangaroo Class][] ([printable lab document][]) ([editable lab document][])
+* [Lab - Kangaroo Class][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/7.3)
-* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 
@@ -49,8 +49,8 @@ Students will be able to...
 #### Instruction - `__str__`
 
 * Need a method called `__str__`.
-* This will get called when you print an object
-* it returns a string that is easy to read and understand
+* This will get called when you print an object.
+* it returns a string that is easy to read and understand.
 
 #### Activity
 
@@ -87,5 +87,5 @@ Students that are moving quickly should work on the bonus assignment in the lab 
 
 [Do Now]:do_now.md
 [Lab - Kangaroo Class]:lab.md
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/03_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/03_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/03_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/03_lesson/lab.docx

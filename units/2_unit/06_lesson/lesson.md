@@ -4,17 +4,17 @@
 
 Students will be able to...
 
-* Define and identify: **while loop**
-* Use a while loop to simulate game play
+* Define and identify: **while loop**.
+* Use a while loop to simulate game play.
 
 ## Materials/Preparation
 
 * [2.06 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.06%20TEALS.pptx)
 * [Do Now][]
-* [Lab - Tic-Tac-Toe Revisited][] ([printable lab document][]) ([editable lab document][])
+* [Lab - Tic-Tac-Toe Revisited][] ([docx][]) ([pdf][])
 * [Associated Readings 2.7](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.7)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
-* Video Resources
+* Video Resources:
   * [Loops](https://youtu.be/LrOAl8vUFHY)
   * [Loops Demo](https://youtu.be/rAvD-6MpTw4)
 
@@ -43,7 +43,7 @@ Students will be able to...
 #### Discussion
 
 * Ask: how might while loops be useful?
-* Ask students to consider how they could write a loop using user input, using the following scenario:
+* Ask students to consider how they could write a loop using user input.
 * What if you wanted the loop to stop when the user inputs "quit"?
 
 #### Activity
@@ -52,7 +52,7 @@ Students will be able to...
 
 #### Student Share
 
-* call students up to the board to write out how they solved it.
+* Call students up to the board to write out how they solved it.
 
 ### 3. Lab
 
@@ -72,5 +72,5 @@ If there is extra time, have students start reading through the project specs an
   
 [Do Now]:do_now.md
 [Lab - Tic-Tac-Toe Revisited]:lab.md
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.docx

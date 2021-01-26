@@ -4,17 +4,17 @@
 
 Students will be able to...
 
-* Define and identify: **dictionary**, **key**, **value**
-* Create dictionaries of key-value pairs
-* Access items from dictionaries
+* Define and identify: **dictionary**, **key**, **value**.
+* Create dictionaries of key-value pairs.
+* Access items from dictionaries.
 
 ## Materials/Preparation
 
 * [6.01 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%206.01%20TEALS.pptx)
 * [Do Now][]
-* [Lab - Dictionary of Internet Abbreviations][] ([printable lab document][]) ([editable lab document][])
+* [Lab - Dictionary of Internet Abbreviations][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/6.1)
-* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 
@@ -74,7 +74,7 @@ Students will be able to...
 
 ### 3. Lab
 
-* Students will create a dictionary translating common internet phrases into their meanings.
+* Students will create a dictionary translating common phrases into their meanings.
 
 ### 4. Debrief
 
@@ -91,5 +91,5 @@ Students will be able to...
 
 [Do Now]: do_now.md
 [Lab - Dictionary of Internet Abbreviations]: lab.md
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/01_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/01_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/01_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/01_lesson/lab.docx

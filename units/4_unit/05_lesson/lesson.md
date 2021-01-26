@@ -4,18 +4,18 @@
 
 Students will be able to...
 
-* Read and understand longer programs involving loops
-* Demonstrate their knowledge of looping, lists, and nested loops/lists
-* Debug programs involving for loops and lists
+* Read and understand longer programs involving loops.
+* Demonstrate their knowledge of looping, lists, and nested loops/lists.
+* Debug programs involving for loops and lists.
 
 ## Materials/Preparation
 
 * [4.05 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%204.05%20TEALS.pptx)
 * Quiz (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
-* [Lab - Debugging Practice][] ([printable lab document][]) ([editable lab document][])
+* [Lab - Debugging Practice][] ([docx][]) ([pdf][])
 * [Coding Example][]
-* Read through the quiz, lesson, and lab so that you are familiar with the requirements and can assist students
-* Go through the quiz and create an answer key & scoring rubric
+* Read through the quiz, lesson, and lab so that you are familiar with the requirements and can assist students.
+* Go through the quiz and create an answer key & scoring rubric.
 
 ## Pacing Guide
 
@@ -34,7 +34,7 @@ Students will be able to...
 
 ### 2. Lesson
 
-* Talk about how to read code in a loop (you can use something of your choice or the provided [Coding Example][])
+* Talk about how to read code in a loop (you can use something of your choice or the provided [Coding Example][]).
 * Go over debugging practices for loops.
 * Use print statements throughout the code to show where error is.
 * Alter input to make sure body of loop is working correctly.
@@ -62,5 +62,5 @@ Provide an [Additional Coding Example]) for students that finish the lab exercis
 [Lab - Debugging Practice]: lab.md
 [Coding Example]: https://raw.githubusercontent.com/TEALSK12/2nd-semester-introduction-to-computer-science/master/units/4_unit/05_lesson/code_example.py
 [Additional Coding Example]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/longer_coding_sample.py
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.docx

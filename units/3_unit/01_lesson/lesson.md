@@ -4,16 +4,16 @@
 
 Students will be able to...
 
-* Define and identify: **function, arguments, calling, importing, returning**
-* Call the built-in `randint` function, using arguments
-* Utilize code other people have written in the Python documentation
-* Understand the difference between printing and returning
+* Define and identify: **function, arguments, calling, importing, returning**.
+* Call the built-in `randint` function, using arguments.
+* Utilize code other people have written in the Python documentation.
+* Understand the difference between printing and returning.
 
 ## Materials/Preparation
 
 * [3.01 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.01%20TEALS.pptx)
 * [Do Now][]
-* [Lab - Magic 8-Ball][] ([printable lab document][]) ([editable lab document][])
+* [Lab - Magic 8-Ball][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.1)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
@@ -30,7 +30,7 @@ Students will be able to...
 
 ### 1. Do Now
 
-* Give students 3-4 minutes to follow the instructions on the Do Now page.
+* Give students 3-4 minutes to follow the instructions on the [Do Now][] page.
 * Debrief the answers to the questions on the Do Now by calling on students to respond.
 
 ### 2. Lesson
@@ -42,7 +42,7 @@ Students will be able to...
   ![Snap Custom Block](https://i.ytimg.com/vi/Bbl2fh3igQ4/maxresdefault.jpg)
 
 * **Function**:  a named sequence of statements. You can use functions to perform complex calculations, graphical operations, and various other purposes. When you define a function, you specify the name and the sequence of statements. Later, you can "**call**" the function by name.
-* In SNAP! functions are blocks
+* In SNAP! functions are blocks.
 
 #### Function Contract
 
@@ -63,7 +63,7 @@ A function definition is like a contract: you tell the programmer what elements 
 
 * Remind students what they saw in the Do Now - how to get a random integer: randint(0, 10).
 * Identify the 0 and 10 in this example as **arguments**, or values passed into the function.
-* Ask students what the argument is when we use `print` or `type`
+* Ask students what the argument is when we use `print` or `type`.
 * `randint` gives back a value that you might want to store - this is called **returning**. If nothing is given back, the return value is `None`.
 
 #### More on Function Contracts
@@ -99,5 +99,5 @@ If students are moving quickly, find another library to import from (see **bonus
 
 [Do Now]:do_now.md
 [Lab - Magic 8-Ball]:lab.md
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/01_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/01_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/01_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/01_lesson/lab.docx
