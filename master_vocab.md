@@ -1,131 +1,107 @@
 # Master Vocabulary List
 
-## Unit 1
+## Unit 1 - Introduction to Python
 
 | Word | Definition |
 | -- | -- |
-| IDE | |
-| Python | |
-| Interpreter | |
-| String | |
-| Integer | |
-| Float | |
-| Value | |
-| Errors | |
-| console | |
-| Expression | |
-| Script | |
-| Print | |
-| Run | |
-| output | |
-| Variable | |
-| Script Mode | |
-| Interactive Mode | |
-| Comments | |
-| Storing | |
-| Mutability | |
-| Variable Assignment | |
-| Input | |
-| Debugging | |
-| Syntax | |
+| IDE | An Integrated Development Environment is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger. |
+| Python | A high-level general-purpose programming language. |
+| Interpreter | A software application that can analyze and execute a program line by line. |
+| String | A built-in data type that stores text. |
+| Integer | A built-in data type that stores integers. |
+| Float | A built-in data type that stores decimals. |
+| Value | In computer science, a value is the representation of some entity that can be manipulated by a program. The members of a type are the values of that type. |
+| Syntax Error | Python can only execute a program if the program is syntactically correct; otherwise, the process fails and returns an error message. Syntax refers to the structure of a program and the rules about that structure. For example, in English, a sentence must begin with a capital letter and end with a period. this sentence contains a syntax error. |
+| console | A program designed to be used via a text-only computer interface, such as a text terminal, the command line interface of some operating systems (Unix, DOS, etc.)  |
+| Expression | A combination of one or more constants, variables, operators, and functions that the programming language interprets (according to its particular rules of precedence) and computes to produce another value. |
+| Script | The syntax of the program. |
+| `print()` | The syntax used to display information to the console when the program is executed. |
+| Run | Is the commend used to begin the execution of an application or program. |
+| output | What appears in the console after the program has executed. |
+| Variable | A storage location (identified by a memory address) paired with an associated symbolic name, which contains some known or unknown quantity of information referred to as a value.  |
+| Comments | Syntax not executed by the interpreter |
+| Mutability | The existing value can be changed. |
+| Input | Data given to the application by the user. |
+| Debugging | The routine process of locating and removing computer program bugs, errors or abnormalities, which is methodically handled by software programmers via debugging tools. |
 
-## Unit 2 Data Types, Arguments, Lists and Loops
+## Unit 2 - Data Types, Arguments, Lists and Loops
 
 | Word | Definition |
 | --- | -- |
-| type | |
-| string | |
-| casting | |
-| Float | |
-| Integer | |
-| Boolean | |
-| Expression | |
-| Composition | |
-| True | |
-| False | |
-| If | |
-| Else | |
-| Elif | |
-| Conditionals | |
-| Flow of control | |
-| List | |
-| Item | |
-| Index | |
-| Slice | |
-| Append | |
-| Pop | |
-| Remove | |
-| While Loop | |
+| casting | Changing an entity from one data type to another. |
+| Boolean | Any data type of true or false value, yes or no value, or on or off (1 or 0) value. |
+| Composition | A way to combine objects or data types into more complex ones. |
+| Conditionals | A conditional statement is a set of rules performed if a certain condition is met. |
+| `If` | a programming conditional statement that, if proved true, performs a function or displays information. Below is a general example of an if statement, not specific to any particular programming language. if (X < 10) { print "Hello John"; } |
+| `Else` | A high-level programming language statement that compares two or more sets of data and tests the results. |
+| `Elif` | A statement that allows you to check multiple expressions for TRUE and execute a block of code as soon as one of the conditions evaluates to TRUE. |
+| Flow of control |  Control flow (or flow of control) is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. |
+| List | a list is an abstract data type that represents a countable number of ordered values, where the same value may occur more than once. |
+| Index | Used to specify the elements of an array of numbers. |
+| Slice | Obtaining a sub-string from the given string by slicing it respectively from start to end. |
+| Append | To add a value at the end of a list. |
+| Pop | To remove a value from the end of a list. |
+| Remove | Removes one item from the list. |
+| While Loop | A repeated operation while a specified condition is met. |
 
-## Unit 3 Functions
+## Unit 3 - Functions
 
 | Word | Definition |
 | -- | -- |
-| Function | |
-| Arguments | |
-| Calling Functions | |
-| Importing | |
-| Returning | |
-| Abstraction | |
-| Def | |
-| Return | |
-| None | |
-| Void | |
-| Scope | |
-| aliasing | |
-| stack trace | |
+| Function | A function is a block of organized, reusable code that is used to perform a single, related action. |
+| Arguments | A value that is passed between programs, subroutines or functions. |
+| Calling Functions | Telling the computer to run (or execute) that set of actions. |
+| Importing | To use data produced by another application. |
+| Returning | A statement that instructs a program to leave the subroutine and go back to the return address. |
+| Abstraction | The process of separating ideas from specific instances of those ideas at work. |
+| Scope | Variables can only reach the area in which they are defined. Think of it as the area of code where variables can be used. Python supports global variables (usable in the entire program) and local variables. |
+| aliasing | One variable's value is assigned to another variable. |
+| stack trace | A valuable piece of information that you can use to debug your code. |
 
-## Unit 4 For Loops and Nesting
+## Unit 4 - For Loops and Nesting
 
 | Word | Definition |
 | -- | -- |
-| For Loop | |
-| Item | |
-| Iteration | |
-| Scope | |
-| Range | |
-| Nested For Loops | |
-| Stack Trace | |
-| Nested List | |
+| For Loop | A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string). This is less like the for keyword in other programming language, and works more like an iterator method as found in other object-orientated programming languages. |
+| Iteration | A sequence of instructions that is continually repeated. |
+| `range()` | The range() function returns a sequence of numbers, starting from 0 by default, and increments by 1 (by default), and stops before a specified number. |
+| Nested For Loops |  a loop that occurs within another loop, structurally similar to nested if statements. |
+| Nested List | A list can contain any sort object, even another list (sublist), which in turn can contain sublists themselves, and so on. |
 
-## Unit 5 Music Programming
+## Unit 5 - Music Programming
 
 | Word | Definition |
 | -- | -- |
 | Digital Audio Workstation | |
 | Sound tab | |
-| fitMedia() | |
-| setTempo() | |
+| `fitMedia()` | |
+| `setTempo()` | |
 | Modulo | |
 | Section | |
 | A-B-A form | |
 
-## Unit 6 Dictionaries
+## Unit 6 - Dictionaries
 
 | Word | Definition |
 | -- | -- |
-| Dictionary | |
-| Key | |
-| Value | |
-| Pop | |
-| Default Value | |
-| Update | |
-| Append | |
-| Remove | |
+| Dictionary | an unordered collection of data values, used to store data values like a map, which unlike other Data Types that hold only single value as an element, Dictionary holds _key:value_ pair. |
+| `keys()` | The `keys()` method returns a view object. The view object contains the keys of the dictionary, as a list. |
+| `items()` | The `items()` method returns a view object. The view object contains the key-value pairs of the dictionary, |
+| `Update90` | The `update()` method inserts the specified items to the dictionary. The specified items can be a dictionary, or an iterable object with key value pairs. |
 
-## Unit 7 Introduction to Object Oriented Programming
+## Unit 7 - Introduction to Object Oriented Programming
 
 | Word | Definition |
 | -- | -- |
-| Class | |
-| Instance | |
+| Class | A class is written by a programmer in a defined structure to create an object (computer science) in an object oriented programming language. It defines a set of properties and methods that are common to all objects of one type. |
 | Object | |
+| Instance | An object belonging to a particular class may also be described as an instance. |
 | Attributes | |
 | Self | |
-| __Init__ | |
+| `__Init__` | |
 | Method | |
-| __str__ | |
-| __Add__ | |
+| `__str__` | |
+| `__Add__`| |
 | Operating overloading | |
 | Inheritance | |
 | Parent Class | |
