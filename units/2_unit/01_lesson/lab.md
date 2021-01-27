@@ -23,4 +23,4 @@
 
 ### Bonus
 
-Make your program have two modes: an integer mode and a float mode. Add another input to ask which mode the user wants to use. If the user is in integer mode print out integers, otherwise print out float. Feel free to research Python docs (This is a concept covered in Snap)
+Make your program have two modes: an integer mode and a float mode. Add another input to ask which mode the user wants to use. If the user is in integer mode print out integers, otherwise print out float. Feel free to research Python docs (This is a concept covered in Snap).

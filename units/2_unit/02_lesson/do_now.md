@@ -35,7 +35,7 @@ Open up the console. Type the following code into the interactive editor.
 ### In your Notebook, add this to your notes in your notebook
 
 1. What does `and` do here? What type do you think `can_get_license` is?
-2. Update the code to fit the new driving law: If you are over the age of 18 you don't need to have a permit
+2. Update the code to fit the new driving law: If you are over the age of 18 you don't need to have a permit.
 
 ## Part 3
 

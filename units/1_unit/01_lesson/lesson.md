@@ -19,7 +19,7 @@ Students will be able to...
 * [Install Visual Studio Code and the Python Extension](https://code.visualstudio.com/docs/python/python-tutorial)
 * Note: As with all software services, it is the school's sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school's responsibility to ensure the tool meets it's IT policies.
 * Review how to run [Hello World using Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial#_run-hello-world).
-* Video Resources
+* Video Resources:
 
   * [Programming with Python](https://youtu.be/jFCNu1-Xdsw)
   * [Introducing Python](https://youtu.be/7XOhibxgBlQ)

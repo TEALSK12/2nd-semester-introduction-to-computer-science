@@ -4,17 +4,17 @@
 
 Students will be able to...
 
-* Define and identify: **abstraction**, **section**, **A-B-A form**
-* Create and apply user-defined functions to create songs with complicated form
+* Define and identify: **abstraction**, **section**, **A-B-A form**.
+* Create and apply user-defined functions to create songs with complicated form.
 
 ## Materials/Preparation
 
 * [5.04 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%205.04%20TEALS.pptx)
 * [Do Now][]
-* [Lab - User-Defined Functions][] ([printable lab document][]) ([editable lab document][])
+* [Lab - User-Defined Functions][] ([docx][]) ([pdf][])
 * [EarSketch Editor][]
-* Associated Reading in EarSketch
-* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+* Associated Reading in EarSketch.
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 
@@ -43,7 +43,7 @@ Students will be able to...
     * Section A (repeated): measures 7-10.
 * Ask students about returning the measure number.
 * Go over the concept of passing around the measure number and make sure students understand how it would be helpful.
-* Since it allows you to change how long/short sections are without updating every function
+* Since it allows you to change how long/short sections are without updating every function.
 
 ### 3. Lab
 
@@ -69,5 +69,5 @@ Students that are moving quickly could explore and create alternative song forms
 [Do Now]: do_now.md
 [Lab - User-Defined Functions]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/04_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/04_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/04_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/04_lesson/lab.docx

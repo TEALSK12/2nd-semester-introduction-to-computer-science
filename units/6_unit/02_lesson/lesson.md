@@ -4,19 +4,19 @@
 
 Students will be able to...
 
-* Define and identify: **pop**, **default value**
-* Update values in a dictionary
-* Add values to a dictionary
-* Remove values from a dictionary
+* Define and identify: **pop**, **default value**.
+* Update values in a dictionary.
+* Add values to a dictionary.
+* Remove values from a dictionary.
 
 ## Materials/Preparation
 
 * [6.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%206.02%20TEALS.pptx)
 * [Do Now][]
-* [Lab - Word Counter][] ([printable lab document][]) ([editable lab document][])
-* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
+* [Lab - Word Counter][] ([docx][]) ([pdf][])
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][]).
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/6.2)
-* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 
@@ -72,5 +72,5 @@ Some students may need to be explicitly reminded of the `in` keyword to check if
 [Do Now]: do_now.md
 [Lab - Word Counter]: lab.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/02_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/02_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/02_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/02_lesson/lab.docx

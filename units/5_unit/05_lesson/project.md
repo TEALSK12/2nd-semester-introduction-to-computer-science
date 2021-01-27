@@ -17,11 +17,11 @@ Using Python and EarSketch you will create a complete song consisting of 2 verse
 
 ### Implementation Details
 
-* Use of `for` loop for creating tracks
-* Use of control flow operators
-* Proper use of `fitMedia`, `makeBeat`, `setEffect`
-* Use of user-defined functions for tracking forms and verses and choruses
-* Use of return statements for tracking the measure
+* Use of `for` loop for creating tracks.
+* Use of control flow operators.
+* Proper use of `fitMedia`, `makeBeat`, `setEffect`.
+* Use of user-defined functions for tracking forms and verses and choruses.
+* Use of return statements for tracking the measure.
 
 ## Copyright Note
 

@@ -4,18 +4,18 @@
 
 Students will be able to...
 
-* Define and identify: **class**, **instance**, **object**, **attribute**
-* Create a class and instantiate
-* Add attributes to an instance
-* Create an embedded object
-* Manipulate instances and attributes through a function
+* Define and identify: **class**, **instance**, **object**, **attribute**.
+* Create a class and instantiate.
+* Add attributes to an instance.
+* Create an embedded object.
+* Manipulate instances and attributes through a function.
 
 ## Materials/Preparation
 
 * [7.01 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%207.01%20TEALS.pptx)
 * [Do Now][]
 * [Example][]
-* [Lab][] ([printable lab document][]) ([editable lab document][])
+* [Lab][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/7.1)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 
@@ -32,9 +32,9 @@ Students will be able to...
 
 ### 1. Do Now
 
-* Display the Do Now. 
-* Give the students at least five minutes to think about the questions posed in the Do Now. 
-* This might be a good time for a think-pair-share. 
+* Display the [Do Now][].
+* Give the students at least five minutes to think about the questions posed in the [Do Now][].
+* This might be a good time for a think-pair-share.
 
 ### 2. Lesson
 
@@ -48,6 +48,7 @@ Students will be able to...
 
 * A **class** is a user-defined type.
 * Syntax for creating a **class**:
+
     ```python
     class Pet:
         """Represents a pet."""
@@ -60,6 +61,7 @@ Students will be able to...
     ```python
     my_pet = Pet()
     ```
+
 * If you check the type of the instance it will be `Pet`.
 * Instances are mutable, they can be changed or updated.
 * An instance can also be referred to as an **object**.
@@ -68,7 +70,7 @@ Students will be able to...
 #### Demonstration
 
 * Show [Example] on board to demonstrate the `Pet` class.
-* Ask students what the difference is between this and the do now.
+* Ask students what the difference is between this and the [Do Now][].
 * Have the students identify where the class is created.
 * Next have the students identify where the class is instantiated.
 * Ask students what they think `pet.full_name` will do.
@@ -87,9 +89,13 @@ Students will be able to...
     my_pet.noise = 'bark'
     my_pet.full_name = 'Lassie'
     ```
+
 * An object can be visualized with an **object diagram**.
+
 ![An object diagram for a Pet object.](images/object_diagram.png)
+
 * Objects can be attributes for another object. These are **embedded objects**. The following example illustrates this.
+
     ```python
     class Pet:
         """Represents a pet."""
@@ -105,10 +111,13 @@ Students will be able to...
     my_pet.owner = Owner()
     me.owner.full_name = 'Princess Firebolt'
     ```
+
 * An object diagram for an embedded object looks like the following.
+
 ![An object diagram with an embedded object.](images/embedded_object_diagram.png)
 
 #### Instruction - Debugging objects
+
 * Objects have their own unique bugs that can arise.
   * Declaring a class without any code in the body (even if that code is the docstring, which is good practice anyhow), will throw a syntax error.
   * Calling an attribute that hasn't been defined will throw an attribute error.
@@ -136,5 +145,5 @@ For students that are quickly picking up the concepts, have them create their ow
 [Do Now]:do_now.md
 [Lab]:lab.md
 [Example]:example.md
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.docx

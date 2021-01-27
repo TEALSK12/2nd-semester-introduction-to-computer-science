@@ -35,4 +35,4 @@
 
 ## Continue In your Notebook
 
-Explain what happens in the program
+Explain what happens in the program.

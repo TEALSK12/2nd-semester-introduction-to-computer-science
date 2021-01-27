@@ -4,20 +4,20 @@
 
 Students will be able to...
 
-* Define and identify: **modulo**
-* Demonstrate looping and control structures
-* Demonstrate the use of looping concepts in music making via EarSketch
-* Demonstrate using control structures to create music
+* Define and identify: **modulo**.
+* Demonstrate looping and control structures.
+* Demonstrate the use of looping concepts in music making via EarSketch.
+* Demonstrate using control structures to create music.
 
 ## Materials/Preparation
 
 * [5.03 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%205.03%20TEALS.pptx)
 * [Do Now][]
-* [Lab - EarSketch Control Flow][] ([printable lab document][]) ([editable lab document][])
+* [Lab - EarSketch Control Flow][] ([docx][]) ([pdf][])
 * [EarSketch Editor][]
-* Associated Reading in EarSketch
-* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
-* Video Explanation of Modulo in Python (Visual Rhythms)
+* Associated Reading in EarSketch.
+* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
+* Video Explanation of Modulo in Python (Visual Rhythms).
 
   [![Video Explanation of Modulo in Python](https://img.youtube.com/vi/2Tg9FxIajho/0.jpg)](https://youtu.be/2Tg9FxIajho)
 
@@ -63,5 +63,5 @@ Students that are moving quickly can read additional documentation on the EarSke
 [Do Now]: do_now.md
 [Lab - EarSketch Control Flow]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/03_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/03_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/03_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/03_lesson/lab.docx
