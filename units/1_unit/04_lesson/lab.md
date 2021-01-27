@@ -2,18 +2,18 @@
 
 ## Project Objective
 
-* Use Python to interact with variables and user input
+* Use Python to interact with variables and user input.
 * Create a genie program. Save the file as `magic_genie.py`.
 
 ### Project Specifications
 
-* Have the program introduce itself
-* Have the program ask for three separate wishes
-* Print all the wishes together
+* Have the program introduce itself.
+* Have the program ask for three separate wishes.
+* Print all the wishes together.
 
 ![magic_genie_output](magic_genie_output.png)
 
-* There are some repeated strings in this genie program. Move those into variables
+* There are some repeated strings in this genie program. Move those into variables.
 
 ### Genie Confusion
 
@@ -27,4 +27,4 @@ Now it's time to make your genie confused. Edit your code to have him print your
 
 ### Hint
 
-Remember to add spaces you can combine `" "`  to the end of your string using the `+` operator. So `print("hello" + " " + "student")` would print `hello student`
+Remember to add spaces you can combine `" "`  to the end of your string using the `+` operator. So `print("hello" + " " + "student")` would print `hello student`.

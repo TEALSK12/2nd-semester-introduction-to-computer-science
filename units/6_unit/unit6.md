@@ -4,7 +4,7 @@
 
 * How do you use Dictionaries to create key-value pairs in Python?
 * How do you add, remove and append list values in a dictionary?
-* How do you use loops to travers the key/value pairs of a dictionary?
+* How do you use loops to traverse the key/value pairs of a dictionary?
 
 ## Pacing Guide
 

@@ -10,9 +10,9 @@ Students will be able to...
 ## Materials/Preparation
 
 * [4.06 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%204.06%20TEALS.pptx)
-* [Project Spec - Tic-Tac-Toe][] ([printable project Spec][]) ([editable project spec][])
+* [Project Spec - Tic-Tac-Toe][] ([docx][1]) ([pdf][2])
   * [Teacher's guide for BC curriculum alignment](project_canada.md)
-* [Alternate Project Spec - 2 Player Tic-Tac-Toe][] ([printable alternate project Spec][]) ([editable alternate project spec][])
+* [Alternate Project Spec - 2 Player Tic-Tac-Toe][] ([docx][3]) ([pdf][4])
 * [Tic Tac Toe Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/tictactoe_starter_code.py)
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
 * Read through the handout, lesson, and project so that you are familiar with the requirements and can assist students
@@ -118,7 +118,8 @@ Students will be able to...
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
 
-[printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/project.pdf
-[editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/project.docx
-[printable alternate project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/projecta.pdf
-[editable alternate project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/projecta.docx
+[1]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/project.docx
+[2]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/project.pdf
+[3]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/projecta.docx
+[4]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/projecta.pdf
+

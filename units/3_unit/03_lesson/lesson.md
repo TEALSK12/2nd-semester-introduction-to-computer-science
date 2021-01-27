@@ -4,14 +4,14 @@
 
 Students will be able to...
 
-* Define and identify: **return, none**
-* Explain and demonstrate the difference between printing and returning
+* Define and identify: **return, none**.
+* Explain and demonstrate the difference between printing and returning.
 
 ## Materials/Preparation
 
 * [3.3 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.03%20TEALS.pptx)
 * [Do Now][]
-* [Lab - War (Card Game)][] ([printable lab document][]) ([editable lab document][])
+* [Lab - War (Card Game)][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.3)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 * Video Resources
@@ -85,5 +85,5 @@ As an extension activity, ask students to research the shuffle function and the 
 
 [Do Now]:do_now.md
 [Lab - War (Card Game)]:lab.md
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/03_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/03_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/03_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/03_lesson/lab.docx

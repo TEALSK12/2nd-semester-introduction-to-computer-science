@@ -4,17 +4,17 @@
 
 Students will be able to...
 
-* Define and identify: **interpreter, string, integer, float, value, errors, console, expression**
-* Use the Python interpreter to evaluate simple math expressions
-* Distinguish between an integer, float, and string
+* Define and identify: **interpreter, string, integer, float, value, errors, console, expression**.
+* Use the Python interpreter to evaluate simple math expressions.
+* Distinguish between an integer, float, and string.
 
 ## Materials/Preparation
 
 * [1.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.02%20TEALS.pptx)
-* [Lab - Using the Interpreter][] ([printable lab document][]) ([editable lab document][])
+* [Lab - Using the Interpreter][] ([docx][]) ([pdf][])
 * [Associated Reading - section 1.1](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/1.1)
-* Ensure all students are able to log into the system
-* Go through the lab so that you are familiar with the requirements/results and can assist students
+* Ensure all students are able to log into the system.
+* Go through the lab so that you are familiar with the requirements/results and can assist students.
 
 ## Pacing Guide
 
@@ -37,7 +37,7 @@ Students will be able to...
 
 #### Guided Activity
 
-* Have students all bring up their console on their computer
+* Have students all bring up their console on their computer.
 * The part on right half of the screen is called a **console**:
 * The **console** is a place where you can interact with a program.
 * The **interpreter** runs Python code.
@@ -46,23 +46,23 @@ Students will be able to...
 
 ### 3. Lab Part 1
 
-Give students time to work on section 1,
+Give students time to work on section 1.
 
 #### Discussion Section 1
 
 * What does the // do? How is that different from /? And how are those different from %?
 * What's the difference between 3.0 and 3?
-* Go over the following two terms
+* Go over the following two terms:
   1. **Floats**: a data type, number with a decimal point.
   2. **Integers**: a data type, number without a decimal point.
-* Now, give students time to work on section 2
+* Now, give students time to work on section 2.
 
 #### Discussion Section 2
 
 * What happened when you typed in a?
 * What do you think that error message mean?
 * Go over **String**: a data type, characters surrounded in single or double quotes.
-* Now, give students time to work on section 3
+* Now, give students time to work on section 3.
 
 #### Discussion Section 3
 
@@ -70,7 +70,7 @@ Give students time to work on section 1,
 * Strings can be combined using `+`.
 * What do you think the error message means?
 * You can't combine different types!
-* Now, give students time to work on section 4
+* Now, give students time to work on section 4.
 
 #### Discussion Section 4
 
@@ -80,15 +80,15 @@ Give students time to work on section 1,
 ### 4. Lab Part 2
 
 * Define **expression**: a combination of values and operators (and variables)
-* Ask students to give an example of an expression
+* Ask students to give an example of an expression.
 * Make sure students write down their predictions before going to the interpreter/IDE to check the actual output.
 
 ### 5. Debrief
 
 * Discuss any surprising/unexpected results.
 * Remind students of adding strings together using `+`.
-* Talk about how single and double quotes are interchangeable
-* Multiplying strings
+* Talk about how single and double quotes are interchangeable.
+* Multiplying strings.
 * Order of Operations is the same as what students have learned in math class.
 * Discuss why it might be helpful to have an interactive console. How is it different than snap?
 
@@ -102,5 +102,5 @@ If students are moving quickly, have students practice higher order-of-operation
 
 [Lesson 1.02: Interactive Mode (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-02-interactive-mode)
 
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/02_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/02_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/02_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/02_lesson/lab.docx

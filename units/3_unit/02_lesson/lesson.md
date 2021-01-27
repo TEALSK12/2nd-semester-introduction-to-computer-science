@@ -11,10 +11,10 @@ Students will be able to...
 
 * [3.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.02%20TEALS.pptx)
 * [Do Now][]
-* [Lab - Birthday Song & Random Cards][] ([printable lab document][]) ([editable lab document][])
+* [Lab - Birthday Song & Random Cards][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.2)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
-* Video Resources
+* Video Resources:
   * [Intro to Functions](https://youtu.be/nrCAxXfRU28)
   * [Functions Demo](https://youtu.be/C9ZEGqGHXms)
 
@@ -37,25 +37,25 @@ Students will be able to...
 
 #### Abstraction
 
-* Abstraction is managing the complexity of a program by removing details and pushing them down to a lower level
+* Abstraction is managing the complexity of a program by removing details and pushing them down to a lower level.
 * Ask students to brainstorm why a function might be useful in programming.
   * Less repeated code.
-  * Breaking the problem up into smaller pieces and solving each piece
+  * Breaking the problem up into smaller pieces and solving each piece.
 
 #### Demonstration
 
-* Demonstrate to students how you create a function using *def*, calling out the syntax and where arguments would go.
+* Demonstrate to students how you create a function using `def`, calling out the syntax and where arguments would go.
 * Ask students how they would call your example function.
 * Have students practice making a function that takes two arguments, adds them together, and returns the sum.
 
 #### Function Contracts
 
-* Introduce the concept of a function contract using `#`, which adds a comment (non-executed line of code)
+* Introduce the concept of a function contract using `#`, which adds a comment (non-executed line of code).
 * The function contract should
-  * specify the name
-  * explain the purpose
-  * list what arguments it takes in and the types of those arguments
-  * specify the return type
+  * Specify the name of the function.
+  * Explain the purpose of the function.
+  * List what arguments it takes in and the types of those arguments.
+  * Specify the return type.
 
 ### 3. Lab
 
@@ -76,5 +76,5 @@ If students are moving quickly, they could go back and use functions to improve 
   
 [Do Now]:do_now.md
 [Lab - Birthday Song & Random Cards]:lab.md
-[printable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.pdf
-[editable lab document]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.docx

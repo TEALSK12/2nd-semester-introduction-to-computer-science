@@ -4,16 +4,16 @@
 
 Students will be able to...
 
-* Use dictionaries to create the game [Guess Who][]
+* Use dictionaries to create the game [Guess Who][].
 
 ## Materials/Preparation
 
 * [6.05 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%206.05%20TEALS.pptx)
 * [Do Now][]
-* [Project Spec - Buy an Umbrella][] ([printable Spec][])([editable spec][])
-* [Project Spec - Guess Who][] ([printable project Spec][]) ([editable project spec][])
-* [Project Spec - Guess Who (Hockey Canada Edition)][]([printable project Canada Spec][]) ([editable project Canada spec][])
-* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
+* [Project Spec - Buy an Umbrella][] ([docx][1]) ([pdf][2])
+* [Project Spec - Guess Who][] ([docx][3]) ([pdf][4])
+* [Project Spec - Guess Who (Hockey Canada Edition)][] ([docx][5]) ([pdf][6])
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][]).
 * Read through the do now and project spec so that you are familiar with the requirements and can assist students.
 * Try creating your own variation on the Guess Who game so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem][]
@@ -73,7 +73,7 @@ Students will be able to...
 
 ### 3. Project Work
 
-* Students work independently to complete their projects and meet their daily goals
+* Students work independently to complete their projects and meet their daily goals.
 
 ### 4. **Wrap Up**
 
@@ -83,7 +83,7 @@ Students will be able to...
 
 * Some students may need a refresher on using a `while` loop to control whether the game is over or not.
 * Some students may also need additional assistance or scaffolding for how to randomly choose a character from the dictionary.
-* For students who are looking for more of a challenge, we have added a second project called [Project Spec - Buy an Umbrella]
+* For students who are looking for more of a challenge, we have added a second project called [Project Spec - Buy an Umbrella][].
 
 ## Grading
 
@@ -113,9 +113,9 @@ Students will be able to...
 
 [Guess Who]:https://en.wikipedia.org/wiki/Guess_Who%3F
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
-[printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project.pdf
-[editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project.docx
-[printable Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.pdf
-[editable spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.docx
-[printable project Canada Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project_canada.pdf
-[editable project Canada spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project_canada.docx
+[1]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project.docx
+[2]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project.pdf
+[3]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project_canada.docx
+[4]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/project_canada.pdf
+[5]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.docx
+[6]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/05_lesson/projectb.pdf
