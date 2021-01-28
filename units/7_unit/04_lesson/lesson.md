@@ -6,7 +6,7 @@ Students will be able to...
 
 * Define and identify: **inheritance**,  **parent class**, **child class**.
 * Create a class that inherits from anther class.
-* Overwrite methods of parent class in a child class.
+* Override methods of parent class in a child class.
 
 ## Materials/Preparation
 
@@ -49,7 +49,9 @@ Students will be able to...
 * Ask: in the example from the do now, which is the child and which is the parent?
 * Child classes gain access to all the methods of the parent class.
 * What does `dog1.make_nosie()` print out?
-* Child classes can also overwrite their parent classes. Have the students practice overwriting `make_noise` in the `Dog` class so that the dog will print out `bark bark`.
+* Child classes can also override their parent classes. Have the students practice overriding `make_noise` in the `Dog` class so that the dog will print out `bark bark`.
+  * A child can override any method, including `__init__`, and can add methods and attributes that are not in the parent class.
+  * Overriding a method in one child class does not affect instances of the parent class and another child class could override the method in its own unique way.
 
 ### 3. Lab
 
