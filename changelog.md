@@ -4,6 +4,21 @@
 
 -----------------
 
+### 1/29/2021
+
+* Removed Loop Diagram references
+* Fixed links in Unit 7 to go to the correct PPTs
+* fixed curriculum Map link to lesson 7.03
+* Updated lesson 3.04 for correctness
+* Updated student guidance on Do_Now 7.04
+* updated 7.04 for sample code correctness
+* Changed 7.04 references of "Overwrite" to "Override"
+* Updated Chunking of the 7.05 Pokemon Project instructions
+* fixed 03.05 link to editable rubric
+* Removed Unit Mapping links from the curriculum map
+
+-----------------
+
 ### 1/26/2021
 
 * Updated Unit 1 Project Rubric.
