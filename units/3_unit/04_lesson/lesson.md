@@ -56,20 +56,17 @@ Students will be able to...
 
    [![Python - Scope](https://img.youtube.com/vi/A054Ged9suI/0.jpg)](https://youtu.be/A054Ged9suI)
 
-#### Global variables: variables defined outside of a function and used in many different functions
+#### Global variables, Constants and Local Variables
 
-* To modify global variables defined outside the function you must declare the variable with the statement `global name_of_variable`.
-* Any variable created inside of a function is a local variable.
-* Variables in functions include the function parameters, the variables defined in the function and variables declared as global.
-* Local variables of functions can't be accessed from outside when the function call has finished.
 * Explain global variables are often used for constants.
-* NOTE: We use the 'ALL CAPS' convention for global variables.
+* Any variable created inside of a function is a local variable.
+* Variables in functions include the function parameters, the variables defined in the function.
+* Local variables of functions can't be accessed from outside when the function call has finished.
 
 #### Conventions
 
 * Discuss that programming languages frequently have **conventions**. It helps make code more readable, but isn't essential to functionality (in most cases). Here are some examples,
-* camelCase for function names.
-* ALL_CAPS for global variables.
+* When using a global variable as a constant, the convention is to use "All Caps" in the name of the variable.
 * underscore_separated for variables.
 
 #### Stick Diagrams
