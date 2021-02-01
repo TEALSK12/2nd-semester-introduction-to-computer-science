@@ -1,11 +1,3 @@
-<meta charset="utf-8"><link rel="stylesheet" media="screen" href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/styles/curriculum.css">
-**TEALS Program**
-<a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/">Home</a> | 
-<a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/curriculum_map.md.html">Curriculum Map</a> | 
-<a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html">Additional Readings</a> | 
-<a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/changelog.md.html">Change Log</a>
-
- 
 # Master Vocabulary List
 
 ## Unit 1 - Introduction to Python
@@ -115,5 +107,3 @@
 | Parent Class | the class being inherited from, also called base class. |
 | Child Class | The class that inherits from another class, also called derived class. |
 | Class Design | Planning out relations between classes, outside of the editor. |
-
-<!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
