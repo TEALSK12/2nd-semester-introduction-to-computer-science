@@ -5,18 +5,22 @@
 ### Type the following
 
 ```python
-class Pet:
-  def __init__(self, name):
-    self.name = name
+class Time(object):
+  def __init__(self, hour, minute, second):
+        self.hour = hour
+        self.minute = minute
+        self.second = second
 
-my_pet = Pet('Peter')
-print(my_pet.name)
+time1 = Time(5, 32, 0)
+time2 = Time(23, 11, 11)
+
+print(time1)
+print(time2)
 ```
 
 ## In your Notebook
 
 ### Respond to the following
 
-1. What is the purpose of the `__init__` method?
-2. What if you wanted to initialize all pet objects with a name and a color?
-3. How would you modify the code to create a pet object with a name of "Peter" and a color of "brown"?
+1. Based on what is output, how can you tell the difference between `time1` and `time2`?
+2. What happens if you try to add `time1` add `time2`?

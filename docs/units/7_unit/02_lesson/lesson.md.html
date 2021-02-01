@@ -6,23 +6,23 @@
 <a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/changelog.md.html">Change Log</a>
 
  
-# Lesson 7.02: User-Defined Types, Part 2
+# Lesson 7.02: Methods
 
 ## Learning Objectives
 
 Students will be able to...
 
-* Define and identify: **self**, **`__init__`**.
-* Create a class with an `init` method.
+* Define and identify: **method**, **`__str__`**, **`__add__`**, **operator overloading**.
+* Create a class with an `__init__` method.
 * Understand and use the `self` argument.
-* Instantiate a class with arguments.
+* Instantiate a class with an argument.
 
 ## Materials/Preparation
 
-* [7.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.02%20TEALS.pptx)
+* [7.03 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.03%20TEALS.pptx)
 * [Do Now][]
-* [Lab - Pet Class][] ([docx][]) ([pdf][])
-* [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html#associatedreadings/7.2)
+* [Lab - Kangaroo Class][] ([docx][]) ([pdf][])
+* [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html#associatedreadings/7.3)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
@@ -39,49 +39,63 @@ Students will be able to...
 ### 1. Do Now
 
 * Display the Do Now on the board.
-* Students use the `__init__` method and explore how to initialize new objects with one or more arguments.
+* Students will find that when they try to print the two different Time objects, it produces output that's not particularly useful or readable.
+* Students will also discover that adding objects doesn't work...yet!
 
 ### 2. Lesson
 
-#### Discuss the Do Now
+#### Instruction - Method
 
-* Ask Students the following:
-  * What is the name of the class?
-  * Where does the Pet object get instantiated?
+* A function inside of a class.
+* The first argument is always `self`.
 
-#### Instruction - `__init__`
+#### Discussion
 
-* `__init__` is a special function that is called when the class is first initialized.
-* If there is a print statement added to the `__init__` method, when would it get printed?
+* Ask students what method we have already seen and used previously. (`init`)
+* Ask students how they would distinguish between the two time variables.
 
-#### Instruction - `self`
+#### Instruction - `__str__`
 
-* `self` is a way of referring to the instance within a function.
-* What does `self.name` do and how does that relate to what `my_pet.name` does?
-* Previously we had added attributes *after* the class was instantiated, but `self` allows for us to assign those at once in a single method.
+* Need a method called `__str__`.
+* This will get called when you print an object.
+* it returns a string that is easy to read and understand.
+
+#### Activity
+
+* Have the students practice writing `__str__` for the `Time` class for 5 minutes.
+* Have a student write up their string method on the board.
+
+#### Instruction `__add__`
+
+* A method that gets called when the plus sign is used between two `Time` objects.
+* In this case it takes as parameters `self` and another `Time` object and returns a `Time` object that is the sum of both.
+* Overwriting add is called **operator overloading** because you are re-writing the code used to make the + work.
+
+#### Demonstration
+
+* Work together with students to come up with the add time algorithm.
 
 ### 3. Lab
 
-* Students will make a Pet class. Each pet will have an animal type, color, food, noise, and name.
-* Next students write a function that will take a list of pets and print out their name and the food they like to eat.
+* Have students finish up the time adding method.
+* Have students work on kangaroo lab.
 
 ### 4. Debrief
 
-* Check for student understanding and completion of the lab.
-* Review the two key concepts introduced today (`self` and `__init__`).
+* Go over students' questions and demonstrate some students' successfully completed labs.
+* Review what a method is, as well as what specific methods were used in today's lab.
 
 ## Accommodation/Differentiation
 
-As with the previous lesson, be prepared for some students to struggle with the new vocabulary and concepts being introduced. Reinforce the use of vocabulary such as **instantiate**, **object**, and **attribute** so that students are consistently exposed to how to use these terms.  
+Students that are moving quickly should work on the bonus assignment in the lab or assist a partner that is struggling.
 
 ## Forum discussion
 
-[Lesson 7.02: User-Defined Types, Part 2 (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-02-user-defined-types-part-2)
-  
-[Do Now]:do_now.md.html
-[Lab - Pet Class]:lab.md.html
+[Lesson 7.03: Methods (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-7-classes/lesson-7-03-methods)
 
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/02_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/02_lesson/lab.docx
+[Do Now]:do_now.md.html
+[Lab - Kangaroo Class]:lab.md.html
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/03_lesson/lab.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/03_lesson/lab.docx
 
 <!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
