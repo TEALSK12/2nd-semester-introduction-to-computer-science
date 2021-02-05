@@ -14,8 +14,7 @@ Students will be able to...
 * [Lab - Shopping List](lab.md) ([docx][]) ([pdf][])
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students.
 * Explanation video of Nested Lists.
-
-  [![Nested List](https://img.youtube.com/vi/kzZR9veV78A/0.jpg)](https://youtu.be/kzZR9veV78A)
+  * [Nested Loops](https://youtu.be/fyP4SXpkYG4)
 
 ### Day 1 Pacing
 
