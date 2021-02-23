@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [2.03 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.04%20TEALS.pptx)
+* [2.04 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.04%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Food Chooser][] ([docx][]) ([pdf][]).
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][]).
