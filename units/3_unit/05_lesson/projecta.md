@@ -1,4 +1,4 @@
-# Alternate Project 3: Daily Planner
+# Project 3: Daily Planner
 
 Created by Brian Weinfeld
 
@@ -6,7 +6,7 @@ Using variables, functions, and conditionals in Python, you will create a daily 
 
 ## Overview
 
-In this project, you will be creating a daily planner program. A daily planner helps a user track what they need to do today and when they need to do it. This can be thought of as a TODO list that pairs each action with a time when the action is done. A planner can help make sure a person doesn't accidently book two things for the same time. Do you add events to your phone's calendar?
+In this project, you will be creating a daily planner program. A daily planner helps a user track what they need to do today and when they need to do it. This can be thought of as a Todo List that pairs each action with a time when the action is done. A planner can help make sure a person doesn't inadvertently book two things for the same time. Do you add events to your phone's calendar?
 
 ## Details
 
@@ -79,7 +79,7 @@ What would you like to do? (add, clear, display, exit) exit
 Goodbye
 ```
 
-### Implementation Details
+### Implementation details
 
 The planner is a list that has 24 empty strings in it. (The empty string is ''). Each of the 24 indexes represent 1 hour of time in a day. For example, index 0 represents 12:00AM to 12:59AM, index 1 represents 01:00AM to 01:59AM and index 23 represents 11:00PM to 11:59PM. Your program will allow a user to add events at certain times of the day and prevent conflicts from occurring. All of the events will take exactly 1 hour.
 
@@ -122,8 +122,8 @@ if either the event is critical (overwriting any event already in the planner at
 * Combine all the information into one line so that it is easier to interact with the planner. For example, you might add a new event
 by entering "add go to school 8 13 critical" or "add practice lines 14 15 not"
 
-### Super Challenge
+### Super challenge
 
 The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
 
-Sometimes the time the event is scheduled for is less important than making sure the event is on the schedule. Add a parameter to the functions that add an element to the schedule called __force__. If force is true, the event must be scheduled. If it can't be scheduled at the expected time, find the closest available timeslot in the future and schedule it there instead. If the event is critical, then the displaced event should be moved forward. Be sure to alert the user that the event has been scheduled, but at a different time than expected! The placement will still fail if there are no available timeslots to place the event.
+Sometimes the time the event is scheduled for is less important than making sure the event is on the schedule. Add a parameter to the functions that add an element to the schedule called __force__. If force is true, the event must be scheduled. If it can't be scheduled at the expected time, find the closest available time-slot in the future and schedule it there instead. If the event is critical, then the displaced event should be moved forward. Be sure to alert the user that the event has been scheduled, but at a different time than expected! The placement will still fail if there are no available time-slots to place the event.
