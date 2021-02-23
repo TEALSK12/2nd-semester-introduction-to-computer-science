@@ -75,7 +75,7 @@ Students will be able to...
 
 ### Objective Scoring Breakdown
 
-[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
+[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/rubric.docx)
 
 | Points | Percentage| Objective | Lesson |
 | :---: | :---: | --- | --- |
