@@ -1,6 +1,6 @@
-# Lab 2.03 - Game Show
+# Lab 2.03 - triangle program
 
-## In your Notebook
+## In your notebook
 
 ### Follow the flow of execution in the following programs and predict what will happen for each one
 
@@ -47,18 +47,16 @@
         print("I don't recognize that color. Is it even...??")
 ```
 
-## In your Console
-
-### Translate this Snap! program into a Python program
+## In your Console, translate this Snap! program into a Python program
 
 ![triangle_program](triangle_program.png)
 
-### Create a game show program
+### Create a triangle program
 
-* Declare 10 prizes (prize1, prize2, prize 3 at the top of your file)
-* User picks a number
-* The prize corresponding with that door is printed for the user.
+* The program will ask for the lengths of all three sides of a triangle.
+* The program will find the perimeter.
+* The program will display what kind of triangle it is or if it is a triangle
 
 ## Bonus
 
-Research lists in Python. Re-implement problem 3 using lists.
+Research lists in Python. Re-implement problem 2 using lists.
