@@ -1,10 +1,10 @@
-# Lab 2.01 - Casting
+# Lab 2.01 - casting
 
 ## In your notebook
 
 ### Predict what the following inputs will result in
 
- Once you have filled in the "prediction" column, check your answers in interactive mode and write the actual result.
+ Once you have filled in the **prediction** column, check your answers in interactive mode and write the actual result.
 
 | **Input** | **Prediction** | **Result** |
 | --- | --- | --- |
@@ -16,19 +16,8 @@
 | `float(int(1.6))`| | |
 | `str(float(1))`| | |
 
-## How to get a random integer: randint(0, 10)
+## In your console
 
-In your notebook, write the following chunk of code:
-
-```python
-        import random
-	x = random.randint(0,10)
-        print(x)
-```
-
-Run this code several times. In your notebook, describe the output from this program.
-
-## In your Console
 1. Create a program which will take in an input and print out that input divided by 2.
 
 2. Alter one line of that program to return only whole numbers.

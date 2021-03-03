@@ -65,6 +65,27 @@ Students will be able to...
 
 * After accessing any list element you can change it. Take a moment to demonstrate this syntax before starting the lab.
 
+#### Nested Lists
+
+Have students work through the following examples in their console.
+
+Example 1
+
+  ```python
+  a_list = ['a', 'b', 'c', ['d', 'e']]
+  print(len(a_list))
+  ```
+
+Example 2
+
+  ```python
+  a_list = ['a', 'b', 'c', ['d', 'e']]
+  b_list = a_list[3]
+  print(b_list)
+  ```
+
+In their notebooks, have students explain how they would access the element `d`, starting from the definition of `a_list`.
+
 ### 3. Lab
 
 * Practice accessing and updating items in a list.

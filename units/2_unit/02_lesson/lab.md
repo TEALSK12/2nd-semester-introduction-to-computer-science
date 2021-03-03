@@ -1,6 +1,6 @@
-# Lab 2.02 - Can I or Can't I
+# Lab 2.02 - can I or can't I
 
-## In your Notebook
+## In your notebook
 
 Predict if each of the following examples will produce a `True` or `False` output. Check your answers in interactive mode.
 
@@ -37,7 +37,7 @@ Predict if each of the following examples will produce a `True` or `False` outpu
     >>> not c and a > 75 and b == "science"
 ```
 
-## In your Console
+## In your console
 
 ### Complete the following coding challenge
 
@@ -48,13 +48,18 @@ Predict if each of the following examples will produce a `True` or `False` outpu
     * Older than 35
     * Resident of US for 14 Years
     * Natural born citizen
-    * Print `True` if the person could be president and `False` if they can't be president.
+    * Print `true` if the person could be president and `false` if they can't be president.
 
-2. Create a "I can't be President?" program. Print `True` if the user cannot be President and `False` if they can be President.
+    Print `true` if the user cannot be President and `false` if they can be President.
 
-3. Create a "Can I ride the roller coaster?" program. A roller coaster has the rule that a rider has to be over the height of 50 inches. Because of a legal loophole, if you are over the age of 18 you can ride regardless of your height. If you are allowed to ride, the coaster costs 4 quarters (although the operator accepts tips so more money is appreciated).
+2. Create a "Can I ride the roller coaster?" program. It will check to see if the user meets the minimum requirements to ride the roller coaster. Have the user input the information needed.
 
-    * Also, the theme park sells frequent rider passes: with a frequent rider pass the roller coaster costs only 2 quarters. Ask the user how tall they are in inches, their age, how many quarters they have, and if they have a frequent rider pass. Print `True` if the person can ride and `False` if they can't.
+    **Requirements to ride the roller coaster:**
+    * Height over 50 inches – loophole allows any height if older than 18
+    * Each ride costs 4 quarters.
+    * There is a frequent rider pass, which makes the rides only cost 2 quarters.
+
+    Print True if the user can ride the roller coaster, and False if not.
 
 ## Bonus
 
