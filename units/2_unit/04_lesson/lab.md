@@ -1,4 +1,4 @@
-# Lab 2.04 - food chooser
+# Lab 2.04 - Food Chooser
 
 ## 1. In your notebook
 

@@ -1,4 +1,4 @@
-# Lab 2.01 - casting
+# Lab 2.01 - Casting
 
 ## In your notebook
 

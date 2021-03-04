@@ -1,4 +1,4 @@
-# Lab 2.03 - triangle program
+# Lab 2.03 - Triangle Program
 
 ## In your notebook
 
