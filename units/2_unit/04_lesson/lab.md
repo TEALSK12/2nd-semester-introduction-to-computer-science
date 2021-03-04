@@ -34,9 +34,10 @@ For each example below, predict what will be printed. Run the program and write 
     print(a)
 ```
 
-## 2. Create this game again using lists and indexes
+## 2. Create a game again using lists and indexes
 
-* Declare 10 prizes (prize0, prize1, prize2 at the top of your file), but store them all in a list.
+* Declare 10 prizes (prize0, prize1, prize2 at the top of your file)
+* Store them all in a list.
 * User picks a number.
 * Print prize associated with the door user picked.
 
@@ -54,23 +55,6 @@ Hint: Use a search engine to find the largest number in a python list.
 
 ## Bonus
 
-Research nested lists and work through the following Bonus Examples:
-
-### Bonus Example 1
-
-```python
-a = ['a', 'b', 'c', ['d', 'e']]
-print(len(a))
-```
-
-### Bonus Example 2
-
-```python
-a = ['a', 'b', 'c', ['d', 'e']]
-b = a[3]
-print(b)
-```
-
-### Bonus - In your Notebook
-
-How would you access `d` from the list `a`?
+* Use the score list to print out the user's second favorite food as well as the favorite.
+* Tied scores can be handled in any reasonable way -- e.g., print the tied-score food item earliest on the list as the "favorite", and the next item as the "second favorite".
+* Alternatively, check for the existence of a tie, and acknowledge that situation when it happens by printing a separate message.
