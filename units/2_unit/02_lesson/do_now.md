@@ -19,7 +19,7 @@ Open up the console. Type each line of the following code into the interactive e
 1. What does `5 < 3` evaluate to?  
 2. What is the type of `5 < 3`? What does that stand for (should be familiar from Snap!)?
 3. What is the difference between `==` and `=` ?
-4. What data type do you think `my_favorite_animal == user_favorite_animal` is?
+4. What data type do you think `my_fav_animal == user_fav_animal` is?
 
 ## Part 2
 
@@ -32,7 +32,7 @@ Open up the console. Type the following code into the interactive editor.
  print(can_get_license)
 ```
 
-### In your notebook, add this to your notes in your notebook:
+### In your notebook, add this to your notes:
 
 1. What does `and` do here? What type do you think `can_get_license` is?
 2. Update the code to fit the new driving law:
