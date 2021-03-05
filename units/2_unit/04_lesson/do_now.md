@@ -18,9 +18,9 @@
 2. What does `len` do?
 3. Brainstorm how you would print the first element from `a_list`?
 
-## 2. In your Console
+## 2. In your notebook, write what happens in the program
 
-### Type the following
+### In your console, type the following
 
 ```python
  a_list = ['a', 'b', 'c', 'd', 'e']
@@ -33,6 +33,6 @@
  print(a_list[6])
 ```
 
-## Continue In your Notebook
+## Continue in your notebook
 
 Explain what happens in the program.
