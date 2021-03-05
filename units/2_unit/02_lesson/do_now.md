@@ -5,13 +5,13 @@
 Open up the console. Type each line of the following code into the interactive editor:
 
 ```python
- >>> 5 < 3
- >>> 5 > 3
- >>> type(5 < 3)
- >>> type(5 > 3)
- >>> my_favorite_animal = "cats"
- >>> user_favorite_animal = input("What is your favorite animal? ")
- >>> my_favorite_animal == user_favorite_animal
+ 5 < 3
+ 5 > 3
+ type(5 < 3)
+ type(5 > 3)
+ my_fav_animal = "cats"
+ user_fav_animal = input("What is your favorite animal? ")
+ my_fav_animal == user_fav_animal
  ```
 
 ### In your notebook, answer the following
@@ -25,30 +25,30 @@ Open up the console. Type each line of the following code into the interactive e
 
 Open up the console. Type the following code into the interactive editor.
 
-```Python
- >>> months_with_driving_permit = 6
- >>> age = 16
- >>> can_get_license = months_with_driving_permit >= 6 and age >= 16
- >>> print(can_get_license)
+```python
+ months_with_driving_permit = 6
+ age = 16
+ can_get_license = months_with_driving_permit >= 6 and age >= 16
+ print(can_get_license)
 ```
 
-### In your Notebook, add this to your notes in your notebook
+### In your notebook, add this to your notes in your notebook:
 
 1. What does `and` do here? What type do you think `can_get_license` is?
-2. Update the code to fit the new driving law: If you are over the age of 18 you don't need to have a permit.
+2. Update the code to fit the new driving law:
+   If you are over the age of 18 you don't need to have a permit.
 
 ## Part 3
 
 Open up the console. Type the following code into the interactive editor.
 
-```Python
->>> animal = 'mouse'
->>> animal == 'cat' or 'dog'
->>> animal = 'mouse'
->>> animal == 'cat' or animal == 'dog'
+```python
+animal = 'mouse'
+animal == 'cat' or 'dog'
+animal == 'cat' or animal == 'dog'
 ```
 
-### In your notebook, continue answers to the following
+### In your notebook, add answers to the following:
 
 1. What does = and == do here?
 2. What is the difference between the two `or` statements?

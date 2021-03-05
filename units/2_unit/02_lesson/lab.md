@@ -1,4 +1,4 @@
-# Lab 2.02 - Can I or Can't I
+# Lab 2.02 - Can I or Can't I?
 
 ## In your notebook
 
@@ -7,34 +7,34 @@ Predict if each of the following examples will produce a `True` or `False` outpu
 ### Example 1
 
 ```python
-    >>> a = 100
-    >>> b = "science"
-    >>> a > 75 and b == "science"
+    a = 100
+    b = "science"
+    a > 75 and b == "science"
 ```
 
 ### Example 2
 
 ```python
-    >>> a = 100
-    >>> b = "science"
-    >>> a > 75 and b != "science"
+    a = 100
+    b = "science"
+    a > 75 and b != "science"
 ```
 
 ### Example 3
 
 ```python
-    >>> a = 100
-    >>> b = "science"
-    >>> a > 75 or b != "science"
+    a = 100
+    b = "science"
+    a > 75 or b != "science"
 ```
 
 ### Example 4
 
 ```python
-    >>> a = 100
-    >>> b = "science"
-    >>> c = True
-    >>> not c and a > 75 and b == "science"
+    a = 100
+    b = "science"
+    c = True
+    not c and a > 75 and b == "science"
 ```
 
 ## In your console
@@ -48,9 +48,8 @@ Predict if each of the following examples will produce a `True` or `False` outpu
     * Older than 35
     * Resident of US for 14 Years
     * Natural born citizen
-    * Print `true` if the person could be president and `false` if they can't be president.
-
-    Print `true` if the user cannot be President and `false` if they can be President.
+    
+    Print True if the person could be president and False if they can't be president.
 
 2. Create a "Can I ride the roller coaster?" program. It will check to see if the user meets the minimum requirements to ride the roller coaster. Have the user input the information needed.
 
