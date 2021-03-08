@@ -41,7 +41,7 @@ Students will be able to...
 
 #### Instruction
 
-* **Boolean expression**: is an expression that evaluates to either true or false.
+* A **Boolean expression** is an expression that evaluates to either `True` or `False`.
 * Ask Students about the difference between `=` and `==`.
 * = is for assignment of value.
 * == builds a Boolean expression and is a way to compare two values.
@@ -54,17 +54,18 @@ Students will be able to...
 * Ask the students to recall what `and`, `or` and `not` did.
 * Give students additional time to finish completing part 2 of the Do Now, if needed.
 * Have a student write up the expression they used to update the `can_get_license` code.
-* Discuss with students part 3 of the Do Now and how 'or' is used two different ways.
+* Discuss with students part 3 and 4 of the Do Now and how `or` is used two different ways.  A Boolean value `or` a string value is most often a mistake, not intended syntax. Reinforce with students that `animal == 'cat' or 'dog'` in Python will not produce the result that might be expected.
 
 #### Poll students -
 
-* how many Boolean expressions are used?
-  * Answers here may vary depending on the students' code.
+* How many Boolean expressions are used?
+
+For example, Part 3 shows one assignment, and then a composite expression made up of two simple Boolean expressions.
 
 #### Instruction Part 2
 
 * Define **composition**: Using an expression as part of a larger expression, or a statement as part of a larger statement. You can use parentheses to compose expressions as well.
-* Parentheses: In Snap! to compose many expressions they were nested together by simply putting blocks one after another. However, in Python if you want certain things to be evaluated together, use parentheses.
+* Parentheses: In Snap! many composite expressions were made by simply putting blocks one after another. However, in Python if you want certain things to be evaluated together, use parentheses.
 
 ### 3. Lab
 
