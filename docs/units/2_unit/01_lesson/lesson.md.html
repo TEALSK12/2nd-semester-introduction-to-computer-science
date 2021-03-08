@@ -52,48 +52,49 @@ Students will be able to...
 #### Instruction
 
 * Define this process of changing data types as **casting**.
-* Define the `int` function if the students were unable to guess it from the do now.
+* Define the `int` function if the students were unable to guess it from the Do Now.
 * Demonstrate casting `string` to `int` by typing in the following:
 
 ```python
-n = int(input())
-9
-type(n)
-<class 'int'>
+    n = int(input())
+    9
+    type(n)
+    <class 'int'>
 ```
 
 * Because Python 3 is strongly typed, concatenating strings and numbers requires casting.  Demonstrate by typing the following:
 
 ```python
-n = int(input())
-9
-print ("You entered " + n)
-TypeError: Can't convert 'int' object to str implicitly
+    n = int(input())
+    9
+    print ("You entered " + n)
+    TypeError: Can't convert 'int' object to str implicitly
 ```
 
 * Cast the integer to a string. Demonstrate by typing the following:
 
 ```python
-n = int(input())
-9
-print ("You entered " + str(n))
-You entered 9
+    n = int(input())
+    9
+    print ("You entered " + str(n))
+    You entered 9
 ```
-
-* Swapping Variables Discussion
 
 * Take a few minutes to have students write down how they would produce the following output:
 
    ```python
-    >
-    Give me a number you want to multiply by 2: 4
-    8
-    => None
-    ```
+    >>> Give me a number you want to multiply by 2: 4
+    >>> 8
+```
 
 * Explain to students that in Python
-  * When asking for input from the user the input is automatically stored as a string
-  * if the input will need to used for calculations or another purpose it will need to be casted to another data type.
+  * when asking for input from the user, the input is automatically stored as a string
+  * if the input will be used for calculations or numeric comparisons, it will be necessary to cast it to another data type.
+
+#### Swapping Variables Discussion
+
+* Go over the method of swapping two variables using Python syntax covered so far, with a third temporary variable.
+  * Python includes a way to swap two variables directly. The syntax for this will be covered in a later unit.
 
 #### Student Sharing
 
@@ -106,7 +107,8 @@ You entered 9
 ### 3. Lab
 
 * Practice predicting what casting will do to inputs.
-* Create a halving program and a program that converts halves to whole numbers.
+* Create a halving program, and a variant of the same program that converts any fractional output values to whole numbers.
+* 
 
 ### 4. Debrief
 
