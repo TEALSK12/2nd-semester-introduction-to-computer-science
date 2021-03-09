@@ -10,7 +10,7 @@ This game takes place in a three-story virtual space. Each story (or floor) can 
 
 ### Behavior Example
 
-```python
+```
 What would you like to do? left
 You see a sword.
 What would you like to do? grab
@@ -29,8 +29,8 @@ You see nothing.
 
 #### The game has three floors
 
-* Each floor is made up of five rooms, arranged in a line from left to right.
-* A room can contain: a sword, a monster, magic stones, up-stairs, down-stairs or nothing.
+* Each floor is made up of at least five rooms, arranged in a line from left to right.
+* A room can contain a sword, a monster, magic stones, up-stairs, down-stairs, a prize, or nothing.
 
 #### At the start of the game
 
@@ -40,13 +40,12 @@ You see nothing.
 
 * The player can try to move to the left room or right room.
 * If there is no room in that direction, the game should report this.
-  * The player cannot move outside the boundaries of the virtual world.
 * The player can also move upstairs or downstairs if the room contains an up-staircase or a down-staircase.
   * The player can only go up if there is an up-staircase
-  * The player can only go down if there is down-staircase.
-  * The program should not allow the player to go up, down or past bounds of the game.
-  * If a player uses a staircase, the room the player enters cannot contain a staircase.
+  * The player can only go down if there is a down-staircase.
+  * If a player uses a staircase, the room the player enters must contain a staircase in the opposite direction.
 * The program should not allow the player to run past a monster.
+* The program should not allow the player to go up, down, left, or right past the bounds of the game.
 
 #### Contents of rooms
 
@@ -69,16 +68,18 @@ You see nothing.
 
 * The game should be implemented using lists.
 
-#### player Items
+#### Player Items
 
 * Use a list to keep track of the player's items.
 * At the beginning of the game it should be empty.
-* Players can hold unlimited items.
+* Players can hold up to three items at a time.
+* If a player attempts to pick up a fourth item, a warning message should be printed.
+  * If a grab attempt fails, the item in question should remain in the room.
 
 #### Monsters
 
 * There should be three regular monsters placed throughout the game.
-* These require a sword to defeat.
+* Monsters require a sword to defeat.
 * There should be a boss monster in the room just before the room that contains the prize.
 * The boss monster requires magic stones and a sword to defeat.
 
@@ -94,39 +95,41 @@ You see nothing.
 
 #### Game Board
 
-The game board is the basis of the game. The following is a way to think of a smaller game board as a set of three lists: one for each floor.
+The game board is the basis of the game. The following is a way to think of a smaller game board as a set of three lists, one for each floor.
 
 ```python
-floor_1 = ['nothing', 'nothing', 'stairs up']
-floor_2 = ['nothing', 'nothing', 'stairs up']
-floor_3 = ['prize', 'nothing', 'nothing']
+    floor_1 = ['nothing', 'nothing', 'stairs up']
+    floor_2 = ['stairs up', 'nothing', 'stairs down']
+    floor_3 = ['stairs down', 'nothing', 'prize']
 ```
 
-The above code has each floor being its own lists.
+The above code has each floor being its own list. This is only one possible way to keep track of the game board. A good alternative would be a single nested list storing all floors, but this may be somewhat more difficult for new coders to work with.
 
-#### player Position
+#### Player Position
 
-It will be useful to keep track of the player's position through a variable.
+It will be useful to keep track of the player's position using two variables.
 
-```pythin
-player_room = 0
-player_floor = floor_1
+```python
+    player_room = 0
+    player_floor = floor_1
 ```
 
-This would put the player at the position of the first room of the first floor.
+This would put the player's position in the first room of the first floor.
 
-#### Validating player Input
+#### Validating Player Input
 
 You will need to check the input of the player to make sure it is valid for the current game state:
 
 ```python
-if player_input == "down":
-    current_room = player_floor[player_room]
-    if current_room != "stairs down":
-        print("Can't go downstairs; there are no stairs.")
+    if player_input == "down":
+        current_room = player_floor[player_room]
+        if current_room != "stairs down":
+            print("Can't go downstairs; there are no stairs.")
 ```
 
 ## Extra Credit
 
-* Randomly generate locations of monsters, magic stones and swords.
+* Add an 'inventory' command to display the items (if any) that the player is currently carrying.
 * Implement [Cardinal Directions](https://en.wikipedia.org/wiki/Cardinal_direction) into your code to give more control over direction for the player.
+* Include a short description of each room, printed each time a player enters it -- and optionally a longer description of the same room, printed only the first time the player enters.
+* Advanced:  Randomly generate locations of monsters, magic stones and swords.  Simple random placement is likely to make the game unplayable, so this will probably require a larger floor plan and careful design of the randomization.

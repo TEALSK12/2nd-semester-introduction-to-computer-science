@@ -1,6 +1,6 @@
 # Rubric - Unit Two Project
-<!--Currently neither project requires students casting, identifying multiple data types, or creating list of different types-->
-<!-- this project will require a lot of the same skills as the previous projects they have not included them here, as the expectation is they have already been mastered)-->
+<!-- Currently neither project requires students casting, identifying multiple data types, creating lists of different types, or using nested lists. -->
+<!-- This project will require a lot of the same skills as previous projects. These skills have not been listed here, as the expectation is that they have already been mastered. -->
 
 Student Name: _______________________________ Date: ________________
 
@@ -26,7 +26,7 @@ Assessed in Unit 3
 
 |3 |2 |1 |0 |Points
 |:-:|:-:|:-:|:-:|:-:|  
-|Student correctly uses the `length` function| ____ |Student attempts to use the `length` function incorrectly | No evidence the student can use the `length` function| |
+|Student correctly uses the length function, `len()`| ____ |Student attempts to use the length function incorrectly | No evidence the student can use the length function| |
 |Student can access items from a list using the index | Student often can access item from a list using the index| Student attempts to access items from a list using the index| No evidence the students can access items from a list using the index||
 |Students can add and remove items to/from a list| Students can correctly add OR remove items from a list| Student attempts to add and remove items from a list| No evidence that the students can add or remove items from a list||
 ||||**Sub Total**||
