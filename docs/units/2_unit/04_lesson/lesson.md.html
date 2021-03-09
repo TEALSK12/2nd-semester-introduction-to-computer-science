@@ -49,25 +49,25 @@ Students will be able to...
 #### Instruction
 
 * Ask students to recall what a list is, and how lists were used in Snap!
-* A **list** is a sequence of values. In a list, they can be any type. The values in a list are called elements or **items**.
-* In Python, to create a list you must enclose items in square brackets.
-* Emphasize that you can have lists of any type (`int, float, string, etc`). You can even have lists within lists (more on that later...)
+* A **list** is a sequence of values. In a Python list, values can be any type. The values in a list are called elements or **items**.
+* In Python, to create a list you must enclose items in square brackets, and separate multiple items with commas.
+* Emphasize that you can have lists of any type (`int, float, string,` etc.) You can even have lists within lists (more on that later...)
 
 #### Discussion
 
-* Ask students what `len` does when they used it in the Do Now.
+* Ask students what `len` did when they used it in the Do Now.
 * Ask students how they tried to print the first item from a list. Was this what they were expecting?
 
 #### More Instruction
 
 * **index**: a map from the position in the list to the element stored there.
-* **0-index**: lists are 0 indexed. So the first element in the list is at the 0-index.
-* **Out-of-bounds**: what happened when you tried to index into a list that was too long?
+* **0-index**: lists are 0 indexed. So the first element in the list is at an index of 0.
+* **Out-of-bounds**: what happened when you tried to print an element of a list, using an index value that was too large?
 
 #### More Discussion
 
 * Ask students how they would access the last item in a list of unknown length. (Use the length function!)
-* Ask students to write on the board how they got the last element of a list. Ask another student to write how they would get the second to last element of the list and so on.
+* Ask a student to write on the board how they retrieved the last element of a list. Ask another student to write how they would get the second to last element of the list and so on.
 
 #### Demonstration
 
@@ -79,18 +79,18 @@ Have students work through the following examples in their console.
 
 Example 1
 
-  ```python
-  a_list = ['a', 'b', 'c', ['d', 'e']]
-  print(len(a_list))
-  ```
+```python
+    a_list = ['a', 'b', 'c', ['d', 'e']]
+    print(len(a_list))
+```
 
 Example 2
 
-  ```python
-  a_list = ['a', 'b', 'c', ['d', 'e']]
-  b_list = a_list[3]
-  print(b_list)
-  ```
+```python
+    a_list = ['a', 'b', 'c', ['d', 'e']]
+    b_list = a_list[3]
+    print(b_list)
+```
 
 In their notebooks, have students explain how they would access the element `d`, starting from the definition of `a_list`.
 
@@ -102,11 +102,11 @@ In their notebooks, have students explain how they would access the element `d`,
 
 ### 4. Debrief
 
-* Check student progress and completion of the lab, wrap up by taking any final questions.
+* Check student progress and completion of the lab. Wrap up by taking any final questions.
 
 ## Accommodation/Differentiation
 
-If students are moving quickly, you can introduce the topic of nested lists. Start off with a simple nested list like `['a', 'b', 'c', [1, 2, 3]]`. Ask the students to guess the length. Ask the students to guess how they would access the item '1' from that list!
+If students are moving quickly, you can continue the topic of nested lists. Start off with a simple nested list like `['a', 'b', 'c', [1, 2, 3]]`. Ask the students to guess the length. Ask the students to guess how they would access the item '1' from that list!
 
 ## Forum discussion
 
