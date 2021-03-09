@@ -48,7 +48,7 @@ Students will be able to...
 
 #### Activity
 
-* Have the students think about and write a solution
+* Have the students think about and write a solution.
 
 #### Student Share
 
@@ -64,7 +64,7 @@ Students will be able to...
 
 ## Accommodation/Differentiation
 
-If there is extra time, have students start reading through the project specs and thinking about how they will apply what they have learned this unit to complete the project.
+If there is extra time, have students start reading through the final project specs and thinking about how they will apply what they have learned this unit to complete the project.
 
 ## Forum discussion
 

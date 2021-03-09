@@ -51,6 +51,10 @@ Students will be able to...
     n = int(input())
     9
     type(n)
+```
+
+Output from Python:
+```
     <class 'int'>
 ```
 
@@ -60,6 +64,10 @@ Students will be able to...
     n = int(input())
     9
     print ("You entered " + n)
+```
+
+Output from Python:
+```
     TypeError: Can't convert 'int' object to str implicitly
 ```
 
@@ -69,14 +77,18 @@ Students will be able to...
     n = int(input())
     9
     print ("You entered " + str(n))
+```
+
+Output from Python:
+```
     You entered 9
 ```
 
 * Take a few minutes to have students write down how they would produce the following output:
 
-   ```python
-    >>> Give me a number you want to multiply by 2: 4
-    >>> 8
+```
+    Give me a number you want to multiply by 2: 4
+    8
 ```
 
 * Explain to students that in Python
