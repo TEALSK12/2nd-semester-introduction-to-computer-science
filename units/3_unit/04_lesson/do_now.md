@@ -8,7 +8,7 @@ We will have a quiz next class covering all of the above topics.
 
 Is there any topic you would like to focus on and cover more of?
 
-### In your Notebook
+### In your notebook
 
 Rank the following from easiest to hardest:
 
@@ -23,18 +23,21 @@ Rank the following from easiest to hardest:
 ### Type the following into the console
 
 ```python
-my_list = ['a', 'b', 'c', 'd']
-# input: a list of strings
-# output: None
-def my_function(list_argument):
-    list_argument[0] = 'z'
-print(my_list)
-my_function(my_list)
-print(my_list)
+    my_list = ['a', 'b', 'c', 'd']
+
+    # input: a list of strings
+    # output: None
+    def my_function(list_argument):
+        list_argument[0] = 'z'
+        print("Inside function: ", my_list)
+
+    print("Before function:", my_list)
+    my_function(my_list)
+    print("After function:", my_list)
 ```
 
 1. What did the program output and what is this program doing?
 
 ### Bonus
 
-Try writing a similar program but passing in integers instead of a list. What happens?
+Try writing a similar program but passing in an integer, `my_int`, instead of a list, changing the integer variable inside the function. What happens?

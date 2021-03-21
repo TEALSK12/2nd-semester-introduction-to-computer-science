@@ -23,19 +23,19 @@ Students will be able to...
 
 ### Day 1
 
-| **Duration**   | **Description** |
-| ---------- | ----------- |
-| 10 Minutes | Project Overview      |
-| 40 Minutes | Planning    |
-| 5 Minutes | Debrief  |
+| **Duration** | **Description** |
+| ----------  | -----------      |
+| 10 Minutes  | Project Overview |
+| 40 Minutes  | Planning         |
+| 5 Minutes   | Debrief          |
 
 #### Days 2-9
 
-|**Duration** | **Description**             |
-|--|--|
-| 5 Minutes  | Review Day Plan    |
-| 45 Minutes | Project Work|
-| 5 Minutes | Debrief    |
+|**Duration** | **Description**  |
+|-----------  | ---------------- |
+| 5 Minutes   | Review Day Plan  |
+| 45 Minutes  | Project Work     |
+| 5 Minutes   | Debrief          |
 
 ## Instructor's Notes
 
@@ -50,7 +50,7 @@ Students will be able to...
 
 ### 3. Planning
 
-1. Have students draw out the game play
+1. Have students draw out the game play.
 2. Students should plan to create functions for each user interaction by figuring out where the repeated code will be.
 3. Students should list out which variables they will need.
 4. Have students plan out their next 7 days. Here is a suggested time line and checkpoints:
@@ -65,11 +65,10 @@ Students will be able to...
 
 ## Accommodation/Differentiation
 
-* Advanced students can add in random events like cholera or snake bites.
-* Students can also have a list of travelers instead of just 1, where each traveler is affected differently by each action.
-* The planning phase of this project will be essential.
-* especially for students who you think may struggle with this project.
-* Provide more guidance and scaffolding to those students that need it.
+    * Advanced students can add in random events like cholera or snake bites.
+    * Students can also have a list of travelers instead of just 1, where each traveler is affected differently by each action.
+    * The planning phase of this project will be essential, especially for students who you think may struggle with this project.
+    * Provide more guidance and scaffolding to those students that need it.
 
 ## Grading
 
