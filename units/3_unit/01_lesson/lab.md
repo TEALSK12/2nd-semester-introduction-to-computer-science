@@ -1,14 +1,17 @@
 # Lab 3.01 - Magic 8-Ball
 
-Practice importing random** — Use `randint` with different arguments. Simulate a dice roll, printing out to the user what number they rolled.
+## Practice importing `random`
 
-Look at the [documentation] of the random library — Experiment with another function (not `randint`) that returns a value.
+Use `randint` with different arguments. Simulate a dice roll, printing out to the user what number they rolled.
 
-## Create a program that simulates a [magic 8-ball]
+Look at the [documentation] of the `random` library.
+Experiment with another function in the `random` library (not `randint`) that returns a value.
 
-1. Store all of the 8-ball's possible responses (shown below) in a list
-2. Have the program prompt the user to ask the magic 8-ball a question
-3. then return and print a random response.
+## Create a program that simulates a [Magic 8-Ball]
+
+1. Store all of the 8-Ball's possible responses (shown below) in a list
+2. Have the program prompt the user to ask the Magic 8-Ball a question
+3. Then return and print a random response.
 
 ### Magic 8-Ball Response Examples
 
@@ -27,8 +30,12 @@ Look at the [documentation] of the random library — Experiment with another fu
 
 ## Bonus
 
-Research the math library and create a program that finds the length of the hypotenuse of a right
-triangle given two sides.
+Research the `math` library in Python.
+
+Create a program that finds the length of the hypotenuse of a right triangle, given the two perpendicular sides.
+
+Can this program be completed without using `import math`?
+
 
 [documentation]: https://docs.python.org/3/library/random.html
-[magic 8-ball]:  https://en.wikipedia.org/wiki/Magic_8-Ball
+[Magic 8-Ball]:  https://en.wikipedia.org/wiki/Magic_8-Ball

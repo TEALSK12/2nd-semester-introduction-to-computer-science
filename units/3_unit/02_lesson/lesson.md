@@ -4,8 +4,11 @@
 
 Students will be able to...
 
-* Define and identify: **abstraction, def**
+* Define and identify:
+  * abstraction
+  * `def` (new Python keyword)
 * Create functions
+* Create a function contract0
 
 ## Materials/Preparation
 
@@ -13,7 +16,7 @@ Students will be able to...
 * [Do Now][]
 * [Lab - Birthday Song & Random Cards][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.2)
-* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
+* Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students.
 * Video Resources:
   * [Intro to Functions](https://youtu.be/nrCAxXfRU28)
   * [Functions Demo](https://youtu.be/C9ZEGqGHXms)
@@ -25,7 +28,7 @@ Students will be able to...
 | 5 Minutes  | Do Now      |
 | 10 Minutes | Lesson      |
 | 35 Minutes | Lab         |
-| 5 Minutes | Debrief  |
+| 5 Minutes  | Debrief     |
 
 ## Instructor's Notes
 
@@ -64,7 +67,7 @@ Students will be able to...
 
 ### 4. Debrief
 
-* Check student progress and completion of the lab, wrap up by taking any final questions.
+* Check student progress and completion of the lab. Wrap up by taking any final questions.
 
 ## Accommodation/Differentiation
 

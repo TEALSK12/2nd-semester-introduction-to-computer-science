@@ -10,8 +10,8 @@ We will be recreating Oregon Trail! The goal is to travel from Independence, Mis
 
 ### Behavior
 
-* Player starts in Independence, MO on 03/01 with 2,000 miles to go, 500lbs of food, and 5 health.
-* The player must get to Oregon by 12/31
+* Player starts in Independence, Missouri on 03/01 with 2,000 miles to go, 500lbs of food, and 5 health.
+* The player must get to Oregon by 12/31.
 * At the beginning of the game, user is asked their name.
 * Each turn, the player is asked what action they choose, where the player can type in the following: `travel`, `rest`, `hunt`, `status`, `help`, `quit`
 * The players health will decrease twice each month.
