@@ -57,8 +57,8 @@ Students will be able to...
 * The function contract should
   * Specify the name of the function.
   * Explain the purpose of the function.
-  * List what arguments it takes in and the types of those arguments.
-  * Specify the return type.
+  * List what arguments it takes in as input, and the types of those arguments.
+  * Specify the output return type.
 
 ### 3. Lab
 
