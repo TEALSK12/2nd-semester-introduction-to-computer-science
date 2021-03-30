@@ -2,13 +2,13 @@
 
 ## Instructions
 
-In this lab we will be drawing images using nested for loops.
+In this lab we will be drawing images using nested `for` loops.
 
 For each of the following problems, you will write a function that will draw the desired output. You may use an extra function if you find it helpful.
 
 1. Write a function, `draw_7`, to draw the 7x7 square (shown below)
 
-    ```python
+```
     * * * * * * *
     * * * * * * *
     * * * * * * *
@@ -16,22 +16,22 @@ For each of the following problems, you will write a function that will draw the
     * * * * * * *
     * * * * * * *
     * * * * * * *
-    ```
+```
 
 2. Write a function `stars_and_stripes`, that will draw a 3 sets of rows. 1st a row of 7 stars followed by a row of 7 dashes (shown below)
 
-    ```python
+```
     * * * * * * *
     - - - - - - -
     * * * * * * *
     - - - - - - -
     * * * * * * *
     - - - - - - -
-    ```
+```
 
-3. Write a function, `increasing_triangle` that will print out following:
+3. Write a function, `increasing_triangle` that will print out the following:
 
-    ```python
+```
     1
     1 2
     1 2 3
@@ -39,11 +39,11 @@ For each of the following problems, you will write a function that will draw the
     1 2 3 4 5
     1 2 3 4 5 6
     1 2 3 4 5 6 7
-    ```
+```
 
 4. Write a function, `vertical_stars_and_stripes` that will print out the following:
 
-    ```python
+```
     - * - * - * -
     - * - * - * -
     - * - * - * -
@@ -51,13 +51,15 @@ For each of the following problems, you will write a function that will draw the
     - * - * - * -
     - * - * - * -
     - * - * - * -
-    ```
+```
 
 ## Bonus
 
+Use a function to create your own pattern or drawing. Some possible pattern ideas:
+
 1. Write a function that will print a border around a 7x7 square (shown below)
 
-    ```python
+```
     * * * * * * * *
     * - - - - - - *
     * - - - - - - *
@@ -67,11 +69,11 @@ For each of the following problems, you will write a function that will draw the
     * - - - - - - *
     * - - - - - - *
     * * * * * * * *
-    ```
+```
 
 2. Write a function that will print the following `balanced_triangle`.
 
-    ```python
+```
     1
     1 2
     1 2 3
@@ -85,12 +87,12 @@ For each of the following problems, you will write a function that will draw the
     1 2 3
     1 2
     1
-    ```
+```
 
 3. Write a function that will print the following triangle.
 
-    ```python
+```
        *
       ***
      *****
-    ```
+```

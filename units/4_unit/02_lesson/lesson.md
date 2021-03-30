@@ -17,12 +17,12 @@ Students will be able to...
 
 ## Pacing Guide
 
-| **Duration**   | **Description** |
-| ---------- | ----------- |
-| 5 Minutes  | Do Now      |
-| 10 Minutes | Lesson      |
-| 35 Minutes | Lab         |
-| 5 Minutes | Debrief     |
+| **Duration** | **Description** |
+| ----------   | -----------     |
+| 5 Minutes    | Do Now          |
+| 10 Minutes   | Lesson          |
+| 35 Minutes   | Lab             |
+| 5 Minutes    | Debrief         |
 
 ## Instructor's Notes
 
@@ -35,10 +35,10 @@ Students will be able to...
 
 #### Part 1 of the Do Now
 
-* Ask students what the **range** function did.
+* Ask students what the `range` function did.
 * Remind them that there are reference docs online.
-* Show the docs for the range function (note that it actually takes in a third value that is optional).
-* Work together with the students to write a for loop just using the range function.
+* Show the docs for the range function. Note that it can take in a third value that is optional.
+* Work together with the students to write a `for` loop using the `range` function.
 
 #### Part 2 of the Do Now
 
@@ -46,10 +46,22 @@ Students will be able to...
 * Ask the students why these values might be helpful
 * They are a list of the indices!
 
-#### Part 3 (many students likely didn't finish)
+#### Part 3 of the Do Now (many students likely didn't finish)
 
 * Ask students to write the first line of the loop on the board
 * Work together as a class to come to a solution that is demonstrated for all to see.
+
+#### Debugging Loops
+
+In the sample "Function Contains Two Errors" code, we expect the return value `True`, but we get an IndexError instead.
+
+Suggest printing the values of the indices immediately before the line where the error appears (right after while statement). 
+
+First error: the index of the last character is `3`, so the initial value for `j` should be different:
+`j = len(word2)-1`.
+
+Second error: we need to include the character at index 0, so we need to change the `while` condition:
+`while j >= 0:`
 
 ### 3. Lab
 
