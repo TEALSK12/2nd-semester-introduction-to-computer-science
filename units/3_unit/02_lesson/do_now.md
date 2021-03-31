@@ -9,7 +9,7 @@
         print("THIS IS MY FUNCTION!")
 ```
 
-## In Your notebook
+## In your notebook
 
 ### Respond to the following:
 

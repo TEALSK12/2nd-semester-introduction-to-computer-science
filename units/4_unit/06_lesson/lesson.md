@@ -24,21 +24,21 @@ Students will be able to...
 
 ### Day 1
 
-| **Duration**   | **Description** |
-| ---------- | ----------- |
-| 5 Minutes  | Do Now      |
-| 10 Minutes | Project Overview      |
-| 30 Minutes | Planning/Design   |
-| 10 Minutes | Debrief  |
+| **Duration** | **Description**  |
+| ----------   | -----------      |
+| 5 Minutes    | Do Now           |
+| 10 Minutes   | Project Overview |
+| 30 Minutes   | Planning/Design  |
+| 10 Minutes   | Debrief          |
 
 ### Days 2-9
 
-|**Duration** |  **Description**           |
-|---|---|
-| 5 Minutes  | Day Plan    |
-| 10 Minutes | Review      |
-| 35 Minutes | Project Work|
-| 5 Minutes | Debrief     |
+|**Duration** | **Description** |
+| ----------  | ------------    |
+| 5 Minutes   | Daily Plan      |
+| 10 Minutes  | Review          |
+| 35 Minutes  | Project Work    |
+| 5 Minutes   | Debrief         |
 
 ## Instructor's Note
 
@@ -59,25 +59,24 @@ Students will be able to...
 * Draw out game play and consider the overall design.
   * How will they represent the board?
   * How will they have users input their spots?
-* Create function names for each user interaction.  
-* Figure out which variables are needed.
+  * What functions will be needed to handle each user interaction?  
+  * What variables will be needed?
 
-#### Have students plan out their next 7 days (suggested plan below)
+#### Have students plan out their next several days (suggested plan below)
 
-1. Set up the game board, basic game loop asking players for input, and dummy functions for each player's turn.
-2. Create variables necessary to run the game, start implementing basic functions.
+1. Set up the game board. Code the basic game loop asking players for input. Avoid code duplication:  use the same code to handle the two different players.
+2. Create variables necessary to run the game. Start implementing basic functions.
 3. Focus on game play: 2 players should be able to play a game against each other.
-4. Create functions for checking if the game is over. Create a horizontal checker, vertical checker.
-5. Create the diagonal checkers.
-6. Connect the functions together and test functionality.
-7. Use multiple tests that game over check is correct, finalize project.
+4. Create functions for checking if the game is over. Create a horizontal checker, vertical checker, and diagonal checkers.
+5. Connect the functions together and test functionality.
+6. Use multiple tests to check for different game-over conditions. Finalize project.
 
 ### 4. Debrief
 
 * Take time to go over questions and confusion relating to project requirements.
 * Make sure to look over individual student project plans and check that they have outlined the project in a way that makes sense.
 
-### 5. Day Plan
+### 5. Daily Plan
 
 * At the start of Days 2-9, have each student refer to their original project plan, write down what they hope to accomplish that day, and assess their schedule to see if they are on track.
 
@@ -88,8 +87,8 @@ Students will be able to...
 
 ## Accommodation/Differentiation
 
-* Students can create a variable sized board.
-* The checkers can actually be done using one function, taking in the start x and y and the movement of the x and y.
+* Students can create a variable-sized board.
+* The checkers can actually be done using one function, taking in starting x and y values and the change in x and y at each step.
 * The planning phase of this project will be essential, especially for students who you think may struggle with this project.
 * Provide more guidance and scaffolding to those students that need it.
 
@@ -102,11 +101,11 @@ Students will be able to...
 | Points | Percentage| Objective | Lesson |
 | :---: | :---: | --- | --- |
 | 6 | 19 | Student uses for loops | 4.01 |
-| 3 | 10 | Students can c use the `range` and `len` functions |4.02 |
+| 3 | 10 | Students can use the `range` and `len` functions |4.02 |
 | 3 | 10 | Students can use nested for loops |4.03 |
 | 3 | 10 | Student can use nested lists |4.04 |
-| 5 | 16| Student can decompose a problem to create a program from a brief||
-| 5 | 16 | Student uses naming/ syntax conventions and comments to increase readability |
+| 5 | 16| Student can decompose a problem to create a program from a list of requirements ||
+| 5 | 16 | Student uses naming/syntax conventions and comments to increase readability |
 | 25 | |**Total Points**|| |
 
 ## Forum discussion

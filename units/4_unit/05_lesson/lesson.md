@@ -19,24 +19,24 @@ Students will be able to...
 
 ## Pacing Guide
 
-| **Duration**   | **Description** |
-| ---------- | ----------- |
-| 25 Minutes  | Quiz     |
-| 10 Minutes | Lesson     |
-| 20 Minutes | Lab         |
-| 5 Minutes | Debrief     |
+| **Duration** | **Description** |
+| ----------   | -----------     |
+| 25 Minutes   | Quiz            |
+| 10 Minutes   | Lesson          |
+| 20 Minutes   | Lab             |
+| 5 Minutes    | Debrief         |
 
 ## Instructor's Notes
 
 ### 1. Quiz
 
-* Have students start working on the Quiz.
+* Have students start working on the quiz.
 
 ### 2. Lesson
 
 * Talk about how to read code in a loop (you can use something of your choice or the provided [Coding Example][]).
 * Go over debugging practices for loops.
-* Use print statements throughout the code to show where error is.
+* Use `print` statements throughout the code to show where error is.
 * Alter input to make sure body of loop is working correctly.
 * Make sure lists don't go out of bounds/past the end of the list.
 
