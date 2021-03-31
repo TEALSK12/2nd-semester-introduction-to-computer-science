@@ -1,0 +1,37 @@
+﻿Title 
+ Subtitle 
+ Author 
+ Date 
+ Abstract 
+ Heading 1 
+ Heading 2 
+ Heading 3 
+ Heading 4 
+ Heading 5 
+ Heading 6 
+ Heading 7 
+ Heading 8 
+ Heading 9 
+ First Paragraph. 
+ Body Text. Body Text Char.     Verbatim Char  .     Hyperlink  .     Footnote. 1
+ Block Text. 
+ TABLE CAPTION. 
+ Table  Table  1  2  IMAGE CAPTION 
+ DefinitionTerm 
+ Definition 
+ DefinitionTerm 
+ Definition 
+1 Footnote Text.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+
+Introduction to computer science
+
+
+
