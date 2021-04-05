@@ -20,13 +20,13 @@ Is there any topic you would like to focus on and cover more of?
 
 Rank the following from easiest to hardest:
 
-1. Importing built-in functions
-2. Using `randint`
-3. Abstraction/creating functions
-4. Passing `int/str/float/bool` arguments into functions
-5. Calling a function
-6. List syntax
-7. Return vs print
+A. Importing built-in functions
+B. Using `randint`
+C. Abstraction/creating functions
+D. Passing `int/str/float/bool` arguments into functions
+E. Calling a function
+F. List syntax
+G. Return vs print
 
 ### Type the following into the console
 
@@ -50,4 +50,21 @@ Rank the following from easiest to hardest:
 
 Try writing a similar program but passing in an integer, `my_int`, instead of a list, changing the integer variable inside the function. What happens?
 
+### Do Now, Part 2
+
+In your notebook, without running the following code, predict what its output will be:
+
+```python
+    def double_print(input_string):
+        for i in range(2):
+            print(input_string)
+ 
+    def double_concat(part1, part2):
+        concat = part1 + ", " + part2
+        double_print(concat)
+ 
+    str1 = "Hello"
+    str2 = "world"
+    double_concat(str1, str2 + "!")
+```
 <!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
