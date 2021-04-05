@@ -4,7 +4,7 @@ Create a program that lets a user play a **simplified** version of the card game
 
 ## Video Explanation of the Card Game War
 
-[![Card Game: War](https://img.youtube.com/vi/yX-jOVer758/0.jpg)](https://youtu.be/yX-jOVer758)
+![How To Play War (Card Game)](https://youtu.be/yX-jOVer758)
 
 ### Your game should
 
