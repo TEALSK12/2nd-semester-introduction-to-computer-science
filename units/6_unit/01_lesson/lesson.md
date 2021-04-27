@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [6.01 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%206.01%20TEALS.pptx)
+* [6.01 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.01%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Dictionary of Internet Abbreviations][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/6.1)

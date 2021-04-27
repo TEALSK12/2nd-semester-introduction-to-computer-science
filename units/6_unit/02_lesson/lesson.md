@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [6.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%206.02%20TEALS.pptx)
+* [6.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.02%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Word Counter][] ([docx][]) ([pdf][])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][]).
