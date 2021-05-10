@@ -9,6 +9,10 @@ Students will be able to...
 
 ## Materials/Preparation
 
+* Students should each have their [final project plan organizer][]and [final project development plan][]
+* Review [4 steps to solve any CS problem][]
+* [Scoring rubric](../rubric.md) ([docx](../rubric.docx))([pdf](../rubric.pdf))
+
 ## Pacing Guide
 
 | Duration  | Description                                   |
