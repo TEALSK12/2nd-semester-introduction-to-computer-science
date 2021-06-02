@@ -1,4 +1,4 @@
-# Rubric - Unit Seven Project
+# Rubric - Unit seven prject
 <!-- this project will require a lot of the same skills as the previous projects they have not included them here, as the expectation is they have already been mastered)-->
 
 Student Name: ______________________ Date: _________________________
@@ -10,7 +10,7 @@ Student Name: ______________________ Date: _________________________
 | Student creates classes correctly| Student usually creates classes correctly| Student attempts to create classes| No evidence that the student can create classes | 3 |
 | Student correctly creates instances of a class| Student usually creates and instance of a class correctly| Student attempts to create a class| No evidence that the student can create a instance of a class|3 |
 | Student instantiates a class with arguments  |__| Student attempts to instantiate a class with arguments| No evidence the student can instantiate a class with arguments|3
-|Student always adds attributes to an instance correctly |  Student usually adds attributes to an instance correctly| Student attempts to add attributes to an instance| No evidence the student can add attributes to an instance|2|
+|Student always adds attributes to an instance correctly |  Student usually adds attributes to an instance correctly| Student attempts to add attributes to an instance| No evidence the student can add attributes to an instance|3|
 ||||**Sub Total**||
 
 ## The student can create methods for classes
@@ -18,7 +18,7 @@ Student Name: ______________________ Date: _________________________
 | 3 | 2 | 1 | 0 |Points|
 |:--:|:--:|:--:|:--:|:--:|
 | Student always uses the `self` argument correctly| Student usually uses the `self` argument correctly| Student attempts to use the `self` argument| There is no evidence Student can use the `self` argument|3|
-|Student correctly uses the `__str__` method||Student attempts to use the `__str__` method|  No evidence Student can use the `__str__` method|0|
+|Student correctly uses the `__str__` method||Student attempts to use the `__str__` method|  No evidence Student can use the `__str__` method|3|
 ||||**Sub Total**||
 
 ## The student can correctly use inheritance
@@ -32,21 +32,21 @@ Student Name: ______________________ Date: _________________________
 
 |3 |2 |1 |0 |Points
 |:-:|:-:|:-:|:-:|:-:|
-|Student program runs without error |  The students program has a few errors, but it does not impact the program's functionality | Student program has errors that impact the program's functionality | Student program is not functional |2|
-| __ |  Students submitted documentation showing planning for most variables and functions.| Students submitted documentation showing planning for a few variables and functions.| No evidence of planning|2|
+|Student program runs without error |  The students program has a few errors, but it does not impact the program's functionality | Student program has errors that impact the program's functionality | Student program is not functional |3|
+| Students submitted documentation showing planning for most variables and functions. |  Students submitted documentation showing planning for most variables and functions.| Students submitted documentation showing planning for a few variables and functions.| No evidence of planning|3|
 ||||**Sub Total**||
 
 ## Student uses naming/ syntax conventions and comments to increase readability
 
-|2 |1 |0 |Points |
+|3 |1 |0 | Points |
 |:-:|:-:|:-:|:-:|
-|Syntax conventions are generally used | Sometimes syntax conventions are used| No evidence of syntax conventions to aid in code readability|2|
-| All variables have clear names| Some variables have clear names| No evidence of using variable names to aid in code read ability|2|
-|__| Student comments aid code readability| No evidence of using comments to aid in code readability.|1|
+| Syntax conventions are generally used | Sometimes syntax conventions are used| No evidence of syntax conventions to aid in code readability|3|
+| All variables have clear names| Some variables have clear names| No evidence of using variable names to aid in code read ability|3|
+| Student comments aid all of the code readability | Student comments aid code readability| No evidence of using comments to aid in code readability.|3|
 |||**Sub Total**||
 
-## Final Grade
+## Final grade
 
-| Points Possible | Points Earned x Weight | total Points|
+| Points possible | Points earned x weight | Total points|
 |:-:|:-:|:-:|
-| 28 | X ||
+| 36 | X ||
