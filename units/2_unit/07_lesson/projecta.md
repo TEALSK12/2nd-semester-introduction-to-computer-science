@@ -1,12 +1,12 @@
-# Alternate Project 2: TODO List
+# Todo list project
 
 Created By Brian Weinfeld
 
-Using Python, you will create an interactive TODO list that allows users to add and remove tasks from a list.
+Using Python, you will create an interactive todo list that allows users to add and remove tasks from a list.
 
 ## Overview
 
-One of the most common tasks we use computers for is to store and track data. Perhaps the most simple form of this task is the TODO list. A TODO list is simply a list of information (for example, chores that needs to be done) that the user wants to track. They can add tasks to the list, remove them when they are complete and examine the list as they progress. Have you ever used a notes app on your phone?
+One of the most common tasks we use computers for is to store and track data. Perhaps the most simple form of this task is the todo list. A todo list is simply a list of information (for example, chores that needs to be done) that the user wants to track. They can add tasks to the list, remove them when they are complete and examine the list as they progress. Have you ever used a notes app on your phone?
 
 ## Details
 
@@ -51,9 +51,9 @@ What would you like to do? (add, remove, list, exit) exit
 Goodbye
 ```
 
-### Implementation Details
+### Implementation details
 
-* The program offers the user 4 options. **add** will add elements to the TODO list. **remove** will remove elements from the list.  **list** will display the entire list and **exit** will exit the program.
+* The program offers the user 4 options. **add** will add elements to the todo list. **remove** will remove elements from the list.  **list** will display the entire list and **exit** will exit the program.
 
 * After a user selects **add** they should then be prompted for the item they want added to the list. Be sure to check before you add the item to the list. You don't want to add the item twice!
 
@@ -63,10 +63,10 @@ Goodbye
 
 This section contains additional components you can add to the project. These should only be attempted **after** the project has been completed.
 
-* It is a bit inconvenient to have to type two commands to add or remove an element from the list. Modify the program so that tasks  can be added or removed from the TODO list with a single command like **add go to gym** or **remove go to gym**.
+* It is a bit inconvenient to have to type two commands to add or remove an element from the list. Modify the program so that tasks  can be added or removed from the todo list with a single command like **add go to gym** or **remove go to gym**.
 
 ```python
-Welcome to your TODO list
+Welcome to your todo list
 What would you like to do? (add, remove, undo, list, exit) add go to gym
 Successfully added
 What would you like to do? (add, remove, undo, list, exit) list
@@ -88,7 +88,7 @@ What would you like to do? (add, remove, undo, list, exit) list
 * It is helpful to have a feature to immediately remove the most recently added element to the list. This is often because the user made a mistake in adding the element to the list in the first place. Add an **undo** option to the program that will remove the most recently added item. If the item is no longer in the list, print an error.
 
 ```python
-Welcome to your TODO list
+Welcome to your todo list
 What would you like to do? (add, remove, undo, list, exit) add go to gym
 Successfully added
 What would you like to do? (add, remove, undo, list, exit) add clean bedroom
@@ -107,8 +107,8 @@ What would you like to do? (add, remove, undo, list, exit) list
 ['go to gym']
 ```
 
-### Super Challenge
+### Super challenge
 
 The super challenge will require knowledge that has not been taught yet. You will need to do additional research on your own. Good luck!
 
-It is possible to track enough information so that the __undo__ command can be called repeatedly. Modify the __undo__ command so that it will always work by removing the most recently added element in the TODO list that is still in the list. The only time the command should do nothing is when the TODO list is empty.
+It is possible to track enough information so that the __undo__ command can be called repeatedly. Modify the __undo__ command so that it will always work by removing the most recently added element in the todo list that is still in the list. The only time the command should do nothing is when the todo list is empty.

@@ -1,4 +1,4 @@
-# Project 2: Text Monster Game
+# Project 2: Text monster game
 
 Using Python, Boolean expressions, lists and while loops to create a text-based adventure game!
 
@@ -8,7 +8,7 @@ This game takes place in a three-story virtual space. Each story (or floor) can 
 
 ## Details
 
-### Behavior Example
+### Behavior example
 
 ```
 What would you like to do? left
@@ -64,11 +64,11 @@ You see nothing.
 * If they try to walk past a monster, they will be killed and the game will end.
 * A sword and magic stones are required to defeat a monster.
 
-### Implementation Details
+### Implementation details
 
 * The game should be implemented using lists.
 
-#### Player Items
+#### Player items
 
 * Use a list to keep track of the player's items.
 * At the beginning of the game it should be empty.
@@ -83,7 +83,7 @@ You see nothing.
 * There should be a boss monster in the room just before the room that contains the prize.
 * The boss monster requires magic stones and a sword to defeat.
 
-#### Win/Lose
+#### Win/lose
 
 * The game is won when the player grabs the prize.
 * The game is lost if the player:
@@ -91,9 +91,9 @@ You see nothing.
   * fights the boss monster without a sword and stones.
   * tries to move past a monster.
 
-### Design Considerations
+### Design considerations
 
-#### Game Board
+#### Game board
 
 The game board is the basis of the game. The following is a way to think of a smaller game board as a set of three lists, one for each floor.
 
@@ -105,7 +105,7 @@ The game board is the basis of the game. The following is a way to think of a sm
 
 The above code has each floor being its own list. This is only one possible way to keep track of the game board. A good alternative would be a single nested list storing all floors, but this may be somewhat more difficult for new coders to work with.
 
-#### Player Position
+#### Player position
 
 It will be useful to keep track of the player's position using two variables.
 
@@ -116,7 +116,7 @@ It will be useful to keep track of the player's position using two variables.
 
 This would put the player's position in the first room of the first floor.
 
-#### Validating Player Input
+#### Validating player input
 
 You will need to check the input of the player to make sure it is valid for the current game state:
 
@@ -127,7 +127,7 @@ You will need to check the input of the player to make sure it is valid for the 
             print("Can't go downstairs; there are no stairs.")
 ```
 
-## Extra Credit
+## Extra credit
 
 * Add an 'inventory' command to display the items (if any) that the player is currently carrying.
 * Implement [Cardinal Directions](https://en.wikipedia.org/wiki/Cardinal_direction) into your code to give more control over direction for the player.

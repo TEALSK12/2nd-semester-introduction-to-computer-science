@@ -1,6 +1,6 @@
 # Lesson 2.07: Project
 
-## Learning Objectives
+## Learning objectives
 
 Students will be able to...
 
@@ -8,22 +8,25 @@ Students will be able to...
 
 ## Materials
 
-* [2.07 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.07%20TEALS.pptx)
-* [Project Spec - Text Monster][] ([docx][1]) ([pdf][2])
-* [Project Spec - Ogopogo - Text Monster (Canadian version)][] ([docx][3]) ([pdf][4])
-* [Project Spec - To-do List][] ([docx][5]) ([pdf][6])
-* [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
-* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
-* Sample Solutions (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][]).
+* [2.07 Slide deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.07%20TEALS.pptx)
+* [Project spec - Text Monster][] ([docx][1]) ([pdf][2])
+* [Project spec - Ogopogo - Text Monster (Canadian version)][] ([docx][3]) ([pdf][4])
+* [Project spec - To-do list][] ([docx][5]) ([pdf][6])
+* Starter code
+  * [Text Monster starter code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
+  * [Ogopogo starter code (with checkpoints)](2.07_Ogopogo_Starter_Code_With_Checkpoints.py)
+  * [Ogopogo starter code](2.07_Ogopogo_Starter_Code.py)
+* [Editable grading rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
+* Sample solutions (access protected resources by clicking on "Additional curriculum materials" on the [TEALS Dashboard][]).
 
 ## Preparation
 
-* Read through the [Associated Readings 2.7](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.7)
+* Read through the [Associated readings 2.7](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.7)
 * Try creating your own variation on the Text Monster code so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 Steps to Solve Any CS Problem]
 * Update the Project Spec of your selected project as needed to meet your grading requirements
 
-### Day 1 Pacing Guide
+### Day 1 Pacing guide
 
 | **Duration**   | **Description** |
 | ---------- | ----------- |
@@ -31,7 +34,7 @@ Students will be able to...
 | 40 Minutes | Design      |
 | 5 Minutes | Debrief  |
 
-### Days 2 - 9 Pacing Guide
+### Days 2 - 9 pacing guide
 
 | **Duration**   | **Description** |
 | ---------- | ----------- |
@@ -39,13 +42,13 @@ Students will be able to...
 | 40 Minutes | Project Work|
 | 5 Minutes | Debrief  |
 
-## Instructor's Notes
+## Instructor's notes
 
-### 1. 4 Steps to Solve Any CS Problem
+### 1. 4 Steps to solve any CS problem
 
 * Review [4 Steps to Solve Any CS Problem][]
 
-### 2. Project Overview/Demo
+### 2. Project overview/demo
 
 * Distribute the project spec to all students and walk them through the goals and requirements of the project.
 * Show a demo of a completed project.
@@ -58,12 +61,12 @@ Students will be able to...
 * Have students stay at their desks and write down what lists they'll need.
 * They should break up the project into parts: parsing user input, keeping track of player's position, returning what is at the player's position.
 
-### 4. Debrief/Review
+### 4. Debrief/review
 
 * During discussion and warp up at the end of class, get a feeling for where students are in the project.
 * During the review the next morning cover the topics/areas that students are struggling on and present tips, suggestions, and goals for that day.
 
-## Accommodation/Differentiation
+## Accommodation/differentiation
 
 * Make sure to do status checks with all students throughout the project.
 * Identify students that are struggling on the project after the first few days and provide additional scaffolding & support as needed.
@@ -72,11 +75,11 @@ Students will be able to...
 
 ## Grading
 
-### Objective Scoring Breakdown
+### Objective scoring breakdown
 
-[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
+[Editable grading rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
 
-Student correctly identifies data types (Lesson 2.01) - Assessed in Unit 3
+Student correctly identifies data types (Lesson 2.01) - assessed in unit 3
 
 | Points | Percentage| Objective | Lesson |
 | :---: | :---: | --- | --- |
@@ -87,13 +90,9 @@ Student correctly identifies data types (Lesson 2.01) - Assessed in Unit 3
 | 5 | 20% | Student uses naming/ syntax conventions and comments to increase readability | |
 | **25** | **Total Points** | | |
 
-### Scoring Consideration
+### Scoring consideration
 
 You may need to adjust the points in order to fit your class. Treat the percentages as a guide to determine how to weight the objectives being assessed.
-
-## Forum discussion
-
-[Lesson 2.07: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-text-game)
 
 [Project Spec - Ogopogo - Text Monster (Canadian version)]: project_canada.md
 [Project Spec - Text Monster]: project.md

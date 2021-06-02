@@ -1,4 +1,4 @@
-# Project 2: Ogopogo - Text Adventure Game
+# Project 2: Ogopogo - Text adventure game
 
 Using Python, students will use casting, Boolean expressions, lists and while loops to create a text-based adventure game!
 
@@ -29,7 +29,7 @@ A shore can contain: a canal (to a neighboring lake), a camera, a searchlight, a
 * To take a successful picture of the parent Ogopogo and complete the game, a searchlight is needed in inventory as well as a camera.
 * The `inventory` command displays the items in the player's current inventory list.
 
-### Implementation Details
+### Implementation details
 
 * The game should be implemented using lists.
 * Use a list to keep track of the player's items. At the beginning of the game the player's inventory list should be empty.
@@ -55,7 +55,7 @@ The game board is the basis of the game. The following is a way to think of a sm
 
 The above code has each lake defined by a separate list. The starter code for the Ogopogo project provides a basic implementation using this data model. Feel free to use a different data model, but this should work for our purposes.
 
-#### Player Position
+#### Player position
 
 It will be useful to keep track of the player's position through a pair of variables, one for the lake and one for the current shore.
 
@@ -70,7 +70,7 @@ This would put the player at the position of the south shore of the southernmost
 
 The progress of the game is controlled by a variable used in the main game loop. At the start of the game this variable is set to a value like `ongoing`. The program will signal a win or a loss by changing the game state variable, which will allow the code to exit the game loop and print an appropriate final message.
 
-#### Validating Player Input
+#### Validating player input
 
 You will need to check the input of the player to make sure it is valid for the current game state. For example:
 
@@ -83,9 +83,10 @@ You will need to check the input of the player to make sure it is valid for the 
 
 ## Grading
 
-### Scheme/Rubric
+### Scheme/rubric
+
 | ------------------------------------------------------------------- |----|
-| Functional Correctness (Behavior)                                   |    |
+| Functional correctness (behavior)                                   |    |
 | ------------------------------------------------------------------- |----|
 | Game has three lakes with a total of 24 shores                      |  5 |
 | Player can move `left` or `right` around each lake                  | 10 |
@@ -109,7 +110,7 @@ You will need to check the input of the player to make sure it is valid for the 
 | ------------------------------------------------------------------- |----|
 | **Total**                                                           |100 |
 
-## Extra Credit
+## Extra credit
 
 * Have the program select a random location for the parent Ogopogo to appear. This could be any empty shore on Lake Okanagan, or even any empty shore on any of the three lakes. (Hint: Research the `random` library.) Handle the case correctly where the random location happens to be the player's current location.
 * Implement the board using nested lists (each item of the list is a list.)
