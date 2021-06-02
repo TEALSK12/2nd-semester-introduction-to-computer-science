@@ -20,7 +20,7 @@ Using Python, students will create a Tic-Tac-Toe game. This project has 3 parts:
 * At the end of each player's turn the program will print the updated game board.
 * If there are no more spots open and nobody has won the game, the program will print `Tie game!`.
 
-### Implementation Details
+### Implementation details
 
 * Use variables to store the user names for personalized prompts.
 * Create a game board represented as a list of lists, size 3 by 3.

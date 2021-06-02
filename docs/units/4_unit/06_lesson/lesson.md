@@ -1,61 +1,61 @@
 # Lesson 4.06: Tic Tac Toe
 
-## Learning Objectives
+## Learning objectives
 
 Students will be able to...
 
-* Use project planning skills to complete a larger project
-* Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game
+* Use project planning skills to complete a larger project.
+* Utilize loops, lists, and nested loops/lists to create a Tic-Tac-Toe game.
 
-## Materials/Preparation
+## Materials/preparation
 
 * [4.06 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.06%20TEALS.pptx)
-* [Project Spec - Tic-Tac-Toe][] ([docx][1]) ([pdf][2])
+* [Project spec - Tic-Tac-Toe][] ([docx][1]) ([pdf][2])
   * [Teacher's guide for BC curriculum alignment](project_canada.md)
-* [Alternate Project Spec - 2 Player Tic-Tac-Toe][] ([docx][3]) ([pdf][4])
-* [Tic Tac Toe Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/tictactoe_starter_code.py)
-* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard])
+* [Project spec - 2 Player Tic-Tac-Toe][] ([docx][3]) ([pdf][4])
+* [Tic Tac Toe starter code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/tictactoe_starter_code.py)
+* Solution (access protected resources by clicking on "Additional curriculum materials" on the [TEALS dashboard])
 * Read through the handout, lesson, and project so that you are familiar with the requirements and can assist students
 * Try creating your own variation on the Tic-Tac-Toe game so you are familiar with the potential challenges and bugs your students will hit
-* Review [4 Steps to Solve Any CS Problem][]
-* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.docx)
+* Review [4 steps to solve any CS problem][]
+* [Editable grading rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.docx)
 
-## Pacing Guide
+## Pacing guide
 
 ### Day 1
 
 | **Duration** | **Description**  |
 | ----------   | -----------      |
-| 5 Minutes    | Do Now           |
-| 10 Minutes   | Project Overview |
-| 30 Minutes   | Planning/Design  |
+| 5 Minutes    | Do now           |
+| 10 Minutes   | Project overview |
+| 30 Minutes   | Planning/design  |
 | 10 Minutes   | Debrief          |
 
 ### Days 2-9
 
 |**Duration** | **Description** |
 | ----------  | ------------    |
-| 5 Minutes   | Daily Plan      |
+| 5 Minutes   | Daily plan      |
 | 10 Minutes  | Review          |
-| 35 Minutes  | Project Work    |
+| 35 Minutes  | Project work    |
 | 5 Minutes   | Debrief         |
 
-## Instructor's Note
+## Instructor's note
 
-### 1. Do Now
+### 1. Do now
 
 * Hand out the project spec and have students start reading through it.
 
-### 2. Project Overview
+### 2. Project overview
 
 * Demo the Tic-Tac-Toe game.
 * Go over all of the game rules and program requirements.
 
-### 3. Planning/Design
+### 3. Planning/design
 
 #### Have students do the following in their notebook
 
-* Write down the 4 Steps to Solve Any CS Problem from memory.
+* Write down the 4 steps to solve any CS problem from memory.
 * Draw out game play and consider the overall design.
   * How will they represent the board?
   * How will they have users input their spots?
@@ -76,7 +76,7 @@ Students will be able to...
 * Take time to go over questions and confusion relating to project requirements.
 * Make sure to look over individual student project plans and check that they have outlined the project in a way that makes sense.
 
-### 5. Daily Plan
+### 5. Daily plan
 
 * At the start of Days 2-9, have each student refer to their original project plan, write down what they hope to accomplish that day, and assess their schedule to see if they are on track.
 
@@ -85,7 +85,7 @@ Students will be able to...
 * Go over any parts of the program that the majority of the class is struggling with.
 * Provide scaffolding and tips to students that are not on track for completion.
 
-## Accommodation/Differentiation
+## Accommodation/differentiation
 
 * Students can create a variable-sized board.
 * The checkers can actually be done using one function, taking in starting x and y values and the change in x and y at each step.
@@ -94,9 +94,9 @@ Students will be able to...
 
 ## Grading
 
-[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.docx)
+[Editable grading rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/rubric.docx)
 
-### Objective Scoring Breakdown
+### Objective scoring breakdown
 
 | Points | Percentage| Objective | Lesson |
 | :---: | :---: | --- | --- |
@@ -112,10 +112,10 @@ Students will be able to...
 
 [Lesson 4.06: Project 4 (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/unit-4-looping/lesson-4-06-tic-tac-toe)
 
-[Project Spec - Tic-Tac-Toe]: project.md
-[Alternate Project Spec - 2 Player Tic-Tac-Toe]: alternate_project.md
-[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
-[4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
+[Project spec - Tic-Tac-Toe]: project.md
+[Project spec - 2 Player Tic-Tac-Toe]: alternate_project.md
+[TEALS dashboard]:http:/www.tealsk12.org/dashboard
+[4 steps to solve any CS problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
 
 [1]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/project.docx
 [2]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/06_lesson/project.pdf

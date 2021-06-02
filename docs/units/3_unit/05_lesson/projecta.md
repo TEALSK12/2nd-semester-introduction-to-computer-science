@@ -1,4 +1,4 @@
-# Project 3: Daily Planner
+# Project 3: Daily planner
 
 Created by Brian Weinfeld
 
@@ -13,7 +13,7 @@ In this project, you will be creating a daily planner program. A daily planner h
 ### Behavior
 
 ```
-Welcome to your Daily Planner
+Welcome to your daily planner
 What would you like to do? (add, clear, display, exit) add
 What event would you like to add? go to school
 What time? 8

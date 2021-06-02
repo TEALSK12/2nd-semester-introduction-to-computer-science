@@ -15,7 +15,7 @@ In this project, we will create a simplified single-player version of the game.
 
 ## Details
 
-### Behaviour (Suggestions for a Basic Version)
+### Behaviour (Suggestions for a basic version)
 
 * The player starts in one city (random).
 * The player is given a commodity and a destination city (random).
@@ -62,27 +62,22 @@ Sharing your digital creation provides opportunity for collecting feedback, cros
 
 #### BC ADST Computer Programming 11 Big Idea - Design Cycle
 
-Every project must have a scope.  This is an initial document or plan of what
-your software is supposed to do, or will do.   Before you begin the design and coding
-of this game, write down the behaviour of your game.   You can use the suggestions
-above, or modify it to be more unique.  However, keep your scope simple and clear.
-Resist the urge to overly complicate the game in your scope definition.  Once you
-get a basic version that is working, you can add new commands or features in a future revision!  Software
-development is iterative, and scaffolds over time.  
+Every project must have a scope. This is an initial document or plan of what
+your software is supposed to do, or will do. Before you begin the design and coding of this game, write down the behaviour of your game. You can use the suggestions above, or modify it to be more unique.  However, keep your scope simple and clear. Resist the urge to overly complicate the game in your scope definition.  Once you get a basic version that is working, you can add new commands or features in a future revision!  Software development is iterative, and scaffolds over time.  
 
 ---
 
-* Create functions for all options a player can take
+* Create functions for all options a player can take.
 * Use global to keep track of player health, food, distance to go, current day, etc.
-* Create a function add_day which updates the day
-* Create a function select_action which uses a while loop to call add_day function
+* Create a function add_day which updates the day.
+* Create a function select_action which uses a while loop to call add_day function.
 
-## Extra Credit
+## Extra credit
 
 1. Add a fill up command that includes gas consumption as part of the game.
 2. Create events that occur randomly, like a forest fire roadblock, that will affect health and time.
-3. Allow the user to travel East or West. Implement the travel east (te) and travel west (tw) commands. 
-4. Allow the user to choose the number of commodities to deliver, and make sure that the commodities assigned are all different. 
+3. Allow the user to travel East or West. Implement the travel east (te) and travel west (tw) commands.
+4. Allow the user to choose the number of commodities to deliver, and make sure that the commodities assigned are all different.
 5. Make the rate of food consumption be a function of the day of the week
 
 ## Extension
@@ -94,10 +89,8 @@ The game can provide hints or feedback on the routes chosen based on various fac
 
 ### Emphasize with students some more
 
-#### BC Mathematics Computer Science 11:  Algorithms, Computational Thinking, Solving Problems
+#### BC Mathematics Computer Science 11:  Algorithms, computational thinking, solving problems
 
 Pathfinding is the job of finding the shortest (based on a weight or cost associated with each path segment) path between two points on a network graph.  The weight or cost would be based on some criteria (such as distance, time, scenery).  Pathfinding algorithms are used in many applications:  artificial intelligence, navigation, transportation, game design, virtual reality, etc.  Ask students to discuss possible solutions and the reasoning behind them.  Use graphs to visualize.
 
 As our networks become bigger, the steps for finding a good path are computationally expensive.  This is an ideal job for the computer!
-
----
