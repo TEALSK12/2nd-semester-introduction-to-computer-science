@@ -99,10 +99,6 @@ In their notebooks, have students explain how they would access the element `d`,
 ## Accommodation/Differentiation
 
 If students are moving quickly, you can continue the topic of nested lists. Start off with a simple nested list like `['a', 'b', 'c', [1, 2, 3]]`. Ask the students to guess the length. Ask the students to guess how they would access the item '1' from that list!
-
-## Forum discussion
-
-[Lesson 2.04: Lists (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-04-lists)
   
 [Do Now]: do_now.md
 [Lab - Food Chooser]: lab.md

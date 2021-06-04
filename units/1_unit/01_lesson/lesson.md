@@ -73,8 +73,4 @@ Students will be able to...
 * Have students type in the displayed code into the blank `hello_world.py` file
 * If students finish early, encourage them to explore the interface and to try creating a program that prints their name.
 
-## Forum discussion
-
-[Lesson 0.1: The First Day (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-01-set-up)
-
 [Python Code]:https://raw.githubusercontent.com/TEALSK12/2nd-semester-introduction-to-computer-science/master/units/1_unit/01_lesson/hello_world.py

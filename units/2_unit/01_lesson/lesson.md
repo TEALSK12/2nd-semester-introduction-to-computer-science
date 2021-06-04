@@ -121,10 +121,6 @@ Output from Python:
 ## Accommodation/Differentiation
 
 If students are moving quickly, it is possible to introduce the concepts of Booleans here. Discuss how students would represent binary (0's and 1's). In practice these translate to True and False. Convert numbers to Boolean, and Booleans to numbers.
-
-## Forum discussion
-
-[Lesson 2.01: Data Types and Casting (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-01-data-types-casting)
   
 [Do Now]:do_now.md
 [Lab - Casting]:lab.md

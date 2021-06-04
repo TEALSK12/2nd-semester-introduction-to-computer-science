@@ -93,10 +93,6 @@ A function definition is like a contract: you tell the programmer what elements 
 
 If students are moving quickly, find another library to import from (see **bonus** in the lab) OR allow students to move on to creating their own functions.
 
-## Forum discussion
-
-[Lesson 3.01: Built-In Functions (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-01-built-in-functions)
-
 [Do Now]:do_now.md
 [Lab - Magic 8-Ball]:lab.md
 [pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/01_lesson/lab.pdf

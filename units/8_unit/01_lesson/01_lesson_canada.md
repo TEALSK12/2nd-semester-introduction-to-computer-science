@@ -160,6 +160,3 @@ Studies show that pair programming encourages female computer science students, 
 Students need to be excited about their project.  Students need to enjoy the process of working on it.   Doing it with a friend or partner can make the journey of learning computer science fun and rewarding. 
 
 ---
-
-## Forum discussion
-[Lesson 8.1 - Project Planning Summary + Brainstorming and Evaluating (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-8-final-project/lesson-8-01-final-project-brainstorming-and-evalu)

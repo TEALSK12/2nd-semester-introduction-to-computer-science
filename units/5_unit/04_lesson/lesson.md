@@ -62,10 +62,6 @@ Students will be able to...
 
 Students that are moving quickly could explore and create alternative song forms (ex. AABA).
 
-## Forum discussion
-
-[Lesson 5.04: EarSketch User-Defined Functions (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-5-earsketch/lesson-5-04-earsketch-user-defined-functions)
-
 [Do Now]: do_now.md
 [Lab - User-Defined Functions]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/

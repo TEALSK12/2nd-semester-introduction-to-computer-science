@@ -83,10 +83,6 @@ Students will be able to...
 * This topic is often confusing for students new to the concept, so build in time for frequent individual checks for understanding.
 * **Bonus Lab Problem** This is a bit more difficult and should provide a challenge for students who are moving more quickly.
 
-## Forums discussion
-
-[Lesson 4.03: Nested For Loops (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/unit-4-looping/lesson-4-03-nested-for-loops)
-
 [Do Now]: do_now.md
 [Lab - Nested For Loops]: lab.md
 [pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/03_lesson/lab.pdf

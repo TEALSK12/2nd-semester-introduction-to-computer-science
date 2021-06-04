@@ -54,10 +54,6 @@ Students will be able to...
 Make sure to provide extended time on the quiz for any students that have that requirement in an IEP or 504 plan.
 Provide an [Additional Coding Example]) for students that finish the lab exercises early.
 
-## Forum discussion
-
-[Lesson 4.05: Debugging and Quiz (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/unit-4-looping/lesson-4-05-debugging-and-quiz)
-
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [Lab - Debugging Practice]: lab.md
 [Coding Example]: https://raw.githubusercontent.com/TEALSK12/2nd-semester-introduction-to-computer-science/master/units/4_unit/05_lesson/code_example.py

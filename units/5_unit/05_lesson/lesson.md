@@ -81,10 +81,6 @@ Certain students that have a limited music background may need additional assist
 | **Sub total**                                                   | 45  |
 | **Total**                                                       | 70 |
 
-## Forum discussion
-
-[Lesson 5.05: EarSketch Project (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-5-earsketch/lesson-5-05-earsketch-project)
-
 [Do Now]: do_now.md
 [Lab]: lab.md
 [TEALS Dashboard]: http:/www.tealsk12.org/dashboard

@@ -91,10 +91,6 @@ Student correctly identifies data types (Lesson 2.01) - Assessed in Unit 3
 
 You may need to adjust the points in order to fit your class. Treat the percentages as a guide to determine how to weight the objectives being assessed.
 
-## Forum discussion
-
-[Lesson 2.07: Text Game (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-07-text-game)
-
 [Project Spec - Ogopogo - Text Monster (Canadian version)]: project_canada.md
 [Project Spec - Text Monster]: project.md
 [Project Spec - To-do List]: projecta.md

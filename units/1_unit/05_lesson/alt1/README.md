@@ -19,7 +19,7 @@ situation, you could still use the lesson by asking the students to read the PDF
 code examples into Trinket or whatever Python IDE you are using.
 
 Enjoy,
-[David Miller](https://forums.tealsk12.org/u/davidrhmiller)
+David Mille
 2018-Feb-7
 
 [Google Colab]: https://colab.research.google.com/notebooks/welcome.ipynb

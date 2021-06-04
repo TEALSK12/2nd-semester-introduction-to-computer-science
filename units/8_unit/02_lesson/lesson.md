@@ -61,7 +61,3 @@ Students will be able to...
 
 [Final Project Plan Organizer]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_plan_organizer.docx
 [Final Project Development Plan]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_development_plan.docx
-
-## Forum discussion
-
-[Lesson 8.2 - Defining Requirements (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-8-final-project/lesson-8-02-defining-requirements)

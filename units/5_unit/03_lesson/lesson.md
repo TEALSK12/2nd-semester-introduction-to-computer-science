@@ -56,10 +56,6 @@ Students will be able to...
 
 Students that are moving quickly can read additional documentation on the EarSketch website in order to move ahead and expand their skills and understanding.
 
-## Forum discussion
-
-[Lesson 5.03: Earsketch Control Flow (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-5-earsketch/lesson-5-03-earsketch-control-flow)
-
 [Do Now]: do_now.md
 [Lab - EarSketch Control Flow]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
