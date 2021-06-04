@@ -97,10 +97,6 @@ Students may struggle with the concept of nested lists. Be prepared to have addi
 
 * Example: What if you keep a weekly to-do list? The days of the week would be the first list, and then each item that you hope to accomplish under each day is the list within the list.
 
-## Forum discussion
-
-[Lesson 4.04: Nested Lists & Looping](https://forums.tealsk12.org/c/unit-4-looping/lesson-4-04-nested-lists-looping)
-
 [Do Now]: do_now.md
 [Lab - Daily Schedule]: lab.md
 [pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/04_lesson/lab.pdf

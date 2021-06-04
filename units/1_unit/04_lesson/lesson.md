@@ -104,10 +104,6 @@ Identify students that may potentially struggle on the quiz and find individual 
 [Do Now]:do_now.md
 [Lab - Magic Genie]:lab.md
 
-## Forum discussion
-
-[Lesson 1.04: Variables Input (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-04-variables-input)
-
 [pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.pdf
 [docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.docx
 [Comments Video]: https://youtu.be/kEuVvUc1Zec

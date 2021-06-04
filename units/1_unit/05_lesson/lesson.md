@@ -62,10 +62,6 @@ Students will be able to...
 
 Make sure to provide extended time on the quiz for any students who need extra time.
 
-## Forum discussion
-
-[Lesson 1.05: Quiz and Debugging (TEALS Forums Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-1/1-05-quiz-debugging)
-
 [TEALS Dashboard]: http://www.tealsk12.org/dashboard
 
 [http://tinyurl.com/TEALS-Python-Errors]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html

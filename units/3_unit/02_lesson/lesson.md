@@ -73,10 +73,6 @@ Students will be able to...
 
 If students are moving quickly, they could go back and use functions to improve an old project.
 
-## Forum discussion
-
-[Lesson 3.02: User-Defined Functions (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-02-user-defined-functions)
-  
 [Do Now]:do_now.md
 [Lab - Birthday Song & Random Cards]:lab.md
 [pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.pdf

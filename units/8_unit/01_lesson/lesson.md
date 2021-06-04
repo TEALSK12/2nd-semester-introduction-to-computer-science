@@ -107,6 +107,3 @@ Students will be able to...
 * This can be a bit dangerous, as it puts the student somewhat behind in the process right from the start, since they won't have as much context having not written the pitch themselves.  Consider carefully whether this is a good idea.
 * Encourage each student to pick a project that fits his or her level of technical skill.  Make sure students are not over-committing and choosing projects they do not have the skills to complete.  Also try to discourage stronger students from choosing simpler projects in an effort to do less work.
 
-## Forum discussion
-
-[Lesson 8.1 - Project Planning Summary + Brainstorming and Evaluating (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-8-final-project/lesson-8-01-final-project-brainstorming-and-evalu)

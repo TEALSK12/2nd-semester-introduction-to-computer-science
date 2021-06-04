@@ -1,25 +1,25 @@
-# Lesson 3.05: Project 3
+# Lesson 3.05: project 3
 
-## Learning Objectives
+## Learning objectives
 
 Students will be able to...
 
 * Use project planning skills to complete a large project.
-* Create functions to organize a project
-* Apply skills learned in units 1-3 to create a functioning program
+* Create functions to organize a project.
+* Apply skills learned in units 1-3 to create a functioning program.
 
-## Materials/Preparation
+## Materials/preparation
 
-* [3.05 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.05%20TEALS.pptx)
-* [Project Spec - Oregon Trail][] ([docx][1]) ([pdf][2])
-* [Project Spec - Cross-Country Canada][] ([docx][3]) ([pdf][4])
-* [Project Spec - Daily Planner][] ([docx][5]) ([pdf][6])
-* [Oregon Trail Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/Unit_3_Project_Oregon_Trail_Starter_Code.py)
-* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard](https://www.tealsk12.org/dashboard/))
+* [3.05 Slide deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.05%20TEALS.pptx)
+* [Project spec - Oregon Trail][] ([docx][1]) ([pdf][2])
+* [Project spec - Cross-Country Canada][] ([docx][3]) ([pdf][4])
+* [Project spec - Daily Planner][] ([docx][5]) ([pdf][6])
+* [Oregon Trail starter code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/Unit_3_Project_Oregon_Trail_Starter_Code.py)
+* Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS dashboard](https://www.tealsk12.org/dashboard/))
 * Update the _Project Spec_ as needed to meet your grading requirements.
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit.
-* Review [4 Steps to Solve Any CS Problem][]
-* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/rubric.docx)
+* Review [4 steps to solve any CS problem][]
+* [Editable grading rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/rubric.docx)
 
 ### Day 1
 
@@ -37,13 +37,13 @@ Students will be able to...
 | 45 Minutes  | Project Work     |
 | 5 Minutes   | Debrief          |
 
-## Instructor's Notes
+## Instructor's notes
 
-### 1. 4 Steps to Solve Any CS Problem
+### 1. 4 steps to solve any CS problem
 
-* Remind students of the [4 Steps to Solve Any CS Problem].
+* Remind students of the [4 steps to solve any CS problem].
 
-### 2. Project Overview
+### 2. Project overview
 
 * Demo the Oregon Trail finished project.
 * Give out the project spec and go over game rules.
@@ -63,7 +63,7 @@ Students will be able to...
     * Connect functions together.
     * Wrap up and game over check is correct.
 
-## Accommodation/Differentiation
+## Accommodation/differentiation
 
     * Advanced students can add in random events like cholera or snake bites.
     * Students can also have a list of travelers instead of just 1, where each traveler is affected differently by each action.
@@ -72,9 +72,9 @@ Students will be able to...
 
 ## Grading
 
-### Objective Scoring Breakdown
+### Objective scoring breakdown
 
-[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/rubric.docx)
+[Editable grading rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/rubric.docx)
 
 | Points | Percentage| Objective | Lesson |
 | :---: | :---: | --- | --- |
@@ -86,20 +86,16 @@ Students will be able to...
 | 5| 16%|Student uses naming/ syntax conventions and comments to increase readability||
 | 31 | | **Total Points** ||
 
-### Scoring Consideration
+### Scoring consideration
 
 You may need to adjust the points in order to fit your class. Treat the percentages as a guide to determine how to weight the objectives being assessed.
 
-## Forum discussion
-
-[Lesson 3.05: Oregon Trail (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-05-oregon-trail)
-
-[Project Spec - Oregon Trail]:project.md
-[Project Spec - Daily Planner]:alternate_project.md
-[Project Spec - Cross-Country Canada]:project_canada.md
-[Oregon Trail - Example Code]:oregon_trail.py
-[TEALS Dashboard]:http:/www.tealsk12.org/dashboard
-[4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
+[Project spec - Oregon Trail]:project.md
+[Project spec - Daily Planner]:alternate_project.md
+[Project spec - Cross-Country Canada]:project_canada.md
+[Oregon Trail - Example code]:oregon_trail.py
+[TEALS dashboard]:http:/www.tealsk12.org/dashboard
+[4 steps to solve any CS problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
 
 [1]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.docx
 [2]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.pdf

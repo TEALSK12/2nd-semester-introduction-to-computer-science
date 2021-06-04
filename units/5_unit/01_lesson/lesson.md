@@ -114,10 +114,6 @@ to move ahead and expand their skills and understanding.
 
 Some students may need reminders about certain music terminology (tempo, measure, beat, _etc._).
 
-## Forum discussion
-
-[Lesson 5.01: Earsketch Intro (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-5-earsketch/lesson-5-01-earsketch-intro)
-
 [Do Now]: do_now.md
 [Lab - Intro to EarSketch]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/

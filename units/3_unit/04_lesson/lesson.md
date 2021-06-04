@@ -100,10 +100,6 @@ Students will be able to...
 
 If students are moving quickly, they can look ahead at the project spec or research the game Oregon Trail for context.
 
-## Forum discussion
-
-[Lesson 3.04: Debugging and Scope (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-04-debugging-and-scope)
-
 [Do Now]:do_now.md
 [Lab - Aliasing & Scope]:lab.md
 [pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/04_lesson/lab.pdf

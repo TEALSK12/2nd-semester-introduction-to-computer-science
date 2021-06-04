@@ -79,10 +79,6 @@ Students will be able to...
 
 The optional bonus functionality mentioned in the lab is to add the additional code to allow players to start a new 'War' game at the end of the current game.  As an extension activity, ask students to research the shuffle function and the functions associated with it.
 
-## Forum discussion
-
-[Lesson 3.03: Return vs Print (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-3-functions/lesson-3-03-return-vs-print)
-
 [Do Now]:do_now.md
 [Lab - War (Card Game)]:lab.md
 [pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/03_lesson/lab.pdf

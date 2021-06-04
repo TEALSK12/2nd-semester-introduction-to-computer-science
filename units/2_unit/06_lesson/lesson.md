@@ -1,24 +1,24 @@
-# Lesson 2.06: Game Loop
+# Lesson 2.06: Game loop
 
-## Learning Objectives
+## Learning objectives
 
 Students will be able to...
 
 * Define and identify: **while loop**.
 * Use a while loop to simulate game play.
 
-## Materials/Preparation
+## Materials/preparation
 
-* [2.06 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.06%20TEALS.pptx)
-* [Do Now][]
-* [Lab - Tic-Tac-Toe Revisited][] ([docx][]) ([pdf][])
-* [Associated Readings 2.7](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.7)
+* [2.06 Slide deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.06%20TEALS.pptx)
+* [Do now][]
+* [Lab - Tic-Tac-Toe revisited][] ([docx][]) ([pdf][])
+* [Associated readings 2.7](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.7)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 * Video Resources:
   * [Loops](https://youtu.be/LrOAl8vUFHY)
-  * [Loops Demo](https://youtu.be/rAvD-6MpTw4)
+  * [Loops demo](https://youtu.be/rAvD-6MpTw4)
 
-## Pacing Guide
+## Pacing guide
 
 | **Duration**   | **Description** |
 | ---------- | ----------- |
@@ -27,9 +27,9 @@ Students will be able to...
 | 35 Minutes | Lab         |
 | 5 Minutes | Debrief  |
 
-## Instructor's Notes
+## Instructor's notes
 
-### 1. Do Now
+### 1. Do now
 
 * Students experiment with creating `while` loops.
 
@@ -50,7 +50,7 @@ Students will be able to...
 
 * Have the students think about and write a solution.
 
-#### Student Share
+#### Student share
 
 * Call students up to the board to write out how they solved it.
 
@@ -66,11 +66,7 @@ Students will be able to...
 
 If there is extra time, have students start reading through the final project specs and thinking about how they will apply what they have learned this unit to complete the project.
 
-## Forum discussion
-
-[Lesson 2:06: Game Loop (TEALS Discourse Account Required)](https://forums.tealsk12.org/c/2nd-semester-unit-2/lesson-2-06-game-loop)
-  
-[Do Now]:do_now.md
-[Lab - Tic-Tac-Toe Revisited]:lab.md
+[Do now]:do_now.md
+[Lab - Tic-Tac-Toe revisited]:lab.md
 [pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.pdf
 [docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.docx
