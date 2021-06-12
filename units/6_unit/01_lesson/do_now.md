@@ -24,4 +24,4 @@ print('monkey' in my_dictionary)
 
 1. Write down what was printed out. What type is `my_dictionary`?
 2. Add a line of code that will print the definition of `'chair'`, then run the code again.
-3. Write down what happens if you use `my_dictionary['kittens']`? What do you think that error means?
+3. Write down what happens if you use `my_dictionary['kittens']`. What do you think that error means?

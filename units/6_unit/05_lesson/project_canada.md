@@ -7,7 +7,7 @@ Dictionaries will be the key to this project.
 ## Overview
 
 The game should store information on at least 5 different mascots.
-Each character should have a name, primary colour, jersey colour, clue about the mascot, clue about the city, some fun fact.
+Each character should have a name, primary colour, jersey colour, clue about the mascot, clue about the city, and some fun fact.
 
 When the game begins, a character should be randomly selected by the computer. The player can ask for 2 pieces of information about the random character, and then has to make a guess as to who was picked.
 
@@ -50,7 +50,7 @@ A dictionary is one type of collection data structure.  Unlike the English langu
 
 ### Example Output
 
-```python
+```
 What would you like to do? list
 Fin (Vancouver Canucks):
 ['black', 'blue', "mammal", 'near waters', 'loves swimming']
@@ -75,7 +75,7 @@ What would you like to do? guess hunter
 You missed...  
 ```
 
-```python
+```
 What would you like to do? animal
 furry
 What would you like to do? jersey

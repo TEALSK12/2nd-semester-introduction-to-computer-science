@@ -13,7 +13,7 @@ Students will be able to...
 * [Do Now][]
 * [Lab - Dictionaries Storing Lists][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/6.3)
-* Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students.
+* Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
 ## Pacing Guide
 
@@ -33,13 +33,13 @@ Students will be able to...
 
 ### 2. Lesson
 
-#### Discuss part 1 of the Do Now
+#### Discuss Part 1 of the Do Now
 
 * Go over the type of `weekend_dates`.
 * It is still a dictionary type. In this case the dictionary goes from string (key) to list (value).
 * Dictionaries can also go from numbers to lists, or numbers to strings, or any other combination.
 
-#### Discuss part 2 of the Do Now
+#### Discuss Part 2 of the Do Now
 
 * Review how you update a value within a dictionary, as well as how to append and remove items from lists.
 * Have students continue practicing adding and removing values from `weekend_dates`.  

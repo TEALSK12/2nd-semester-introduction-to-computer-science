@@ -23,7 +23,7 @@ To store and access the information you’ll need to use dictionaries, which wil
 
 ### Example Output
 
-```python
+```
 What would you like to do? list
 mike:
 ['Male', '15', "6'1", 'Blonde']
@@ -40,13 +40,16 @@ What would you like to do? age
 What would you like to do? hair
 Brown
 What would you like to do? guess liv
-You lost...  
+You lost...
+The correct character was 'bill'.
 ```
 
-```python
+```
 What would you like to do? gender
 Female
 What would you like to do? height
 5'7
 What would you like to do? guess linda
+You guessed right!
+The correct character was 'linda'.
 ```

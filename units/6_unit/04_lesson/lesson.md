@@ -40,8 +40,7 @@ Students will be able to...
 
 * Ask for a small number of students to write their solution on the board.
 * Discuss that it is possible to do just `for key in my_dictionary:`, but behind the scenes this is similar to calling the `.keys()` function.
-* Discuss that the order of the list is not exactly what was expected.
-* Unlike lists, dictionaries have no guaranteed order.
+* Before Python 3.5-3.7, unlike lists, dictionaries had no guaranteed order:  looping through a dictionary might produce items in a different order from the order in which the items were originally added. In Python 3.7+, dictionaries do preserve order.
 
 ### 3. Lab
 

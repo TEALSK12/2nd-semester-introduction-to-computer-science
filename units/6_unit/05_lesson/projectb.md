@@ -9,7 +9,7 @@ one.
 The program starts by loading an inventory of umbrella models from a
 text file. Afterwards, it greets the user with this message:
 
-```python
+```
 Welcome to Umbrellas Unlimited, your online market for water
 protection. We have over 100 umbrellas for sale. Happy shopping!
 
@@ -27,7 +27,7 @@ Use these commands to navigate our site:
 Then it allows the user to browse and filter the catalog of available
 umbrellas:
 
-```python
+```
 Showing items 1-5 of 162 items
 
   1) Samsonite polyester compact umbrella.
@@ -61,7 +61,7 @@ Here's an example interaction session:
 
 ### Paging through items
 
-```python
+```
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? <b>next</b>
 
 Showing items 6-10 of 162 items
@@ -125,7 +125,7 @@ Showing items 11-15 of 162 items
 
 ### Adding filters
 
-```python
+```
 Showing items 1-5 of 162 items
 
   1) Samsonite polyester compact umbrella.
@@ -214,7 +214,7 @@ Notice that the list now contains only 6 items, all Samsonite brand and all nylo
 
 Continuing the previous example, we can remove the brand filter:
 
-```python
+```
 (b)uy, (n)ext, (p)revious, (a)dd, (r)emove, (m)odify, (h)elp or (q)uit? <b>remove</b>
 Filters:
     1) brand: Samsonite
@@ -244,7 +244,7 @@ Showing items 1-5 of 37 items
 Sometimes you want to allow multiple values for a given attribute, say "Nylon or plastic".
 A user can modify their filter to allow this:
 
-```python
+```
 Current filters:
 brand: Samsonite
 material: nylon
@@ -300,7 +300,7 @@ Note that both nylon and plastic umbrellas are now present.
 
 Finally, the user can select an item they want and purchase it:
 
-```python
+```
 Current filters:
 brand: Samsonite
 material: nylon, plastic
@@ -452,7 +452,7 @@ selected item and exits).
 Program applies that filter to the full inventory and displays just
 the subset that match it.
 
-1. Program supports the `(a)dd` filter action, prompting user for an
+1. Program supports the `(a)dd` filter action, prompting the user for an
 attribute and a value, creates a corresponding search criteria
 dictionary, and applies it to the inventory (instead of
 `my_criteria`, which you can now delete).

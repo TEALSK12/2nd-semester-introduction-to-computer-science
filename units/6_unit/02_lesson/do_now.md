@@ -16,7 +16,7 @@ print(my_dictionary)
 
 #### Respond to the following
 
-Write down what the 2nd line does.
+Write down what the 4th line does.
 
 ## 2. In your Console
 
@@ -28,7 +28,7 @@ print(my_dictionary)
 
 ### Continue in your Notebook
 
-#### Respond to the following prompt
+#### Respond to the following
 
 Write down what the 2nd line does.
 
@@ -42,11 +42,11 @@ my_dictionary = {
 
 my_dictionary.pop('kittens')
 print(my_dictionary)
-my_dictionary.pop('bunnies')
 my_dictionary.pop('bunnies', None)
+my_dictionary.pop('bunnies')
 ```
 
 ### Continue In your Notebook
 
-1. Write down what the second line does.
-2. What is different between `my_dictionary.pop('bunnies')` and `my_dictionary.pop('bunnies', None)`?
+1. Write down what the third line does.
+2. What is different between `my_dictionary.pop('bunnies', None)` and `my_dictionary.pop('bunnies')`?

@@ -38,18 +38,18 @@ Students will be able to...
 
 #### Part 1 of the Do Now
 
-* Discuss what the students learned from and go over what the code is doing.
+* Discuss what the students learned from Part 1, and go over what the code is doing.
 * Describe that you can update a value in a dictionary in a similar way to how you would update a value in a list.
 
 #### Part 2 of the Do Now
 
-* Discuss what the students learned from and go over what the code is doing.
+* Discuss what the students learned from Part 2, and go over what the code is doing.
 * Note that you can add values to a dictionary by using the same syntax.
 * Review: How might you check if a value was in a dictionary before adding it?
 
 #### Part 3 of the Do Now
 
-* Discuss what the students learned from and go over what the code is doing.
+* Discuss what the students learned from Part 3, and go over what the code is doing.
 * Review what **pop** does, as well as what the second argument does.
 * This is the value that will be returned if the first argument is not in the dictionary.
 

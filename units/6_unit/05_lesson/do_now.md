@@ -1,6 +1,6 @@
 # Do Now 6.05
 
-## Write down your ranking of these concepts from easiest to hardest
+## Write down your ranking of these concepts from easiest to hardest:
 
 1. Creating dictionaries.
 2. Adding items to dictionaries.

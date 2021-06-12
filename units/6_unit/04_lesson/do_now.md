@@ -6,11 +6,11 @@
 
 ```python
 my_dictionary = {
-'a': 1,
-'b': 2,
-'c': 3,
-'d': 4,
-'e': 5
+    'a': 1,
+    'b': 2,
+    'c': 3,
+    'd': 4,
+    'e': 5
 }
 print(list(my_dictionary))
 ```
@@ -27,4 +27,4 @@ print(list(my_dictionary))
 
 ### Challenge yourself
 
-Try your solution to 3.
+Try implementing your solution to #3 above.

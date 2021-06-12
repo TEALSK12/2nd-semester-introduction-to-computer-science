@@ -17,13 +17,13 @@ what action they wish to take ( **add** or **get**).
 Here's an example. The program output is shown in bold text, the user
 input in regular text.
 
-```python
+```
 >>>python3 daily_to_do_list.py
 What would you like to do ('add' or 'get')?
 add
 What day?
 Friday
-What would you like to add to Fridays to-do list?
+What would you like to add to Friday's to-do list?
 practice clarinet
 What would you like to do ('add' or 'get')?
 get
@@ -38,4 +38,5 @@ What would you like to do('add' or 'get')?
 It's a bit tedious for the user to have to type in three different lines to add an item to a to-do list. Use `split()` to allow the user
 to input `add Friday watch tv and relax`.
 
-Create a variation of the program that doesn't allow any duplicates across any of the days. Make sure when you add a to-do item that it doesn't exist in the to-do lists of any of the days before adding.
+Create a variation of the program that doesn't allow any duplicates across any of the days. Make sure when you add a to-do item that
+it doesn't exist in the to-do lists of any of the days before adding.
