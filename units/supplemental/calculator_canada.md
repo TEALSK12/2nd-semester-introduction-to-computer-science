@@ -1,26 +1,25 @@
 # Project- Final Project Alternative or Supplement (True North Edition)
 # The Financial Calculator Project
 
-* [printable project spec][]
-* [editable project spec][]
-
 Students will design, plan, and implement a medium- to large-scale 
 final project involving financial literacy.  Students can work individually, or with a partner. 
 
-## Overview
+## Learning Objectives
 
-During this course, you have learned a huge amount about 
-computer science and programming in general, and Python in particular.  
-In this project, you will put all of that knowledge, 
-along with some new skills you will develop around design, 
-planning, and project management, to build a relatively large and 
-complex financial application that _you_ choose.  
-You should 
-ultimately produce a project that is interesting, useful, and challenging.
-To enhance the efficacy of the financial application, you will learn how to read user input data from a CSV file, 
-and possible provide output via a file as well. 
+Students will be able to...
+
+* Design, plan and implement a larger project
+* Use computing as a tool for financial analysis
+* Understand that the software design cycle is an ongoing, reflective process
+* Program an application that reads and writes data from and to CSV (Comma Separated Value) files
+
+## Materials/Preparation
+* [printable project spec](calculator_canada_project_spec.pdf)
+* [editable project spec](calculator_canada_project_spec.docx)
+* Students should each have their [final project plan organizer](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_plan_organizer.docx) and [final project development plan](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_development_plan.docx)
 
 ---
+## Instructor's Notes
 
 ### Emphasize with students ...
 
