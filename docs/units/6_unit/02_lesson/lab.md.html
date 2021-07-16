@@ -1,4 +1,4 @@
-<meta charset="utf-8"><link rel="stylesheet" media="screen" href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/styles/curriculum.css">
+<meta charset="utf-8"><link rel="stylesheet" media="screen" href="../styles/curriculum.css" href="../../styles/curriculum.css">
 **TEALS Program**
 <a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/">Home</a> | 
 <a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/curriculum_map.md.html">Curriculum Map</a> | 
@@ -8,9 +8,9 @@
  
 # Lab 6.02 - Word Counter
 
-In this lab we will implement a word frequency algorithm. It will tell you how many of each word you had in an essay.
+In this lab we will implement a word frequency algorithm. It will tell you how many of each word can be found in an essay.
 
-At the top of the document save a variable with a long paragraph (example below). In order to turn this paragraph into a list of lower case words we will use the `split(" ")`, `replace()`, and `lower()` functions. There is code at the bottom of this page that will do this for you. Feel free to read more about `split()` in the Python documentation, but it's not critical to this lab.
+At the top of the document save a variable with a long paragraph (example below). To turn this paragraph into a list of lowercase words, we will use the `split(" ")`, `replace()`, and `lower()` functions. There is code at the bottom of this page that will do this for you. Feel free to read more about `split()` in the Python documentation, but it's not critical to this lab.
 
 For each word in the document, count the number of times it occurs. Consider the following phrase: 'Cats are cool. Baby cats are called kittens. Cats make great pets.' The word 'cats' appears 3 times. The word 'are' appears 2 times.
 
@@ -18,13 +18,13 @@ The program will first create a dictionary with the words as keys and the number
 
 ## Example
 
-```python
+```
 >>> python3 word_frequency_lab.py
 What word would you like to know the frequency of? cats
 'cats' occurs 3 times
 ```
 
-```python
+```
 >>> python3 word_frequency_lab.py
 What word would you like to know the frequency of? dogs
 'dogs' does not occur
@@ -32,7 +32,7 @@ What word would you like to know the frequency of? dogs
 
 ### `split`, `replace`, and `lower`
 
-This is the code to lower case the letters in the paragraph, remove the periods, and split them into individual words.
+This is the code to lowercase the letters in the paragraph, remove the periods, and split them into individual words.
 
 ```python
 example_paragraph = "It was a beautiful day in New York City. Our hero Ariana Grande was on a walk from the Standard to Duane Reade. Ariana Grande was walking rather quickly because she had lived in New York for a few months. All of a sudden a slimy donut appeared out of nowhere. Ariana Grande decided to prance foolishly instead of dealing with the situation. Thrown off from Duane Reade Ariana Grande decides to go to Times Square instead. What a beautiful day in New York."
@@ -47,5 +47,6 @@ example_paragraph_lower_no_punctuation = example_paragraph_lower.replace(".", ""
 example_word_list = example_paragraph_lower_no_punctuation.split(" ")
 
 ```
+If students decide to alter the example text, they may wish to include additional code to remove any other punctuation that may be present--commas, semicolons, question marks, quotation marks, etc. Some punctuation, such as the "--" in the previous sentence, may not have any spaces before or after it. Using the same `replace("--","")` syntax would be a mistake, since it would create a new incorrect word ("presentcommas" in this case).  Here it would be better to use `replace("--"," ")`, adding in a space to replace the dashes.
 
 <!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
