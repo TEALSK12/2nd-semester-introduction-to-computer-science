@@ -1,8 +1,7 @@
 # Project - Final Project Alternative or Supplement
 # The Financial Calculator Project
 
-Students will design, plan, and implement a medium- to large-scale 
-final project involving financial literacy.  Students can work individually, or with a partner. 
+Students will design, plan, and implement a medium- to large-scale final project involving financial literacy.  Students can work individually, or with a partner. 
 
 ## Learning Objectives
 
@@ -23,7 +22,7 @@ Students will be able to...
 
 ### Project Phases
 
-This project will be significantly larger in scope than any of students' previous assignments, so there will be more design and planning than before.  More importantly, though, rather than be given a well-defined specification, students will be setting the requirements for the project by coming up with an idea, fleshing out the details, and defining the steps necessary to complete their program. Emphasize with the students that they must complete **all** of the steps **in order** for their project to be successful.  _half_ of the grade will be based not on how well their program works, but on how well you completed the design and planning process.
+This project will be significantly larger in scope than any of students' previous assignments, so there will be more design and planning than before.  More importantly, though, rather than be given a well-defined specification, students will be setting the requirements for the project by coming up with an idea, fleshing out the details, and defining the steps necessary to complete their program. Emphasize with the students that they must complete **all** of the steps **in order** for their project to be successful.  _Half_ of the grade will be based not on how well their program works, but on how well you completed the design and planning process.
 
 The project includes these applied design phases: 
 
@@ -34,6 +33,7 @@ The project includes these applied design phases:
 5. _Making_ - Task project management processes (task management schedule) to work collaboratively to coordinate production, ensuring that your software goals are met
 6. _Sharing_ - Share progress; design an how to promote product with end-users; critically reflect on design thinking and processes, identify new design goals and future work
 
+Reference: [BC Computer Programming 11 - Curricular Competency](https://curriculum.gov.bc.ca/curriculum/adst/11/computer-programming) 
 
 ### Progress Tracking
 
@@ -48,17 +48,15 @@ One popular input data format is the CSV (comma separated file) that can be crea
 Students may also find learning about formatting the output, such as displaying numbers in 2 decimal places, would also be helpful in this project: https://realpython.com/python-formatted-output/
 
 
-#### Documentation and Style
+### Documentation and Style
 
 Emphasize with students that their program must be well-written, well-documented, and readable.  Writing code with good style is always a good idea, but in a project of this size and scope, following style guidelines will help students keep their thoughts organized and make it easier to keep track of their progress.
 
 
-#### Suggested Pacing Plan
+### Suggested Pacing Plan
 
 - Day 1 - project introduction, team formation (if working with partner)
 - Day 2-3 - prototyping and testing
 - Day 4-6 - project implementation
 - Day 7 - project sharing and presentation day: This can be done by asking students to present their project or orgranizing a gallery walk 
 
-[printable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.pdf
-[editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.docx
