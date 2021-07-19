@@ -43,9 +43,9 @@ In phase 3, students will complete a Final Project Spec, and in phase 4 students
 
 ### Implementation
 
-In our course so far, students know how to use the console to get input from a user, and to display output. In an actual financial application, a GUI (graphical user interface) is needed to make it easy for a client to use the software, especially when more than one piece of input information is required from the user. Another possible approach is to read the information (input data) from a file that the user prepares ahead of time.
+In our course so far, students know how to use the console to get input from a user, and to display output. In an actual financial application, a GUI (graphical user interface) is often used to make it easy for a client to use the software. However, when a scientist or financial analyst is focussed on crunching numbers and analyzing results, they sometimes prefer skipping the graphical interface, and working with data that is create/provided in a simple text format. One popular input data format is the CSV (comma separated file) that can be created by a spreadsheet program like excel. It is also common practice in business applications to interface data with a program like Excel, which is why the CSV format is convenient.
 
-One popular input data format is the CSV (comma separated file) that can be created by a spreadsheet program like excel. Python has a built in CSV parser library that we can use. Students should first try these exercises as practice:  https://realpython.com/python-csv/
+Python has a built in CSV parser library that we can use. Students should first try these exercises as practice:  https://realpython.com/python-csv/
 
 Students may also find learning about formatting the output, such as displaying numbers in 2 decimal places, would also be helpful in this project: https://realpython.com/python-formatted-output/
 
