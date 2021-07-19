@@ -33,6 +33,8 @@ The project includes these applied design phases:
 5. _Making_ - Task project management processes (task management schedule) to work collaboratively to coordinate production, ensuring that your software goals are met
 6. _Sharing_ - Share progress; design an how to promote product with end-users; critically reflect on design thinking and processes, identify new design goals and future work
 
+Clarify with the students that the Testing phase here refers to testing the prototype design, and not seeing if program code works. 
+
 Reference: [BC Computer Programming 11 - Curricular Competency](https://curriculum.gov.bc.ca/curriculum/adst/11/computer-programming) 
 
 ### Progress Tracking
