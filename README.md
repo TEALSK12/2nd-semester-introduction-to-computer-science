@@ -40,15 +40,13 @@ As with all software services, it is the school's sole decision to use the tool 
 
 ## Curriculum Issues
 
-Please open an issue in GitHub if you encounter factual, spelling, or grammatical errors, sequencing problems (topics needed before they are taught), or incomplete/missing materials.
+TEALS will only continue making small corrections and critical updates to TEALS curricula. Please <a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue">open an issue</a> if you encounter things like factual, spelling, or grammatical errors, broken links, sequencing problems (topics needed before they are taught), or incomplete/missing materials.
 
 ## Giving feedback and asking questions about the curriculum
 
-TEALS will only continue making small corrections and critical updates to TEALS curricula. Corrections for issues such as broken links, typos, bug fixes, missing resources, etc... should be reported by <a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue">creating an issue</a> in the corresponding curriculum repository.
+TEALS intends for our curricula to be starting points for teaching teams. We invite volunteers and classroom teachers using our curricula to <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">fork</a> the curricula as appopriate! If you'd like to suggest changes or additions to the curriculum be added to the master branch, please submit a <a href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests">pull request</a> containing your changes. As a best practice, each pull request should contain a singular atomic change.
 
-TEALS intends for our curricula to be starting points for teaching teams. We invite volunteers and classroom teachers using our curricula to <a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">fork</a> the curricula as appopriate! If you'd like to suggest changes or additions to the curriculum be added to the main branch, please submit a GitHub Pull Request containing your changes. As a best practice, each pull request should contain a singular atomic change.
-
-For general questions and discussion about curricula not related to a specific reported issue, we encourage everyone to actively participate in the GitHub Discussions board for the corresponding curriculum.  This is a great place to share alternative lesson ideas, share pro-tips for implementation and differentiation, pacing advice, etc...
+For general questions and discussion about curricula not related to a specific reported issue, we encourage everyone to actively participate in the <a href="https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions">GitHub Discussions</a> board for the corresponding curriculum.  This is a great place to share alternative lesson ideas, share pro-tips for implementation and differentiation, pacing advice, etc...
 
 ## Printing
 
