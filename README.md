@@ -48,9 +48,9 @@ TEALS intends for our curricula to be starting points for teaching teams. We inv
 
 Here are a few examples of a pull request workflow.
 
-https://www.thinkful.com/learn/github-pull-request-tutorial/
-http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/
-https://github.com/skyscreamer/yoga/wiki/GitHub-Best-Practices/
+https://www.thinkful.com/learn/github-pull-request-tutorial/<br>
+http://codeinthehole.com/writing/pull-requests-and-other-good-practices-for-teams-using-github/<br>
+https://github.com/skyscreamer/yoga/wiki/GitHub-Best-Practices/<br>
 
 For general curriculum-related questions and discussion not tied to a specific reported issue, we encourage everyone to actively participate in the <a href="https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions">GitHub Discussions</a> board for the corresponding curriculum.  This is a great place to share alternative lesson ideas, share pro-tips for implementation and differentiation, pacing advice, etc...
 
