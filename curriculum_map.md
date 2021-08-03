@@ -31,7 +31,7 @@ For TEALS schools in **BC, Canada**, please see [Aligning TEALS Python Teaching 
 | ------ | ---------- | --- | -- | -- |
 | [2.01: Data Types & Casting][] | Define and identify: type, string, casting, floating point number (float), integer. Describe different representations of data in Python. Convert from one data type to another data type. | Casting | 1 | [2.01][] |
 | [2.02: Booleans & Expressions][] | Define and identify: Boolean, expression, composition, True, False. Evaluate a Boolean expression. Compose Boolean expressions using and, or, not, <, >, and ==. | Can I or Can't I? | 1 | [2.02][] |
-| [2.03: Conditionals][] | Define and identify: `if`, `else`, `elif`, conditionals, flow of control. Create chaining if statements. Understand how conditional statements alter the flow of control of a program. | Game Show | 1 | [2.03][] |
+| [2.03: Conditionals][] | Define and identify: `if`, `else`, `elif`, conditionals, flow of control. Create chaining if statements. Understand how conditional statements alter the flow of control of a program. | Triangle | 1 | [2.03][] |
 | [2.04: Lists][] | Define and identify: list, item, index, integer. Be able to access items from a list using the index. Create lists of different types. Use the length function. | College Chooser | 1 | [2.04][] |
 | [2.05: Lists 2][] | Define and identify: slice, append, pop, remove. Slice a list. Add and remove elements from a list | Tic-Tac-Toe | 1 | [2.05][] |
 | [2.06: Game Loop][] | Define and identify: while loop. Use a while loop to simulate game play. | Tic-Tac-Toe Revisited | 1 | [2.06][] |
