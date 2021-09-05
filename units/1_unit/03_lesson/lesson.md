@@ -57,10 +57,6 @@ Hello World
 
 * Have students work on Part 1 of the lab for 10 Minutes.
 
-#### SNAP Flashback – Hello World
-
-![Hello World](HelloWorld-Code.png)
-
 ### 3. Variables Lesson/Lab Part 2
 
 * **Variable**: a name that refers to a value.
@@ -87,7 +83,6 @@ Hello World
 ### 5. Debrief
 
 * Talk about the difference between interactive and script mode. Discuss why you might want to use the interpreted mode: sometimes it can be faster to debug a single line and make sure it works!
-* Talk about differences between SNAP! and Python for declaring variables.
 
 ## Accommodation/Differentiation
 

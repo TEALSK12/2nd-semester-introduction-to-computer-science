@@ -21,10 +21,3 @@ Now it's time to make your genie confused. Edit your code to have him print your
 
   ![magic_genie_output_confused](magic_genie_output_confused.png)
 
-## SNAP Flashback – Magic Genie
-
-![Genie Code - Snap](GenieProgram%20-%20Code.png)
-
-### Hint
-
-Remember to add spaces you can combine `" "`  to the end of your string using the `+` operator. So `print("hello" + " " + "student")` would print `hello student`.

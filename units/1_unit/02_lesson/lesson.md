@@ -90,7 +90,7 @@ Give students time to work on section 1.
 * Talk about how single and double quotes are interchangeable.
 * Multiplying strings.
 * Order of Operations is the same as what students have learned in math class.
-* Discuss why it might be helpful to have an interactive console. How is it different than snap?
+* Discuss why it might be helpful to have an interactive console.
 
 ### Accommodation/differentiation
 

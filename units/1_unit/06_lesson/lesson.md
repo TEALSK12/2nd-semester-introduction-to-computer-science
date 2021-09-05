@@ -67,10 +67,6 @@
 * Celebrate and showcase student work once projects are completed.
 * Have students demonstrate their Mad Libs for the class, with the class choosing what nouns/verbs/etc. to use for the story.
 
-## SNAP flashback - MadLibs
-
-  ![MadLibs](lesson1.06%20-%20code.png)
-
 ## Accommodation/differentiation
 
 Ask students to research casting. Have them add, subtract, or multiply values as part of the story.
