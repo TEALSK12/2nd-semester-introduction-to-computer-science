@@ -30,4 +30,3 @@ Add another input to ask which mode the user wants to use.
 
 If the user asks for integer mode, then print out integers as the result of your division.  Otherwise print out floating-point values (decimals).
 
-This is a concept covered in Snap. Feel free to research Python3 documentation about division.

@@ -37,7 +37,6 @@ Students will be able to...
 
 * Ask students what doing `a[0:2]` in the Do Now did.
 * Define **slicing**: a list operation that gives back a list starting from the index to the left of the colon and going up to (but not including) the index to the right of the colon.
-* Note that slicing doesn't exist in Snap!
 * Ask students what the list would return if you did `a[1:2]`.
 * Explore the differences between `remove` and `pop`, asking for student input.
 * Ask students what the plus sign and `append` do to a list.
