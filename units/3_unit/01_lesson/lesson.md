@@ -35,14 +35,9 @@ Students will be able to...
 
 ### 2. Lesson
 
-#### Build Your Own Blocks (Snap) vs Functions (Python)
-
-* Ask students to recall how they built custom blocks in Snap!
-
-  ![Snap Custom Block](https://i.ytimg.com/vi/Bbl2fh3igQ4/maxresdefault.jpg)
+#### Build Your Own Functions
 
 * **Function**:  a named sequence of statements. You can use functions to perform complex calculations, graphical operations, and various other purposes. When you define a function, you specify the name and the sequence of statements. Later, you can "**call**" the function by name.
-* In SNAP! functions are blocks.
 
 #### Function Contract
 
