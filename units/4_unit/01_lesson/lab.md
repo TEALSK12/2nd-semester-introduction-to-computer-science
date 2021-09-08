@@ -42,8 +42,3 @@ Use a counter (variable you define outside of a loop to keep track of a value in
 
 Can you think of an alternate way to do complete this task without any loop or counter, by making use of your new `de_vowel()` function instead?
 
-## SNAP Challenge - 10 Cats Drinking Milk from a Saucer
-
-Create the following program in Python.
-
- ![Number of Cats](NestedLoops%20-%20NumOfCats%20-%20Code.png)
