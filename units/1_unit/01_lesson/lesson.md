@@ -15,7 +15,7 @@ Students will be able to...
 * With your teaching team determine which IDE to use with your class.
 * [Python Code][]: code to display
 * Student Notebooks
-* Decide which IDE will be used for the classroom for the semester. TEALS keeps a list of free and low-cost IDEs to use in our [implementation guide](https://www.tealsk12.org/implementation-guide-online/#20-2)
+* Decide which IDE will be used for the classroom for the semester. See guidance in our [implementation guide](https://www.tealsk12.org/implementation-guide-online/#20-2). 
 * [Install Visual Studio Code and the Python Extension](https://code.visualstudio.com/docs/python/python-tutorial)
 * Note: As with all software services, it is the school's sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school's responsibility to ensure the tool meets it's IT policies.
 * Review how to run [Hello World using Visual Studio Code](https://code.visualstudio.com/docs/python/python-tutorial#_run-hello-world).
