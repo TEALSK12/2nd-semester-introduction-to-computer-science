@@ -1,8 +1,3 @@
-
-# This Gitbook curriculum experience will no longer be accessible starting October 1, 2021
-
-Please update your bookmarks to the following curriculum landing page [https://aka.ms/pythonintro](https://aka.ms/pythonintro)
-
 # A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
 
 * GitHub: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science
