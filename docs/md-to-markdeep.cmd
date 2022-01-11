@@ -6,11 +6,6 @@ echo %time%
 robocopy /E .\ .\docs /XD %CD%\docs
 cd .\docs
 
-@REM -- Remove unnecessary files that are copied
-del ".\docs\md-to-markdeep.cmd"
-del ".\docs\markdeep-footer.txt"
-del ".\docs\markdeep-header.txt"
-
 set sed="C:\Program Files\Git\usr\bin\sed.exe"
 
 @REM -- Convert files at the root of the repo.
