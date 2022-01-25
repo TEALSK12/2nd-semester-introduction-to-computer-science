@@ -3,8 +3,125 @@
 <a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/">Home</a> | 
 <a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/curriculum_map.md.html">Curriculum Map</a> | 
 <a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html">Additional Readings</a> | 
+<a href="https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/discussions">Discussions</a> | 
 <a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/changelog.md.html">Change Log</a>
 
  
+# Project 2: Ogopogo - Text Adventure Game
 
+Using Python, students will use casting, Boolean expressions, lists and while loops to create a text-based adventure game!
+
+## Overview
+
+Monster stories are shared in many cultures around campfires and in the wilderness.
+Ogopogo is Canada's legendary Loch Ness monster [ogopogo] residing in the waters of scenic Okanagan region in British Columbia.
+This game takes place in three connected bodies of water (Okanagan Lake, Skaha Lake, and Vaseux Lake).
+The player has to traverse the lakes in search of Ogopogo. Along the way they collect items to help with the quest.
+On each move the player has seven possible commands: `left`, `right`, `portage`, `grab`, `shoot`, `inventory`, and `help`.
+If the input is invalid (not one of these commands) the game will let the player know. Otherwise, the game will execute the player's command. The goal of the game is to successfully take pictures of the elusive Ogopogo.
+
+## Details
+
+### Behavior
+
+* The game has three lakes.   Each lake is made up of eight shore areas, arranged in a cycle: north, northeast, east, southeast, south, southwest, west, northwest.
+A shore can contain: a canal (to a neighboring lake), a camera, a searchlight, a juvenile Ogopogo, a parent Ogopogo, or nothing.
+* At the start of the game, the player is in a small canoe on the south end of Vaseux Lake.
+* The player can move to an adjacent shore by typing the `left` command to move counterclockwise along the shore, or `right` to move clockwise.
+* The player can also move from one lake to another by typing `portage`, if the current shore contains a canal.
+* The game prints out the contents of the current shore after every command.
+* The player can grab a camera or searchlight if they pass a shore that contains one. The camera or searchlight is no longer on that shore once grabbed.
+* Juvenile Ogopogos are blocking the passage of canoes near some shores. The player can use a flash camera to startle an Ogopogo into flight (they're notoriously camera-shy) using the `shoot` command. Startled Ogopogos flee back to alert their parent of the player's presence.
+* Flash cameras are single-shot, and are removed from the player's inventory after use. The story line might explain that the cameras are lost overboard in the encounter, ruined by water from a splash, etc. Camera flashes are not strong enough to allow for a successful picture.
+* If they have no camera, the player can paddle back in the direction from which they came. If the player attempts to continue in the same direction past a juvenile or parent Ogopogo, their canoe will be capsized and sunk, and the game will end.
+* Once three juveniles have been startled, the parent surfaces in Lake Okanagan to defend the family.
+* To take a successful picture of the parent Ogopogo and complete the game, a searchlight is needed in inventory as well as a camera.
+* The `inventory` command displays the items in the player's current inventory list.
+
+### Implementation Details
+
+* The game should be implemented using lists.
+* Use a list to keep track of the player's items. At the beginning of the game the player's inventory list should be empty.
+* A maximum of three items can be held in the inventory at once.
+* The player can only portage to the next lake if the current shore contains a canal.
+* Canals are only present in the north and south shores, since this is a north/south oriented chain of lakes.
+* A canal will move the player to the next lake in the chain in that direction. For example, a canal in the north shore moves the player to the next lake to the north.
+* Continuing clockwise (right) around any lake from the northwest shore (index 7) will bring the player back to the north shore (index 0).
+* Continuing counter-clockwise (left) around any lake from the north shore (index 0) will bring the player back to the northwest shore (index 7).
+
+### Design Considerations
+
+#### Game Board
+
+The game board is the basis of the game. The following is a way to think of a smaller game board as a set of three lists, one for each lake.
+
+```python
+    directions = ['north', 'northeast', 'east', 'southeast', 'south', 'southwest', 'west', 'northwest']
+    lake_o = ['nothing', 'nothing', 'nothing', 'nothing', 'canal', 'nothing', 'nothing', 'nothing']
+    lake_s = ['canal', 'nothing', 'nothing', 'nothing', 'canal', 'nothing', 'nothing', 'nothing']
+    lake_v = ['canal', 'nothing', 'nothing', 'nothing', 'nothing', 'nothing', 'nothing', 'nothing']
+```
+
+The above code has each lake defined by a separate list. The starter code for the Ogopogo project provides a basic implementation using this data model. Feel free to use a different data model, but this should work for our purposes.
+
+#### Player Position
+
+It will be useful to keep track of the player's position through a pair of variables, one for the lake and one for the current shore.
+
+```python
+    player_lake = lake_v
+    player_shore = 3
+```
+
+This would put the player at the position of the south shore of the southernmost lake, Lake Vaseux.
+
+#### Game state
+
+The progress of the game is controlled by a variable used in the main game loop. At the start of the game this variable is set to a value like `ongoing`. The program will signal a win or a loss by changing the game state variable, which will allow the code to exit the game loop and print an appropriate final message.
+
+#### Validating Player Input
+
+You will need to check the input of the player to make sure it is valid for the current game state. For example:
+
+```python
+    if player_input == "portage":
+        current_shore = player_lake[player_shore]
+        if current_shore != "canal":
+            print("Can't portage in this direction -- there is no canal here.")
+```
+
+## Grading
+
+### Scheme/Rubric
+| ------------------------------------------------------------------- |----|
+| Functional Correctness (Behavior)                                   |    |
+| ------------------------------------------------------------------- |----|
+| Game has three lakes with a total of 24 shores                      |  5 |
+| Player can move `left` or `right` around each lake                  | 10 |
+| Player can move left or right 8 times back to starting point        |  5 |
+| Player can only `portage` at an appropriate canal                   |  5 |
+| `grab` adds an item to the player's collected items                 |  5 |
+| Player can only collect 3 items                                     |  2 |
+| `help` lists all possible commands                                  |  2 |
+| Ogopogos are startled away if the player uses a camera              |  5 |
+| A camera can only be used once and then it disappears               |  6 |
+| Player needs camera and searchlight to photograph parent Ogopogo    |  5 |
+| **Subtotal**                                                        | 50 |
+| ------------------------------------------------------------------- |----|
+| **Technical Correctness**                                           |    |
+| Correctly uses lists                                                | 10 |
+| Correctly uses `if` statements to check player's inventory          | 10 |
+| Correctly updates game state variable to signal win or loss         | 10 |
+| Correctly updates lake and inventory lists to track item movement   | 10 |
+| Correctly uses `or` and `and` statements as required by game logic  | 10 |
+| **Subtotal**                                                        | 50 |
+| ------------------------------------------------------------------- |----|
+| **Total**                                                           |100 |
+
+## Extra Credit
+
+* Have the program select a random location for the parent Ogopogo to appear. This could be any empty shore on Lake Okanagan, or even any empty shore on any of the three lakes. (Hint: Research the `random` library.) Handle the case correctly where the random location happens to be the player's current location.
+* Implement the board using nested lists (each item of the list is a list.)
+
+[ogopogo](https://en.wikipedia.org/wiki/Ogopogo#References)
 <!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
