@@ -16,7 +16,7 @@ Students will be able to...
 * Take the quiz.
 * After taking the quiz yourself, take a look at the answer key provided in the additional curriculum materials.
 * Create a scoring rubric
-* Look through [http://tinyurl.com/TEALS-Python-Errors][] web tutorial to dig deeper yourself into analyzing and responding to errors.
+* Look through [debugging][] web tutorial to dig deeper yourself into analyzing and responding to errors.
 
 ## Pacing Guide
 
@@ -64,6 +64,5 @@ Make sure to provide extended time on the quiz for any students who need extra t
 
 [TEALS Dashboard]: http://www.tealsk12.org/dashboard
 
-[http://tinyurl.com/TEALS-Python-Errors]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/KnowyourerrorMessages.html
-[debugging]: http://interactivepython.org/runestone/static/thinkcspy/Debugging/toctree.html
+[debugging]: https://runestone.academy/ns/books/published/fopp/Debugging/toctree.html
 [example code]: #code-example
