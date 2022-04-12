@@ -24,10 +24,6 @@ print(2*3*5)
 
 Write down the result. Explain what `print` does. Try printing out 3 different values.
 
-## SNAP Flashback – Print Command
-
-   ![Snap! Print Command](Untitled.png)
-
 ## How to open, save, and run a file
 
 1. Open a Python 3 project:

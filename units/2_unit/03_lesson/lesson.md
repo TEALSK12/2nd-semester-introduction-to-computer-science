@@ -72,7 +72,6 @@ Students will be able to...
 #### Demonstration
 
 * Write out the syntax of the `if` statement on the board. Point out the Boolean expression(condition), the colon, and the indentation.
-* Ask students if they recall what else went along with the if statement when they used it in Snap!
 * `else` is used when there are two possibilities and the condition determines which one gets executed.
 * Demonstrate the syntax of `else`
 * Describe the `elif` statement.
@@ -81,23 +80,13 @@ Students will be able to...
 
 ### 3. Lab
 
-* Students convert the Triangle program written in Snap! into Python.
+* Students write a triangle program in Python 3.
 * Students must also write a program that simulates a list index using `if` statements.
 
 ### 4. Debrief
 
 * Check student progress and completion of the lab. Wrap up by taking any final questions.
 * Have students write down in their notebooks a couple of key things that they learned today.
-
-## Accommodation/Differentiation
-
-Use the following as an extension activity for students that are moving quickly:
-
-* Convert and finish the following SNAP Vending Machine program in Python.
-
-![Vending Machine](python_2.04_vending_machine.png)
-
-If students are moving quickly, this lesson can move on to lists.
 
 [Do Now]:do_now.md
 [Lab - triangle program]:lab.md

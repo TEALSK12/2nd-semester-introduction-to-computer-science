@@ -40,7 +40,6 @@ Students will be able to...
 
 #### Instruction
 
-* Ask students to recall what a list is, and how lists were used in Snap!
 * A **list** is a sequence of values. In a Python list, values can be any type. The values in a list are called elements or **items**.
 * In Python, to create a list you must enclose items in square brackets, and separate multiple items with commas.
 * Emphasize that you can have lists of any type (`int, float, string,` etc.) You can even have lists within lists (more on that later...)
