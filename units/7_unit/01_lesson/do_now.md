@@ -20,8 +20,7 @@ my_pet_3_full_name = 'Snickers Snorkel'
 
 my_pets = [my_pet_1, my_pet_2, my_pet_3]
 for pet in my_pets:
-    ## print full name of each pet
-
+    # print full name of each pet
 ```
 
 ## In your Notebook
