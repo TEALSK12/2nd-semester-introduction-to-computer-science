@@ -4,6 +4,18 @@
 
 -----------------
 
+### 5/16/2022
+
+* 7.05 - Fixed broken sample code link for project (Issues #380 and #398)
+
+-----------------
+
+### 4/26/2022
+
+* 7.01 - Corrected subclass example in lesson plan (Issue #383)
+
+-----------------
+
 ### 3/26/2021
 
 * Unit 2 Lesson, labs, projects and slide deck copy editing
