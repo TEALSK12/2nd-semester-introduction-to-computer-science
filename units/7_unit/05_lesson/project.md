@@ -147,7 +147,7 @@ All fire type have the following attacks:
 ### Implementation Details
 
 * Use classes to build off the implemented base class for Pokemon. Keep track of HP, Max AP, and type.
-  * Here is some [starter_code].
+  * Here is some [starter code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/blob/master/units/7_unit/05_lesson/starter_code.py).
 * Design classes for Fire, Grass, Water Types that inherit from the base Pokemon Class.
 * Each Pokemon should be an instance, use a master list to store all the Pokemon and create this the beginning of the game.
 * Use methods to set the Pokemon for each player and remove those pokemon from the master Pokemon list.
@@ -195,5 +195,3 @@ Implement the following:
 * inputs that ask if user would like to attack, heal or switch.
 * call correct player function based on inputs.
 * check for the end of the game and end game if necessary.
-
-[starter_code]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/7_unit/05_lesson/starter_code.py
