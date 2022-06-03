@@ -1,0 +1,52 @@
+<meta charset="utf-8"><link rel="stylesheet" media="screen" href="styles/curriculum.css"><link rel="stylesheet" media="screen" href="../styles/curriculum.css"><link rel="stylesheet" media="screen" href="../../styles/curriculum.css"><link rel="stylesheet" media="screen" href="../../../styles/curriculum.css">
+**TEALS Program**
+<a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/">Home</a> | 
+<a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/curriculum_map.md.html">Curriculum Map</a> | 
+<a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md.html">Additional Readings</a> | 
+<a href="https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/discussions">Discussions</a> | 
+<a href="https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/changelog.md.html">Change Log</a>
+
+ 
+# 4.03 Lab - Caesar Cipher
+
+The Caesar cipher is one if the simplest and most straightforward ways to obfuscate text. The way it works is that the alphabet is printed on a wheel, in order, and you step through the text letter by letter by first rotating the wheel to the original letter and then rotating right a certain number of letters. To decipher the text, you rotate the wheel to the ciphered letter and then rotate left that same number of letters. Because of the rotation of the wheel, Caesar ciphers are commonly abbreviated 'rot' and then the number of spaces to rotate, e.g. 'rot13'. An example of rot13 in action is below:
+
+> Input: Hello world
+> Output: Uryyb jbeyq
+
+The rot13 mapping looks like this:
+
+> ABCDEFGHIJKLMNOPQRSTUVWXYZ
+> NOPQRSTUVWXYZABCDEFGHIJKLM
+
+For this assignment, you will write a single function, `cipher`. This function will take a single letter and return the letter 13 steps to the right. To make it easier for you, a `letter_to_number()` function is provided which converts letters to their numerical position in the alphabet.
+
+```py
+# Name: letter_to_number
+# Purpose: Convert a letter in the alphabet to its corresponding location in the alphabet.
+# Parameters: The letter to convert, as a string.
+# Returns: An integer representing the position, zero-indexed, of the letter in the alphabet, or None if it's not a letter.
+def letter_to_number(letter):
+    letter = letter.lower()
+    if letter in 'abcdefghijklmnopqrstuvwxyz':
+        return ord(letter) - ord('a')
+    return None
+
+def cipher(letter):
+    # function body goes here
+
+text = [
+    'Mary had a little lamb',
+    'How much wood would a woodchuck chuck if a chuck-wood could chuck wood?',
+    'This is the song that never ends, it goes on and on, my friends...',
+    'I want to be the very best, like no one ever was. To catch them is my real test, to train them is my cause.'
+]
+```
+
+Note that the rot13 cipher is self-deciphering—that means running the cipher function on ciphered text will return the original text. This allows you to easily verify if your function is correct.
+
+## Bonus
+
+Rewrite `cipher()` to take an additional, integer, argument, which specifies how many spaces to the right the function rotates the alphabet. Write a new function, `decipher()`, which has a similar function contract but rotates left rather than right. Your code is correct if `decipher(cipher('a'))` returns `'a'`.
+
+<!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
