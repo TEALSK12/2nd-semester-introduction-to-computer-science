@@ -65,4 +65,4 @@ Students will be able to...
 
 [final project plan organizer]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_plan_organizer.docx
 
-[final project development plan]: <https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_development_plan.docx>
+[final project development plan]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_development_plan.docx
