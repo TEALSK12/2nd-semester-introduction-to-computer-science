@@ -11,7 +11,7 @@ Students will be able to...
 ## Materials/Preparation
 
 * [Project Ideas for Students](project_ideas.md) ([docx](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/01_lesson/project_ideas.docx)) ([pdf](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/01_lesson/project_ideas.pdf))
-* Students should each have their [final project plan organizer][]and [final project development plan][]
+* Students should each have their [final project plan organizer][] and [final project development plan][]
 * Review [4 steps to solve any CS problem][]
 * [Scoring rubric](../rubric.md) ([docx](../rubric.docx))([pdf](../rubric.pdf))
 
@@ -107,3 +107,6 @@ Students will be able to...
 * This can be a bit dangerous, as it puts the student somewhat behind in the process right from the start, since they won't have as much context having not written the pitch themselves.  Consider carefully whether this is a good idea.
 * Encourage each student to pick a project that fits his or her level of technical skill.  Make sure students are not over-committing and choosing projects they do not have the skills to complete.  Also try to discourage stronger students from choosing simpler projects in an effort to do less work.
 
+[final project plan organizer]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_plan_organizer.docx
+
+[final project development plan]: <https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_development_plan.docx>

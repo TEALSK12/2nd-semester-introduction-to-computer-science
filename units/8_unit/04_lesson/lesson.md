@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* Students should each have their [final project plan organizer][]and [final project development plan][]
+* Students should each have their [final project plan organizer][] and [final project development plan][]
 * Review [4 steps to solve any CS problem][]
 * [Scoring rubric](../rubric.md) ([docx](../rubric.docx))([pdf](../rubric.pdf))
   
@@ -61,6 +61,8 @@ Before students leave, have them answer the following questions on a small piece
 
 ## Accommodation/Differentiation
 
-[Final Project Plan Organizer]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_plan_organizer.docx
-[Final Project Development Plan]:https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/8_unit/final_project_development_plan.docx
-[4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
+[final project plan organizer]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_plan_organizer.docx
+
+[final project development plan]: <https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_development_plan.docx>
+
+[4 Steps to Solve Any CS Problem]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
