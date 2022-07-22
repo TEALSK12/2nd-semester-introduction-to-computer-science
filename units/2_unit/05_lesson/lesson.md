@@ -12,7 +12,9 @@ Students will be able to...
 
 * [2.05 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.05%20TEALS.pptx)
 * [Do Now][]
-* [Lab - Tic-Tac-Toe][] ([docx][]) ([pdf][])
+* Labs:
+ * [Tic-Tac-Toe][] ([docx][]) ([pdf][])
+ * [Buffet][] ([Buffet docx][]) ([Buffet pdf][])
 * [Associated Readings 2.5](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.5)
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students.
 
@@ -51,7 +53,7 @@ Students will be able to...
 ### 3. Lab
 
 * Students practice slicing, adding, and removing elements from some given lists.
-* Students create a single move Tic-Tac-Toe game.
+* Students create a single move Tic-Tac-Toe game or a buffet table ordering program.
 
 ### 4. Debrief
 
@@ -67,6 +69,9 @@ Students will be able to...
 There is also an opportunity for a quiz after the game loop lesson and before the project.
   
 [Do Now]:do_now.md
-[Lab - Tic-Tac-Toe]:lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.docx
+[Tic-Tac-Toe]:lab-tictactoe.md
+[Buffet]:lab-buffet.md
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab-tictactoe.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab-tictactoe.docx
+[Buffet pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab-buffet.pdf
+[Buffet docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab-buffet.docx
