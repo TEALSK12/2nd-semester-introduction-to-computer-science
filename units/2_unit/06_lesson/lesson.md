@@ -11,7 +11,9 @@ Students will be able to...
 
 * [2.06 Slide deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.06%20TEALS.pptx)
 * [Do now][]
-* [Lab - Tic-Tac-Toe revisited][] ([docx][]) ([pdf][])
+* Labs:
+ * [Tic-Tac-Toe revisited][] ([docx][]) ([pdf][])
+ * [Buffet revisited][] ([buffet docx][]) ([buffet pdf][])
 * [Associated readings 2.7](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.7)
 * Read through the do now, lesson, and lab so that you are familiar with the requirements and can assist students
 * Video Resources:
@@ -57,6 +59,7 @@ Students will be able to...
 ### 3. Lab
 
 * Students work to create a Tic-Tac-Toe game that allows turns (up to 9), building on their previous work.
+* Alternatively, students work to create a buffet table ordering program that fills several orders, building on their previous work.
 
 ### 4. Debrief
 
@@ -67,6 +70,9 @@ Students will be able to...
 If there is extra time, have students start reading through the final project specs and thinking about how they will apply what they have learned this unit to complete the project.
 
 [Do now]:do_now.md
-[Lab - Tic-Tac-Toe revisited]:lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab.docx
+[Tic-Tac-Toe revisited]:lab-tictactoe.md
+[Buffet revisited]:lab-buffet.md
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab-tictactoe.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab-tictactoe.docx
+[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab-buffet.pdf
+[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/06_lesson/lab-buffet.docx
