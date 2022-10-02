@@ -8,7 +8,7 @@ Students will be able to...
   * abstraction
   * `def` (new Python keyword)
 * Create functions
-* Create a function contract0
+* Create a function contract
 
 ## Materials/Preparation
 
@@ -63,7 +63,7 @@ Students will be able to...
 ### 3. Lab
 
 * Practice making a function that will take in a name as an argument and output the 'happy birthday song' to that name.
-* Create a function that randomly selects 5 cards from a deck of cards (repeating allowed).
+* Create a function that adds two numbers and returns the sum.
 
 ### 4. Debrief
 

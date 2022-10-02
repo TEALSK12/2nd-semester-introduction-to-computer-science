@@ -66,7 +66,7 @@ Students will be able to...
 
 ### 3. Lab
 
-* Given a shuffled deck list, students will create a program that plays the game 'War' with the user.
+* Students will create a basic calculator.
 
 ### 4. Debrief
 
