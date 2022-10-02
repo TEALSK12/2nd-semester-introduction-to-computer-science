@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [4.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.02%20TEALS.pptx)
+* [4.02 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.02%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Getting Loopy][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/4.2)
@@ -85,5 +85,5 @@ Second error: we need to include the character at index 0, so we need to change 
 
 [Do Now]: do_now.md
 [Lab - Getting Loopy]: lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/02_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/02_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/02_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/02_lesson/lab.docx

@@ -17,7 +17,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [5.01 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.01%20TEALS.pptx)
+* [5.01 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.01%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Intro to EarSketch][] ([docx][]) ([pdf][])
 * [EarSketch Editor][]
@@ -117,5 +117,5 @@ Some students may need reminders about certain music terminology (tempo, measure
 [Do Now]: do_now.md
 [Lab - Intro to EarSketch]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/01_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/01_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/01_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/01_lesson/lab.docx

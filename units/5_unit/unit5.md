@@ -33,8 +33,8 @@ This unit is a tremendous unit to learn how to use Python to code Music. If this
 * Section
 * A-B-A form
 
-[5.01 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.01%20TEALS.pptx
-[5.02 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.02%20TEALS.pptx
-[5.03 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.03%20TEALS.pptx
-[5.04 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.04%20TEALS.pptx
-[5.05 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.05%20TEALS.pptx
+[5.01 Slide Deck]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.01%20TEALS.pptx
+[5.02 Slide Deck]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.02%20TEALS.pptx
+[5.03 Slide Deck]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.03%20TEALS.pptx
+[5.04 Slide Deck]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.04%20TEALS.pptx
+[5.05 Slide Deck]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.05%20TEALS.pptx

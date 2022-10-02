@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [3.01 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.01%20TEALS.pptx)
+* [3.01 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.01%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Magic 8-Ball][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.1)
@@ -90,5 +90,5 @@ If students are moving quickly, find another library to import from (see **bonus
 
 [Do Now]:do_now.md
 [Lab - Magic 8-Ball]:lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/01_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/01_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/01_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/01_lesson/lab.docx

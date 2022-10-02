@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [7.03 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.03%20TEALS.pptx)
+* [7.03 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.03%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Kangaroo Class][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/7.3)
@@ -83,5 +83,5 @@ Students that are moving quickly should work on the bonus assignment in the lab 
 
 [Do Now]:do_now.md
 [Lab - Kangaroo Class]:lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/03_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/03_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/03_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/03_lesson/lab.docx

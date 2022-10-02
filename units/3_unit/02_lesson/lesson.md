@@ -12,7 +12,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [3.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.02%20TEALS.pptx)
+* [3.02 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.02%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Birthday Song & Random Cards][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.2)
@@ -75,5 +75,5 @@ If students are moving quickly, they could go back and use functions to improve 
 
 [Do Now]:do_now.md
 [Lab - Birthday Song & Random Cards]:lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.docx

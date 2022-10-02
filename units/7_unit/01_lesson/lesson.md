@@ -12,7 +12,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [7.01 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.01%20TEALS.pptx)
+* [7.01 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.01%20TEALS.pptx)
 * [Do Now][]
 * [Example][]
 * [Lab][] ([docx][]) ([pdf][])
@@ -141,5 +141,5 @@ For students that are quickly picking up the concepts, have them create their ow
 [Do Now]:do_now.md
 [Lab]:lab.md
 [Example]:example.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/01_lesson/lab.docx

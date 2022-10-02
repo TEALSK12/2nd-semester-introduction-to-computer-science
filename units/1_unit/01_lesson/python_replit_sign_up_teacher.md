@@ -6,4 +6,4 @@ We will be using the online IDE [repl.it](https://repl.it) to write Python code 
 
 1. Follow instructions to create teacher repl.it account: [Sign Up Guide Teachers Code].
 
-[Sign Up Guide Teachers Code]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/replit_teacher.docx
+[Sign Up Guide Teachers Code]:https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/replit_teacher.docx

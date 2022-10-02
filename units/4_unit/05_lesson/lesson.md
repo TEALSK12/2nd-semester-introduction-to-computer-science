@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [4.05 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.05%20TEALS.pptx)
+* [4.05 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.05%20TEALS.pptx)
 * Quiz (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
 * [Lab - Debugging Practice][] ([docx][]) ([pdf][])
 * [Coding Example][]
@@ -57,6 +57,6 @@ Provide an [Additional Coding Example]) for students that finish the lab exercis
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [Lab - Debugging Practice]: lab.md
 [Coding Example]: https://raw.githubusercontent.com/TEALSK12/2nd-semester-introduction-to-computer-science/master/units/4_unit/05_lesson/code_example.py
-[Additional Coding Example]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/longer_coding_sample.py
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.docx
+[Additional Coding Example]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/longer_coding_sample.py
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/05_lesson/lab.docx

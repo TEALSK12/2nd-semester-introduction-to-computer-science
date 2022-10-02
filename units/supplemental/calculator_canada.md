@@ -15,7 +15,7 @@ Students will be able to...
 ## Materials/Preparation
 * [printable project spec](calculator_canada_project_spec.pdf)
 * [editable project spec](calculator_canada_project_spec.docx)
-* Students should each have their [final project plan organizer](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_plan_organizer.docx) and [final project development plan](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_development_plan.docx)
+* Students should each have their [final project plan organizer](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_plan_organizer.docx) and [final project development plan](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_development_plan.docx)
 
 ---
 ## Instructor's Notes

@@ -8,12 +8,12 @@ Students will be able to...
 
 ## Materials
 
-* [2.07 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.07%20TEALS.pptx)
+* [2.07 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.07%20TEALS.pptx)
 * [Project Spec - Text Monster][] ([docx][1]) ([pdf][2])
 * [Project Spec - Ogopogo - Text Monster (Canadian version)][] ([docx][3]) ([pdf][4])
 * [Project Spec - To-do List][] ([docx][5]) ([pdf][6])
-* [Text Monster Starter Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
-* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
+* [Text Monster Starter Code](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/text_Monster_Starter_Code.py)
+* [Editable Grading Rubric](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
 * Sample Solutions (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][]).
 
 ## Preparation
@@ -74,7 +74,7 @@ Students will be able to...
 
 ### Objective Scoring Breakdown
 
-[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
+[Editable Grading Rubric](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/rubric.docx)
 
 Student correctly identifies data types (Lesson 2.01) - Assessed in Unit 3
 
@@ -97,9 +97,9 @@ You may need to adjust the points in order to fit your class. Treat the percenta
 [Text Monster Game - Example Code]: project_file.py
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
-[1]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project.docx
-[2]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project.pdf
-[3]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project_canada.docx
-[4]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project_canada.pdf
-[5]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/projecta.docx
-[6]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/projecta.pdf
+[1]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project.docx
+[2]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project.pdf
+[3]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project_canada.docx
+[4]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/project_canada.pdf
+[5]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/projecta.docx
+[6]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/07_lesson/projecta.pdf

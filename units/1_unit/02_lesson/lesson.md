@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [1.02 Slide deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.02%20TEALS.pptx)
+* [1.02 Slide deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.02%20TEALS.pptx)
 * [Lab - Using the interpreter][] ([docx][]) ([pdf][])
 * [Associated reading - section 1.1](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/1.1)
 * Ensure all students are able to log into the system.
@@ -98,5 +98,5 @@ If students are moving quickly, have students practice higher order-of-operation
   
 [Lab - Using the Interpreter]:lab.md
 
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/02_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/02_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/02_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/02_lesson/lab.docx

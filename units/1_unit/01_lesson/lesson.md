@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [1.01 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.01%20TEALS.pptx)
+* [1.01 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.01%20TEALS.pptx)
 * Update the collaboration policy, IDE information, grading percentages, and general syllabus based on your preferences and your school's requirements
 * With your teaching team determine which IDE to use with your class.
 * [Python Code][]: code to display
