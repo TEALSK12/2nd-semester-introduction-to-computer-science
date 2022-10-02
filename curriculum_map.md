@@ -110,12 +110,12 @@ For TEALS schools in **BC, Canada**, please see [Aligning TEALS Python Teaching 
 [1.04: Variables Input]: units/1_unit/04_lesson/lesson.md
 [1.05: Quiz & Debugging]: units/1_unit/05_lesson/lesson.md
 [1.06: Project]:  units/1_unit/06_lesson/lesson.md
-[1.01]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.01%20TEALS.pptx
-[1.02]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.02%20TEALS.pptx
-[1.03]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.03%20TEALS.pptx
-[1.04]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.04%20TEALS.pptx
-[1.05]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.05%20TEALS.pptx
-[1.06]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.06%20TEALS.pptx
+[1.01]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.01%20TEALS.pptx
+[1.02]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.02%20TEALS.pptx
+[1.03]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.03%20TEALS.pptx
+[1.04]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.04%20TEALS.pptx
+[1.05]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.05%20TEALS.pptx
+[1.06]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.06%20TEALS.pptx
 
 [2.01: Data Types & Casting]: units/2_unit/01_lesson/lesson.md
 [2.02: Booleans & Expressions]: units/2_unit/02_lesson/lesson.md
@@ -124,24 +124,24 @@ For TEALS schools in **BC, Canada**, please see [Aligning TEALS Python Teaching 
 [2.05: Lists 2]: units/2_unit/05_lesson/lesson.md
 [2.06: Game Loop]: units/2_unit/06_lesson/lesson.md
 [2.07: Project]: units/2_unit/07_lesson/lesson.md
-[2.01]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.01%20TEALS.pptx
-[2.02]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.02%20TEALS.pptx
-[2.03]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.03%20TEALS.pptx
-[2.04]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.04%20TEALS.pptx
-[2.05]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.05%20TEALS.pptx
-[2.06]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.06%20TEALS.pptx
-[2.07]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.07%20TEALS.pptx
+[2.01]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.01%20TEALS.pptx
+[2.02]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.02%20TEALS.pptx
+[2.03]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.03%20TEALS.pptx
+[2.04]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.04%20TEALS.pptx
+[2.05]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.05%20TEALS.pptx
+[2.06]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.06%20TEALS.pptx
+[2.07]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.07%20TEALS.pptx
 
 [3.01: Built In Functions]: units/3_unit/01_lesson/lesson.md
 [3.02: User-Defined Functions]: units/3_unit/02_lesson/lesson.md
 [3.03: Return vs Print]: units/3_unit/03_lesson/lesson.md
 [3.04: Debugging and Scope]: units/3_unit/04_lesson/lesson.md
 [3.05: Project]: units/3_unit/05_lesson/lesson.md
-[3.01]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.01%20TEALS.pptx
-[3.02]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.02%20TEALS.pptx
-[3.03]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.03%20TEALS.pptx
-[3.04]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.04%20TEALS.pptx
-[3.05]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.05%20TEALS.pptx
+[3.01]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.01%20TEALS.pptx
+[3.02]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.02%20TEALS.pptx
+[3.03]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.03%20TEALS.pptx
+[3.04]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.04%20TEALS.pptx
+[3.05]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.05%20TEALS.pptx
 
 [4.01: Looping Basics]: units/4_unit/01_lesson/lesson.md
 [4.02: For Loops]: units/4_unit/02_lesson/lesson.md
@@ -149,45 +149,45 @@ For TEALS schools in **BC, Canada**, please see [Aligning TEALS Python Teaching 
 [4.04: Nested Lists & Looping]: units/4_unit/04_lesson/lesson.md
 [4.05: Debugging and Quiz]: units/4_unit/05_lesson/lesson.md
 [4.06: Project]: units/4_unit/06_lesson/lesson.md
-[4.01]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.01%20TEALS.pptx
-[4.02]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.02%20TEALS.pptx
-[4.03]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.03%20TEALS.pptx
-[4.04]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.04%20TEALS.pptx
-[4.05]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.05%20TEALS.pptx
-[4.06]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.06%20TEALS.pptx
+[4.01]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.01%20TEALS.pptx
+[4.02]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.02%20TEALS.pptx
+[4.03]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.03%20TEALS.pptx
+[4.04]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.04%20TEALS.pptx
+[4.05]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.05%20TEALS.pptx
+[4.06]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.06%20TEALS.pptx
 
 [5.01: Earsketch Intro]: units/5_unit/01_lesson/lesson.md
 [5.02: EarSketch Music]: units/5_unit/02_lesson/lesson.md
 [5.03: Earsketch Control Flow]: units/5_unit/03_lesson/lesson.md
 [5.04: EarSketch User-Defined Functions]: units/5_unit/04_lesson/lesson.md
 [5.05: Project]: units/5_unit/05_lesson/lesson.md
-[5.01]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.01%20TEALS.pptx
-[5.02]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.02%20TEALS.pptx
-[5.03]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.03%20TEALS.pptx
-[5.04]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.04%20TEALS.pptx
-[5.05]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.05%20TEALS.pptx
+[5.01]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.01%20TEALS.pptx
+[5.02]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.02%20TEALS.pptx
+[5.03]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.03%20TEALS.pptx
+[5.04]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.04%20TEALS.pptx
+[5.05]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.05%20TEALS.pptx
 
 [6.01: Introduction to Dictionaries]: units/6_unit/01_lesson/lesson.md
 [6.02: Dictionaries Methods]: units/6_unit/02_lesson/lesson.md
 [6.03: Dictionaries of Lists]: units/6_unit/03_lesson/lesson.md
 [6.04: Dictionaries Looping]: units/6_unit/04_lesson/lesson.md
 [6.05: Project]: units/6_unit/05_lesson/lesson.md
-[6.01]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.01%20TEALS.pptx
-[6.02]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.02%20TEALS.pptx
-[6.03]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.03%20TEALS.pptx
-[6.04]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.04%20TEALS.pptx
-[6.05]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.05%20TEALS.pptx
+[6.01]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.01%20TEALS.pptx
+[6.02]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.02%20TEALS.pptx
+[6.03]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.03%20TEALS.pptx
+[6.04]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.04%20TEALS.pptx
+[6.05]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.05%20TEALS.pptx
 
 [7.01: User-Defined Types]: units/7_unit/01_lesson/lesson.md
 [7.02: User-Defined Types, Part 2]: units/7_unit/02_lesson/lesson.md
 [7.03: Methods]: units/7_unit/03_lesson/lesson.md
 [7.04: Inheritance]: units/7_unit/04_lesson/lesson.md
 [7.05: Project]: units/7_unit/05_lesson/lesson.md
-[7.01]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.01%20TEALS.pptx
-[7.02]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.02%20TEALS.pptx
-[7.03]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.03%20TEALS.pptx
-[7.04]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.04%20TEALS.pptx
-[7.05]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.05%20TEALS.pptx
+[7.01]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.01%20TEALS.pptx
+[7.02]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.02%20TEALS.pptx
+[7.03]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.03%20TEALS.pptx
+[7.04]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.04%20TEALS.pptx
+[7.05]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.05%20TEALS.pptx
 
 [8.01: Final Project Brainstorming and Evaluating]: units/8_unit/01_lesson/lesson.md
 [8.02: Defining Requirements]: units/8_unit/02_lesson/lesson.md

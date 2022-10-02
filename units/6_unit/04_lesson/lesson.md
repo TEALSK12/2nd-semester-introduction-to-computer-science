@@ -8,7 +8,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [6.04 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.04%20TEALS.pptx)
+* [6.04 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.04%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Dictionaries Looping][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/6.4)
@@ -58,5 +58,5 @@ Some students may need a second class period to complete this lab.
 
 [Do Now]: do_now.md
 [Lab - Dictionaries Looping]: lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/04_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/04_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/04_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/04_lesson/lab.docx

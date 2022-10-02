@@ -8,11 +8,11 @@ Students will be able to...
   * abstraction
   * `def` (new Python keyword)
 * Create functions
-* Create a function contract0
+* Create a function contract
 
 ## Materials/Preparation
 
-* [3.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.02%20TEALS.pptx)
+* [3.02 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.02%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Birthday Song & Random Cards][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.2)
@@ -63,7 +63,7 @@ Students will be able to...
 ### 3. Lab
 
 * Practice making a function that will take in a name as an argument and output the 'happy birthday song' to that name.
-* Create a function that randomly selects 5 cards from a deck of cards (repeating allowed).
+* Create a function that adds two numbers and returns the sum.
 
 ### 4. Debrief
 
@@ -75,5 +75,5 @@ If students are moving quickly, they could go back and use functions to improve 
 
 [Do Now]:do_now.md
 [Lab - Birthday Song & Random Cards]:lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/02_lesson/lab.docx

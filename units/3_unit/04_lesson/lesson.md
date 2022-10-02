@@ -12,7 +12,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [3.04 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.04%20TEALS.pptx)
+* [3.04 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.04%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Aliasing & Scope][] ([docx][]) ([pdf][])
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students.
@@ -102,5 +102,5 @@ If students are moving quickly, they can look ahead at the project spec or resea
 
 [Do Now]:do_now.md
 [Lab - Aliasing & Scope]:lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/04_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/04_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/04_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/04_lesson/lab.docx

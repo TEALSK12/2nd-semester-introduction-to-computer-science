@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [6.03 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.03%20TEALS.pptx)
+* [6.03 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.03%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Dictionaries Storing Lists][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/6.3)
@@ -60,5 +60,5 @@ Students that are moving quickly should work on the bonus activity in the lab. T
 
 [Do Now]: do_now.md
 [Lab - Dictionaries Storing Lists]: lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/03_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/03_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/03_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/03_lesson/lab.docx

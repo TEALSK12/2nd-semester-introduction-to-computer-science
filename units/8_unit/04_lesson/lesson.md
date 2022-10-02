@@ -61,8 +61,8 @@ Before students leave, have them answer the following questions on a small piece
 
 ## Accommodation/Differentiation
 
-[final project plan organizer]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_plan_organizer.docx
+[final project plan organizer]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_plan_organizer.docx
 
-[final project development plan]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_development_plan.docx
+[final project development plan]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/final_project_development_plan.docx
 
-[4 Steps to Solve Any CS Problem]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
+[4 Steps to Solve Any CS Problem]:https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf

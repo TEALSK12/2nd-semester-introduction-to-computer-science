@@ -11,10 +11,10 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [4.03 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.03%20TEALS.pptx)
+* [4.03 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.03%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Nested For Loops][] ([docx][]) ([pdf][])
-* [Lab - Caesar Cipher][] ([docx][https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/03_lesson/lab_caesar.docx]) ([pdf][https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/03_lesson/lab_caesar.pdf])
+* [Lab - Caesar Cipher][] ([docx][https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/03_lesson/lab_caesar.docx]) ([pdf][https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/03_lesson/lab_caesar.pdf])
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students.
 * Video Explanation of nested `for` Loops.
   * [Nested Loops](https://youtu.be/fyP4SXpkYG4)
@@ -88,5 +88,5 @@ Students will be able to...
 [Do Now]: do_now.md
 [Lab - Nested For Loops]: lab.md
 [Lab - Caesar Cipher]: lab_caesar.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/03_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/03_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/03_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/03_lesson/lab.docx

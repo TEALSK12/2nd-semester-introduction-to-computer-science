@@ -10,17 +10,17 @@ Students will be able to...
 
 ## Materials/preparation
 
-* [3.05 Slide deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.05%20TEALS.pptx)
+* [3.05 Slide deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.05%20TEALS.pptx)
 * [Project spec - Oregon Trail][] ([docx][1]) ([pdf][2])
 * [Project spec - Cross-Country Canada][] ([docx][3]) ([pdf][4])
 * [Project spec - Daily Planner][] ([docx][5]) ([pdf][6])
-* [Oregon Trail starter code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/Unit_3_Project_Oregon_Trail_Starter_Code.py)
-* [Cross-Country Canada starter code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/Unit_3_Project_Cross_Country_Canada_Starter_Code.py/)
+* [Oregon Trail starter code](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/Unit_3_Project_Oregon_Trail_Starter_Code.py)
+* [Cross-Country Canada starter code](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/Unit_3_Project_Cross_Country_Canada_Starter_Code.py/)
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS dashboard](https://www.tealsk12.org/dashboard/))
 * Update the _Project Spec_ as needed to meet your grading requirements.
 * Try creating your own variation on the Oregon Trail code so you are familiar with the potential challenges and bugs your students will hit.
 * Review [4 steps to solve any CS problem][]
-* [Editable grading rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/rubric.docx)
+* [Editable grading rubric](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/rubric.docx)
 
 ### Day 1
 
@@ -75,7 +75,7 @@ Students will be able to...
 
 ### Objective scoring breakdown
 
-[Editable grading rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/rubric.docx)
+[Editable grading rubric](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/rubric.docx)
 
 | Points | Percentage| Objective | Lesson |
 | :---: | :---: | --- | --- |
@@ -98,9 +98,9 @@ You may need to adjust the points in order to fit your class. Treat the percenta
 [TEALS dashboard]:http:/www.tealsk12.org/dashboard
 [4 steps to solve any CS problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
 
-[1]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.docx
-[2]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.pdf
-[3]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project_canada.docx
-[4]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project_canada.pdf
-[5]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/projecta.docx
-[6]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/projecta.pdf
+[1]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.docx
+[2]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project.pdf
+[3]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project_canada.docx
+[4]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/project_canada.pdf
+[5]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/projecta.docx
+[6]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/05_lesson/projecta.pdf

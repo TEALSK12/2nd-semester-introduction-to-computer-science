@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [4.04 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.04%20TEALS.pptx)
+* [4.04 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/slidedecks/Intro%20Python%204.04%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Shopping List](lab.md) ([docx][]) ([pdf][])
 * Read through the Do Now, lesson, and lab so that you are familiar with the requirements and can assist students.
@@ -99,5 +99,5 @@ Students may struggle with the concept of nested lists. Be prepared to have addi
 
 [Do Now]: do_now.md
 [Lab - Daily Schedule]: lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/04_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/04_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/04_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/4_unit/04_lesson/lab.docx

@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [5.05 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.05%20TEALS.pptx)
+* [5.05 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.05%20TEALS.pptx)
 * [Do Now][]
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][])
 * [EarSketch Editor][]
@@ -87,5 +87,5 @@ Certain students that have a limited music background may need additional assist
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
 [4 Steps to Solve Any CS Problem]:https://github.com/TEALS-IntroCS/2nd-semester-introduction-to-computer-science-principles/raw/master/units/4%20Steps%20to%20Solve%20Any%20CS%20Problem.pdf
 [Project]: project.md
-[editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/05_lesson/project.docx
-[printable project Spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/05_lesson/project.pdf
+[editable project spec]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/05_lesson/project.docx
+[printable project Spec]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/05_lesson/project.pdf

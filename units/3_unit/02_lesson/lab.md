@@ -15,22 +15,18 @@ Create a function, `birthday_song`, that prints out the happy birthday song to w
 
 ## Lab Exercise 2
 
-* Create a function that randomly picks 5 cards from a deck
-* The cards can repeat
+* Create a function that adds two numbers.
 
-Write out the contract for this function. Starting code snippet:
-
-```python
-    numbers = ['A', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K']
-    suits = ['Spades', 'Clubs', 'Diamonds', 'Hearts']
-```
+Write out the contract for `add(num1, num2)` function. The function should _print_ the sum of the two numbers.
 
 ### Bonus
+* Try taking what you learned making the `add` function and make a calculator.
 
-* Practice passing in lists as arguments to a function. E.g., pass in `numbers` and `suits` lists to a modified `pick_5_cards()` function.  Modify the code to use those passed-in lists to make the card selections.
+* The contract should look like:
+```python
+calculator(num1, num2, operator)
+```
 
-* What is different about passing in lists as arguments?
+The `operator` argument is a string that can be either `"+"` or `"-"` and determines what the calculator does.
 
-* Similarly, try returning a list as the return value (output) of a function.  For example, have the `pick_5_cards()` function return a list of selected cards instead of printing anything inside the function.  After calling the function, have the main part of your code print out the list of cards that was returned.
-
-* Read about list aliasing in section 3.4 of the associated reading, and write down what is happening in this case.
+* The function should print the result of the calculation.

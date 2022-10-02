@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [7.04 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.04%20TEALS.pptx)
+* [7.04 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.04%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Pokemon Child Classes][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/7.4)
@@ -68,5 +68,5 @@ In the Pokemon lab, students may need clarification regarding how to use `isinst
 
 [Do Now]:do_now.md
 [Lab - Pokemon Child Classes]:lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/04_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/04_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/04_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/04_lesson/lab.docx

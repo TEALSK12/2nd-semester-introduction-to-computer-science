@@ -9,13 +9,13 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [7.05 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.05%20TEALS.pptx)
+* [7.05 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/slidedecks/Intro%20Python%207.05%20TEALS.pptx)
 * [Project Spec - Pokemon][] ([docx][1]) ([pdf][2])
 * [Project Spec - Mailing List][] ([docx][3]) ([pdf][4])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][]).
 * Read through the project spec so that you are familiar with the requirements and can assist students.
 * Try creating your own project so that you can Review [4 Steps to Solve Any CS Problem][].
-* [Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.docx)
+* [Editable Grading Rubric](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.docx)
 
 ### Day 1 Pacing
 
@@ -81,7 +81,7 @@ Students will be able to...
 
 ### Scheme/Rubric
 
-[Editable Grading Rubric](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.docx)
+[Editable Grading Rubric](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/rubric.docx)
 
 | Points | Percentage| Objective | Lesson |
 | :---: | :---: | --- | --- |
@@ -97,7 +97,7 @@ Students will be able to...
 
 [Project Spec - Pokemon]:project.md
 [Project Spec - Mailing List]:projecta.md
-[1]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/project.docx
-[2]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/project.pdf
-[3]:https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/projecta.docx
-[4]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/projecta.pdf
+[1]:https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/project.docx
+[2]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/project.pdf
+[3]:https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/projecta.docx
+[4]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/7_unit/05_lesson/projecta.pdf
