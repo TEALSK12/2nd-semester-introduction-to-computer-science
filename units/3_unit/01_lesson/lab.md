@@ -9,9 +9,9 @@ Experiment with another function in the `random` library (not `randint`) that re
 
 ## Create a program that simulates a [Magic 8-Ball]
 
-1. Store all of the 8-Ball's possible responses (shown below) in a list
-2. Have the program prompt the user to ask the Magic 8-Ball a question
-3. Then return and print a random response.
+1. Have the program prompt the user to ask the Magic 8-Ball a question
+2. Then return and print a random response.
+3. Use `if` and `elif` to statements to decide which response to give the user based on a random number.
 
 ### Magic 8-Ball Response Examples
 
