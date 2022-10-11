@@ -1,4 +1,4 @@
-# The local NCCS Repo!
+# The local NCCS Repo! This is a test. :-)
 
 # A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
 
