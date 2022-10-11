@@ -1,3 +1,5 @@
+# The local NCCS Repo!
+
 # A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
 
 * GitHub: https://github.com/Areson/2nd-semester-introduction-to-computer-science
