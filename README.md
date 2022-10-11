@@ -1,4 +1,9 @@
-# The local NCCS Repo! This is a test. :-) This is a second test!
+# This is a fork from the original TEALS repo for NCCS. This was forked in 2022.
+# Thanks to Ian Obert and Ryan Johnson for their hard work in modifying this curricult to suit the needs of NCCS.
+# Andy Hordichok
+
+# ----------------------------------------------------------------------------------------------------------------
+
 
 # A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
 
