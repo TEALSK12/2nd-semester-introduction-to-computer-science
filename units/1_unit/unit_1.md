@@ -26,12 +26,12 @@ This unit introduces students to a text based coding IDE, Console and starts to 
 | **Total Days** | 7 | |
 | **Total Minutes** | 350 | |
 
-[1.01 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.01%20TEALS.pptx
-[1.02 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.02%20TEALS.pptx
-[1.03 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.03%20TEALS.pptx
-[1.04 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.04%20TEALS.pptx
-[1.05 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.05%20TEALS.pptx
-[1.06 Slide Deck]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.06%20TEALS.pptx
+[1.01 Slide Deck]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.01%20TEALS.pptx
+[1.02 Slide Deck]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.02%20TEALS.pptx
+[1.03 Slide Deck]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.03%20TEALS.pptx
+[1.04 Slide Deck]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.04%20TEALS.pptx
+[1.05 Slide Deck]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.05%20TEALS.pptx
+[1.06 Slide Deck]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.06%20TEALS.pptx
 
 ## Key Terms
 

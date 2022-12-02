@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [5.04 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.04%20TEALS.pptx)
+* [5.04 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/slidedecks/Intro%20Python%205.04%20TEALS.pptx)
 * [Do Now][]
 * [Lab - User-Defined Functions][] ([docx][]) ([pdf][])
 * [EarSketch Editor][]
@@ -65,5 +65,5 @@ Students that are moving quickly could explore and create alternative song forms
 [Do Now]: do_now.md
 [Lab - User-Defined Functions]: lab.md
 [EarSketch Editor]: http://earsketch.gatech.edu/earsketch2/
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/04_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/04_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/04_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/5_unit/04_lesson/lab.docx

@@ -9,7 +9,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [3.3 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.03%20TEALS.pptx)
+* [3.3 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/slidedecks/Intro%20Python%203.03%20TEALS.pptx)
 * [Do Now][]
 * [Lab - War (Card Game)][] ([docx][]) ([pdf][])
 * [Associated Reading](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/3.3)
@@ -66,7 +66,7 @@ Students will be able to...
 
 ### 3. Lab
 
-* Given a shuffled deck list, students will create a program that plays the game 'War' with the user.
+* Students will create a basic calculator.
 
 ### 4. Debrief
 
@@ -78,5 +78,5 @@ The optional bonus functionality mentioned in the lab is to add the additional c
 
 [Do Now]:do_now.md
 [Lab - War (Card Game)]:lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/03_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/03_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/03_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/3_unit/03_lesson/lab.docx

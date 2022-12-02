@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [1.04 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.04%20TEALS.pptx)
+* [1.04 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/slidedecks/Intro%20Python%201.04%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Magic Genie][]  ([docx][])([pdf][])
 * [Associated Readings 1.3](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/1.3)
@@ -95,6 +95,6 @@ Identify students that may potentially struggle on the quiz and find individual 
 [Do Now]:do_now.md
 [Lab - Magic Genie]:lab.md
 
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/1_unit/04_lesson/lab.docx
 [Comments Video]: https://youtu.be/kEuVvUc1Zec

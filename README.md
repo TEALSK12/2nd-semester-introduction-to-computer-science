@@ -1,6 +1,13 @@
+# This is a fork from the original TEALS repo for NCCS. This was forked in 2022.
+# Thanks to Ian Obert and Ryan Johnson for their hard work in modifying this curricult to suit the needs of NCCS.
+# Andy Hordichok
+
+# ----------------------------------------------------------------------------------------------------------------
+
+
 # A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
 
-* GitHub: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science
+* GitHub: https://github.com/Areson/2nd-semester-introduction-to-computer-science
 * Github Pages: https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/
 
 The following has been deprecated after the 2019/20 school year:

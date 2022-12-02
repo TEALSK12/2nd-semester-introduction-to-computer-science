@@ -11,7 +11,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [6.02 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.02%20TEALS.pptx)
+* [6.02 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/slidedecks/Intro%20Python%206.02%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Word Counter][] ([docx][]) ([pdf][])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][]).
@@ -68,5 +68,5 @@ Some students may need to be explicitly reminded of the `in` keyword to check if
 [Do Now]: do_now.md
 [Lab - Word Counter]: lab.md
 [TEALS Dashboard]:http:/www.tealsk12.org/dashboard
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/02_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/02_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/02_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/6_unit/02_lesson/lab.docx

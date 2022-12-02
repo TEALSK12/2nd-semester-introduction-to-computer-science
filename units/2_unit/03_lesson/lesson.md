@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [2.03 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.03%20TEALS.pptx)
+* [2.03 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.03%20TEALS.pptx)
 * [Do Now][]
 * [Lab - triangle program][] ([docx][]) ([pdf][])
 * Solution (access protected resources by clicking on "Additional Curriculum Materials" on the [TEALS Dashboard][]).
@@ -92,5 +92,5 @@ Students will be able to...
 [Lab - triangle program]:lab.md
 [TEALS Dashboard]:http://www.tealsk12.org/dashboard
 
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/03_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/03_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/03_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/03_lesson/lab.docx

@@ -71,5 +71,5 @@ In order to show that you have fully mastered all the skills from the course, yo
 
 At least three times during the project period, and at least once each week, you should check in with an instructor to ensure that your project is on track, that you are meeting the project requirements, and that you have the answers to any questions that might have arisen during your work.  The course staff will work with you to set up a schedule for these checkpoints, but it is **your responsibility** to ensure that the meetings take place.
 
-[printable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.pdf
-[editable project spec]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.docx
+[printable project spec]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.pdf
+[editable project spec]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/8_unit/project.docx

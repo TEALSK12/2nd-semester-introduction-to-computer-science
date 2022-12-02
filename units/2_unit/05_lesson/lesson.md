@@ -10,7 +10,7 @@ Students will be able to...
 
 ## Materials/Preparation
 
-* [2.05 Slide Deck](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.05%20TEALS.pptx)
+* [2.05 Slide Deck](https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/slidedecks/Intro%20Python%202.05%20TEALS.pptx)
 * [Do Now][]
 * [Lab - Tic-Tac-Toe][] ([docx][]) ([pdf][])
 * [Associated Readings 2.5](https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/readings.md#associatedreadings/2.5)
@@ -68,5 +68,5 @@ There is also an opportunity for a quiz after the game loop lesson and before th
   
 [Do Now]:do_now.md
 [Lab - Tic-Tac-Toe]:lab.md
-[pdf]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.pdf
-[docx]: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.docx
+[pdf]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.pdf
+[docx]: https://github.com/Areson/2nd-semester-introduction-to-computer-science/raw/master/units/2_unit/05_lesson/lab.docx
