@@ -74,30 +74,33 @@ NAME_OF_MONTH = [
 
 
 # Converts are numeric date into a string.
-# input: m - a month in the range 1-12
-# input: d - a day in the range 1-31
+# input: the_month - a month in the range 1-12
+# input: the_day - a day in the range 1-31
 # output: a string like "December 24".
 # Note: this function does not enforce calendar rules. It's happy to output
 # impossible strings like "June 95" or "February 31"
-def date_as_string(m, d):
-	# Enter your code here
-
+def date_as_string(the_month, the_day):
+    # Enter your code here
+    pass
 
 def date_report():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 
 def miles_remaining():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 
 # Returns the number of days in the month (28, 30, or 31).
-# input: an integer from 1 to 12. 1=January, 2=February, etc.
+# input: the_month - an integer from 1 to 12. 1=January, 2=February, etc.
 # output: the number of days in the month. If the input is not in
 #   the required range, returns 0.
-def days_in_month(m):
-	# Enter your code here
- 
+def days_in_month(the_month):
+    # Enter your code here
+    pass
+
 # Calculates whether a sickess occurs on the current day based
 # on how many days remain in the month and how many sick days have
 # already occured this month. If there are N days left in the month, then
@@ -109,13 +112,16 @@ def days_in_month(m):
 # 2 sick days each month, and incidentally that every day of the month
 # is equally likely to be a sick day (proof left to the reader!)
 def random_sickness_occurs():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 def handle_sickness():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 def consume_food():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 # Repairs problematic values in the global (month, day) model where the day is
 # larger than the number of days in the month. If this happens, advances to the next
@@ -126,7 +132,8 @@ def consume_food():
 #
 # Returns True if the global month/day values were altered, else False.
 def maybe_rollover_month():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 # Causes a certain number of days to elapse. The days pass one at a time, and each
 # day brings with it a random chance of sickness. The sickness rules are quirky: player
@@ -135,40 +142,49 @@ def maybe_rollover_month():
 #
 # input: num_days - an integer number of days that elapse.
 def advance_game_clock(num_days):
-	# Enter your code here
+    # Enter your code here
+    pass
 
 def handle_travel():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 def handle_rest():
-# Enter your code here
+    # Enter your code here
+    pass
 
 def handle_hunt():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 def handle_status():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 def handle_help():
-# Enter your code here
+    # Enter your code here
+    pass
 
 def handle_quit():
-	global playing
-	playing = False
+    global playing
+    playing = False
 
 
 def handle_invalid_input(response):
-	print("'{0}' is not a valid command. Try again.".format(response))
+    print("'{0}' is not a valid command. Try again.".format(response))
 
 
 def game_is_over():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 def player_wins():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 def loss_report():
-	# Enter your code here
+    # Enter your code here
+    pass
 
 print(welcome_text + help_text + good_luck_text)
 player_name = input("\nWhat is your name, player?")
@@ -176,30 +192,30 @@ player_name = input("\nWhat is your name, player?")
 playing = True
 handle_status()
 while playing:
-	print()
-	action = input("Choose an action, {0} -->".format(player_name))
-	if action == "travel" or action == "t":
-		handle_travel()
-	elif action == "rest" or action == "r":
-		handle_rest()
-	elif action == "hunt" or action == "h":
-		handle_hunt()
-	elif action == "quit" or action == "q":
-		handle_quit()
-	elif action == "help" or action == "?":
-		handle_help()
-	elif action == "status" or action == "s":
-		handle_status()
-	else:
-		handle_invalid_input(action)
+    print()
+    action = input("Choose an action, {0} -->".format(player_name))
+    if action == "travel" or action == "t":
+        handle_travel()
+    elif action == "rest" or action == "r":
+        handle_rest()
+    elif action == "hunt" or action == "h":
+        handle_hunt()
+    elif action == "quit" or action == "q":
+        handle_quit()
+    elif action == "help" or action == "?":
+        handle_help()
+    elif action == "status" or action == "s":
+        handle_status()
+    else:
+        handle_invalid_input(action)
 
-	if game_is_over():
-		playing = False
+    if game_is_over():
+        playing = False
 
 if player_wins():
-	print("\n\nCongratulations you made it to Oregon alive!")
-	handle_status()
+    print("\n\nCongratulations you made it to Oregon alive!")
+    handle_status()
 else:
-	print("\n\nAlas! You lose.")
-	handle_status()
-	print(loss_report())
+    print("\n\nAlas! You lose.")
+    handle_status()
+    print(loss_report())
