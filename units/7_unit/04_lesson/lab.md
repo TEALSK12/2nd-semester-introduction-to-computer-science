@@ -2,7 +2,7 @@
 
 ## Overview
 
-Given the following [Sample Code], practice using inheritance to create specific child classes for different types of `Pokemon`.
+Given the following [Sample Code](https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science/blob/master/units/7_unit/04_lesson/example.py), practice using inheritance to create specific child classes for different types of `Pokemon`.
 
 ### Create the three child classes below
 
@@ -33,5 +33,3 @@ my_pet = Pet()
 isinstance(my_pet, Pet) # returns true
 isinstance(my_pet, Dog) # returns false
 ```
-
-[Sample Code]: https://teals-introcs.gitbooks.io/2nd-semester-introduction-to-computer-science-pri/content/units/7_unit/04_lesson/example.py
