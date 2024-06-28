@@ -12,6 +12,10 @@ Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This 
 
 For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Resources with the BC Curriculum](CA_README.md).
 
+## Protected materials
+
+Protected content such as unit quizzes, quiz answer keys, project sample solutions are available to those with a TEALS Dashboard account. Please email info@tealsk12.org for access information.
+
 ## Associated Readings
 
 We have included with this curriculum Associated Readings to dive deeper into topics specific to the instruction of this course. These readings have been adapted from "Think Python: How to Think Like a Computer Scientist" by. Allen B. Downey. ([HTML Version](http://greenteapress.com/thinkpython/html/index.html))([PDF Version](http://www.greenteapress.com/thinkpython/thinkpython.pdf)).They are specifically referenced in the lesson plans and the [full document](readings.md) is included.
