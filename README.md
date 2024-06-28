@@ -40,7 +40,7 @@ As with all software services, it is the school's sole decision to use the tool 
 
 ## Curriculum Issues
 
-TEALS will no longer be making update to TEALS curricula. If you wish, you may <a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue">open an issue</a> if you encounter things like factual, spelling, or grammatical errors, broken links, sequencing problems (topics needed before they are taught), or incomplete/missing materials.
+TEALS will no longer be making updates to TEALS curricula. If you wish, you may <a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue">open an issue</a> if you encounter things like factual, spelling, or grammatical errors, broken links, sequencing problems (topics needed before they are taught), or incomplete/missing materials.
 
 ## Giving feedback and asking questions about the curriculum
 
