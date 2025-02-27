@@ -1,4 +1,6 @@
-# A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
+# **Important!** TEALS will no longer be making updates to this course. Use at your own risk!
+
+## A 2nd semester follow-up to the [TEALS Intro CS course](https://tealsk12.github.io/introduction-to-computer-science/)
 
 * GitHub: https://github.com/TEALSK12/2nd-semester-introduction-to-computer-science
 * Github Pages: https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/
@@ -8,13 +10,9 @@ The following has been deprecated after the 2019/20 school year:
 
 ## About this curriculum
 
-Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This curriculum is intended for use by TEALS classrooms teaching Introduction to Computer Science in a yearlong format. We expect that students have completed the content from the [1st semester course](https://tealsk12.github.io/introduction-to-computer-science/) prior to this curriculum.
+Welcome to the TEALS Intro to Computer Science Second Semester Curriculum. This curriculum is intended for use by TEALS classrooms teaching Introduction to Computer Science in a yearlong format. We expect that students have completed the content from the [1st semester course](https://tealsk12.github.io/introduction-to-computer-science/) prior to this curriculum. 
 
-For TEALS schools in BC, Canada, please see [Aligning TEALS Python Teaching Resources with the BC Curriculum](CA_README.md).
-
-## Protected materials
-
-Protected content such as unit quizzes, quiz answer keys, project sample solutions are available to those with a TEALS Dashboard account. Please email info@tealsk12.org for access information.
+For schools in BC, Canada, please see [Aligning TEALS Python Teaching Resources with the BC Curriculum](CA_README.md).
 
 ## Associated Readings
 
@@ -42,13 +40,9 @@ For those knowledgeable with Python 2, the following is a list of differences fr
 
 As with all software services, it is the school's sole decision to use the tool according to the use terms and privacy policies provided by its licensor and it is the school's responsibility to ensure the tool meets it's IT policies.
 
-## Curriculum Issues
+## Curriculum Issues and answer keys
 
-TEALS will no longer be making updates to TEALS curricula. If you wish, you may <a href="https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue">open an issue</a> if you encounter things like factual, spelling, or grammatical errors, broken links, sequencing problems (topics needed before they are taught), or incomplete/missing materials.
-
-## Giving feedback and asking questions about the curriculum
-
-For general curriculum-related questions and discussion not tied to a specific reported issue, we encourage everyone to actively participate in the <a href="https://docs.github.com/en/discussions/collaborating-with-your-community-using-discussions">GitHub Discussions</a> board for the corresponding curriculum.  This is a great place to share alternative lesson ideas, share pro-tips for implementation and differentiation, pacing advice, etc...
+TEALS will no longer be making updates to TEALS curricula. Answer keys are not available. 
 
 ## Printing
 
